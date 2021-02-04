@@ -1,0 +1,11 @@
+version: '2.4'
+
+services:
+  dokuwiki:
+    image: 'docker.io/bitnami/dokuwiki:20200729-debian-10'
+    restart: unless-stopped
+    ports:
+     - '8080:8080'
+     - '8443:8443'
+    volumes:
+     - ./dokuwiki_data:/bitnami/dokuwiki
