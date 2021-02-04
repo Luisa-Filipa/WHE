@@ -1,10 +1,10 @@
 # World Housing Encyclopedia
 
-![Codacy Badge]()
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f495c37a645849e4960106162513ad6b)](https://www.codacy.com/gh/Luisa-Filipa/WHE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Luisa-Filipa/WHE&amp;utm_campaign=Badge_Grade)
 
-texto
+text goes here
 
-Luísa Costa
+by Luísa Costa
 
 ## Structure
 
@@ -29,6 +29,6 @@ Download the project to a directory of your choice
 docker-compose up
 ```
 
-- Or in windows you can just run the file [run_windows.cmd]()
-- Or in mac you can just run the file [run_mac.sh]()
+- Or in windows you can just run the file [run_windows.cmd](https://github.com/Luisa-Filipa/WHE/blob/master/run_windows.cmd)
+- Or in mac you can just run the file [run_mac.sh](https://github.com/Luisa-Filipa/WHE/blob/master/run_mac.sh)
 
