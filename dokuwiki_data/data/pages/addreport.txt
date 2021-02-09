@@ -1,1 +1,34 @@
 ====== Add new Report ======
+<form>
+Action mail me@example.com
+Thanks "Thanks for submitting your valuable data."
+
+Fieldset "1. General Information"
+
+Textbox  "Building Type (Indigenous name for the housing type): "
+Textbox  "Country: "
+textarea  "Region(s) Where Found:
+ (Provide the name(s) of the region(s) where this housing type
+exists; the region might indicate state, province or a similar political entity; if possible,
+indicate percentage this housing type as a fraction of the entire housing stock in the
+region) "
+
+textarea  "Summary: provide a brief summary of the housing type; the summary should include the
+description of building function, structural strengths and deficiencies, and expected
+seismic performance."
+
+select "How long has this construction type been practiced?" "Less than 25 years|25-60 years|51-75 years|76-100 years|101-200 years|More than 200 years"
+
+yesno "Is this construction type still being practiced?"
+
+
+
+
+fieldset "even more fields"
+select "Please select an option" "Peaches|Apples|Oranges"
+static "Some static text that could be an agreement"
+yesno "Read the agreement?"
+textarea "Tell me about your self"
+textbox "You need to write 'agree' here" /^agree$/
+submit "Submit Query"
+</form>
