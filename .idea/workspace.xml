@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f271034-1edb-4521-9c39-652750894c24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/conf/acl.auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/conf/acl.auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/conf/dokuwiki.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/conf/dokuwiki.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/conf/local.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/conf/local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/conf/users.auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/conf/users.auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.i" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/cache/7/74850f7a186c52ff4b86475866a27208.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/cache/purgefile" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/cache/purgefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/index/page.idx" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/index/page.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/index/pageword.idx" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/index/pageword.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/index/title.idx" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/index/title.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/meta/_dokuwiki.changes" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/meta/_dokuwiki.changes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/meta/start.changes" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/meta/start.changes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/meta/start.meta" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/meta/start.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/data/pages/start.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/data/pages/start.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/lib/plugins/smtp/conf/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/lib/plugins/smtp/conf/default.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/lib/tpl/dokuwiki/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/lib/tpl/dokuwiki/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dokuwiki_data/lib/tpl/dokuwiki/tpl_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/dokuwiki_data/lib/tpl/dokuwiki/tpl_header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oDWyuSo0ql3MKAr5P5ZDnJMiQ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lisac\Documents\GitProjects\WHE_dokuwiki\dokuwiki_data\lib\plugins" />
+      <recent name="C:\Users\lisac\Documents\GitProjects\WHE_dokuwiki\dokuwiki_data\lib\tpl\dokuwiki" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f271034-1edb-4521-9c39-652750894c24" name="Default Changelist" comment="" />
+      <created>1612821898488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612821898488</updated>
+      <workItem from="1612821899733" duration="2143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

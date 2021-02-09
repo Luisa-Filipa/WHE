@@ -48,6 +48,9 @@ if (!defined('DOKU_INC')) die();
                         }
                         echo (new \dokuwiki\Menu\UserMenu())->getListItems('action ');
                     ?>
+
+                <a href='../../pages/addReport.php'>ADD REPORT</a>
+
                 </ul>
             </div>
         <?php endif ?>

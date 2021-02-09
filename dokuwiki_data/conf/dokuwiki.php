@@ -13,7 +13,7 @@
 
 
 /* Basic Settings */
-$conf['title']       = 'DokuWiki';        //what to show in the title
+$conf['title']       = 'WHE';        //what to show in the title
 $conf['start']       = 'start';           //name of start page
 $conf['lang']        = 'en';              //your language
 $conf['template']    = 'dokuwiki';         //see lib/tpl directory

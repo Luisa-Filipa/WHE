@@ -1,1 +1,11 @@
 1612453601	172.19.0.1	C	start		created		19
+1612817023	127.0.0.1	E	start		external edit		23
+1612819314	172.20.0.1	E	start	luisa			17
+1612819343	127.0.0.1	E	start		external edit		0
+1612825761	172.20.0.1	E	start				21
+1612826205	172.20.0.1	D	start		removed		-80
+1612826541	172.20.0.1	C	start		created		319
+1612826689	172.20.0.1	E	start				10
+1612826834	172.20.0.1	E	start				80
+1612827422	172.20.0.1	E	start				241
+1612827607	172.20.0.1	E	start				-239

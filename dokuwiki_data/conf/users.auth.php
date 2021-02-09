@@ -11,3 +11,4 @@
 # login:passwordhash:Real Name:email:groups,comma,separated
 
 user:$2y$10$OBtLj1huPWA6BjkCRSBWxOPBDoRrXLF5dZaLT3fu9K1wBDf9O.UfW:FirstName LastName:user@example.com:admin,user
+luisa:$2y$10$wAkJ6XF9yMWqqNOZhVQtmuf7Lfsy61vMxL9qwRG8CDg.iqoyJ7NT6:Luísa Costa:lisacosta99@gmail.com:admin,user

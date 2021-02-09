@@ -31,4 +31,3 @@ docker-compose up
 
 - Or in windows you can just run the file [run_windows.cmd](https://github.com/Luisa-Filipa/WHE/blob/master/run_windows.cmd)
 - Or in mac you can just run the file [run_mac.sh](https://github.com/Luisa-Filipa/WHE/blob/master/run_mac.sh)
-

@@ -1,1 +1,25 @@
 1612453601	172.19.0.1	C	start		created		19
+1612817023	127.0.0.1	E	start		external edit		23
+1612819314	172.20.0.1	E	start	luisa			17
+1612819364	172.20.0.1	C	about	luisa	created		20
+1612819343	127.0.0.1	E	start		external edit		0
+1612825761	172.20.0.1	E	start				21
+1612825806	172.20.0.1	C	sidebar		created		71
+1612825943	127.0.0.1	E	sidebar		external edit		-9
+1612825995	172.20.0.1	E	sidebar				14
+1612826016	172.20.0.1	E	sidebar				-14
+1612826024	172.20.0.1	E	sidebar				0
+1612826205	172.20.0.1	D	start		removed		-80
+1612826268	172.20.0.1	E	about				1
+1612826541	172.20.0.1	C	start		created		319
+1612826689	172.20.0.1	E	start				10
+1612826834	172.20.0.1	E	start				80
+1612827422	172.20.0.1	E	start				241
+1612827607	172.20.0.1	E	start				-239
+1612828121	172.20.0.1	E	about				29
+1612828195	172.20.0.1	C	addreport		created		29
+1612827135	127.0.0.1	E	sidebar		external edit		-1
+1612829229	172.20.0.1	E	sidebar				33
+1612829278	172.20.0.1	E	sidebar				-34
+1612833722	172.20.0.1	E	about				354
+1612833902	172.20.0.1	E	about				195

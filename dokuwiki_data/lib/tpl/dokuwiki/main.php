@@ -55,7 +55,7 @@ $showSidebar = $hasSidebar && ($ACT=='show');
                     <?php tpl_flush() ?>
                     <?php tpl_includeFile('pageheader.html') ?>
                     <!-- wikipage start -->
-                    <?php tpl_content() ?>
+                    <?php tpl_content() ?>                   
                     <!-- wikipage stop -->
                     <?php tpl_includeFile('pagefooter.html') ?>
                 </div>
@@ -72,10 +72,12 @@ $showSidebar = $hasSidebar && ($ACT=='show');
                 <h3 class="a11y"><?php echo $lang['page_tools']; ?></h3>
                 <div class="tools">
                     <ul>
-                        <?php echo (new \dokuwiki\Menu\PageMenu())->getListItems(); ?>
+                       <?php echo (new \dokuwiki\Menu\PageMenu())->getListItems(); ?>
                     </ul>
                 </div>
             </div>
+
+
         </div><!-- /wrapper -->
 
         <?php include('tpl_footer.php') ?>
