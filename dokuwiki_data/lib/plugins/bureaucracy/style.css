@@ -16,11 +16,12 @@
 .dokuwiki form.bureaucracy__plugin p {
     font-size: 90%;
     margin-top: 0.5em;
+    font-weight: 800;
 }
 
 .dokuwiki form.bureaucracy__plugin fieldset {
     width: 80%;
-    text-align: left;
+    text-align: right;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
@@ -37,7 +38,7 @@
     line-height: normal;
 }
 .dokuwiki form.bureaucracy__plugin label.textareafield {
-    text-align: left;
+    text-align: right;
 }
 .dokuwiki form.bureaucracy__plugin label.textareafield>span {
     width: 100%;
@@ -67,12 +68,12 @@
 }
 .dokuwiki form.bureaucracy__plugin label.radiolabel span{
     width: 100%;
-    text-align: left;
+    text-align: right;
 }
 .dokuwiki form.bureaucracy__plugin label input[type=radio]~span {
     width: 50%;
     display: inline-block;
-    text-align: left;
+    text-align: right;
     line-height: normal;
 }
 
@@ -81,12 +82,12 @@
 }
 
 .dokuwiki form.bureaucracy__plugin #plugin__captcha_wrapper label {
-    text-align: left;
+    text-align: right;
 }
 /*responsive - small screen*/
 @media (max-width: 480px) {
     .dokuwiki form.bureaucracy__plugin label {
-        text-align: left;
+        text-align: right;
     }
     .dokuwiki form.bureaucracy__plugin label>span {
         width: 100%;

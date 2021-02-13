@@ -1,11 +1,12 @@
 ====== Add new Report ======
+
 <form>
 Action mail me@example.com
 Thanks "Thanks for submitting your valuable data."
 
 Fieldset "1. General Information"
 
-Textbox  "Building Type (Indigenous name for the housing type): "
+Textbox "Building Type (Indigenous name for the housing type): "
 Textbox  "Country: "
 textarea  "Region(s) Where Found:
  (Provide the name(s) of the region(s) where this housing type
@@ -21,5 +22,30 @@ select "How long has this construction type been practiced?" "Less than 25 years
 
 yesno "Is this construction type still being practiced?"
 
+multiselect "Building Occupancy: Select all that apply" "Residential, unknown type|Single dwelling|Multi-unit, unknown type|Residencial, 2 units|Residencial, 3-4 units|Residencial, 5-9 units|Residencial, 10-19 units|Residencial, 20-49 units|Residencial, 50+ units|Temporary lodging|Institutional housing|Mobile home|Informal housing|Mixed residencial/commercial|Other"
+ 
+number "Typical Number of Stories:"
+
+static "Indicate how often this construction type in the given terrain?"
+select "Flat" "Typically|Occasionally|Never"
+select "Sloped (hilly)" "Typically|Occasionally|Never"
+
+textarea "Additional Comments on Section 1:"
+
+
+Fieldset "2. Features"
+
+Fieldset "3. Building Materials and Construction Process"
+
+Fieldset "4. Socio-Economic Issues"
+
+Fieldset "5. Earthquake"
+
+Fieldset "6. Earthquake"
+
+Fieldset "7. Confirm"
+
+textbox "Token"
+textbox "Email"
 submit "Submit Query"
 </form>
