@@ -22,5 +22,4 @@ class sqlite_helper_sqlite2_test extends sqlite_helper_abstract_test {
         $_ENV['SQLITE_SKIP_PDO'] = false;
         parent::tearDown();
     }
-
 }
