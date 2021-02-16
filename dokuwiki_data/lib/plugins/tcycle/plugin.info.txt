@@ -1,0 +1,8 @@
+# General Plugin Info do not edit
+base   tcycle
+author Trailjeep
+email  trailjeep@gmail.com
+date   2020-05-24
+name   tCycle Plugin
+desc   a minimalist jQuery slideshow plugin
+url    http://www.dokuwiki.org/plugin:tcycle
