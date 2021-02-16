@@ -1,0 +1,8 @@
+====== Advanced technologies ======
+
+Advanced technologies in housing construction are not used as frequently as the more standard construction technologies described in earlier chapters, which involve the use of masonry, timber, and concrete. 
+
+However, as with other innovations, it is expected that over time these newer technologies will gain wider acceptance. For purposes of the World Housing Encyclopedia, advanced technologies include seismic isolation and passive-energy dissipation devices. 
+As of this writing, the WHE database contains three reports describing the applications of advanced technologies: two of them describe base-isolation systems from China (WHE Report 9) and Kyrgyzstan (WHE Report 76), and the third report describes the use of a seismic protection system developed in the former Soviet Union, called “disengaging reserve elements” (WHE Report 77, Russian Federation). The first application of advanced technologies in housing construction dates back to the 1970s. 
+
+For example, the sliding-belt isolation scheme was developed in Russia around 1975, with its first application in Kyrgyzstan in 1982. The disengaging reserve elements (DRE) were developed in Russia in 1970 and first applied in 1972. The first code addressing this type of construction was issued in 1981. In China, the widespread use of base isolation for housing has only been employed since 1990, with the first code addressing this technology published in 2000.

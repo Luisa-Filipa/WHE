@@ -1,0 +1,12 @@
+====== Precast Concrete ======
+
+The concept of precast (also known as “prefabricated”) construction includes those buildings where the majority of structural components are standardized and produced in plants in a location away from the building, and then transported to the site for assembly. These components are manufactured by industrial methods based on mass production in order to build a large number of buildings in a short time at low cost.
+
+The main features of this construction process are as follows:
+
+  * Unordered List ItemThe division and specialization of the human workforce
+  * Unordered List ItemThe use of tools, machinery, and other equipment, usually automated, in the production of standard, interchangeable parts and products
+
+This type of construction requires a restructuring of the entire conventional construction process to enable interaction between the design phase and production planning in order to improve and speed up the construction. One of the key premises for achieving that objective is to design buildings with a regular configuration in plan and elevation. Urban residential buildings of this type are usually five to ten stories high (see Figures 1 and 2). Many countries used various precast building systems during the second half of the 20th century to provide low-income housing for the growing urban population. They were very popular after the Second World War, especially in Eastern European countries and former Soviet Union republics. In the former Soviet Union, different precast buildings systems are denoted as “Seria,” whereas in Romania they are called “Secţiunea.”
+
+In general, precast building systems are more economical when compared to conventional multifamily residential construction (apartment buildings) in many countries.

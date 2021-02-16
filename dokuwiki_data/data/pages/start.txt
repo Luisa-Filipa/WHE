@@ -1,78 +1,83 @@
 ===== World Housing Encyclopedia =====
 
-=== How does construction vary around the world? The World Housing Encyclopedia (WHE) is a collection of resources related to housing construction practices in the seismically active areas of the world. The mission is to share experiences with different construction types and encourage the use of earthquake-resistant technologies worldwide. ===
+----
 
-The main types od construction around the world are summarised below. To view
-profiles of housing types, explore our Housing Reports database, with over 100
-housing profiles from more than 40 countries, all written by architects or engineers.
-Consult our Tutorials section for step-by-step guides for building
-earthquake-resistant dwellings.
+==== How does construction vary around the world? ====
 
-All of the content on this site has been contributed by volunteers. If you are
-interested in writing a housing report, tutorial, or have any other ideas for content,
-please write to us.
+\\ The World Housing Encyclopedia (WHE) is a collection of resources related to housing construction practices in the seismically active areas of the world. The mission is to share experiences with different construction types and encourage the use of earthquake-resistant technologies worldwide.\\ 
 
-<tcycle width=600px height=400px data-speed=500 data-fx=scroll data-timeout=4000 metadata=1 fit=contain>
-{{:image_adobehouseiniran.jpg|}}
-{{:image_adobehouseinperu.jpg|}}
-{{:image_singlefamilywoodenhouseinjapan.jpg|}}
-</tcycle>
+The main types od construction around the world are summarised below. To view profiles of housing types, explore our Housing Reports database, with over 100 housing profiles from more than 40 countries, all written by architects or engineers. Consult our Tutorials section for step-by-step guides for building earthquake-resistant dwellings.\\ 
 
+All of the content on this site has been contributed by volunteers. If you are interested in writing a housing report, tutorial, or have any other ideas for content, please write to us.
+
+<code>
+ <tcycle width=600px height=400px data-speed=500 data-fx=scroll data-timeout=4000 metadata=1 fit=contain namespace=start:gif>
+  {{:image_adobehouseiniran.jpg|}}
+  {{:image_adobehouseinperu.jpg|}}
+  {{:image_singlefamilywoodenhouseinjapan.jpg|}}
+ </tcycle>
+</code>
 ----
 
 ==== Major Construction Types ====
 
-An introduction to the broad categories of housing construction types found throughout the world.
-
+An introduction to the broad categories of housing construction types found throughout the world.\\
 A number of construction materials and technologies have been and are being adopted worldwide to build
 houses. They include the following. A more detailed description of each, written by WHE experts from around the
-world, is available in the main menu:
+world, is available in the main menu:\\ 
 
-[[Adobe|Adobe]]: This type of housing is typically built by owners and local builders from raw/processed earth. Such housing often performs poorly in earthquakes.
+[[Adobe|Adobe]]: This type of housing is typically built by owners and local builders from raw/processed earth. Such housing often performs poorly in earthquakes.\\ 
 
-<Include figures here>
+{{gallery> start:images:adobe?adobe_*.jpg&250x250&crop&lightbox }}
 
 [[Timber|Timber]]: There are many forms of wood housing: bamboo frame; plank, beam & post system; and engineered
 timber houses. Understandably, their quality varies depending on the level of technical inputs used.
 
-<Include figures here>
+{{gallery> start:images:timber?timber_*.jpg&250x250&crop&lightbox }}
+
 
 [[Stone|Stone]]: This is a very widely used housing form worldwide. The main materials used in the walls are blocks of natural stone material available, like granite, laterite, sandstone, and slate. There are stone masonry houses with and without mortars; when mortars are used, they are either mud-based or cement-based. A variety of roofing
 systems are adopted including tiled roof supported on wood trusses, asbestos or steel sheets on steel trusses, and
 reinforced concrete slab.
 
-<Include figures here>
+{{gallery> start:images:stone?stone_*.jpg&250x250&crop&lightbox }}
 
 [[Brick|Brick]]: This is another common construction type. Clay mud is used to form regular-sized masonry units. These units are sometimes burnt in a kiln, and simply sun-dried. This is also a very widely used housing form worldwide. Brick masonry houses are made with and without mortars; when mortars are used, they are either mud-based or cement-based. These units are the main materials used in the walls. Again, a variety of roofing systems are
 adopted including tiled roof supported on wood trusses, asbestos or steel sheets on steel trusses, and reinforced
 concrete slab.
 
-<Include figures here>
+{{gallery> start:images:mansory?mansory_*.jpg&250x250&crop&lightbox }}
+
 
 [[Confined Masonry|Confined Masonry]]: This type of housing has been practiced in many vernacular forms worldwide, particularly along the Alpine-Himalayan belt. These are load bearing masonry houses improved with the help of wood or concrete frame members introduced in the walls to reduce the masonry walls into smaller panels that are more
 capable of withstanding earthquake shaking. The masonry could be made with either stone or brick. This system is
 far superior to the traditional load-bearing masonry houses. A variety of roofing systems are employed with the
 confined masonry wall system, depending on the geographic region of construction.
 
-<Include figures here>
+{{gallery> start:images:bricks?bricks_*.jpg&250x250&crop&lightbox }}
 
 [[Reinforced Concrete Frame|Reinforced Concrete Frame]]: This type of housing is becoming increasing popular across the world, particularly for urban construction. It employs beams (i.e., long horizontal members), columns (i.e., slender vertical members) and slabs (i.e., plate-like flat members) to form the basic backbone for carrying the loads. Vertical walls made of masonry or other materials are used to fill in between the beam-column grids to make functional spaces. These houses are expected to be constructed based on engineering calculations. However, in a large part of the developing world, such buildings are being built with little or no engineering calculations.
 
-<Include figures here>
+{{gallery> start:images:rcframe?rcframe_*.jpg&250x250&crop&lightbox }}
 
 [[Reinforced Concrete Shear Wall|Reinforced Concrete Shear Wall]]: This type of housing is same as the reinforced concrete frame building but provided with a select number of additional thin vertical plate-like reinforced concrete elements called structural walls, positioned in specific bays in the plan of the building. This type of construction requires a high level of engineering input like the reinforced concrete frame buildings. This type of building with structural walls shows superior seismic performance during earthquakes in comparison to that of reinforced concrete frame buildings without shear walls.
 
-<Include figures here>
+{{gallery> start:images:rcwall?rcwall_*.jpg&250x250&crop&lightbox }}
+
 
 [[Precast Concrete|Precast Concrete]]: The building is built of individual high-quality factory-made components connected at site. Two styles of construction are adopted, namely (a) the components are of the RC frame building alone, i.e., beams, columns, structural walls, and slabs; and (b) the components consist of large-panel prefabricates of walls and slabs only, and not of beams and columns. This type of house construction is in limited use in urban areas or mass housing projects.
 
-<Include figures here>
+{{gallery> start:images:precast?precast_*.jpg&250x250&crop&lightbox }}
 
 [[Advanced Technologies|Advanced Technologies]]: Some wood houses and reinforced concrete frame houses have been built recently using base-isolation technology. Here, the building is rested on flexible bearing pad-like devices, which absorb part of the earthquake energy transmitted from the ground to the building, thereby reducing the damage in the building. This type of construction is very expensive, but such houses perform very well during the earthquakes.
 
-<Include figures here>
+{{gallery> start:images:advanced?advanced_*.jpg&250x250&crop&lightbox }}
+
 
 [[Vernacular|Vernacular]]: Many housing types found today in different pockets of the world are those based on technology handed over from one generation to the next by word of mouth. What is impressive is that these construction schemes often have characteristics that address the prevalent local conditions of temperature and other natural effects (like earthquake shaking). There is much to learn from these housing practices.
+
+{{gallery> start:images:vernacular?vernacular_*.jpg&250x250&crop&lightbox }}
+
 
 The choice of a particular type of housing is dependent on locally available materials, skills and levels of
 technology. Current global trends indicate that the newer construction of world housing is being dominated
@@ -80,9 +85,10 @@ primarily by two types of construction, masonry houses and reinforced concrete b
 buildings is due in part to the real estate boom in urban areas that is part of global urbanization, and to the
 perception in rural areas that this a better form of construction because it is being practiced in urban areas..
 
-Important: You can download these brief housing reviews and use them for educational and non-commercial
+**Important:** You can download these brief housing reviews and use them for educational and non-commercial
 purposes only; but, please acknowledge WHE as the source of the material. Also, should you consider using any
 part of this material in any publication of your own, you are required to obtain written permission from WHE.
 
+----
 
-<Include figures here>
+==== Housing Reports ====
