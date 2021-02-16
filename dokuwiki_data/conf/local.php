@@ -12,3 +12,4 @@ $conf['useacl'] = 1;
 $conf['superuser'] = '@admin';
 $conf['disableactions'] = 'register';
 $conf['userewrite'] = '1';
+$conf['htmlok'] = '1';

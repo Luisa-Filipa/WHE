@@ -1,7 +1,0 @@
-/* plugin:tcycle */
-.tcycle { max-width: 100%; height: auto; margin: 1.5em auto; display: block; }
-.tcycle img.media, .dokuwiki .tcycle img.media  { margin: 0; padding: 0.5em 0; border-top: 1px solid @ini_border; border-bottom: 1px solid @ini_border; display: block; }
-.tcycle figcaption             { font-size: smaller; text-align: center; }
-.tcycle figcaption:first-child { font-variant: small-caps; }
-.tcycle figcaption:last-child  { font-style: italic; padding-bottom: 2em; }
-/* end plugin:tcycle */

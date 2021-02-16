@@ -218,3 +218,27 @@
 1613448540	172.18.0.1	E	start	luisa			13
 1613448571	172.18.0.1	E	start	luisa			2
 1613448640	172.18.0.1	E	start	luisa	[whatever] 		7
+1613214900	127.0.0.1	E	playground:playground		external edit		26
+1613449298	172.18.0.1	E	playground:playground	luisa			255
+1613449320	172.18.0.1	E	playground:playground	luisa			-1
+1613449352	172.18.0.1	E	playground:playground	luisa			-20
+1613449413	172.18.0.1	E	playground:playground	luisa			64
+1613449428	172.18.0.1	D	playground:playground	luisa	removed		-324
+1613214913	127.0.0.1	E	addreport		external edit		50
+1613449659	172.18.0.1	E	addreport	luisa			4
+1613449224	127.0.0.1	E	start		external edit		94
+1613449792	172.18.0.1	E	start	luisa			-75
+1613449836	172.18.0.1	E	start	luisa			14
+1613449893	172.18.0.1	E	start	luisa			0
+1613450012	172.18.0.1	E	start	luisa			48
+1613450052	172.18.0.1	E	start	luisa			-80
+1613450106	172.18.0.1	E	start	luisa			13
+1613450294	172.18.0.1	E	start	luisa			12
+1613450375	172.18.0.1	E	start	luisa			-3
+1613450406	172.18.0.1	E	start	luisa			9
+1613450427	172.18.0.1	E	start	luisa			9
+1613450457	172.18.0.1	E	start	luisa			10
+1613450481	172.18.0.1	E	start	luisa			-10
+1613450962	172.18.0.1	E	start	luisa			-282
+1613451040	172.18.0.1	E	start	luisa			0
+1613451109	172.18.0.1	E	start	luisa			6

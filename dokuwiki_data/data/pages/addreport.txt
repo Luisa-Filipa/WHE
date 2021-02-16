@@ -49,3 +49,6 @@ textbox "Token"
 textbox "Email"
 submit "Submit Query"
 </form>
+
+
+<html><strong>This is my bold text</strong></html>

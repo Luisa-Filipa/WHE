@@ -1,7 +1,5 @@
 ===== World Housing Encyclopedia =====
 
-----
-
 ==== How does construction vary around the world? ====
 
 \\ The World Housing Encyclopedia (WHE) is a collection of resources related to housing construction practices in the seismically active areas of the world. The mission is to share experiences with different construction types and encourage the use of earthquake-resistant technologies worldwide.\\ 
@@ -10,13 +8,8 @@ The main types od construction around the world are summarised below. To view pr
 
 All of the content on this site has been contributed by volunteers. If you are interested in writing a housing report, tutorial, or have any other ideas for content, please write to us.
 
-<code>
- <tcycle width=600px height=400px data-speed=500 data-fx=scroll data-timeout=4000 metadata=1 fit=contain namespace=start:gif>
-  {{:image_adobehouseiniran.jpg|}}
-  {{:image_adobehouseinperu.jpg|}}
-  {{:image_singlefamilywoodenhouseinjapan.jpg|}}
- </tcycle>
-</code>
+{{ :start:gif:start.gif?nolink&400 |}}
+
 ----
 
 ==== Major Construction Types ====
@@ -29,6 +22,7 @@ world, is available in the main menu:\\
 [[Adobe|Adobe]]: This type of housing is typically built by owners and local builders from raw/processed earth. Such housing often performs poorly in earthquakes.\\ 
 
 {{gallery> start:images:adobe?adobe_*.jpg&250x250&crop&lightbox }}
+
 
 [[Timber|Timber]]: There are many forms of wood housing: bamboo frame; plank, beam & post system; and engineered
 timber houses. Understandably, their quality varies depending on the level of technical inputs used.
@@ -92,3 +86,4 @@ part of this material in any publication of your own, you are required to obtain
 ----
 
 ==== Housing Reports ====
+
