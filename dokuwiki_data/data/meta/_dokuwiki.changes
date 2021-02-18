@@ -1,30 +1,7 @@
-1612453601	172.19.0.1	C	start		created		19
-1612817023	127.0.0.1	E	start		external edit		23
-1612819314	172.20.0.1	E	start	luisa			17
-1612819364	172.20.0.1	C	about	luisa	created		20
-1612819343	127.0.0.1	E	start		external edit		0
-1612825761	172.20.0.1	E	start				21
-1612825806	172.20.0.1	C	sidebar		created		71
-1612825943	127.0.0.1	E	sidebar		external edit		-9
-1612825995	172.20.0.1	E	sidebar				14
-1612826016	172.20.0.1	E	sidebar				-14
-1612826024	172.20.0.1	E	sidebar				0
-1612826205	172.20.0.1	D	start		removed		-80
-1612826268	172.20.0.1	E	about				1
-1612826541	172.20.0.1	C	start		created		319
-1612826689	172.20.0.1	E	start				10
-1612826834	172.20.0.1	E	start				80
-1612827422	172.20.0.1	E	start				241
-1612827607	172.20.0.1	E	start				-239
-1612828121	172.20.0.1	E	about				29
-1612828195	172.20.0.1	C	addreport		created		29
-1612827135	127.0.0.1	E	sidebar		external edit		-1
-1612829229	172.20.0.1	E	sidebar				33
-1612829278	172.20.0.1	E	sidebar				-34
-1612833722	172.20.0.1	E	about				354
-1612833902	172.20.0.1	E	about				195
 1613212597	127.0.0.1	E	addreport		external edit		967
 1613212808	172.20.0.1	E	addreport				832
+1613214900	127.0.0.1	E	playground:playground		external edit		26
+1613214913	127.0.0.1	E	addreport		external edit		50
 1613434326	127.0.0.1	E	start		external edit		7
 1613434403	172.22.0.1	E	start	luisa			759
 1613434827	172.22.0.1	E	start	luisa			-28
@@ -218,15 +195,13 @@
 1613448540	172.18.0.1	E	start	luisa			13
 1613448571	172.18.0.1	E	start	luisa			2
 1613448640	172.18.0.1	E	start	luisa	[whatever] 		7
-1613214900	127.0.0.1	E	playground:playground		external edit		26
+1613449224	127.0.0.1	E	start		external edit		94
 1613449298	172.18.0.1	E	playground:playground	luisa			255
 1613449320	172.18.0.1	E	playground:playground	luisa			-1
 1613449352	172.18.0.1	E	playground:playground	luisa			-20
 1613449413	172.18.0.1	E	playground:playground	luisa			64
 1613449428	172.18.0.1	D	playground:playground	luisa	removed		-324
-1613214913	127.0.0.1	E	addreport		external edit		50
 1613449659	172.18.0.1	E	addreport	luisa			4
-1613449224	127.0.0.1	E	start		external edit		94
 1613449792	172.18.0.1	E	start	luisa			-75
 1613449836	172.18.0.1	E	start	luisa			14
 1613449893	172.18.0.1	E	start	luisa			0
@@ -242,3 +217,25 @@
 1613450962	172.18.0.1	E	start	luisa			-282
 1613451040	172.18.0.1	E	start	luisa			0
 1613451109	172.18.0.1	E	start	luisa			6
+1613606601	172.18.0.1	E	start	luisa	[Housing Reports] 		21
+1613606652	172.18.0.1	C	report_1	luisa	created		1086
+1613606700	172.18.0.1	E	report_1	luisa			16
+1613606736	172.18.0.1	E	report_1	luisa			7
+1613606968	172.18.0.1	E	report_1	luisa			10
+1613607650	172.18.0.1	E	report_1	luisa			2853
+1613607713	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		1
+1613607731	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		0
+1613607761	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		-18
+1613607780	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		1
+1613607798	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		3
+1613607809	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		1
+1613608829	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		2008
+1613609575	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		-747
+1613609657	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		-1
+1613610005	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		45
+1613610153	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		72
+1613610518	172.18.0.1	E	report_1	luisa	[Building Materials and Construction Process] 		2693
+1613612666	172.18.0.1	E	report_1	luisa			3
+1613612709	172.18.0.1	E	report_1	luisa			12
+1613612952	172.18.0.1	E	report_1	luisa			111
+1613612988	172.18.0.1	E	report_1	luisa			2
