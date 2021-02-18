@@ -1,0 +1,3 @@
+[[:start|World Housing Encyclopedia]]
+
+[[:addreport|Add new Report]]
