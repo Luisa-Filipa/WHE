@@ -1,0 +1,442 @@
+====== Traditional adobe house, Argentina ======
+=== From World Housing Encyclopedia ===
+
+
+{{ :reports:report_2:rp2_general_info_1.jpg?nolink&1398*935 |}}
+
+----
+
+==== General Information ====
+
+**Report:** 2
+
+**Building Type:** Traditional adobe house
+
+**Country:** Argentina
+
+**Author(s):** Virginia I Rodriguez, Maria I Yacante, Sergio Reiloba
+
+**Regions Where Found:** Buildings of this construction type can be found in in the province of San Juan. This type of housing construction is commonly found in rural areas. The building code allows this type of construction only in rural areas. However, as the city has grown, the current urban area now includes adobe block constructions that were built in the past (when the area was rural).
+
+**Summary:** This construction type is a single-family house. In general, it is a single-story building, an isolated construction found in the rural areas of San Juan and Mendoza. The traditional adobe block masonry walls are reinforced with foundations and plinth structure, which provide structural strength. A deficiency in this type of construction is that the adobe blocks deteriorate due to prolonged exposure to humidity.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** This is a traditional construction practice that has been practiced in San Juan for many years, but since 1948 it has been pract.
+
+----
+
+==== Features ====
+
+{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop |}}
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The typical shape of a building plan for this housing type is rectangular.
+
+**Typical plan length (meters):** 12
+
+**Typical plan width (meters):** 8.4
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls with horizontal wood elements
+
+**Additional comments on structural system:** The vertical load resisting system is adobe block walls. The earthquake-resistant system consists of adobe block walls of 40 cm thickness, which generally meet the quality standards and architectural requirements (small openings, heights shorter than 3 m). In general, the roofs are light (weight less than 150 kg/sq m). On the upper part of the wall, there is a reinforced concrete bond beam, and on the bottom there are foundations and plinth structure.
+
+**Gravity load-bearing & lateral load-resisting systems:** 40-cm-thick block walls joined using mud mortar.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The total wall density is 0.215; it is 0.153 in the X-direction and 0.11 in the Y-direction.
+
+**Wall Openings:** The typical house has approximately seven openings, with an average area of 1.60m2 . These openings are: 5 (five) windows, placed in the middle of the walls, and 2 (two) doors. The doors are placed to one side of the wall. The opening area is about 10.40% of the whole wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?** No
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Concrete, with a minimum cement of 180 kg/sq m and 30 % of stone. The top of the plinth is 30 cm above the ground level.
+
+**Type of Floor System:** Other floor system
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roofing system consists of mud and cane roof with exterior finishing of clay tiles supported by round logs. The roof is considered to be a flexible diaphragm with a maximum weight of 150 kg/sq m.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== Building Materials and Construction Process ====
+
+  * __**Description of Building Materials**__
+
+<html>
+<table>
+  <tr>
+    <th>Structural Element</th>
+    <th>Building Material(s)</th>
+    <th>Comment(s)</th>
+  </tr>
+  <tr>
+    <td>Wall/Frame</td>
+    <td>Wall: Adobe blocks/ Reinforced concrete Frame: Reinforced concrete</td>
+    <td>Wall- Characteristic Strength: 3 Kg/sq cm - 10 Kg/sq cm Mix Proportion/Dimensions: Clay soil and thatch Joined with mud (1) resistance to compression (2) resistance to deflection Frame- Characteristic Strength: 200 kg/ cm22400 kg/ cm2 Mix Proportion/Dimensions: 1:3:3 (cement-sand-gravel) Top reinforced concrete beam as wide as the wall (3) resistance of concrete to compression (4) resistance of steel to tension Frame- Characteristic Strength:200 Kg/sq cm-2400 Kg/sq cm Mix Proportion/Dimensions: 1:3:3 (cement-sand-gravel) Top reinforced concrete beam is as wide as the wall. High resistance of concrete to compression, and of steel to tension.</td>
+  </tr>
+  <tr>
+    <td>Foundations</td>
+    <td>Concrete with stone</td>
+    <td>Characteristic Strength: 150 kg/ cm2 Mix Proportion/Dimensions: 1:3:5 & 3 (cement # sand # pebble and stone) Minimum 180 Kg/sq cm, 30% stone</td>
+  </tr>
+  <tr>
+    <td>Roof</td>
+    <td>Round logs with cane and mud roof</td>
+    <td>Round log d=16 cm, every 60 cm Roof maximum weight: 150 kg/ m2</td>
+  </tr>
+</table>
+</html>
+
+
+  * __**Design Process**__
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** In the beginning, this type of construction was designed and built by engineers and general builders, but later the same construction began to be made by the owners.
+
+  * __**Construction Process**__
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** When this construction was first used, the builder did not live in this construction type. However, later on it was built by the owners themselves; in general, owners of this type of construction are people without any chances of building their houses with other building materials (due to their high cost).
+
+**Expertise of those involved in building process:** This construction began to be practiced after the 1944 earthquake, as an alternative to improve the seismic behavior of the traditional adobe block construction. The design of adobe construction was largely based on the local building experience related to this kind of construction. This experience and the new information gained after the earthquake helped in improving the adobe construction practice. This construction proved to be an economic solution as the local material and skills were used and the traditional construction practice was followed.
+
+**Construction process and phasing:** The owner of the house usually carries out the construction. It begins with the manufacturing of adobe, the filling in of foundations and plinth construction. After that, the adobe block masonry is built, caring that the blocks are perfectly joined. Then, the frame of the top reinforcement concrete beam is made, and the iron bars are placed to fasten the round logs of the roof. The frame is filled in with concrete. The round logs are placed and fastened every 60 cm. After that a 5cm-wide coat of cane and mud is placed. This coat is later made waterproof with asphalt, finishing the process with the placement of Spanish tiles. The tools and equipment typically used are: wheelbarrows, grub hoe, and matrix for the manufacturing of adobe blocks; spatulas, shovels, hoes, baskets, saws, pliers, levels, cement mixers, etc., are used in the whole process. This type of construction is generally designed for its final constructed size, but the owner also builds additional parts, generally without any professional input.
+
+  * __**Building Codes and Standards**__
+
+**Is this construction type address by codes/standards?** Yes 
+
+**Applicable codes or standards:** 1951 Building Code of the Province of San Juan, Earthquake-proof Norms Concar 70, Argentinean Earthquake-proof Norms 80 and 1990 INPRES CIRSOC Norms.
+
+**Process for building code enforcement:** The construction process is controlled by the corresponding state authorities.
+
+
+  * __**Building Permits and Development Control Rules**__
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This construction is subject to regulations and the approval of plans.
+
+
+  * __**Building Maintenance and Condition**__
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Usually, it is the owner who maintains the building, but given the low economic levels of the owners there is generally little or no maintenance and over time the construction deteriorates.
+
+
+  * __**Construction Economics**__
+
+**Unit construction cost:** Unit construction cost per m2 of built-up area is approximately US$ 137.
+
+**Labor requirements:** The typical amount and skill-level of labour employed in the construction of a typical building of this type of housing is 380 man-days (assuming 8 working hours/day). Experience is required in the selection of the land. Knowledge is necessary about the adequate mix proportions to manufacture the adobe blocks, and about foundations, plinth structure, top reinforcement beam, and round log. The tools needed in this construction type are not many: shovels, baskets, hoes, pliers, spatulas, etc.
+
+----
+
+==== Socio-Economic Issues ====
+
+**Patterns of occupancy:** In general, there is a single family in a housing unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+	
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (ratio): 5:1 or worse 1. Below are the general guidelines related to the economic status of the inhabitants: Very Poor= lowest 10% of the population (per GDP), Poor= lowest 30% of the population, Middle Class= from the lowest 30% up to the top 20% of the population, Rich= top 20% of the population. Values are variable: the adobe blocks may be manufactured by the owner of the house and the masonry may also be made by the owner; canes grow on the banks of the water channels in the area. All this results in a notable reduction of the overall construction cost. Economic Level: For Poor Class the Housing Price Unit is 12,000 and the Annual Income is 7,200. 
+
+**Typical Source of Financing:** Combination
+
+**Additional comments on financing:** In the #50s, a part of the cost was paid by the government, in the form of a non-repayable contribution or grant, and the rest of the money was financed by a bank. Nowadays, the construction is completely owner financed; the owners are doing the construction by themselves.	
+
+**Type of Ownership:** Own with debt (mortgage or other)
+
+**Additional comments on ownership:** The information in this chart reflects the period after the 1944 earthquake. After 1960, houses of this construction type were built directly by the owners, without any kind of external financing.
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** Insurance policies for buildings make it explicit that disasters are not covered.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+----
+
+==== Earthquakes ====
+
+{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop |}}
+
+**Past Earthquakes in the country which affected buildings of this type:**
+
+<html>
+<table>
+  <tr>
+    <th>Year</th>
+    <th>Earthquake Epicenter</th>
+    <th>Richter Magnitude</th>
+    <th>Maximum Intensity</th>
+  </tr>
+  <tr>
+    <td>1977</td>
+    <td>Caucete 100 km to the east of San Juan Capital city</td>
+    <td>7.4</td>
+    <td>IX MMI</td>
+  </tr>
+</table>
+</html>
+
+
+   * __**Past Earthquakes**__
+
+**Damage patterns observed in past earthquakes for this construction type:** In general, during the 1977 earthquake, the adobe block construction built in Caucete using the standards of 1948, suffered moderate damage (economically repairable); those built in the capital city of San Juan, under the same standards, were not damaged at all. Traditional adobe block houses, built without any kind of earthquake-resistant requirements, were seriously damaged during the same earthquake.
+
+**Additional comments on earthquake damage patterns:** In the Capital city of San Juan, located at approximately 100 km distance from the epicenter, the intensity was between VII MMI and VIII MMI . It is important to mention that a wide area of about 1000 km2 experienced liquefaction.
+
+  * __**Structural and Architectural Features for Seismic Resistance**__
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+<html>
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Statement</th>
+    <th>Seismic Resistance</th>
+  </tr>
+  <tr>
+    <td>Lateral load path</td>
+    <td>The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation.</td>
+    <td>FALSE</td>
+  </tr>
+  <tr>
+    <td>Building ConfigurationHorizontal</td>
+    <td>The building is regular with regards to the elevation. Specify in 5.4.1)</td>
+    <td>TRUE</td>
+  </tr>
+  <tr>
+    <td>Building Configuration-Vertical</td>
+    <td>The building is regular with regards to the plan. (Specify
+in 5.4.2)</td>
+    <td>TRUE</td>
+  </tr>
+  <tr>
+    <td>Roof Construction</td>
+    <td>The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this
+area.</td>
+    <td>FALSE</td>
+  </tr>
+  <tr>
+    <td>Floor Construction</td>
+    <td>The floor diaphragm(s) are considered to be rigid and it
+is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area.</td>
+    <td>TRUE</td>
+  </tr>
+  <tr>
+   <td>Foundation Performance</td>
+   <td>There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the
+structure in an earthquake.</td>
+   <td>TRUE</td>
+  </tr>
+  <tr>
+   <td>Wall and Frame StructuresRedundancy</td>
+   <td>The number of lines of walls or frames in each principal
+direction is greater than or equal to 2.</td>
+   <td>TRUE</td>
+  </tr>
+  <tr>
+   <td>Wall Proportions</td>
+   <td>Height-to-thickness ratio of the shear walls at each floor
+level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); </td>
+   <td>TRUE</td>
+  </tr>
+  <tr>
+   <td>Foundation-Wall Connection</td>
+   <td>Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation</td>
+   <td>FALSE</td>
+  </tr>
+  <tr>
+   <td>Wall-Roof Connections</td>
+   <td>Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps.</td>
+   <td>TRUE</td>
+  </tr>
+  <tr>
+   <td>Wall Openings</td>
+   <td></td>
+   <td>FALSE</td>
+  </tr>
+  <tr>
+   <td>Quality of Building Materials</td>
+   <td>Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate).</td>
+   <td>FALSE</td>
+  </tr>
+  <tr>
+   <td>Quality of Workmanship</td>
+   <td>Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction
+standards).</td>
+   <td>FALSE</td>
+  </tr>
+  <tr>
+   <td>Maintenance</td>
+   <td>Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber).</td>
+   <td>FALSE</td>
+  </tr>
+</table>
+</html>
+
+ * __**Building Irregularities**__
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The resistance of adobe masonry in this construction type is weakened by the following factors: 1. The openings- due to the following factors:a) the big size of the two windows (1.60 m2) in the main face of the construction. b) The position of the doors in the angles formed by the meeting of walls. c) The great percentage of opening surface (31%) in the front and back walls. 2- The vulnerability of the adobe due to humidity
+
+**Seismic deficiency in frames:** No buttresses provided at the wall intersections.
+
+**Seismic deficiency in roof and floors:** The roof is flexible.
+
+
+  * __**Seismic Vulnerability Rating**__
+
+For information about how seismic vulnerability ratings were selected see the {{ :reports:seismic_vulnerability_rating.pdf |Seismic Vulnerability Guidelines}}
+
+<html>
+<table>
+  <tr>
+    <th></th>
+    <th colspan="2">High vulnerability</th>
+    <th colspan="2">Medium vulnerability</th>
+    <th colspan="2">Low vulnerability</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td>Seismic vulnerability class</td>
+    <td>|-</td>
+    <td>o</td>
+    <td>-|</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+</html>
+
+----
+
+==== Retrofit Information ====
+
+**Description of Seismic Strengthening Provisions**
+
+<html>
+<table>
+  <tr>
+    <th>Structural Deficiency</th>
+    <th> Seismic Strengthening</th>
+  </tr>
+  <tr>
+    <td>Additional comments on seismic strengthening provisions</td>
+    <td>This type of construction has emerged as a proposal to strengthen the traditional adobe block construction which had an unsatisfactory performance during the 1944 earthquake. This construction has been built in San Juan under the Adobe Construction Regulations of 1948, however it is only allowed in rural areas. During the 1977 Caucete earthquake, this construction has a satisfactory performance so no seismic strengthening has been done since that time. It should be noted that some traditional adobe construction (not following the 1948 Regulations) is still being practiced in rural areas.</td>
+  </tr>
+</table>
+</html>
+
+----
+
+==== References ====
+
+  * Adobe Construction Regulations
+
+  * The 1951 Building Code of the Province of San Juan
+
+  * Adobe Block Housing in Dry Areas Hugo Giuliani and Jose Herrera Cano
+
+  * 1991 National Survey on Population and Housing (INDEC) N18
+
+  * Inter-relations Between Architectural Design and Structural Design in High Seismic Risk Areas : Building Level - San Juan San Juan, Argentina 1989
+
+**Authors**
+
+<html>
+<table>
+   <tr>
+     <th>Name</th>
+     <th>Title</th>
+     <th>Affiliation</th>
+     <th>Location</th>
+   </tr>
+   <tr>
+     <td>Virginia I Rodriguez</td>
+     <td>Architect</td>
+     <td>Professor-Researcher</td>
+     <td>B# UDAP III M.EMblock 1 Piso 1# 5425 San Juan-Argentina</td>
+   </tr>
+   <tr>
+     <td>Maria I Yacante</td>
+     <td>Architect</td>
+     <td>Researcher</td>
+     <td>Av. Libertador 1068 (s) 5400 San Juan-Argentina</td>
+   </tr>
+   <tr>
+     <td>Sergio Reiloba</td>
+     <td>Architect</td>
+     <td>Researcher</td>
+     <td>5400 San Juan - Argentina</td>
+   </tr>
+</table>
+</html>
+
+**Reviewers**
+
+<html>
+<table>
+   <tr>
+     <th>Name</th>
+     <th>Title</th>
+     <th>Affiliation</th>
+     <th>Location</th>
+   </tr>
+   <tr>
+     <td>Sergio Alcocer</td>
+     <td>Director of Research</td>
+     <td>Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM</td>
+     <td>Mexico DF 4510, MEXICO</td>
+   </tr>
+</table>
+</html>

@@ -236,7 +236,7 @@ The main reference publication used in developing the statements used in this ta
 
 The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the e adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
 
-* __**Structural/Architectural**__
+  * __**Structural/Architectural**__
 
 <html>
 <table>
@@ -339,7 +339,7 @@ standards).</td>
 
   * __**Seismic Vulnerability Rating**__
 
-For information about how seismic vulnerability ratings were selected see the [[:reports:Seismic Vulnerability Guidelines|Seismic Vulnerability Guidelines]]
+For information about how seismic vulnerability ratings were selected see the {{ :reports:seismic_vulnerability_rating.pdf |Seismic Vulnerability Guidelines}}
 
 <html>
 <table>
@@ -376,7 +376,7 @@ For information about how seismic vulnerability ratings were selected see the [[
 
 {{ :reports:report_1:rp1_retrofit_info_1.jpg?nolink&400 |}}
 
-**Description of Seismic Strengthening Provisions:**
+**Description of Seismic Strengthening Provisions**
 
 <html>
 <table>
