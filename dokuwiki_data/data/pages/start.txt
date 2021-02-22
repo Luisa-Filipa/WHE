@@ -89,3 +89,4 @@ part of this material in any publication of your own, you are required to obtain
 
 [[reports:report_4|Concrete shear walls buildings, Chile]]
 
+[[reports:report_5|Reinforced clay/concrete block masonry building, Chile]]
