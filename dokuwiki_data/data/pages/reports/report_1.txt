@@ -5,13 +5,15 @@
 
 ----
 
-==== General Information ====
+==== 1. General Information ====
 
 **Report:** 1
 
-**Building Type:** Confined block masonry house
+**Report Date:** 
 
 **Country:** Argentina
+
+**Building Type:** Confined block masonry house
 
 **Author(s):** Virginia I Rodriguez, Maria I Yacante, Sergio Reiloba
 
@@ -35,9 +37,7 @@
 
 ----
 
-==== Features ====
-
-{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop |}}
+==== 2. Features ====
 
 **Plan Shape:** Rectangular, solid
 
@@ -81,56 +81,33 @@ the family room, in every bedroom and the bathroom. The opening area is about 13
 
 **Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
 
+{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop |}}
+
 ----
 
-==== Building Materials and Construction Process ====
+==== 3. Building Materials and Construction Process ====
 
-  * __**Description of Building Materials**__
+=== Description of Building Materials===
 
-<html>
-<table>
-  <tr>
-    <th>Structural Element</th>
-    <th>Building Material(s)</th>
-    <th>Comment(s)</th>
-  </tr>
-  <tr>
-    <td>Wall/Frame</td>
-    <td>Hollow concrete block</td>
-    <td>Compressive strength of the blocks varies from 2-50 kg/sq cm. The mix proportion used in making the mortars is 1:1:5 (cement-lime-sand). Wall thickness varies from 0.20 to 0.40 m. The walls have good resistance to compression and shear strength.</td>
-  </tr>
-  <tr>
-    <td>Foundations</td>
-    <td>Concrete</td>
-    <td>Compressive strength of the concrete used is 210 kg/sq cm. The mix proportion used in making the concrete is 1:3:5 (cement-sand- pebble). The foundation under columns is of size 0.60 m x 0.25 m. The foundation has average resistance to compression.</td>
-  </tr>
-  <tr>
-    <td>Roof</td>
-    <td>The roof is made of reinforced concrete hollow clay blocks 
-    </td>
-    <td>The compressive strength of the concrete used is 210 - 420
-kg/sq. cm. The mix proportion used in making the concrete is 1:2:4 (cement-sandpebble).</td>
-  </tr>
-  <tr>
-    <td>Other</td>
-    <td>Beams and columns used for confining the masonry walls are made of reinforced concrete.</td>
-    <td>The compressive strength of the concrete used is 210 - 420
-kg/sq. cm. The mix proportion used in making the concrete is 1:2:4 (cement-sandpebble). The size of columns is 0.20 m x 0.20 m and that of beams is 0.20 m x 0.15 m.</td>
-  <tr>
-</table>
-</html>
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Hollow concrete block | Compressive strength of the blocks varies from 2-50 kg/sq cm. The mix proportion used in making the mortars is 1:1:5 (cement-lime-sand). Wall thickness varies from 0.20 to 0.40 m. The walls have good resistance to compression and shear strength. |
+|Foundations | Concrete | Compressive strength of the concrete used is 210 kg/sq cm. The mix proportion used in making the concrete is 1:3:5 (cement-sand- pebble). The foundation under columns is of size 0.60 m x 0.25 m. The foundation has average resistance to compression. |
+| Floors |  |  |
+| Roof | The roof is made of reinforced concrete hollow clay blocks | The compressive strength of the concrete used is 210 - 420 kg/sq. cm. The mix proportion used in making the concrete is 1:2:4 (cement-sandpebble). |
+| Other | Beams and columns used for confining the masonry walls are made of reinforced concrete. | The compressive strength of the concrete used is 210 - 420 kg/sq. cm. The mix proportion used in making the concrete is 1:2:4 (cement-sandpebble). The size of columns is 0.20 m x 0.20 m and that of beams is 0.20 m x 0.15 m. |	
 
+----
 
-  * __**Design Process**__
+=== Design Process ===
 
 **Who is involved with the design process?** EngineerArchitect
 
 **Roles of those involved in the design process:** Architects are in charge of the architectural design of the building and sometimes, the construction process. Engineers are in charge of the structural design and of the construction process in general.
 
 **Expertise of those involved in the design process:** The professionals involved in the design and construction process -architects and engineers- have a good level of expertise and great experience in this type of construction, typical in San Juan.
+----
 
-
-  * __**Construction Process**__
+=== Construction Process ===
 
 **Who typically builds this construction type?** Other 
 
@@ -140,9 +117,9 @@ kg/sq. cm. The mix proportion used in making the concrete is 1:2:4 (cement-sandp
 concrete beams and columns and the casting of these beams. Then the block masonry walls are being built and the concrete columns are being cast. Subsequently, the top reinforced concrete beams are assembled and the slab concrete is poured. The tools and equipment typically used are. spatulas, shovels, hoes, baskets, saws, pliers, levels, cement mixers, etc. This type of construction is generally
 designed for its final constructed size, but usually the final
 size is fulfilled in a later stage, as an extension of the original construction. Sometimes the owner also builds additional parts, generally without any professional input.
+----
 
-
-  * __**Building Codes and Standards**__
+=== Building Codes and Standards===
 
 **Is this construction type address by codes/standards?** Yes
 
@@ -150,27 +127,27 @@ size is fulfilled in a later stage, as an extension of the original construction
 Norms.
 
 **Process for building code enforcement:** The provincial authorities approve the design and controls the construction process. To start the process of construction it is necessary to have the approval of the general and structure plans, the electrical wiring plans, plumbing, and gas plans. This approval is provided by the Provincial Authorities. A construction license provided by the Municipal Authorities is also required.
+----
 
-
-  * __**Building Permits and Development Control Rules**__
+=== Building Permits and Development Control Rules ===
 
 **Are building permits required?** Yes
 
 **Is this typically informal construction?** Yes
 
 **Is this construction typically authorized as per development control rules?** Yes
+----
 
-
-  * __**Building Maintenance and Condition**__
+=== Building Maintenance and Condition ===
 
 **Typical problems associated with this type of construction:** The only problems associated with this type of construction are the considerable dispersion in the quality of the concrete blocks used and the common lack of maintenance in this type of construction. The quality of the blocks is controlled by means of standardized trials.
 
 **Who typically maintains buildings of this type?** Owner(s)
 
 **Additional comments on maintenance and building condition:** Usually, it is the owner who maintains the building, but little or no maintenance is done.
+----
 
-
-  * __**Construction Economics**__
+=== Construction Economics ===
 
 **Unit construction cost:** Unit construction cost per m2 of built-up area is approx. US$ 250. This price includes the entire needs of the construction.
 
@@ -178,7 +155,7 @@ Norms.
 
 ----
 
-==== Socio-Economic Issues ====
+==== 4. Socio-Economic Issues ====
 
 **Patterns of occupancy:** A single family per housing unit.
 
@@ -200,132 +177,53 @@ Norms.
 
 ----
 
-==== Earthquakes ====
+==== 5. Earthquakes ====
 
 {{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
 
 **Past Earthquakes in the country which affected buildings of this type:**
 
-<html>
-<table>
-  <tr>
-    <th>Year</th>
-    <th>Earthquake Epicenter</th>
-    <th>Richter Magnitude</th>
-    <th>Maximum Intensity</th>
-  </tr>
-  <tr>
-    <td>1977</td>
-    <td>Caucete</td>
-    <td>7.4</td>
-    <td>IX</td>
-  </tr>
-</table>
-</html>
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude ^ Maximum Intensity ^
+| 1977 | Caucete | 7.4 | IX |
 
-  * __**Past Earthquakes**__
+----
+
+=== Past Earthquakes ===
 
 **Damage patterns observed in past earthquakes for this construction type:** In the Capital city of San Juan, located about 100 km from
 the epicenter, the intensity was between VII and VIII. The buildings of this construction type sustained the earthquake without serious damage.
 
 **Additional comments on earthquake damage patterns:** During the earthquake of 1977 in Caucete, in the capital city of San Juan, located about 100 km from the epicenter, the intensity was between VII and VIII. The buildings of this construction type sustained no serious damage.
+----
 
-  * __**Structural and Architectural Features for Seismic Resistance**__
+=== Structural and Architectural Features for Seismic Resistance ===
 
 The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
 
 The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the e adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+----
 
-  * __**Structural/Architectural**__
+=== Structural/Architectural ===
 
-<html>
-<table>
-  <tr>
-    <th>Feature</th>
-    <th>Statement</th>
-    <th>Seismic Resistance</th>
-  </tr>
-  <tr>
-    <td>Lateral load path</td>
-    <td>The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation.</td>
-    <td>TRUE</td>
-  </tr>
-  <tr>
-    <td>Building ConfigurationHorizontal</td>
-    <td>The building is regular with regards to the elevation. Specify in 5.4.1)</td>
-    <td>TRUE</td>
-  </tr>
-  <tr>
-    <td>Building Configuration-Vertical</td>
-    <td>The building is regular with regards to the plan. (Specify
-in 5.4.2)</td>
-    <td>TRUE</td>
-  </tr>
-  <tr>
-    <td>Roof Construction</td>
-    <td>The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this
-area.</td>
-    <td>TRUE</td>
-  </tr>
-  <tr>
-    <td>Floor Construction</td>
-    <td>The floor diaphragm(s) are considered to be rigid and it
-is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area.</td>
-    <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Foundation Performance</td>
-   <td>There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the
-structure in an earthquake.</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Wall and Frame StructuresRedundancy</td>
-   <td>The number of lines of walls or frames in each principal
-direction is greater than or equal to 2.</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Wall Proportions</td>
-   <td>Height-to-thickness ratio of the shear walls at each floor
-level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); </td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Foundation-Wall Connection</td>
-   <td>Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Wall-Roof Connections</td>
-   <td>Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps.</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Wall Openings</td>
-   <td></td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Quality of Building Materials</td>
-   <td>Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate).</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Quality of Workmanship</td>
-   <td>Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction
-standards).</td>
-   <td>TRUE</td>
-  </tr>
-  <tr>
-   <td>Maintenance</td>
-   <td>Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber).</td>
-   <td>N/A</td>
-  </tr>
-</table>
-</html>
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A |
 
-  * __**Building Irregularities**__
+----
+
+=== Building Irregularities ===
 
 **Vertical irregularities typically found in this construction type:** Other
 
@@ -336,117 +234,46 @@ standards).</td>
 **Seismic deficiency in frames:** Generally without seismic deficiencies.
 
 **Seismic deficiency in roof and floors:** No seismic deficiencies.
+----
 
-  * __**Seismic Vulnerability Rating**__
+=== Seismic Vulnerability Rating ===
 
 For information about how seismic vulnerability ratings were selected see the {{ :reports:seismic_vulnerability_rating.pdf |Seismic Vulnerability Guidelines}}
 
-<html>
-<table>
-  <tr>
-    <th></th>
-    <th colspan="2">High vulnerability</th>
-    <th colspan="2">Medium vulnerability</th>
-    <th colspan="2">Low vulnerability</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td>A</td>
-    <td>B</td>
-    <td>C</td>
-    <td>D</td>
-    <td>E</td>
-    <td>F</td>
-  </tr>
-  <tr>
-    <td>Seismic vulnerability class</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>|-</td>
-    <td>o</td>
-    <td>-|</td>
-  </tr>
-</table>
-</html>
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |   |    |   | %%|-%%    |  o  |  %%-|%%  |
 
 ----
 
-==== Retrofit Information ====
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Wall | Increase the width of some walls. This has a low increase in the construction cost and a high likelihood of enhancing seismic stability. It is relatively simple to perform. |
+
+----
 
 {{ :reports:report_1:rp1_retrofit_info_1.jpg?nolink&400 |}}
 
-**Description of Seismic Strengthening Provisions**
-
-<html>
-<table>
-  <tr>
-    <th>Structural Deficiency</th>
-    <th> Seismic Strengthening</th>
-  </tr>
-  <tr>
-    <td>Wall</td>
-    <td>Increase the width of some walls. This has a low increase in the construction cost and a high likelihood of enhancing seismic stability. It is relatively simple to perform.</td>
-  </tr>
-</table>
-</html>
-
-----
-
-==== References ====
+==== 7. References ====
 
   * The 1951 Building Code of the Province of San Juan
 
-  * Unordered List ItemInter-relations between Architectural Design and Structural Design in High Seismic Risk Areas : Building Level - San Juan San Juan, Argentina 1989
+  * Inter-relations between Architectural Design and Structural Design in High Seismic Risk Areas : Building Level - San Juan San Juan, Argentina 1989
 
-  * Unordered List ItemEarthquake-proof Norms Concar 70
+  * Earthquake-proof Norms Concar 70
 
-**Authors**
+=== Authors ===
 
-<html>
-<table>
-   <tr>
-     <th>Name</th>
-     <th>Title</th>
-     <th>Affiliation</th>
-     <th>Location</th>
-   </tr>
-   <tr>
-     <td>Virginia I Rodriguez</td>
-     <td>Architect</td>
-     <td>Professor and Researcher</td>
-     <td>B# UDAP III M.EMblock 1 Piso 1# 5425 San Juan # Argentina</td>
-   </tr>
-   <tr>
-     <td>Maria I Yacante</td>
-     <td>Architect</td>
-     <td>Professor and Researcher</td>
-     <td>Av. Libertador 1068 (s) 5400 San Juan # Argentina</td>
-   </tr>
-   <tr>
-     <td>Sergio Reiloba</td>
-     <td>Architect</td>
-     <td>Professor and Researcher</td>
-     <td>Napole#n Borini 4955 (o) 5400 San Juan # Argentina</td>
-   </tr>
-</table>
-</html>
+^ Name ^ Title ^ Affiliation ^ Location ^
+| Virginia I Rodriguez | Architect | Professor and Researcher | B# UDAP III M.EMblock 1 Piso 1# 5425 San Juan # Argentina | 
+|Maria I Yacante | Architect | Professor and Researcher | Av. Libertador 1068 (s) 5400 San Juan # Argentina |
+| Sergio Reiloba | Architect | Professor and Researcher | Napole#n Borini 4955 (o) 5400 San Juan # Argentina |
 
-**Reviewers**
 
-<html>
-<table>
-   <tr>
-     <th>Name</th>
-     <th>Title</th>
-     <th>Affiliation</th>
-     <th>Location</th>
-   </tr>
-   <tr>
-     <td>Sergio Alcocer</td>
-     <td>Director of Research</td>
-     <td>Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM</td>
-     <td>Mexico DF 4510, MEXICO</td>
-   </tr>
-</table>
-</html>
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO |
