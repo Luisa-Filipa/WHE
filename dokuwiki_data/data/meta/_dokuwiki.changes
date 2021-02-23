@@ -381,3 +381,90 @@
 1614025310	172.18.0.1	E	reports:report_5	luisa	[4. Socio-Economic Issues] 		-80
 1614025332	172.18.0.1	E	reports:report_5	luisa	[5. Earthquakes] 		79
 1614025362	172.18.0.1	E	reports:report_5	luisa	[6. Retrofit Information] 		77
+1614031293	127.0.0.1	E	addreport		external edit		146
+1614082386	172.18.0.1	E	addreport	luisa			-135
+1614082486	172.18.0.1	E	addreport	luisa			-2
+1614082605	172.18.0.1	E	addreport	luisa			13
+1614082923	172.18.0.1	E	addreport	luisa			-9207
+1614083407	172.18.0.1	E	addreport	luisa			-1
+1614083492	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		178
+1614083796	172.18.0.1	E	addreport	luisa			7
+1614083808	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		154
+1614083929	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		156
+1614083985	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		142
+1614084298	172.18.0.1	E	addreport	luisa			28
+1614084317	172.18.0.1	E	addreport	luisa			2
+1614084332	172.18.0.1	E	addreport	luisa			0
+1614084370	172.18.0.1	E	addreport	luisa			-13
+1614084380	172.18.0.1	C	unapprovedreports:numberofpages:reports	luisa	Created from the form at addreport		140
+1614084633	172.18.0.1	E	addreport	luisa			12
+1614084641	172.18.0.1	C	unapprovedreports:wiki_numberofpages:reports_wiki	luisa	Created from the form at addreport		142
+1614084670	172.18.0.1	E	addreport	luisa			1
+1614084705	172.18.0.1	E	addreport	luisa			-39
+1614084721	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		142
+1614084952	172.18.0.1	E	addreport	luisa			4
+1614084961	172.18.0.1	C	unapprovedreports:tfgf_rrgs	luisa	Created from the form at addreport		142
+1614085023	172.18.0.1	C	unapprovedreports:aaa_bbb	luisa	Created from the form at addreport		139
+1614085080	172.18.0.1	E	addreport	luisa			3
+1614085088	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_lisacosta99_gmail.com	luisa	Created from the form at addreport		142
+1614085099	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_asd	luisa	Created from the form at addreport		142
+1614085213	172.18.0.1	E	addreport	luisa			14
+1614085227	172.18.0.1	E	addreport	luisa			2
+1614085254	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_asd	luisa	Created from the form at addreport		144
+1614085442	172.18.0.1	E	addreport	luisa			-9
+1614085453	172.18.0.1	C	unapprovedreports:tfgf_rrgs	luisa	Created from the form at addreport		142
+1614085684	172.18.0.1	E	addreport	luisa			6
+1614085697	172.18.0.1	C	unapprovedreports:2021:ddd:aaa_bbb	luisa	Created from the form at addreport		139
+1614085757	172.18.0.1	C	unapprovedreports:2021:kkkk:vvvv_sss	luisa	Created from the form at addreport		141
+1614085900	172.18.0.1	E	addreport	luisa			-2
+1614086281	172.18.0.1	C	unapprovedreports:2021:lll:llll_llll		Created from the form at addreport		142
+1614088950	172.18.0.1	E	addreport	luisa			62
+1614088969	172.18.0.1	C	unapprovedreports:2021:lk:rrgs_lisacosta99_gmail.com	luisa	Created from the form at addreport		159
+1614089093	172.18.0.1	C	unapprovedreports:2021:12:rrgs_hhhh		Created from the form at addreport		142
+1613214913	127.0.0.1	E	sidebar		external edit		2
+1614089423	172.18.0.1	E	sidebar	luisa			43
+1614089766	172.18.0.1	C	unapprovedreports	luisa	created		9
+1614089829	172.18.0.1	E	unapprovedreports	luisa			19
+1614089868	172.18.0.1	E	unapprovedreports	luisa			7
+1614089932	172.18.0.1	E	unapprovedreports	luisa			-1
+1614089952	172.18.0.1	E	unapprovedreports	luisa			1
+1614090144	172.18.0.1	E	unapprovedreports	luisa			18
+1614090203	172.18.0.1	E	addreport	luisa			-6
+1614090237	172.18.0.1	C	unapprovedreports:fff:fff_fff	luisa	Created from the form at addreport		139
+1614090325	172.18.0.1	E	addreport	luisa			-10
+1614090343	172.18.0.1	C	unapprovedreports:qwe:qwe	luisa	Created from the form at addreport		139
+1614090426	172.18.0.1	R	addreport	luisa	old revision restored (2021/02/23 14:23)	1614090203	5
+1614090439	172.18.0.1	C	unapprovedreports:qwe:wqe:qwe	luisa	Created from the form at addreport		139
+1614090495	172.18.0.1	C	unapprovedreports:fff:lll:lisacosta99_gmail.com	luisa	Created from the form at addreport		139
+1614090539	172.18.0.1	E	addreport	luisa			-4
+1614090576	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com	luisa	Created from the form at addreport		139
+1614090615	172.18.0.1	E	addreport	luisa			0
+1614090637	172.18.0.1	C	unapprovedreports:12	luisa	Created from the form at addreport		157
+1614090972	172.18.0.1	E	unapprovedreports	luisa			-14
+1614091013	172.18.0.1	E	unapprovedreports	luisa			29
+1614091118	172.18.0.1	E	unapprovedreports	luisa			26
+1614091247	172.18.0.1	E	addreport	luisa			3
+1614091261	172.18.0.1	C	unapprovedreports:rrgs:asfdsf	luisa	Created from the form at addreport		144
+1614091311	172.18.0.1	E	addreport	luisa			-2
+1614091400	172.18.0.1	E	addreport	luisa			70
+1614091414	172.18.0.1	C	unapprovedreports:buildingqwe	luisa	Created from the form at addreport		139
+1614091460	172.18.0.1	E	addreport	luisa			0
+1614091493	172.18.0.1	C	unapprovedreports:building36	luisa	Created from the form at addreport		147
+1614091614	172.18.0.1	C	unapprovedreports:buildingplo	luisa	Created from the form at addreport		139
+1614091738	172.18.0.1	E	addreport	luisa			-9
+1614091752	172.18.0.1	C	unapprovedreports:building12	luisa	Created from the form at addreport		140
+1614091817	172.18.0.1	R	addreport	luisa	old revision restored (2021/02/23 14:44)	1614091460	-59
+1614091835	172.18.0.1	C	unapprovedreports:qwe_lll	luisa	Created from the form at addreport		139
+1614093063	172.18.0.1	E	sidebar	luisa			1
+1614031293	127.0.0.1	E	start		external edit		91
+1614093278	172.18.0.1	E	start	luisa	[Housing Reports] 		-5
+1614093366	172.18.0.1	E	start	luisa			-3
+1614093459	172.18.0.1	E	start	luisa	[Housing Reports] 		-351
+1614093508	172.18.0.1	E	start	luisa			1
+1614093605	172.18.0.1	E	start	luisa	[Housing Reports] 		11
+1614093810	172.18.0.1	C	unapprovedreports:sss_lll	luisa	Created from the form at addreport		139
+1614094225	172.18.0.1	C	reports:report_66	luisa	↷ Page moved and renamed from unapprovedreports:sss_lll to reports:report_66		139
+1614094225	172.18.0.1	D	unapprovedreports:sss_lll	luisa	↷ Page moved and renamed from unapprovedreports:sss_lll to reports:report_66		-139
+1614094399	172.18.0.1	C	unapprovedreports:teste_teste	luisa	Created from the form at addreport		145
+1614094532	172.18.0.1	C	reports:report_669	luisa	↷ Page moved and renamed from unapprovedreports:teste_teste to reports:report_669		145
+1614094532	172.18.0.1	D	unapprovedreports:teste_teste	luisa	↷ Page moved and renamed from unapprovedreports:teste_teste to reports:report_669		-145

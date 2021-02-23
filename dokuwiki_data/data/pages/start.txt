@@ -81,12 +81,4 @@ part of this material in any publication of your own, you are required to obtain
 
 ==== Housing Reports ====
 
-[[reports:report_1|Confined block masonry house, Argentina]]
-
-[[reports:report_2|Traditional adobe house, Argentina]]
-
-[[reports:report_3|Steel frame buildings with shear walls, Chile]]
-
-[[reports:report_4|Concrete shear walls buildings, Chile]]
-
-[[reports:report_5|Reinforced clay/concrete block masonry building, Chile]]
+<nspages -tree reports -exclude -subns -pagesInNs -h1 -textNs="">

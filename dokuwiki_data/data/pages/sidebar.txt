@@ -1,3 +1,4 @@
 ====== Index ======
   * [[start|Home]]
   * [[about|Reports]]
+  * [[unapproved_reports|unapproved reports]]

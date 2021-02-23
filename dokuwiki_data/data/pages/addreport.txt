@@ -1,147 +1,21 @@
 ====== Add new Report ======
 
 <form>
-Action mail me@example.com
+Action template reportstpl :unapprovedreports::
+
 Thanks "Thanks for submitting your valuable data."
+
+file "general info photo" ":unapprovedreports:@@Token@@:"
 
 Fieldset "1. General Information"
 
-Textbox "Building Type (Indigenous name for the housing type): "
-Textbox  "Country: "
-textarea  "Region(s) Where Found:
- (Provide the name(s) of the region(s) where this housing type
-exists; the region might indicate state, province or a similar political entity; if possible,indicate percentage this housing type as a fraction of the entire housing stock in the region) "
+Textbox "Building Type (Indigenous name for the housing type):" @
 
-textarea  "Summary: provide a brief summary of the housing type; the summary should include the description of building function, structural strengths and deficiencies, and expected seismic performance."
+Textbox  "Country:" @
 
-select "How long has this construction type been practiced?" "Less than 25 years|25-60 years|51-75 years|76-100 years|101-200 years|More than 200 years"
+textbox "Email" 
 
-yesno "Is this construction type still being practiced?"
+textbox "Token" 
 
-multiselect "Building Occupancy: Select all that apply" "Residential, unknown type|Single dwelling|Multi-unit, unknown type|Residencial, 2 units|Residencial, 3-4 units|Residencial, 5-9 units|Residencial, 10-19 units|Residencial, 20-49 units|Residencial, 50+ units|Temporary lodging|Institutional housing|Mobile home|Informal housing|Mixed residencial/commercial|Other"
- 
-number "Typical Number of Stories:"
-
-static "Indicate how often this construction type in the given terrain?"
-select "Flat" "Typically|Occasionally|Never"
-select "Sloped (hilly)" "Typically|Occasionally|Never"
-
-textarea "Additional Comments on Section 1:"
-
-Fieldset "2. Features"
-
-select "Sloped (hilly)" "Unknown plan shape|Square, solid|Square, with an opening in plan|Rectangular, solid|Rectangular, with an opening in plan|L-shape|Curved, solid(e.g. circular, elliptical, ovoid)|Curved, with an opening in plan|Triangular, solid|Triangular, with an opening in plan|Polygonal, solid(e.g. trapezoid, pentagon, hexagon)|Polygonal, with an opening in plan|E-shape|H-shape|S-shape|T-shape|U-shape|U- or C- shape|X-shape|Y-shape|Irregular plan shape|Other"
-
-textarea "Additional comments on plan shape: (If Other selected above, please describe.)"
-
-static "Plan Dimensions"
-
-Textbox "Typical Plan Length (meters):"
-
-Textbox "Typical Plan Width (meters):"
-
-Textbox "Typical Story Height (meters):"
-
-static "----fazer 2.3-------"
-
-textarea "Additional comments on structural system: (If Other selected, please explain. If there is more than one type of structural system, please explain.)"
-
-textarea "Gravity load-bearing & lateral load-resisting systems: (Describe the key elements)"
-
-static "Typical Wall Densities (total wall area (excluding openings)/plan area (for each floor)): Use the area of all walls in one direction divided by the area of the plan, and then do it for the walls going in the other direction (also divided by the area of the plan). Give a number for each direction if they are different."
-
-select "" "0-1%|1-2%|2-3%|3-4%|4-5%|5-10%|10-15%|15-20%|>20%"
-
-select "" "0-1%|1-2%|2-3%|3-4%|4-5%|5-10%|10-15%|15-20%|>20%"
-
-textarea "Additional comments on typical wall densities:"
-
-textarea "Wall Openings: Housing vulnerability is significantly affected by openings in the walls (e.g. doors and windows), and especially their number, size and position; this statement is
-particularly valid for loadbearing masonry and concrete wall structures. Provide the number, size and position of openings for a typical floor in a building. If possible, provide an estimate (expressed in %) for the overall window and door areas as a fraction
-of the overall wall surface area."
-
-yesno "Is it typical for buildings of this type to have common walls with adjacent buildings?"
-
-textarea "Modification of Buildings: (Describe typical patterns of modification observed (i.e. infill balconies, demolishing interior walls or columns, extensions to buildings, new stairs, etc.))"
-
-multiselect "Type of Foundation: (Select all that apply)" "Shallow Foundation: Wall or column embedded in soil, without footing|Shallow Foundation:Rubble stone, fieldstone isolated footing|Shallow Foundation:Rubble stone, fieldstone strip footing|Shallow Foundation:Reinforced concrete isolated footing|Shallow Foundation:Reinforced concrete strip footing|Shallow Foundation:Mat foundation|Shallow Foundation:No foundation|Deep Foundation:Reinforced concrete bearing piles|Deep Foundation:Reinforced concrete skin friction piles|Deep Foundation:Steel bearing piles|Deep Foundation:Wood piles|Deep Foundation:Steel skin friction piles|Deep Foundation:Cast-in-place concrete piers|Deep Foundation:Caissons|Other Foundation"
-
-textarea "Additional comments on foundation: (If other selected, please explain. If there is more than one foundation type, please explain)"
-
-multiselect "Type of Floor System: (Select all that apply)" "No elevated or suspended foor system (single-story building)|Masonry floor, unknown|Vaulted masonry floor|Shallow-arched masonry floor|Composite cast-in-place reinforced concrete and masonry floor system|Earthen floor, unknown|Concrete floor, unknown|Cast-in-place beamless reinforced concrete floor|Precast concrete floor with reinforced concrete topping|Precast concrete floor without reinforced concrete topping|Metal floor, unknown|Metal beams, trusses, or joists supporting light flooring|Metal floor beams supporting precast concrete slab|Composite steel deck and concrete slab|Wooden floor, unknown|Wooden beams or trusses and joists supporting light flooring|Wooden beams or trusses and joists supporting heavy flooring|Wood-based sheets on joists or beams|Plywood panels or other light-weight panels for floor|Other floor system"
-
-textarea "Additional comments on foundation: (If other selected, please explain. If there is more than one foundation type, please explain)"
-
-multiselect "Type of Roof System: (Select all that apply)" "Roof material unknown|Masonry roof, unknown|Vaulted masonry roof|Shallow-arched masonry roof|Composite masonry and concrete roof system|Earthen roof, unknown|Vaulted earthen roof|Concrete roof, unknown|Cast-in-place beamless reinforced concrete roof|Cast-in-place beam-supported reinforced concrete roof|Precast concrete roof with reinforced concrete topping|Precast concrete roof without reinforced concrete topping|Metal roof, unknown|Metal beams or trusses supporting light roofing|Metal roof beams supporting precast concrete slab|Composite steel roof deck and concrete slab|Wooden roof, unknown|Wooden structure with light roo covering|Wooden beams or trusses with heavy roof covering|Wooden beams or trusses with Wood-based sheets on rafters or purlinsheavy roof covering|Plywood panels or other light-weight panels for roof|Bamboo, straw, or thatch roof|Inflatable or tensile membrance roof|Fabric roof, other|Roof system, other"
-
-textarea "Additional comments on roof system: (e.g. is roof diaphragm rigid or flexible?)"
-
-textarea "Type of infill wall material: (if applicable)"
-
-textarea "Additional Comments on Section 2"
-
-
-Fieldset "3. Building Materials and Construction Process"
-
-
-
-
-Fieldset "4. Socio-Economic Issues"
-
-textarea "Patterns of Occupancy:"
-
-static "Typical number of inhabitants"
-
-multiselect "How many inhabitants reside in a typical building of this construction type during the day? (i.e. during business hours) (select all that apply)" "<5|5-10|10-20|>20|Other"
-
-multiselect "How many inhabitants reside in a typical building of this construction type in the evening/night? (select all that apply)" "<5|5-10|10-20|>20|Other"
-
-textarea "Additional comments on number of inhabitants: (if Other selected, specify number)"
-
-multiselect "Economic Level of Inhabitants*: (Select all that apply)" "Very low-income class (very poor)|Low-income class (poor)|Middle-income class|Hight-income class (rich)"
-
-static "*Below are the general guidelines related to the economic status of the inhabitants:"
-
-static "Very Poor = lowest 10% of the population (per GDP)"
-static "Poor = lowest 30% of the population"
-static "Middle Class = from the lowest 30% up to the top 20% of the population"
-static "Rich = top 20% of the population"
-
-textarea "Additional comments on economic level of inhabitants:"
-
-multiselect "What is the typical source of financing for buildings of this type? (Select all that apply)" "Owner finances|Personal savings|Informal network: friends or relatives|Small lending institution/microfinance institutions|Commercial banks/mortagages|Investment pools|Combination|Government-owned housing|Other"
-
-textarea "Additional comments on financing: (If Combination or Other selected, please explain)"
-
-multiselect "Type of ownership for buildings of this type? (Select all that apply)" "Rent|Own outright|Own with debt (mortgage or other)|Units owned individually (condominium)|Owned by group or pool|Long-term lease|Other"
-
-textarea "Additional comments on ownership: (if Other selected, please explain)"
-
-static "Insurance:"
-
-yesno "Is earthquake insurance for this construction type typically available?"
-
-textarea "If earthquake insurance is available, what does this insurance typically cover/cost?"
-
-yesno "Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?"
-
-textarea "Additional comments on premium discounts:"
-
-
-
-
-
-
-
-textarea "Additional Comments on Section 4"
-
-Fieldset "5. Earthquake"
-
-Fieldset "6. Earthquake"
-
-Fieldset "7. Confirm"
-
-textbox "Token"
-textbox "Email"
 submit "Submit Query"
 </form>

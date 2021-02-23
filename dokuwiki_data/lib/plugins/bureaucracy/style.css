@@ -49,7 +49,7 @@
 
 .dokuwiki form.bureaucracy__plugin label input.edit,
 .dokuwiki form.bureaucracy__plugin label select {
-    width: 50%;
+    width: 100%;
 }
 .dokuwiki form.bureaucracy__plugin label input.datepicker,
 .dokuwiki form.bureaucracy__plugin label input.timefield {
