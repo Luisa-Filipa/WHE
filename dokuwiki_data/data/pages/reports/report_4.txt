@@ -41,8 +41,8 @@
 
 ==== 2. Features ====
 
-{{gallery> :reports:report_4?rp4_features_*.jpg&250x250&lightbox&crop|}}
-
+{{gallery> :reports:report_4?rp4_features_*.jpg&250x250&lightbox&crop | }}
+ 
 
 **Plan Shape:** Rectangular, solid
 
@@ -90,7 +90,7 @@
 
 ==== 3. Buildings Process ====
 
-{{gallery> :reports:report_4?rp4_building_process_*.jpg&220x220&lightbox&crop&2 |}}
+{{gallery> :reports:report_4?rp4_building_process_*.jpg&200x200&lightbox&crop | }}
 
 
 === Description of Building Materials===
@@ -281,7 +281,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery> :reports:report_4?rp4_retrofit_*.jpg&250x250&lightbox&crop |}}
+{{gallery> :reports:report_4?rp4_retrofit_*.jpg&250x250&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

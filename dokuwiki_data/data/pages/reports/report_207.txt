@@ -1,0 +1,133 @@
+====== Confined and internally-reinforced concrete block masonry, Jamaica ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_207:rp207_general_info.jpg?nolink&300*300 |}}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 207
+
+**Building Type:** Confined and internally-reinforced concrete block masonry
+
+**Indigenous Building Type:** Concrete Block House
+
+**Country:** Jamaica
+
+**Author(s):** Kemmar Webber, Lars Abrahamczyk
+
+**Last Updated:** 03/20/2020
+
+**Regions Where Found:** This type of house is found in the capital Kingston and all over the island. Confined reinforced-concrete masonry represents approximately 53.6% of the structures in Kingston.
+
+**Summary:** Since the 1907 earthquake in Jamaica which destroyed many brick and timber-framed structures, residents have chosen to adopt the confined reinforced-concrete masonry building technology. These buildings are for both single- and multi-family use. The concrete masonry blocks confined with horizontal belt beams and vertical concrete columns (stiffeners) are the main lateral load and gravity load-bearing system. The concrete blocks are reinforced with horizontal and vertical steel rebars and are filled with 10MPa concrete. The International Building Code (IBC) is generally used as the structural design provision in Jamaica. The seismic performance is highly dependent on the quality of construction. However, in many cases, the recommended strength of the concrete blocks by the Bureau of Standards Jamaica (BSJ) is not achieved.
+
+**Length of time practiced:** 76-100 years
+
+**Building Occupancy:** Single dwellingResidential, 2 unitsResidential, 3-4 units
+
+**Typical number of stories:** 1
+
+**Comments:** These buildings became popular in the early 1900s. These buildings are typically detached housing units.
+
+{{gallery> :reports:report_207?rp207_general_info_*.jpg&170x170&lightbox&crop | }}
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** These buildings are usually rectangular in plan with lengths between 16 and 24 meters and widths between 8 and 12 meters. Set-backs are not common.
+
+**Type of Structural System:** Masonry: Confined Masonry: Concrete blocks, tie columns and beams
+
+**Additional comments on structural system:** Typically, 150 mm thick masonry concrete blocks are used for the walls. The confinement typically consist of stiffeners/columns at 3 m centers and the reinforcements are typically of 12 mm diameter @ 400 mm c/c vertically and of 10 mm diameter @ 600 mm c/c horizontally (see stiffener details).
+
+**Gravity load-bearing:** The gravity load-bearing system is represented by the masonry walls.
+
+**Lateral load-resisting systems:** The lateral load-bearing system is represented by the masonry walls. The stiffeners/columns confine the masonry and force it to work together. The stiffeners are typically 150 mm x 300 mm and are placed at 3 m on centers.
+
+**Infill wall material:** 
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** The foundation system typically consists of cast-in-place concrete strip footing under both internal and external block walls. The width of the strip footing is normally three times the width of the wall. For this type of structure, the compressive concrete strength specification for footings is 20 MPa @ 28 days.
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floor
+
+**Additional comments on floor system:** 150 mm thick reinforced-concrete floor slabs are applied if the building is constructed with more than one storey. The slabs are reinforced with a layer of 12 mm bars @ 300 mm on center in both directions and top bars over walls for negative moments. A belt beam is used to connect the slab/roof to the wall.
+
+**Type of Roof System:** Wooden structure with light roof covering
+
+**Additional comments on roof system:** The slope of a wooden framed roof in this building type is typically from 20 to 30 degree which and is in most cases gable shaped but may also be hipped or flat. The wooden frame of the gable roof system consists of 2" x 4" rafters and 1" x 3" purlins which support galvanized zinc or clay tiles. These wooden framing roofing have a lifetime of about 30 years as a result of the deterioration of the timber. This type of roofing also often suffers damage and in some cases is even destroyed during hurricanes. On the other hand, this lightweight roofing creates a smaller base shear than heavier systems during earthquake and may be beneficial in this case.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Building Materials and Construction Process ===
+
+**Is this construction type addressed by codes/standards:** No
+
+**Applicable codes or standards:** 
+
+**Unit construction cost:** This type of structure typically cost approximately JM$ 130,000 (US$ 1045/sqm).
+
+**Day:** 1
+
+**Night:** 3
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Majority of the population uses this housing type and from statistical data, 70% of the population in Jamaica lives in reinforced concrete or block wall masonry structures. The residents are generally from the middle class.
+
+----
+
+==== 4. Earthquakes ====
+
+=== Earthquakes ===
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+**Is earthquake insurance for this construction type typically available:** Yes
+
+**Damage patterns observed in past earthquakes for this construction type:** Earthquakes that affected these types of structures include those of March 1957, January 1993, and June 2005 in Jamaica. During the earthquake of January 1993 (Magnitude 5.4), many structures of this type suffered from some degree of cracking ranging from hairline to gaping cracks. "However these un-engineered buildings fared well particularly in the epicentral area" (Ahmad, 1993).
+
+**Seismic deficiency in seismic systems:** Many of these structures are constructed with weak concrete and inadequate lateral reinforcement. Additionally, the strength of the concrete blocks usually does not comply with the minimum recommended standard by the Bureau of Standards Jamaica (BSJ).
+
+**Seismic deficiency in foundation:** No record of the performance of the foundation is made during former earthquake events. On firm soil or rock, the seismic performance is expected to be good.
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o |  %%-|%% |  |  |
+
+**Additional comments on vulnerability rating:** The vulnerability class is assigned based on the EMS-98 methodology. Confined masonry is usually assigned a vulnerability class of D however the strength of the construction materials in most cases are lower than the recommended standards set by the Bureau of Standards Jamaica (BSJ) so the expected vulnerability class is decreased by one level. During the 1993 earthquake (MM VII), many confined reinforced concrete masonry buildings suffered from hairline to gaping cracks (Ahmad 1993). "Some of them suffered because of weak concrete and inadequate lateral reinforcement" (Ahmad, 1993).
+
+----
+
+==== 6. References ====
+
+  * "However these un-engineered buildings fared well particularly in the epicentral area" Ahmad, 1993.
+
+  * "Some of them suffered because of weak concrete and inadequate lateral reinforcement" Ahmad, 1993.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Kemmar Webber | Mr. | National Works Agency | Jamaica | kemmarwebber@nwa.gov.jm |
+| Lars Abrahamczyk | Dr.-Ing. | Bauhaus-University Weimar, Earthquake Damage Analysis Center | Weimar, Germany | lars.abrahamczyk@uni-weimar.de |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Brzev | Adjunct Professor | University of British Columbia | Canada | sbrzev@mail.ubc.ca |

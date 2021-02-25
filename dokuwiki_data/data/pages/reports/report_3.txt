@@ -1,7 +1,7 @@
 ====== Steel frame buildings with shear walls, Chile ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_3:rp3_general_info_1.jpg?nolink&1398*935 |}}
+{{ :reports:report_3:rp3_general_info_1.jpg?nolink&300*300 | }}
 
 ----
 
@@ -89,7 +89,7 @@
 
 ==== 3. Buildings Process ====
 
-{{gallery> :reports:report_3?rp3_building_process_*.jpg&160x160&lightbox&crop |}}
+{{gallery> :reports:report_3?rp3_building_process_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -295,7 +295,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 **What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** 
 
-**Additional comments section 6:** 
+**Additional comments section 6:**
 ----
 
 ==== 7. References ====

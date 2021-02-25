@@ -1,0 +1,331 @@
+====== Concrete frame and shear wall building, Chile ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_6:rp6_general_info_1.jpg?nolink&150*250 | }}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 6
+
+**Building Type:** Concrete frame and shear wall building
+
+**Country:** Chile
+
+**Author(s):** 	Ofelia Moroni, Cristian Gomez
+
+**Last Updated:**
+
+**Regions Where Found:** Buildings of this construction type can be found in all main cities of the country: Iquique, Antofagasta, Concepcion,Temuco, Valparaiso, Vina del Mar and Santiago. This type of housing construction is commonly found in urbanareas.
+
+**Summary:** Buildings of this type are used mainly for offices or hotels and they are found in the large cities throughout the country. At the present time this building type represents about 15-20% of the highrise building stock in Chile (building more than 10 stories high). The structural system consists of reinforced concrete frames and shear walls. The walls are typically located around the staircases and the elevators, while the frames may be uniformly distributed in plan or at the perimeter only. Most of the lateral load-bearing elements exist along the full building height in the elevation and in both directions of the building plan. In some buildings the walls are perforated with openings and coupled with lintel beams. Some buildings of this type have one or more basement floors.In general, these buildings are quite stiff. Seismic performance is very good, strength and stiffness are controlled, and torsion effects are minimal. Problems that may occur in the future are related to the reduction in the wall density, and introduction of soft storey or torsional effects.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Mixed residential/commercial
+
+**Typical number of stories:** 10-30
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** In some buildings commercial ground floor includes a big hall.
+
+{{ :reports:report_6:rp6_general_info_2.jpg?nolink&200 | }}
+
+----
+
+==== 2. Features ====
+
+{{gallery> :reports:report_6?rp6_features_*.jpg&160x160&lightbox&crop | }}
+
+**Plan Shape:** Rectangular, solidOther
+
+**Additional comments on plan shape:** From rectangular to octagonal.
+
+**Typical plan length (meters):** 20
+
+**Typical plan width (meters):** 40
+
+**Typical story height (meters):** 3.2
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Dual system Frame with shear wall
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete structural walls (with frame). Shear walls and frames play bothrole as both the lateral and gravity load-bearing elements. In addition, gravity load-resisting beams may exist.The lateral load-resisting system is reinforced concrete structural walls (with frame). Shear walls provide enoughstrength and stiffness to control displacements in the lower floors while the frames control displacements in the upperfloors. In some cases the walls are coupled with lintel beams, which are able to dissipate energy when subjected tosevere earthquakes and are easily repairable afterwards. In general these buildings are quite stiff because they must resista base shear of 5 - 6.7% depending on the seismic zone and the story drift must be equal or less than 0.002. The faadeframes may not be linked to the stair or elevator walls, in which case the slab must transfer lateral loads from oneelement to the other. Stiffness and mass distribution are regular in plan but some irregularities may appear at the topfloors due to reduction in floor area. Most of them may have symmetry axes in at least one direction of the plan. Theratio Total Height/Period (H/T) has been defined as representative of building stiffness, being normal valuesbetween 40 to 70 m/sec. However, in the last decade this value had diminished and about 7% of the buildings haveH/T between 20 to 40 m/sec. This may lead to larger story drift and damage due to earthquakes.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 1-2%
+
+**Typical wall densities in direction 2:** 1-2%
+
+**Additional comments on typical wall densities:** Ranges from 1.5% to 2.5% in each direction. Only 25% buildings of this type have wall density less than 1.5% but larger than 0.5%. Figure 8 shows the variation with time of the wall density.
+
+**Wall Openings:** In this country there is not standardization for any element: window, door, etc, so it is not possible to provide any number or size of openings.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?** No
+
+**Modifications of buildings:** The most popular may be infill balconies.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundation
+
+**Additional comments on foundation:** Probably the mat foundation is more typical as most of these buildings possess a basement.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Floor system(s): Structural concrete: cast in place solid slabs, post-tensioned slabs, precast solid slabs The floors and the roof are considered as rigid diaphragms for seismic analysis. With post-tensioned slab larger span between the central core walls (elevators and stairs) and some frames can be used.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Roof system(s): Structural concrete: cast in place solid slab, precast solid slabs; Timber: wood planks or beams with ballast and concrete or plaster finishing, wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles, wood planks or beams supporting natural stones slates The floors and the roof are considered as rigid diaphragms for seismic analysis. With post-tensioned slab larger span between the central core walls (elevators and stairs) and some frames can be used.
+
+**Additional comments section 2:** According to NCH433.of96 it must be at least 1.5 cm or 0.002*total height of the building. In addition, there are some dispositions about distance to neighbor site or free space for parking. So, individual buildings in a block may be separated up to 10 meters. These are typically located close together in some specific neighborhoods. In Santiago there are some new developed neighborhood where corporate buildings are widely spaced.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced Concrete | Characteristic Strength- 1.5-4.0/25-35/1.5-2.0 st/f'c/shear strengthMix Proportion/Dimensions- 3:1:0.5 |
+| Foundations | Reinforced Concrete | Characteristic Strength: 1.4-2.2/25/1.5 st/f'c/shear strengthMix Proportion/Dimensions: 3:1:0.5 |
+| Floors | Reinforced Concrete | Cylinder compressive strength of concrete: 25-30 MPa |
+| Roof | Reinforced Concrete | Cylinder compressive strength of concrete: 25-30 MPa |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The landowner and a construction firm (developer) hire an architectural office and structural engineer to design the building. Modern equipment such as crane, premix concrete, industrial formwork etc. is used in the construction.The construction of this type of housing takes place in a singlephase. Typically, the building is originally designed for its final constructed size.
+
+**Expertise of those involved in the design:** The structural engineer typically has a background consisting of 6 years of academic studies and more than 3-5 years of experience. The construction engineer may have 6 years of studies and less experience than the structural engineer. The inspection during the construction is not mandatory and there is no peer review of the structural project. The designer may visit the construction site once or twice during the construction.
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Other
+
+**Roles of those involved in the building process** It is built by developers or as initiative of a firm or a hotel.
+
+**Expertise of those involved in building process**	
+
+**Construction process and phasing** This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues** The main problems are associated to the construction process: construction joints badly done or existence of honeycombs.
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards** Nch433.of96 Seismic Design Until 1993 the NCh433.of72 was in force. The last two numbers indicates the year since the code is in force. Provisional dispositions to design this type of buildings existed since 1966. The most recent code/standard addressing this construction type was issued 1996. Applicable national building code, material codes and seismic code/standards: Nch 433.of96 Seismic design of Buildings. The design of structural elements follows ACI 318-95, with some exceptions: reduced reinforcement cover, non-confinement at the wall ends, 16 Mpa minimum compressive strength.B.2.1 Appendix of the NCH433.0f96 Seismic Design of Buildings says: "The design of frames in buildings with "Frame with concrete shear walls-dual system", must follow at least ACI318-95 dispositions 21.8.4 and 21.8.5 when the 75% or more of the story shear in any direction of analysis is resisted by the shear walls and any frame individually resists less than 10% of the story shear. The same may apply when the seismic forces acting on the building are calculated with a reduced modification factor".B.2.2 says: "The shear wall design doesn't need to follow dispositions 21.6.6.1 to 21.6.6.4 of ACI318-95."
+
+**Process for building code enforcement** The building design must follow the NCh433.of96 code, although nobody checks this. In case of damage an arbitrage process may take place at the court of justice.
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules	**
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction**	
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition**
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost** For an standard building construction may be 15 - 30 UF/m2 (400 - 800 US/m2 ). Selling price will be 40 - 50 UF/m2(1,050 - 1,400 $US/m2). In the last years, "intelligent buildings" had been constructed that include air conditioning,computer, energy-savings devices, etc. For this case the construction cost may be up to 30-45 UF/m2 (800 - 1,225$US/m2). Selling price will be 50 - 70 UF/m2 (1,400 - 1,850 $US/m2).
+
+**Labor requirements** Nowadays this is quite rapid, probably one or two floors per month.
+
+**Additional comments section 3**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** These are mainly office buildings and therefore nobody resides in them with the exception of some administrative workers unless the building is used as a hotel.Each building typically has 21-50 housing unit(s). One institution may own one or more floors.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20 
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** During the day the building will have complete occupancy, however some buildings may also be occupied in the night (night shifts).
+
+**Economic level of inhabitants:** High-income class (rich)
+
+**Additional comments on economic level of inhabitants:** We are identifying the entrepreneurs or the owners of the offices, not the people working in these buildings.Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesInvestment poolsOther
+
+**Additional comments on financing:** Other: Government owned offices.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Owned by group or poolLong-term lease
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance are optional added to fire insurance. In case of damage, this insurancewill cover repair work and contents.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:**
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+{{gallery> :reports:report_6?rp6_earthquakes_*.jpg&160x160&lightbox&crop | }}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1960 | Valdivia, X Region | 9.5 | XI (MMI) |
+| 1985 | Llolleo | 7.8 | VIII (MMI) |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In the southern part of Chile, buildings of this type did not exist at the time of the 1960 earthquake, and the only reported example of damage is the hospital in Valdivia.In the 1985 earthquake, structural damage was not reported in buildings of this type with the exception of the San Antonio Hospital, located very close to epicenter. Out of plane tilting occurred in some non-structural masonry walls at the third floor level (Figure 9) and some columns, not properly confined, in the first floor were damaged at the top. (Figures 9,10 and 11). In fact there were two building blocks-one of them was 3-story high and one basement with no damage, whereas the other one was 4 story high with a flower stand on the top floor that was damaged.The other photo (Figure 12) represent a 4-story buildings at Valparaiso that had experienced some damage in interior panel and contents. 
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction, in its frame element, were a tilt out of plane of non-structural elements and short column failures.
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:**
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** Soft/weak storyChange in vertical structure
+
+**Seismic deficiency in walls:** None
+
+**Earthquake-resilient features in walls:** The main characteristic of Chilean buildings is the high wall density ratio.
+
+**Seismic deficiency in frames:** Non-structural elements not properly separated from the structures.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Some damage has been reported in slab with openings, i.e. between stairs and elevators, when there are not lintels and the slab works as a coupling element if no special reinforcements have been provided.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | | | %%|-%% | o |
+
+**Additional comments section 5	**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Short column | To separate the non-structural elements from the column |
+| Non-structural elements connections | To provide support against out of plane deformations |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?:** The hospital at San Antonio was repaired; however, the details are not available.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** This is not a common activity in Chile. The only situation when buildings are repaired is after an earthquake, when some constructive deficiencies appeared. It is normal to observe some small cracks in the concrete.
+
+**Was the construction inspected in the same manner as new construction?:** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** A contractor performed the construction, of course an architect and engineer were involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Since 2001, no subsequent earthquake has occurred in the central zone of Chile.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Ingenieria Sismica: El caso del sismo del 3 de marzo de 1985", (1993) ed. por Rodrigo Flores Bonelli, P. (1986), "Actividades de Investigacion, 1986", Universidad Tcnica Federico Santa Maria, Edicion especial.
+
+  * Gomez Cristian, (2001), "Caracterizacion de sistemas estructurales usados en las viviendas de hormigon armado y albanileria reforzada en Chile", Civil Engineer Thesis, Universidad de Chile.
+
+  * Guzman, M. (1998), "Caracterizacion de tipologias estructurales usadas en el diseno de edificios altos en Chile",Civil Engineer Thesis, Universidad de Chile
+
+  * Kupfer, M., Lagos R., (1999), "Apuntes para el curso CI52G, Proyecto de Hormigon Armado", Depto de Ing. Civil, Universidad de Chile.
+
+  * Moroni, M., Guzman M., (1998) "Evolucion de las Tipologias Estructurales usadas en Chile en Edificios Altos", Boletin de Informacion Tecnologica, Ano 5, No 12, pp 25-27.
+
+  * Munoz, C. (1999), "Aplicacion de diferentes criterios de diseno de marcos de hormigon armado pertenecientes a sistemas estructurales mixtos (muros y marcos)" Civil Engineer Thesis, Universidad de Chile Sarrazin, M. (1992)
+
+  * "History of Chilean Seismic Regulations", Bulletin IISEE, Vol 26.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ofelia Moroni | Civil Engineer/Associate Professor | University of Chile | Casilla 228/3, Santiago Chile | mmoroni@cec.uchile.cl |
+| Cristian Gomez | Civil Engineer/Research Assistant | University of Chile | Casilla 228/3, Santiago Chile | crgomez@cec.uchile.cl |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx |

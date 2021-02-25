@@ -1,7 +1,7 @@
 ====== Confined block masonry house, Argentina ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_1:rp1_general_info_1.jpg?nolink&1398*935 |}}
+{{ :reports:report_1:rp1_general_info_1.jpg?nolink&400*400 |}}
 
 ----
 
@@ -81,7 +81,7 @@ the family room, in every bedroom and the bathroom. The opening area is about 13
 
 **Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
 
-{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop |}}
+{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop | }}
 
 ----
 

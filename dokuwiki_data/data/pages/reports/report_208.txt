@@ -1,0 +1,132 @@
+====== Reinforced concrete frame and brick infill multi-storey apartment building, Albania ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_208:rp208_general_info.jpg?nolink&300*300 |}}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 208
+
+**Building Type:** Reinforced concrete frame and brick infill multi-storey apartment building
+
+**Indigenous Building Type:** Apartments
+
+**Country:** Albania
+
+**Author(s):** Andrew Charleson
+
+**Last Updated:** 11-03-2020
+
+**Regions Where Found:** These 5 - 15 story apartments are found in the larger cities of Albania, and especially those along the Adriatic coast. For example, many are located in Durres and were badly affected by the November 26, 2019 earthquake.According to the Albanian 2011 census, there were approximately one million family dwellings, of which 185,00 were in apartment buildings. Since 2011 more people are living in apartment buildings built between 1981 and 2020 and so this type of apartment buildings would comprise in the order of 25% of the building stock.
+
+**Summary:** Each apartment building houses many families. The construction type is RC frame and masonry infill. The structural frames are suitable for gravity loads. However, due to the beams/slabs connecting the columns and the irregular orientation of columns in plan, the frames are relatively flexible horizontally. One advantage of the shallow beams is that they are weaker than the columns so few soft-storey collapses occurred during the Nov 26, 2019, Mw 6.4 earthquake. The frame flexibility is problematic due to the widespread use of plastered hollow clay brick partitions and infills. These are very stiff and brittle and can't accept horizontal deformations without very serious damage and often collapse.
+
+**Length of time practiced:** 25-60 years
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 5 - 15
+
+**Comments:** RC frame and infill construction was introduced around 1980. Prior to that unreinforced masonry construction with RC slabs was c
+
+{{gallery> :reports:report_208?rp208_general_info_*.jpg&160x160&lightbox&crop | }}
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Often balconies cantilever off the main frame members. The cantilever spans are typically 1 - 2 m. The plans and elevations are reasonably symmetrical and most critical structural weaknesses such as soft-stories will be usually caused by locations of infill walls rather than structural configuration.
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** Although the structural system has been described as RC frames with URM infills, the frames are poorly configured. First, the beams are very shallow, in fact the same depth as the floor slab (typically 300 mm). Secondly, the RC rectangular columns are orientated in plan to suit space planning rather than structural requirements and so there are few regular multi-bay frames where the longer dimension of columns are parallel with the frames in either the transverse or longitudinal directions. See a typical floor plan.
+
+**Gravity load-bearing:** Gravity loads are resisted by cast-in-place RC ribs separated by hollow clay tile or polystyrene infills to reduce both the volume of concrete and the weight of the flooring. Beams within the same depth as the ribs and infills transfer these loads to RC columns.
+
+**Lateral load-resisting systems:** Lateral loads are intended to be resisted by RC frames in both main orthogonal directions. The frames, as mentioned above, are poorly configured. In practice the stiffer plastered masonry infill and partition walls resist loads until they become badly damaged and collapse.The thickness of infills and interior partitions are approximately 200 mm. Regarding openings in infill and partition walls, some walls have no openings while others have large openings which will greatly reduce the structural influence of those walls.
+
+**Infill wall material:** Older buildings may have infills of solid brick masonry, but more recent and contemporary infills consist of plastered hollow clay bricks.
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** "Other" is selected as the foundation types are unknown although they will be RC. Depending on the soils underlying the site, foundations could be shallow RC footings or mats, or deep RC piles. Many buildings in Durres are located in areas with liquefiable soils but few suffered damage due to differential settlement. However, more damage due to the combination of soil conditions and less-than-ideal foundations would be expected in a larger earthquake.
+
+**Type of Floor System:** Composite cast-in-place reinforced concrete and masonry floor system
+
+**Additional comments on floor system:** In most cases the floor system of suspended floors consists of RC ribs separated by hollow clay tile or polystyrene infill. The RC topping slab, cast at the same time as the ribs creates a diaphragm which in most cases can be assumed to be rigid.There are also an unknown number of buildings with precast concrete hollow-core slabs not tied together with a RC topping. Due to an absence of diaphragm action several of these buildings collapsed during the Nov 26, 2019, Mw 6.4 earthquake.
+
+**Type of Roof System:** Cast-in-place beamless reinforced concrete roof
+
+**Additional comments on roof system:** In most cases the roofs are of the same construction type as typical suspended floors. That is, cast-in-place RC ribs and infill with RC topping.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Building Materials and Construction Process ===
+
+**Is this construction type address by codes/standards?** 
+
+**Applicable codes or standards** Codes of practice are available. There are Albanian codes and more recently designers are using relevant Eurocodes. It is not clear to what extent codes are being complied with during the design and construction processes. An example of non-compliance was observed after the Nov 26 2019 earthquake when tens of infill walls fell from their frames. In no cases were horizontal tie beams, required according to an Albanian code, constructed to prevent this type of face-load wall collapse.
+
+**Unit construction cost** Building permits are required for this building type. It is not clear what degree of, if any, structural quality assurance forms part of the building permit process.Construction costs are unavailable.
+
+**Day** 40
+
+**Night** 100
+
+**Economic level of inhabitants** Middle-income class
+
+**Additional comments on economic level of inhabitants**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Earthquakes ===
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+**Is earthquake insurance for this construction type typically available** Off
+
+**Damage patterns observed in past earthquakes for this construction type** There was little damage after the September 21 Mw 5.6 Durres earthquake. However during the November 26 2019 Mw 6.4 earthquake there were a few buildings with critical structural weaknesses, such as soft-storeys and short columns that collapsed. But there was a large amount of damage to masonry partition and infill walls. Severe non-structural damage occurred to many walls located in the bottom one to five stories. This meant the buildings were dangerous and could not be inhabited until repairs were made.No shear failure was observed in columns and beams due to diagonal strut action in the infill walls.
+
+**Seismic deficiency in seismic systems** Due to irregular column orientation in plan and "beams" that are too shallow, the frames are very flexible and therefore incompatible with the stiff and brittle non-structural walls.
+
+**Seismic deficiency in foundation** Most foundations performed well in the Nov 26 Mw 6.4 earthquake.
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A | B | C | D | E | F |
+| Seismic vulnerability class   |  |  | %%|-%% | %%-|%% |  |  |
+
+**Additional comments on vulnerability rating** These buildings with RC frame and infills have been assigned a vulnerability rating of D. Based upon the Guidelines above the buildings are less vulnerable than those not designed for seismic forces (C) but not as good as a well-designed RC ductile frames with separated non-structural partitions and infills (E).
+
+----
+
+==== 7. References ====
+
+  * https://edcm.edu.gr/images/docs/newsletters/Newsletter_15_2019_Albania_EQ.pdf\\Lekkas, E., Mavroulis, S., Papa, D., Carydis, P. (2019). The November 26, 2019 Mw 6.4 Durres (Albania) earthquake. Newsletter of Environmental, Disaster and Crises Management Strategies, 15, ISSN 2653-9454.
+
+  * N/A\\Charleson, A.W., Vesho, N. and Marku, A. (2020). Structural engineering observations from the 26 November 2019 Mw 6.4 Albanian earthquake. Proceedings of the New Zealand Society for Earthquake Engineering Conference, Wellington, 22-24 April 2020. Paper 191.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Andrew Charleson	 | Adjunct Professor | Victoria University of Wellington | Wellington, New Zealand | Andrew.w.charleson@gmail.com |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dr. Yogendra Singh | Prof. | Indian Institute of Technology Roorkee, Dep. of Earthquake Engineering | Roorkee, Uttarakhand, India | yogendra.eq@gmail.com |

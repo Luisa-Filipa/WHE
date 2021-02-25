@@ -1,7 +1,7 @@
 ====== 	Reinforced clay/concrete block masonry building, Chile ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_5:rp5_general_info_1.jpg?nolink&1398*935 |}}
+{{ :reports:report_5:rp5_general_info_1.jpg?nolink&300*300 | }}
 
 ----
 
@@ -84,13 +84,13 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 **Additional comments section 2:** Typical separation distance between buildings: 5 meters; Buildings of this type are located close together, conforming what is called "conjuntos", "poblaciones" or "villas". They represent several buildings of the same type with some space left for garden or communities activities that most of the time nobody cares about them, ending filled with garbage or at the most as an earth soccer field. In an average, corresponding unit housing area is 40 - 50 m2.
 
-{{gallery> :reports:report_5?rp5_features_*.jpg&160x160&lightbox&crop |}}
+{{gallery> :reports:report_5?rp5_features_*.jpg&160x160&lightbox&crop | }}
 
 ----
 
 ==== 3. Buildings Process ====
 
-{{gallery> :reports:report_5?rp5_building_process_*.jpg&180x180&lightbox&crop&3 |}}
+{{gallery> :reports:report_5?rp5_building_process_*.jpg&180x180&lightbox&crop&3 | }}
 
 === Description of Building Materials===
 
@@ -203,7 +203,7 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 ==== 5. Earthquakes ====
 
-{{gallery> :reports:report_5?rp5_earthquakes_*.jpg&180x180&lightbox&crop&3 |}}
+{{gallery> :reports:report_5?rp5_earthquakes_*.jpg&180x180&lightbox&crop&3 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -284,7 +284,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery> :reports:report_5?rp5_retrofit_*.jpg&180x180&lightbox&crop&3 |}}
+{{gallery> :reports:report_5?rp5_retrofit_*.jpg&180x180&lightbox&crop&3 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

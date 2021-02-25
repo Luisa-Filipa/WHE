@@ -2,7 +2,7 @@
 === From World Housing Encyclopedia ===
 
 
-{{ :reports:report_2:rp2_general_info_1.jpg?nolink&1398*935 |}}
+{{ :reports:report_2:rp2_general_info_1.jpg?nolink&300*300 | }}
 
 ----
 
@@ -76,7 +76,7 @@
 
 **Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
 
-{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop |}}
+{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop | }}
 
 ----
 
@@ -176,7 +176,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop |}}
+{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop | }}
 
 **Past Earthquakes in the country which affected buildings of this type:**
 

@@ -1,0 +1,361 @@
+====== Historic masonry block of flats, Italy ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_206:rp206_general_info.jpg?nolink&300*300 |}}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 206
+
+**Building Type:** Historic masonry block of flats
+
+**Country:** Italy
+
+**Author(s):** Francesca Falchieri (Report's author), Francesca Falchieri (Architectural Designer and Construction Manager), Alfonso La Civita (Structural Designer and Construction Manager)
+
+**Last Updated:** 
+
+**Regions Where Found:** This housing type is in Abruzzo Region, Province of L Aquila, and is very frequent in small medieval villages built in mountainous areas. 90% of the Province of L Aquila is mountainous and about 50% of its municipalities have less than 1.000 inhabitants. Urban structures and buildings built since the Middle Age are very common.
+
+**Summary:** This housing type is typically built on sloped terrain (pic.1). Buildings share common walls with adiacent buildings and the average number of floors ranges from 3 to 5 (pic. 2). The ground floor is sometimes used as cellar or warehouse, whereas the upper floors are used for residential purposes. The walls are built using lime mortar to connect elements that are either bricks or rubble stones or a mix of both in which the bricks are positioned in thin layers every 1.5 - 2 m, in order to align and stabilize the stones. The last floor (attic) is sometimes more recent (probably from the beginning of the XX cent.) and built with different materials (i.e. tuff) or specific construction techniques (i.e. "muro a cassetta", whose bricks are positioned in order to made a very light structure).The floor structures are vaults of different shapes, materials and resistance depending on the function. At the lower levels they are usually thick and made of stones connected by lime mortar, whereas at the upper floors they are made by bricks. At the last level the vaults are usually made by one single brick layer and their sides are usually kept half empty with no walkable floor.The roof is made of timber and it is double pitched, sloping down towards the front and rear walls. This building type has shown a good seismic performance, because the adiacent blocks work all together to stand the earthquake.Strenghtening interventions have been carried out after the main earthquakes.
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 units
+
+**Typical number of stories:** 44289
+
+**Terrain-Flat:** Never
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The building type dates back to the middle ages with a complex later evolution over time expecially since the 18th century.
+
+{{gallery> :reports:report_206?rp206_general_info_*.jpg&160x160&lightbox&crop | }}
+
+----
+
+==== 2. Features ====
+
+{{gallery> :reports:report_206?rp206_features_*.jpg&160x160&lightbox&crop | }}
+
+**Plan Shape:** Rectangular, with an opening in plan
+
+**Additional comments on plan shape:** The plan and the overall shape of the buildings are influenced by the orography. People tried to build as much regurarly as possible, but the result were rectangules with not right angles and sides with very different measures. Sometimes walls are curved.
+
+**Typical plan length (meters):** 3 - 4
+
+**Typical plan width (meters):** 3 - 4
+
+**Typical story height (meters):** 2.5 - 3.5
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)Masonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortarMasonry: Unreinforced Masonry Walls: Brick masonry in mud mortar with vertical postsMasonry: Confined Masonry: Clay brick/tile masonry with wooden posts and beamsWooden Structure: Load-bearing timber frame: Masonry with horizontal beams/planks at intermediate levels
+
+**Additional comments on structural system:** Gravity load-bearing system: thickness and materials depend on the floor level. Walls are thicker at the ground floor and thinner at the upper levels. They are usually made by a mix of bricks and rubble stones in which the bricks are positioned in thin layers every 1.5 - 2 m, in order to align and stabilize the stones. People used to reinforce perimetral corners placing shaped stones usually up to the 2nd floor.At the upper level there are often tuff walls or characteristic structures such as those called "muri a cassetta". They are made by two-wythe walls, in which every two courses of bricks laid edge on there is one course laid face-up, to connect the vertical bricks. The space between the vertical layers is empty, so that the thermal performance of the structure benefits from it and the wall is light.Vaults at the upper floors are often supported by timber frames filled by a partition made by a one-wythe wall, whose bricks are laid edge on. The load bearing structure and the partition are covered by plaster and the wall thickness is about 10 cm.The lime mortar joints are 3-5 mm thick.
+
+**Gravity load-bearing & lateral load-resisting systems:** In the same structure there are usually different construction systems.It depended mainly on the availability of building materials, on the position of the single construction system as part of the overall structure and on the history of the buildings, to whom new rooms were added as families grew.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Every room has usually one window on the external walls.They aligned the windows upright on the facades, but the needs of residents and owners changed over time so that the existing opening layout have been often modified. Misalignments are very common.The openings account for approximately 10% -15% of the wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Door and window openings have often been modified. Very frequent modifications are misalignments, enlargements, windows changed in balcony doors and windows bricked up and opened in different positions.The layout of apartments is quite irregular due to changes occurred over time. As families expanded, they built new storeys or just part of them or they bought rooms from the neighbours. This is the reason why inside the single flats there are often short flights of stairs and the plans are usually irregular, sometimes almost "labyrinthine".
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Vaulted masonry floor
+
+**Additional comments on floor system:** The traditional floor system is the vaulted masonry floor.We currently also find the shallow-arched masonry floor and the metal beams light flooring. The first one was introduced at the beginning of the XX cent and in particular after the earthquake occurred in 1915. The second one was introduced after the earthquake occurred in 1984.
+
+**Type of Roof System:** Wooden structure with light roof covering
+
+**Additional comments on roof system:** The traditional roof system is the wooden structure with light covering.We currently also find the cast-in-place metal beam-supported hollow flat tiles and concrete roof, which was introduced after the 1984 earthquake
+
+**Additional comments section 2:** 
+
+**Infill wall material:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Building Materials and Construction Process ===
+
+{{gallery> :reports:report_206?rp206_building_process_*.jpg&130x130&lightbox&crop | }}
+
+----
+
+=== Description of Building Materials ===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^ 
+| Wall/Frame | Mix of bricks and rubble stones | average compressive strength: 256-413 N/cmqaverage shear strength: 6.2 - 9.0 N/cmq(Baila, A., Binda, L., Borri, A. et al. (2011) - Manuale delle murature storiche, Analisi e valutazione del comportamento strutturale Vol.1, p. 292) | 
+| Foundations | Mix of bricks and rubble stones or rock |  | 
+| Floors | Brick vaults |  | 
+| Roof | Wooden beams |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?:** None of the above
+
+**Roles of those involved in the design process:** The construction process was carried out by masons, so engineers and architect were usually not involved.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Mason
+
+**Roles of those involved in the building process:** The construction was based on the mason's experience. Tricky works such as the construction of vaults were committed to specialized teams of masons.
+
+**Expertise of those involved in building process:** Masons were supposed to meet the owner's needs, working on a budget and using the construction materials available in the area. Their main ability consisted in finding the right balance among forces acting in different directions on light and thin structures. They basically had to make sure that the stiffness of all the structural elements was coherent as a whole.
+
+**Construction process and phasing:** The construction process was influenced by the owner's budget, the availability of materials, the characteristics of the area (orography) and of the surrounding buildings.The works usually took place in one phase. Sometimes at a later time, storeys or just single rooms were added in order to meet the owner's needs.The construction tools were simple.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standarts ===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** With Royal Decree-Law n.573, on 29 April 1915 the area was included among the seismic ones, due to the earthquake occurred on 13 January 2015. This Royal Decree-Law ruled both new construction and reparation works on damaged buildings (Title II Reconstructions, Title III Reparations)Relevant following regulations:- Royal Decree-Law n.2089, 23 October 1924Law n. 64, 2 February 1974, Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche (Measure for constructions with specific rules for seismic areas)- Ministerial Decree 16 January 1996, Norme tecniche per le costruzioni in zone sismiche (Technical standards for constructions in seismic areas)- Ministerial Decree 14 January 2008, D.M. 2008 Norme Tecniche per le Costruzioni (Technical standards for constructions), which includes how to repair existing buildings made by bricks and stones.The standard currently in force is: Decree 17 January 2018, Aggiornamento delle "Norme tecniche per le costruzioni" (Update of the Technical standards for constructions).Technical suggestions and best practices are included in "Linee guida per riparazione e rafforzamento di elementi strutturali, tamponature e partizioni" written by ReLUIS consortium
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** Yes
+
+**Is this construction typically authorized as per development control rules?:** No
+
+**Additional comments on building permits and development control rules:** All these buildings are currently subjected to national and local codes that are much more recent than the constructions themselves
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** These buildings need structural strengthening due to their age, their structural fragility, the poverty of their materials and even because throughout the centuries they have been subjected to several hearthquake tremors, which made them every time weaker (incremental damage)
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** This construction typology is no longer built and is usually replaced by other typologies made of reinforced concrete frames, whose cost ranges from 1.500 to 2.500 €/sq m
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per house
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Family units are usually small (<=4 people). They are often retired people
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Retired people who live in these houses have often a low income.Families usually belong to the low or middle income class.Lots of houses are used as holiday homes by people from the area who live and work in other parts of the country.In villages with beautiful views sometimes apartments are bought by foreigners from high-income class, who spend there their holidays or few months out of the year
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutionsOther
+
+**Additional comments on financing:** State aid for the reparation and strengthening of the buildings after earthquakes
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Earthquakes ===
+
+----
+
+=== Past Earthquakes in the country which affected buildings of this type ===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude ^ Maximum Intensity ^
+| 1703 | L'Aquila | 6.6 MI |  | 
+| 1706 | Campo di Giove (L'Aquila) | 6.6 MI |  | 
+| 1762 | Poggio Picenze (L'Aquila) | 5.9 MI |  | 
+| 1904 | Rosciolo (Marsica) | 5.6 MI |  | 
+| 1915 | Paterno (Marsica) | 7 MI |  | 
+| 1933 | Lama dei Peligni (Majella) | 5.7 MI |  | 
+| 1950 | Gran Sasso area | 5.7 MI |  | 
+| 1984 | Pizzone (Isernia) | 5.9 MI |  | 
+| 2009 | L'Aquila | 6.3 MI |  | 
+| 2016 | Norcia (Perugia) | 6.5 MI |  |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The 1915 earthquake caused several damages such as the collapse of inner vaults, localised failures and triggered collapse mechanisms on later additions, sidewall connections and partial overturning.After the 1984 earthquake lots of original timber roofs were replaced by cast-in-place metal beam-supported hollow flat tiles covered by concrete casting. During the 2009 earthquake the movement of those heavy roofs caused the overturning of facades that sometimes also crumbled.
+
+**Additional comments on earthquake damage patterns:** Interventions that tend to substantially alter the stiffness ratio of wall-to-floor structures, if not implemented properly, can cause serious damages to load-bearing walls and can change the seismic behaviour of the whole structure. If the overall structural behaviour is not altered by interventions, the structural weaknesses of every building do not change throughout the centuries, but the experience shows that structural elements that had been appropriately repaired or reinforced after an earthquake were not damaged or were lightly damaged by the following tremors, even years later.It means that the correct interventions make the difference.
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^ Structural/Architectural Feature ^ Statement ^ Seismic Resistance ^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+**Additional comments on structural and architectural features for seismic resistance:** The Height-to-thickness ratio is more than 13 when the shear walls are "muri a cassetta" (made by two-wythe walls, in which every two courses of bricks laid edge on there is one course laid face-up, to connect the vertical bricks and the space between the vertical layers is empty). They are usually at the top floor, but sometimes also at the lower floors.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Cripple wallPounding potentialChange in vertical structure
+
+**Seismic deficiency in walls:** The wall texture is usually irregular (mix of rubble stones and bricks) with lime mortar that tends to get as dust over time.The habit of carving recesses in walls to place flatware and to carve chimneys made the structures weak.
+
+**Earthquake-resilient features in walls:** Proportions, mass and stiffness of the structural elements were balanced in order to try to achieve a box-behavior in the event of an earthquake.
+
+**Seismic deficiency in frames:** Timber frames (beams and pillars) support the inner vaults. The frames were usually filled with one course of bricks laid edge and lime mortar. In some cases they were filled with reeds held together by lime mortar.The structural system was highly deformable, so its seismic performance was strictly related to the shear walls performance and deformation
+
+**Earthquake-resilient features in frame:** Proportions, mass and stiffness of the frames were correctly balanced.
+
+**Seismic deficiency in roof and floors:** The traditional timber roofs are light and elastic so they have a good seismic performance. Their only true deficiency is the lack of connection with the underlying walls.After the 1984 earthquake cast-in-place metal beam-supported hollow flat tiles covered by concrete casting replaced many traditional timber roof. These new roof in many cases were too heavy to be supported by old and weak shear walls.
+
+**Earthquake resilient features in roof and floors:** Reparations carried out after the 2009 earthquake, wherever possible, demolished the heavy roofs built after 1984 and rebuilt traditional timber roof, placed on a thin cast in place reinforced concrete beam ring.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** \\
+ 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  |    |  |  |  |
+
+----
+
+=== Additonal comments on vulnerability rating ===
+
+----
+
+==== 6. Retrofit ====
+
+=== Retrofit Information ===
+
+{{gallery> :reports:report_206?rp206_retrofit_*.jpg&150x150&lightbox&crop |}}
+----
+
+=== Description of Seismic Strengthening Provisions ===
+^ Structural Deficiency ^ Seismic Strengthening ^ 
+| Floors | Strengthening or reparation of vaults: emptying the rubble fill and cleaning the extrados surface is necessary in both cases.The intervention varies from case to case depending on the materials (i.e. bricks, rubble stones), on the construction techniques (i.e. shape, thickness) and on the function of the single vault (i.e. transient overloads and position within the building).Interventions may consist in covering the extrados with a welded mesh drown into a reinforced concrete overlay, with or without steel connections to the vault depending on its thickness.Otherwise covering the extrados with structural glass fibres and fixing it with their glues.Sometimes the best option is demolition and replacement with cast in place metal beam-supported hollow flat tiles covered by a concrete overlay. IPE beams are among the most common.The effectiveness of strengthening depends also on the roof -to-wall connections. | 
+| Roofs | Cast in place of a reinforced concrete ring beam at the roof level. The thickness of the ring depends on the resistance of the underlying walls.If possible: replacement of the heavy roofs built after the 1984 earthquake with traditional light timber roofs | 
+| Wall-Floor Connection | Placement of metallic ties to achieve the box-behaviour of the structure in the event of an earthquake. The distribution of the ties should be as much regular as possible in order to prevent the facades from twisting movements. | 
+| Seismic resistance of walls | Construction of concrete jackets on both faces of the walls. The strengthening consists in placing welded meshes that will be connected to the wall by inserting through-wall ties about every 50 cm in both directions. Last phase is shotcreting the wall on both the faces.The work may be also done using structural steel fibre fabrics connected by steel bows.In both the cases it is an intervention of strengthening that needs to be done on both the faces of the wall, otherwise it might do more harm than good | 
+| Seismic resistance of walls | Scuci - cuci patching. It consists in closing the recesses carved in the walls filling them with the same materials of the walls itself (bricks and/or bricks and rubble stones) in order to rebuild the lacking parts as they never existed.The same technique is used in order to repair the walls when they show deep cracks, once it is clear the reason why the cracks have appeared. | 
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?:** Yes
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Both, depending on the buildings
+
+**Was the construction inspected in the same manner as new construction?:** These type of constructions need more meticulous inspections than the new ones. Understanding why damages happened is often difficult because the designers do not know what they find underneath the plaster until they have removed it.Actually parts of the walls could have been done with everything was available at the time, including waste (straw, curved-tiles, etc).
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** The construction was usually built by a contractor and small interventions by single construction workers.An engineer with a Masters' Degree is usually involved as structural designer for the interventions of reparations and strengthening after the last earthquakes
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** In general the retrofitted buildings perform better than the ones that have not been strengthened as long as they have been subjected to works coherent with the characteristics of the structures (materials, shape, stiffness ratio of wall-to-floor structures etc)For example in 2009 lots of out-of plane failures have been prevented by the ties that had been placed after the earthquake of 1915.On the other hand, in 2009 lots of structural failures, including main walls which have crumbled, have been provoked by thick and heavy reinforced concrete beam rings, built after the 1984 earthquake. At the time they indeed believed that an heavy roof would increase the stability of the overall construction, that has turned out to be true only when the shear walls are thick, resistant and made by good quality materials and mortar.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * http://www.grif.umontreal.ca/i-Rec2015/conferenceIREC2015papers.htm\\Falchieri, F. (2015) Earthquake - Historical memory and awareness, tools that reduce risk of disasters - 2015, 7th International i-Rec conference, Conference proceedings - ISBN: 978-2-9815234-1-9
+
+  * http://www.meteoweb.eu\\Petrucci, G. (2012) Perchè l’Italia trema? Sismologia storica italiana, i terremoti nell’antichità, Verona 1117 e la cronologia dei terremoti con M>5.5
+
+  * book\\Baila, A., Binda, L., Borri, A. et al. (2011) - Manuale delle murature storiche, Analisi e valutazione del comportamento strutturale (Vol. 1) - DEI Tipografia del Genio Civile
+
+  * Royal Decree-Law n. 573 - 29 April 1915 (Title II Reconstructions, Title III Reparations)
+
+  * Royal Decree-Law n. 2089 - 23 October 1924
+
+  * Law n. 64, 2 February 1974, Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche (Measure for constructions with specific rules for seismic areas)
+
+  * Ministerial Decree 16 January 1996, Norme tecniche per le costruzioni in zone sismiche (Technical standards for constructions in seismic areas)
+
+  * Ministerial Decree 14 January 2008, D.M. 2008 Norme Tecniche per le Costruzioni (Technical standards for constructions)
+
+  * Decree 17 January 2018, Aggiornamento delle "Norme tecniche per le costruzioni" (Update of the Technical standards for constructions).
+
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^ 
+| Francesca Falchieri (Report's author) | Building Engineer, MSE | Freelance | Modena, Italy | francesca.falchieri@gmail.com | 
+| Francesca Falchieri (Architectural Designer and Construction Manager) | Building Engineer, MSE | Freelance | Modena, Italy | francesca.falchieri@gmail.com | 
+| Alfonso La Civita (Structural Designer and Construction Manager) | Civil Engineer, MSE | Assoprogetti Studio di Ingegneria | Sulmona (L'Aquila), Italy | alfonsolacivita@assoprogetti.it | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^ 
+| Barbara Borzi | Head of Vulnerability and Territorial Management Section | EUCENTRE | Pavia, Italia | barbara.borzi@eucentre.it | 
