@@ -87,7 +87,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 {{gallery> :reports:report_3?rp3_building_process_*.jpg&160x160&lightbox&crop | }}
 

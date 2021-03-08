@@ -1,231 +1,15 @@
-1614023285	127.0.0.1	E	reports:report_5		external edit		27512
-1614025021	172.18.0.1	E	start	luisa	[Housing Reports] 		75
-1614025088	172.18.0.1	E	reports:report_5	luisa	[2. Features] 		-341
-1614025210	172.18.0.1	E	reports:report_5	luisa	[3. Buildings Process] 		85
-1614025282	172.18.0.1	E	reports:report_5	luisa	[4. Socio-Economic Issues] 		80
-1614025310	172.18.0.1	E	reports:report_5	luisa	[4. Socio-Economic Issues] 		-80
-1614025332	172.18.0.1	E	reports:report_5	luisa	[5. Earthquakes] 		79
-1614025362	172.18.0.1	E	reports:report_5	luisa	[6. Retrofit Information] 		77
-1614031293	127.0.0.1	E	reports:report_4		external edit		332
-1614031293	127.0.0.1	E	reports:report_1		external edit		71
-1614031293	127.0.0.1	E	reports:report_5		external edit		346
-1614031293	127.0.0.1	E	reports:report_3		external edit		311
-1614031293	127.0.0.1	E	reports:report_2		external edit		-1444
-1614031293	127.0.0.1	E	addreport		external edit		146
-1614031293	127.0.0.1	E	start		external edit		91
-1614082386	172.18.0.1	E	addreport	luisa			-135
-1614082486	172.18.0.1	E	addreport	luisa			-2
-1614082605	172.18.0.1	E	addreport	luisa			13
-1614082923	172.18.0.1	E	addreport	luisa			-9207
-1614083407	172.18.0.1	E	addreport	luisa			-1
-1614083492	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		178
-1614083796	172.18.0.1	E	addreport	luisa			7
-1614083808	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		154
-1614083929	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		156
-1614083985	172.18.0.1	C	unapprovedreports:report_568	luisa	Created from the form at addreport		142
-1614084298	172.18.0.1	E	addreport	luisa			28
-1614084317	172.18.0.1	E	addreport	luisa			2
-1614084332	172.18.0.1	E	addreport	luisa			0
-1614084370	172.18.0.1	E	addreport	luisa			-13
-1614084380	172.18.0.1	C	unapprovedreports:numberofpages:reports	luisa	Created from the form at addreport		140
-1614084633	172.18.0.1	E	addreport	luisa			12
-1614084641	172.18.0.1	C	unapprovedreports:wiki_numberofpages:reports_wiki	luisa	Created from the form at addreport		142
-1614084670	172.18.0.1	E	addreport	luisa			1
-1614084705	172.18.0.1	E	addreport	luisa			-39
-1614084721	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		142
-1614084952	172.18.0.1	E	addreport	luisa			4
-1614084961	172.18.0.1	C	unapprovedreports:tfgf_rrgs	luisa	Created from the form at addreport		142
-1614085023	172.18.0.1	C	unapprovedreports:aaa_bbb	luisa	Created from the form at addreport		139
-1614085080	172.18.0.1	E	addreport	luisa			3
-1614085088	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_lisacosta99_gmail.com	luisa	Created from the form at addreport		142
-1614085099	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_asd	luisa	Created from the form at addreport		142
-1614085213	172.18.0.1	E	addreport	luisa			14
-1614085227	172.18.0.1	E	addreport	luisa			2
-1614085254	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com_asd	luisa	Created from the form at addreport		144
-1614085442	172.18.0.1	E	addreport	luisa			-9
-1614085453	172.18.0.1	C	unapprovedreports:tfgf_rrgs	luisa	Created from the form at addreport		142
-1614085684	172.18.0.1	E	addreport	luisa			6
-1614085697	172.18.0.1	C	unapprovedreports:2021:ddd:aaa_bbb	luisa	Created from the form at addreport		139
-1614085757	172.18.0.1	C	unapprovedreports:2021:kkkk:vvvv_sss	luisa	Created from the form at addreport		141
-1614085900	172.18.0.1	E	addreport	luisa			-2
-1614086281	172.18.0.1	C	unapprovedreports:2021:lll:llll_llll		Created from the form at addreport		142
-1614088950	172.18.0.1	E	addreport	luisa			62
-1614088969	172.18.0.1	C	unapprovedreports:2021:lk:rrgs_lisacosta99_gmail.com	luisa	Created from the form at addreport		159
-1614089093	172.18.0.1	C	unapprovedreports:2021:12:rrgs_hhhh		Created from the form at addreport		142
-1614089423	172.18.0.1	E	sidebar	luisa			43
-1614089766	172.18.0.1	C	unapprovedreports	luisa	created		9
-1614089829	172.18.0.1	E	unapprovedreports	luisa			19
-1614089868	172.18.0.1	E	unapprovedreports	luisa			7
-1614089932	172.18.0.1	E	unapprovedreports	luisa			-1
-1614089952	172.18.0.1	E	unapprovedreports	luisa			1
-1614090144	172.18.0.1	E	unapprovedreports	luisa			18
-1614090203	172.18.0.1	E	addreport	luisa			-6
-1614090237	172.18.0.1	C	unapprovedreports:fff:fff_fff	luisa	Created from the form at addreport		139
-1614090325	172.18.0.1	E	addreport	luisa			-10
-1614090343	172.18.0.1	C	unapprovedreports:qwe:qwe	luisa	Created from the form at addreport		139
-1614090426	172.18.0.1	R	addreport	luisa	old revision restored (2021/02/23 14:23)	1614090203	5
-1614090439	172.18.0.1	C	unapprovedreports:qwe:wqe:qwe	luisa	Created from the form at addreport		139
-1614090495	172.18.0.1	C	unapprovedreports:fff:lll:lisacosta99_gmail.com	luisa	Created from the form at addreport		139
-1614090539	172.18.0.1	E	addreport	luisa			-4
-1614090576	172.18.0.1	C	unapprovedreports:lisacosta99_gmail.com	luisa	Created from the form at addreport		139
-1614090615	172.18.0.1	E	addreport	luisa			0
-1614090637	172.18.0.1	C	unapprovedreports:12	luisa	Created from the form at addreport		157
-1614090972	172.18.0.1	E	unapprovedreports	luisa			-14
-1614091013	172.18.0.1	E	unapprovedreports	luisa			29
-1614091118	172.18.0.1	E	unapprovedreports	luisa			26
-1614091247	172.18.0.1	E	addreport	luisa			3
-1614091261	172.18.0.1	C	unapprovedreports:rrgs:asfdsf	luisa	Created from the form at addreport		144
-1614091311	172.18.0.1	E	addreport	luisa			-2
-1614091400	172.18.0.1	E	addreport	luisa			70
-1614091414	172.18.0.1	C	unapprovedreports:buildingqwe	luisa	Created from the form at addreport		139
-1614091460	172.18.0.1	E	addreport	luisa			0
-1614091493	172.18.0.1	C	unapprovedreports:building36	luisa	Created from the form at addreport		147
-1614091614	172.18.0.1	C	unapprovedreports:buildingplo	luisa	Created from the form at addreport		139
-1614091738	172.18.0.1	E	addreport	luisa			-9
-1614091752	172.18.0.1	C	unapprovedreports:building12	luisa	Created from the form at addreport		140
-1614091817	172.18.0.1	R	addreport	luisa	old revision restored (2021/02/23 14:44)	1614091460	-59
-1614091835	172.18.0.1	C	unapprovedreports:qwe_lll	luisa	Created from the form at addreport		139
-1614093063	172.18.0.1	E	sidebar	luisa			1
-1614093278	172.18.0.1	E	start	luisa	[Housing Reports] 		-5
-1614093366	172.18.0.1	E	start	luisa			-3
-1614093459	172.18.0.1	E	start	luisa	[Housing Reports] 		-351
-1614093508	172.18.0.1	E	start	luisa			1
-1614093605	172.18.0.1	E	start	luisa	[Housing Reports] 		11
-1614093810	172.18.0.1	C	unapprovedreports:sss_lll	luisa	Created from the form at addreport		139
-1614094225	172.18.0.1	C	reports:report_66	luisa	↷ Page moved and renamed from unapprovedreports:sss_lll to reports:report_66		139
-1614094225	172.18.0.1	D	unapprovedreports:sss_lll	luisa	↷ Page moved and renamed from unapprovedreports:sss_lll to reports:report_66		-139
-1614094399	172.18.0.1	C	unapprovedreports:teste_teste	luisa	Created from the form at addreport		145
-1614094532	172.18.0.1	C	reports:report_669	luisa	↷ Page moved and renamed from unapprovedreports:teste_teste to reports:report_669		145
-1614094532	172.18.0.1	D	unapprovedreports:teste_teste	luisa	↷ Page moved and renamed from unapprovedreports:teste_teste to reports:report_669		-145
-1614094803	127.0.0.1	E	start		external edit		84
-1614111854	172.18.0.1	C	unapprovedreports:test2_teste		Created from the form at addreport		145
-1614273007	172.18.0.1	E	start	luisa	[How does construction vary around the world?] 		-100
-1614278123	172.18.0.1	E	reports:report_4	luisa	[2. Features] 		-332
-1614278138	172.18.0.1	E	reports:report_4	luisa	[2. Features] 		1
-1614278166	172.18.0.1	E	reports:report_4	luisa	[2. Features] 		2
-1614278191	172.18.0.1	E	reports:report_4	luisa	[2. Features] 		0
-1614278211	172.18.0.1	E	reports:report_4	luisa	[3. Buildings Process] 		1
-1614278229	172.18.0.1	E	reports:report_4	luisa	[3. Buildings Process] 		-2
-1614278246	172.18.0.1	E	reports:report_4	luisa	[3. Buildings Process] 		0
-1614278298	172.18.0.1	E	reports:report_4	luisa	[6. Retrofit Information] 		1
-1614278340	172.18.0.1	E	reports:report_1	luisa	[Confined block masonry house, Argentina] 		-279
-1614278354	172.18.0.1	E	reports:report_1	luisa	[Confined block masonry house, Argentina] 		0
-1614278372	172.18.0.1	E	reports:report_1	luisa	[2. Features] 		1
-1614278454	172.18.0.1	E	reports:report_5	luisa	[Reinforced clay/concrete block masonry building, Chile] 		-346
-1614278467	172.18.0.1	E	reports:report_5	luisa	[2. Features] 		1
-1614278490	172.18.0.1	E	reports:report_5	luisa	[3. Buildings Process] 		1
-1614278509	172.18.0.1	E	reports:report_5	luisa	[5. Earthquakes] 		1
-1614278522	172.18.0.1	E	reports:report_5	luisa	[6. Retrofit Information] 		1
-1614278555	172.18.0.1	E	reports:report_3	luisa	[Steel frame buildings with shear walls, Chile] 		-311
-1614278570	172.18.0.1	E	reports:report_3	luisa	[3. Buildings Process] 		1
-1614278600	172.18.0.1	E	reports:report_3	luisa	[6. Retrofit Information] 		-1
-1614278632	172.18.0.1	E	reports:report_2	luisa	[Traditional adobe house, Argentina] 		-273
-1614278647	172.18.0.1	E	reports:report_2	luisa	[2. Features] 		1
-1614278661	172.18.0.1	E	reports:report_2	luisa	[5. Earthquakes] 		1
-1614282475	127.0.0.1	E	reports:report_6		external edit		22843
-1614282519	172.18.0.1	E	reports:report_6	luisa	[Concrete frame and shear wall building, Chile] 		-325
-1614282566	172.18.0.1	E	reports:report_6	luisa	[1. General Information] 		61
-1614282581	172.18.0.1	E	reports:report_6	luisa	[1. General Information] 		0
-1614282597	172.18.0.1	E	reports:report_6	luisa	[2. Features] 		1
-1614282625	172.18.0.1	E	reports:report_6	luisa	[2. Features] 		0
-1614282808	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		79
-1614282828	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		-63
-1614282917	172.18.0.1	E	reports:report_6	luisa	[Concrete frame and shear wall building, Chile] 		0
-1614282935	172.18.0.1	E	reports:report_6	luisa	[Concrete frame and shear wall building, Chile] 		0
-1614283670	127.0.0.1	E	reports:report_208		external edit		10078
-1614283670	127.0.0.1	E	reports:report_207		external edit		8515
-1614284584	172.18.0.1	E	reports:report_208	luisa	[1. General Information] 		-127
-1614284600	172.18.0.1	E	reports:report_208	luisa	[1. General Information] 		0
-1614284613	172.18.0.1	E	reports:report_208	luisa	[1. General Information] 		-1
-1614284838	172.18.0.1	E	reports:report_208	luisa	[Reinforced concrete frame and brick infill multi-storey apartment building, Albania] 		-2
-1614284854	172.18.0.1	E	reports:report_208	luisa	[1. General Information] 		0
-1614284864	172.18.0.1	E	reports:report_208	luisa	[1. General Information] 		1
-1614284922	172.18.0.1	E	reports:report_207	luisa	[Confined and internally-reinforced concrete block masonry, Jamaica] 		-133
-1614285019	172.18.0.1	E	reports:report_207	luisa	[1. General Information] 		85
-1614285036	172.18.0.1	E	reports:report_207	luisa	[1. General Information] 		0
-1614285047	172.18.0.1	E	reports:report_207	luisa	[1. General Information] 		-1
-1614287723	127.0.0.1	E	reports:report_206		external edit		29035
-1614287737	127.0.0.1	E	reports:report_7		external edit		29739
-1614288318	172.18.0.1	E	reports:report_7	luisa	[Confined block masonry building, Chile] 		-369
-1614288371	172.18.0.1	E	reports:report_7	luisa	[Confined block masonry building, Chile] 		0
-1614288400	172.18.0.1	E	reports:report_7	luisa	[1. General Information] 		79
-1614288411	172.18.0.1	E	reports:report_7	luisa	[1. General Information] 		0
-1614288452	172.18.0.1	E	reports:report_7	luisa	[1. General Information] 		-18
-1614288512	172.18.0.1	E	reports:report_7	luisa	[2. Features] 		1
-1614288525	172.18.0.1	E	reports:report_7	luisa	[2. Features] 		-1
-1614288567	172.18.0.1	E	reports:report_7	luisa	[2. Features] 		77
-1614288615	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		85
-1614288638	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		0
-1614288656	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		0
-1614288676	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		0
-1614288730	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		16
-1614288791	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		0
-1614288861	172.18.0.1	E	reports:report_7	luisa	[6. Retrofit Information] 		78
-1614288878	172.18.0.1	E	reports:report_7	luisa	[6. Retrofit Information] 		1
-1614288929	172.18.0.1	E	reports:report_7	luisa	[6. Retrofit Information] 		-466
-1614289751	172.18.0.1	E	reports:report_206	luisa	[1. General Information] 		-349
-1614289771	172.18.0.1	E	reports:report_206	luisa	[Historic masonry block of flats, Italy] 		-2
-1614289932	172.18.0.1	E	reports:report_206	luisa	[2. Features] 		1
-1614289997	172.18.0.1	E	reports:report_206	luisa	[3. Buildings Process] 		5
-1614290036	172.18.0.1	E	reports:report_206	luisa	[3. Buildings Process] 		0
-1614290109	172.18.0.1	E	reports:report_206	luisa	[4. SocEcon] 		-17
-1614290150	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		0
-1614290190	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		2
-1614290284	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		58
-1614290323	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		-1
-1614290351	172.18.0.1	E	reports:report_206	luisa	[6. Retrofit] 		1
-1614290371	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		0
-1614290391	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		1
-1614290415	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		3
-1614290442	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		1
-1614290476	172.18.0.1	E	reports:report_206	luisa	[6. Retrofit] 		0
-1614290533	172.18.0.1	E	reports:report_206	luisa	[3. Buildings Process] 		4
-1614290553	172.18.0.1	E	reports:report_206	luisa	[3. Buildings Process] 		2
-1614290591	172.18.0.1	E	reports:report_206	luisa	[3. Buildings Process] 		1
-1614290793	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		1
-1614290848	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		78
-1614290873	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		-76
-1614290905	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		1
-1614291275	172.18.0.1	E	reports:report_206	luisa	[6. Retrofit] 		-2
-1614291292	172.18.0.1	E	reports:report_206	luisa	[6. Retrofit] 		2
-1614595271	127.0.0.1	E	reports:report_204		external edit		11619
-1614595445	172.18.0.1	E	reports:report_204	luisa	[(Building Type), (País)] 		-298
-1614595471	172.18.0.1	E	reports:report_204	luisa	[Reinforced Masonry (Series 1A-450), Armenia] 		2
-1614595484	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		0
-1614595510	172.18.0.1	E	reports:report_204	luisa	[Reinforced Masonry (Series 1A-450), Armenia] 		0
-1614595582	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		84
-1614595655	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		0
-1614595672	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		0
-1614595687	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		0
-1614595830	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		-82
-1614595838	172.18.0.1	E	reports:report_204	luisa	[1. General Information] 		82
-1614595901	172.18.0.1	E	reports:report_204	luisa	[2. Features] 		-1
-1614595944	172.18.0.1	E	reports:report_204	luisa	[3. Buildings Process] 		1
-1614596006	172.18.0.1	E	reports:report_204	luisa	[3. Buildings Process] 		10
-1614596069	172.18.0.1	E	reports:report_204	luisa	[5. Earthquakes] 		-63
-1614596123	172.18.0.1	E	reports:report_204	luisa	[5. Earthquakes] 		-1
-1614291429	127.0.0.1	E	reports:report_207		external edit		133
-1614596291	172.18.0.1	E	reports:report_207	luisa	[4. Earthquakes] 		-134
-1614291429	127.0.0.1	E	reports:report_208		external edit		132
 1614596344	172.18.0.1	E	reports:report_208	luisa	[5. Earthquakes] 		-133
-1614291429	127.0.0.1	E	reports:report_5		external edit		346
 1614596378	172.18.0.1	E	reports:report_5	luisa	[5. Earthquakes] 		-345
 1614596453	172.18.0.1	E	reports:report_5	luisa	[7. References] 		7
-1614291429	127.0.0.1	E	reports:report_6		external edit		331
 1614596519	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		-332
-1614291429	127.0.0.1	E	reports:report_7		external edit		360
 1614596554	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		-361
 1614596594	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		2
-1614291429	127.0.0.1	E	reports:report_4		external edit		332
 1614596745	172.18.0.1	E	reports:report_4	luisa	[7. References] 		-305
 1614597040	172.18.0.1	E	reports:report_4	luisa	[3. Buildings Process] 		15
-1614291429	127.0.0.1	E	reports:report_206		external edit		361
 1614597269	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		-203
-1614291429	127.0.0.1	E	reports:report_1		external edit		278
 1614597375	172.18.0.1	E	reports:report_1	luisa	[3. Building Materials and Construction Process] 		-276
 1614597431	172.18.0.1	E	reports:report_208	luisa	[3. Buildings Process] 		6
 1614597467	172.18.0.1	E	reports:report_208	luisa	[5. Earthquakes] 		6
-1614291429	127.0.0.1	E	reports:report_3		external edit		311
 1614597552	172.18.0.1	E	reports:report_3	luisa	[3. Buildings Process] 		-299
 1614597636	172.18.0.1	E	reports:report_5	luisa	[3. Buildings Process] 		11
 1614597724	172.18.0.1	E	reports:report_6	luisa	[3. Buildings Process] 		11
@@ -234,3 +18,30 @@
 1614597828	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		-2
 1614597893	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		-7
 1614597919	172.18.0.1	E	reports:report_7	luisa	[4. Socio-Economic Issues] 		-2
+1615227966	127.0.0.1	E	reports:report_8		external edit		26821
+1615231988	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		-287
+1615232004	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		2
+1615232079	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		79
+1615232230	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		-16
+1615232486	172.18.0.1	E	reports:report_8	luisa	[2. Features] 		75
+1615232733	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		2
+1615233428	172.18.0.1	E	reports:report_8	luisa	[3. Buildings Process] 		84
+1615233477	172.18.0.1	E	reports:report_8	luisa	[3. Building Process] 		1
+1615233594	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		80
+1615234493	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		-1
+1615234549	172.18.0.1	C	talk:reports:report_8	luisa	created		26
+1615227966	127.0.0.1	E	reports:report_9		external edit		24360
+1615234791	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		-351
+1615234805	172.18.0.1	E	reports:report_9	luisa	[1. General Information] 		64
+1615234824	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		73
+1615234835	172.18.0.1	E	reports:report_9	luisa	[Multistory base-isolated brick masonry building with reinforced concrete floors and roof, (País)] 		-2
+1615234896	172.18.0.1	E	reports:report_9	luisa	[2. Features] 		-12
+1615234927	172.18.0.1	E	reports:report_9	luisa	[2. Features] 		-2
+1615235037	172.18.0.1	E	reports:report_9	luisa	[3. Buildings Process] 		85
+1615235100	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		16
+1615235210	172.18.0.1	E	reports:report_9	luisa	[7. References] 		2
+1615235242	172.18.0.1	E	reports:report_9	luisa	[7. References] 		-1
+1615235265	172.18.0.1	E	reports:report_9	luisa	[7. References] 		-2
+1615235298	172.18.0.1	E	reports:report_9	luisa	[6. Retrofit Information] 		-5
+1615235386	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		55
+1615235416	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		-2

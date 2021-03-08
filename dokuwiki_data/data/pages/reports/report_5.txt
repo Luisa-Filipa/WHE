@@ -88,7 +88,7 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 {{gallery> :reports:report_5?rp5_building_process_*.jpg&180x180&lightbox&crop&3 | }}
 

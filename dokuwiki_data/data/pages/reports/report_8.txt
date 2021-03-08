@@ -1,7 +1,11 @@
 ====== Buildings with hybrid masonry walls, Chile ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_8:rp8_general_info.jpg?nolink&300*300 | }}
+
 ----
+
+
 
 ==== 1. General Information ====
 
@@ -33,10 +37,14 @@
 
 **Comments:** Buildings of this type may be single family houses too. In the last 25 years, due to economical reasons, 80% of the total socia
 
+{{ :reports:report_8:rp8_general_info_1.jpg?nolink&300*300 | }}
+
 
 ----
 
 ==== 2. Features ====
+
+{{gallery> :reports:report_8?rp8_features_*.jpg&220x220&lightbox&crop |}}
 
 **Plan Shape:** Rectangular, solid
 
@@ -82,7 +90,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery> :reports:report_8?rp8_building_process_*.jpg&160x160&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -197,6 +207,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery> :reports:report_8?rp8_earthquakes_*.jpg&160x160&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -267,11 +279,11 @@ The total width of door and window openings in a wall is: For brick masonry cons
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |
-| Seismic vulnerability class   | %%|-%% | o |  %%-|%%  |  |  |  |
+| Seismic vulnerability class   | %%|-%% | o |  %%-|%% |  |  |  |
 
 **Additional comments section 5	**  A figure is included showing the relation between density wall area per unit floor and damage
 
