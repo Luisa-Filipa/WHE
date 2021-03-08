@@ -1,0 +1,323 @@
+====== Thathara houses in Himachal Pradesh, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 170
+
+**Building Type:** Thathara houses in Himachal Pradesh
+
+**Country:** India
+
+**Author(s):** Aditya Rahul, Ankita Sood, Yogendra Singh, Dominik Lang
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Ravi river valley in Chamba district of the state Himachal Pradesh in Northern India (Figure 2). Though very few Thathara houses can be seen in the town of Chamba itself, which is also the district headquarter, a fair number of these houses can be found in the villages. In fact, more or less all villages in the remote parts of this region have Thathara-style houses. Thathara style is a traditional construction technique being practiced from ancient times. Some structures can be dated back 400 years, but owing to ban on tree falling, this technique is outdated now due to the scarcity of wood. Moreover, people nowadays are more fascinated by building houses with new materials which require lesser maintenance and are more flexible in terms of planning. This type of housing construction is commonly found in rural, sub-urban and urban areas. Nowadays, this type of construction practice can be seen for houses and temples, however, earlier photographs suggest that the same style was adopted to build palaces, bridges as well as various other structures. The construction style is named #Thathara# as this term is locally used for wooden planks that make the vertical load-carrying members (columns) locally known as Thola(s). Tholas (a peculiar combination of timber and stone) and wood are primarily used for the vertical and horizontal frame elements, respectively. The region where this building typology is found is characterized by cold climate and witnesses heavy rainfall during the rainy season (from June to July) as well as snowfalls in winter (from October to March). These effects have been considered well in the construction style, like e.g. small openings, a verandah to take sun but prevent from rain and snow, wooden and mud interiors which are good insulators and keep the interiors warm, sloping roofs with adequate projections as well as other features. Being located in the Himalayan region, the area has experienced numerous strong earthquakes and this construction technique has eventually evolved to resist seismic action.
+
+**Summary:** The addressed building type has been identified in Himachal Pradesh, a northern state in India.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Off
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The region of existence of these buildings is in the Indian Himalayas, where the land available is contoured in almost all the
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The houses are generally rectangular in plan with a verandah in the front.
+
+**Typical plan length (meters):** 3-10
+
+**Typical plan width (meters):** 5-8
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Other: Hybrid Systems: Other
+
+**Additional comments on structural system:** The main load-bearing system of this building typology consists of 'Tholas' and wooden beams. Tholas are provided at corners and/or ridges of the building and support the horizontal beams which in turn support the inclined rafters and purlins. A positive connection between Tholas and beams has generally not been observed and the beams are simply kept over the Tholas. The resistance to lateral loads is provided by wooden framing or in-plane action of walls. Although these walls are generally made of poor quality material, such as adobe or random rubble, the large cross-sectional area with minimal openings provides adequate lateral resistance if built and maintained well. The lateral load-resisting feature of these buildings are horizontal members (ties) provided at several intermediate levels between the floors to support the walls in out-of-plane action (Figures 14-15). This type of construction known as Kath-Kunni has been traditionally used in the northern states Himachal Pradesh and Uttarakhand and has been presented in the WHE report #150 (Rautela et al. 2009). In some cases, Dhajji-Diwari construction (Figure 16, see WHE report #146; Hi#yilmaz et al. 2012) is also used for partition, in which diagonal braces are used in wooden frame. In the uppermost storey, generally wooden frames and planks are used as partition material to reduce the seismic weight of the building. The original construction practice involving use of wooden planks for roof covering was also motivated from the concept of reducing mass at the top. In verandahs, where larger openings are required, wooden frames are used in place of masonry walls. These wooden frames result in reduced seismic mass and better lateral load resistance.
+
+**Gravity load-bearing & lateral load-resisting systems:** The structural system of this building typology consists of 'Tholas' and wooden beams. Tholas, the vertical load-carrying members (columns) which are made of stones and Thatharas (the planks, logs or pieces of wood), are constructed in two different ways: Method I - Unfinished wooden planks (Thatharas), generally of the size 500 x 350 x 100 mm, are placed on the edge of two sides at a distance of 400 mm. In the alternate course, planks are placed across. Same arrangement is repeated till about 2.5 m (height of storey) thus forming a hollow box-like structure (Figure 9). This hollow structure is then hand-packed with stones without any mortar. The Tholas thus formed have an unfinished appearance (Figure 10). Method II - Tholas are constructed by laying wooden planks (Thatharas) and stones at the same time over a single course. There is no mortar but stones are tightly packed in courses with stone chips. The Thatharas are also hewn in such a case. Hence, the overall Thola has a very neat finish (Figure 11). Variant: Twin-Thatharas are also seen in some of the structures (Figure 12). These have two planks in one direction (i.e. along the wall) but three on the other side in the alternate course (i.e. across the width of the wall). Connection between Thatharas: The Thatharas have small holes with wooden pins inserted into them (Figure 13a) so that the planks do not move and retain their position. Another way is having mortise and tenon joints between two planks placed in alternate course (Figure 13b).
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %.
+
+**Wall Openings:** Openings are of small size and sometimes holes are made in the wooden plank partitions for ventilation.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Earlier, no or only small windows provided cozy warm atmosphere inside. As the living styles and conditions have changed now, larger doors and windows have found their place in these houses in order to provide better ventilation and comfort. Moreover, nowadays various wall types (Figures 4-6) can be found due to the availability or unavailability of different building materials. In earlier days, wooden planks (Figure 7) were used to cover the sloping roofs, but nowadays thin slates have replaced them as roof cladding. Also, in order to create more living space the functional verandahs are being enclosed with walls and wooden frames (Figure 8).
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Foundation is entirely made up of dry stones. Trench of 1 to 1.5m depth, depending upon the type of soil, and 500 mm in width is dug and courses of stones are laid generally without any mortar, which rises up to 500 mm above ground level (Figure 17).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: Wood planks or beams supporting natural stones slates, Wood plank, plywood or manufactured wood panels on joists supported by beams or walls
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is between few cm to several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Deodar or Kail wood, locally available stones and mud Frame: Wood and stones | Wall: Highly varying quality and strength. No standard mix proportions. Thickness varies from one member to another. The wooden planks are just a few centimeters thick, whereas the walls are up to 500 mm thick. A variety of locally available materials is used. Frame: Highly varying quality and strength. The columns (tholas) are 500 x 500 mm in cross-section, whereas beams are 6 to 10 m long. No moment bearing connection between beams and columns. |
+| Foundations | Stone- generally dry-packed | Difficult to estimate characteristic strength, as it is just dry-stone packed in a trench in the ground. Width of foundation about 500 mm. Being hilly terrain, rock may be found at shallow depth in some cases. |
+| Floors | Wood shingles, slates | Highly varying quality and strength. In floors, 20 mm think wooden planks are covered with 25 mm thick mud plaster |
+| Roof | Wood shingles, slates | Highly varying quality and strength. Slates are used as roof covering. Both gable and hipped roofs are used. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Architects and engineers have no role in the design or construction of this housing typology.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** The construction is carried out under the surveillance of the owner himself.
+
+**Expertise of those involved in building process:** Mostly, the construction is carried out by the owners themselves with the help of fellow villagers/relatives. The construction of a house is often a community effort. Local masons are also involved in the construction who inherited their skills from their fathers.
+
+**Construction process and phasing:** Wall system: The wall system is framed structure in which the columns (Tholas) are of #Thathara# style. Beams are of Deodar or Kail wood, sometimes of the tree trunk itself. The partition walls are a variety of construction types either of stone, wood or both. In some cases it was observed that the walls of the lower storey are entirely made of stone and hence are load bearing, while the upper storeys have Tholas with partitions of wooden planks (Figure 18). Construction methodology of walls: Step I: Above the raised plinth of stones #Tholas# (columns) are constructed at the corners. In case of larger spans intermediate #Tholas# are also provided where the distance between each is about 3.5 m center to center. Step II: Partition walls of different types are then erected between these tholas. These include: (1) Stones - Undressed stones laid in courses with mud mortar and timber runners are used for infill walls in certain structures (Figure 14). These stone infill walls are of 500 mm thickness which is also the width of the Thola. (2) Wood - Wooden planks of 20 mm thickness are also used as partition walls. Usually these wooden planks partitions are used in the topmost storey of the structure in order to make the upper storey lighter and hence reduce the loads on the storey(s) below (Figure 15). (3) Stones and Wood - In some houses, the infill wall between two Tholas is made of both wood and stones. Sometimes there is a diagonal bracing of wood where small stones with mud mortar are packed in the remaining space (Dhajji Diwari; see Figure 16). Usual practice is having wooden battens placed every second or third stone course or more (Kath-Kunni; see Figure 19). Step III: The interiors and exteriors are plastered with a mixture of mud and cow dung (Figure 20). Afterwards, the walls are treated with mud and cow-dung slurry to give the final finish. Both inner and outer surfaces of the wooden walls are also finished with the slurry. In a few cases, houses with exposed (not plastered) exteriors are also seen. The verandah at the ground floor has only wooden posts and no partitions in between. Walls over the verandah i.e. balcony above, are generally made of wooden planks (Figure 21) in order to reduce the load on the verandah posts. In some constructions, Tholas can be seen in the upper storey directly above the posts of the verandah (Figure 22; which is considered a poor construction practice). Floor system: Ground floor: Wooden planks of thickness 20 mm are laid over rammed earth. These planks are then plastered with mud and finally finished with a mud and cow-dung slurry. The floor is coated with mud and cow-dung slurry every third day. Other floors: The main beam of cross-section 270 x 230 mm rests over the exterior Tholas, spanning over the entire length of the room, i.e. up to 6 m without any joint in between. The distance between two main beams is approximately 3 m from center to center. In the verandah, the main beams are supported by wooden posts (Khambe) of the size 150 x 150 mm at a distance of 1.5 m (Figure 23). In the middle of the room, the main beam is supported by the main wooden post (Thamb) of the size 270 x 270 mm (Figure 24). Secondary beams of 3 m length and 100 x 160 mm cross-section are laid over these main beams at a distance of 400 mm center to center. The gap between two cross-beams is filled with wooden pieces or stones to restrain lateral movement (Figure 25). Wooden planks of the size 20 x 300 mm and a length of 2.5 m are placed over these cross-beams without any gap in between (Figure 26). These planks are covered with 25 mm thick mud plaster and finished with a slurry of mud and cow-dung mixture. These floors are coated with mud and cow-dung slurry every third day or so in order to keep these clean and repair any small crack and patch that has developed. Roof system: Thathara houses usually have gable roofs with a slope of about 15-20 (on average 17) degrees. Over the verandah, the roof slope becomes a bit gradual in order to have adequate headroom (Figure 27). Some houses have hipped roofs. Construction methodology of roofs: (1) Gable-end roofs: The most common practice is raising the two opposite Tholas, which are located at the middle, up to the ridge level. The ridge beam (Nhas) is directly placed (without any positive connection) over these Tholas with an intermediate support of the wooden post (Thamb; Figures 28 and 29). The ridge beam is always a single member without any joint in between. Sometimes, this ridge beam is the entire trunk of a tree. Rafters at a distance of around 1 m center to center are laid above (Figure 30), which are connected at one end to the ridge beam and the wall plate (Jail-dal) on the other. Rafters are secured at their place with iron nail connections. These (wooden) wall plates are directly placed over the wall without any connection. Rafters have purlins (Batte) above (Figure 31) which are nailed to them, in order to support the roof covering material (wooden planks or slates). The wooden planks (shingles) or slates are also connected to the purlins with iron nails (Figure 32). (2) Hipped roofs: An A-type frame is constructed and rested over wall plates at a distance of about 1.5 m. Over these constructions, purlins are nailed at a distance depending upon size of slates. Slates are nailed to these purlins (Figures 33 and 34). The slates are generally of the following sizes: 150 x 300 mm (6 x 12"), 175 x 350 mm (7 x 14"), 200 x 400 mm (8 x 16"), 225 x 450 mm (9 x 18"), and 250 x 500 mm (10 x 20"). (3) Flat roofs: In a few cases an additional single storey unit is attached to the side of the main house, mainly for cattle or storage (Figure 35). These units have flat roofs (Figure 36) made of wood covered with mud. The main wooden beams are supported over Tholas at the corners. Secondary beams are placed over these, nearly touching each other and then 20 mm thick wooden planks are laid across over these secondary beams. This is covered with a 150 mm thick layer of mud. (Note: All the dimensions given here are typical ones and one might find slightly varying dimensions.) The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** In India no development rules or building permit process exist in rural areas for this building typology. Hence, building permits are not required to build this housing type and thus are authorized.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** These structures have been standing for more than 200 years with some regular maintenance. Exterior walls need to be plastered every year after the rainy season in order to take care of any cracks or damage, whereas finished with slurry of mud and cow dung every month for cleanliness. For the same reason, interior walls are finished with mud and cow-dung every week or as per availability of time.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Today the construction of these buildings would be probably too inefficient due to the high timber prices and unavailability of necessary construction skills.
+
+**Labor requirements:** It is supposed that several tens of workers had been required to build these structures. Obviously, the erection of these structures had been a community effort.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In large houses, the ground floor is generally used for cattle or as storage space. The room located immediately behind the verandah is the largest room and serves as living room. The kitchen is always on the top floor which is an attic space. Kitchens have a fireplace (Chulah) for cooking and the smoke escapes through gaps between the slates (wooden planks) covering the roof. Sometimes in day time one or two slates are rotated to make more room for smoke to escape. Thus, the attic provides the appropriate place for the kitchen
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Nowadays, the economic level of most of the inhabitants ranges between poor and middle class. However, at the time of construction, the builders definitely belonged to the wealthier social class. Even the palace in earlier times was built in Thathara style and so were the bridges. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** In India, earthquake insurance for any type of construction is not common.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1720 | Kumaun | > 8.0 |  | 
+| 1803 | Garwhal | Mw 8.09 |  | 
+| 1897 | Shillong Plateau (Assam) | Mw 8.1 |  | 
+| 1905 | Kangra | M 7.8 | VIII | 
+| 1934 | Bihar/Nepal | Ms 8.1 |  | 
+| 1950 | Assam | M 8.6 | XI | 
+| 1991 | Garhwal (epicenter: Almora, 170 km distance to Uttarkashi) | mb 6.1 (IMD), Ms 7.1 (USGS) | I (MMI) = VIII | 
+| 1999 | Chamoli (Gharwal region) | Ms 6.6, ml 6.8 (IMD), mb 6.3 (USGS) | I (MMI) = VIII | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:**	
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Generally of poor quality material, without any reinforcement.
+
+**Earthquake-resilient features in walls:** Horizontal wooden members (similar to ties, known as 'Kath-Kunni' in local language) to protect the walls in out-of-plane action and small window openings. In some cases wooden bracings (known as 'Dhajji-Diwari' in local language) is also used.
+
+**Seismic deficiency in frames:** No positive moment connection between columns (tholas) and beams.
+
+**Earthquake-resilient features in frame:** Enlarged cross-section of wooden columns (Tholas) results in enhanced lateral resistance.
+
+**Seismic deficiency in roof and floors:** No cross bracings provided in floors/roofs, no ties in sloping roof, no anchorage of roof/floor with walls, even in newer constructions.
+
+**Earthquake resilient features in roof and floors:** Light-weight wooden plank covering and A-shaped bracing in old constructions.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | o | %%-|%% |  |
+
+**Additional comments section 5:** The vulnerability of these buildings may vary from case to case, mostly dependent on the type and quality of infill material between the Tholas. Generally, no reports on the behavior of these buildings during past earthquakes are available. It may only be suspected that they behaved fairly well as a number of larger earthquakes have happened in the past. An allocation of vulnerability class E can therefore be seen as the best case. However, due to the use of random shaped stones, lack of connections between columns and beams as well as lack of roof bracing, the vulnerability may increase significantly leading to classes B, C or D.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** The main vulnerable feature of these buildings is the absence of positive connections between the beams (Nhas) and the columns (Tholas). This could be achieved by providing wooden members and metal strips at the connections. Further weakness features of these buildings are (i) that the floors and roofs are typically flexible in plane, (ii) the absence of any anchorage to the walls, and (iii) the lack of bracings in the sloping roofs. This can be achieved by: (i) providing another layer of wooden planks on the existing suspended floors. The new layer should be oriented across or diagonally to the existing layer of planks, or (ii) providing diagonal bracing (wooden or metallic) between the main and the secondary beams, (iii) providing diagonal bracing in the plane of the sloping roof, and (iv) anchoring the floor/roof to the walls using grouted bolts or metal strips nailed to the horizontal members in the walls. Wherever horizontal wooden members are missing in the walls, external members of wood or ferro-cement with diagonal bracing can be provided (Figure 37). (Actually, no standard practice or code for strengthening of such buildings exists. These are the strengthening measures proposed by the authors.)
+
+**Has seismic strengthening described in the above table been performed?** No strengthening or retrofitting measures, as described in the previous subchapter, or otherwise, were actually observed during an extensive survey of these buildings. The reason for this may lie in the fact that this construction typology evolved over centuries accounting for the experienced performance during earthquake action and thus had been optimized, as per understanding of the seismic behavior at that time. Recently, no effort by the community or the government has been taken to preserve or retrofit this type of housing. All modifications observed in the existing buildings (e.g. replacement of traditional wooden frame partitions with brick masonry walls) rather modify their seismic behavior than can be seen as a real strengthening or retrofitting measure.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** Since no strengthening has been actually done in practice, their performance neither could be empirically identified nor analytically investigated.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India. Rautela, P., Girish, J., Singh, Y., and Lang, D.H. (2011) Report no. 150, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+  * Dhajji-Dewari Hicyilmaz, K., Bothara, J., and Stephenson, M. (2012) Report no. 146, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Aditya Rahul | M.Arch. student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR) | Roorkee 247667, INDIA | aditrahul@gmail.com | 
+| Ankita Sood | MURP student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR) | Roorkee 247667, INDIA | ankita.sood87@gmail.com | 
+| Yogendra Singh | Associate Professor | Dept. of Earthquake Engineering, Indian Institute of Technology Roorkee | Roorkee 247 667, INDIA | yogenfeq@iitr.ernet.in | 
+| Dominik Lang | Senior Research Engineer | NORSAR | P.O. Box 53, Kjeller 2027, NORWAY | dominik@norsar.no | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Jitendra K. Bothara | Principal Seismic Engineer | AECOM | Christchurch 8140, NEW ZEALAND | jitendra.bothara@aecom.com |
+| Kubilay Hicyilmaz | Associate Director - Structural | Arup Gulf Ltd. | Dubai P.O. BOX, 212416, UNITED ARAB EMIRATES | kubilay.hicyilmaz@arup.com |

@@ -1,0 +1,337 @@
+====== Adobe Arched-Roof, Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 177
+
+**Building Type:** Adobe Arched-Roof
+
+**Country:** Iran
+
+**Author(s):** Mohammad Yekrangnia, Ali Bakhshi, Mohammad Ali Ghannad, Arash Khosravifar, Ebrahim Mousavi Eshkiki, Hamid Masaeli
+
+**Last Updated:** 
+
+**Regions Where Found:** This typology can be found in arid and semi-arid areas, mostly in rural regions of Iran including Kerman, Southern Khorasan and Yazd provinces. Especially in the past, this structural type was the most abundant in these areas. Nowadays, brick masonry buildings with jack-arch roof are the most prevalent building typology in these regions. Moreover, these buildings constitute more than 2% out of a total of five million rural houses throughout the country.
+
+**Summary:** This construction type is a single-family house which is found in arid and semi-arid areas of Iran, mostly in rural regions. This type of building constitutes more than 2% of five million rural houses throughout the country. The walls are built using sun-dried adobe blocks with average dimensions 30x30x6 cm, and 20 mm mud mortar joint thickness. The dimensions of adobe blocks in Iran range between 20x20x4 cm to 60x60x8 cm. A typical example of this structural type is illustrated in Figure 1. Arched roofs can be in the form of barrel, dome, polygonal, crescent and complex (Tagh-o-Lenge) as depicted in Figure 2. These roofs are made of smaller adobe blocks, gypsum-mud mortar and in some cases wood components. In some regions, depending on the available materials, goats' hair, palm leaves, or sand are added to the blocks and/or mortar to enhance their mechanical properties. Adobe construction practice in Iran dates back centuries ago because soil is a locally available low-cost material, and due to the compatibility of adobe properties with local environmental demands. The thick adobe walls which range from 0.6 m to 1.8 m (shown in Figure 3) provide a good thermal insulation during hot days and cold nights which is common in those regions. However, these walls impose considerable inertia forces even during moderate earthquakes which may surpass the strength of a typical building of this kind. Observations from past earthquakes indicate that adobe buildings are among the most vulnerable structures in Iran, claiming more than 30,000 lives in earthquakes like Bam (2003) and Zarand (2005). The main reason for this seismic vulnerability is the detachment of perpendicular walls, which prevents 'box-like' behavior of buildings and ultimately results in roof collapse (Figure 4). For that reason, the construction of adobe buildings was not permitted by the first Iranian Code of Practice for Seismic Resistant Design of Buildings in 1988.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Off
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling; Residential, 2 units; Mixed residential/commercial
+
+**Typical number of stories:** one
+
+**Terrain-Flat:** Off
+
+**Terrain-Sloped:** Off
+
+**Comments:** Even with the recent great changes to the big cities in Iran with respect to construction types and development, some arched-roo
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid; Rectangular, with an opening in plan
+
+**Additional comments on plan shape:** Depending on the roof system, the plan shape of the building can be square or rectangular. Polygonal and dome roofs usually necessitate a squared plan shape, while the crescent, barrel and complex (Tagh-o-lenge) roofs are associated with a rectangular plan.
+
+**Typical plan length (meters):** 6
+
+**Typical plan width (meters):** 4
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** These buildings were constructed considering gravity loads only, and thick adobe walls can reliably transfer these loads to the ground. The arched roofs, although considered as heavy roof systems, can safely transfer their weight to the supporting walls. The arching mechanism of these roofs helps their stability against either gravity or seismic lateral forces as well. Although in some cases, deterioration of the shallow foundations was observed, no damages due to inadequate foundation capacity were reported. Adobe buildings in Iran possess no lateral load-resisting system and are therefore classified as 'non-engineered' houses. Although thick and squat walls have great in-plane and out-of-plane seismic capacity, they also induce considerable seismic demands due to their huge mass. On the other hand, since no special provisions have been given for load-transfer mechanisms between roof and walls and also between perpendicular walls, compromised structural integrity usually results in partial or complete collapse of these buildings (Figure 5).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** Wall density greatly depends on the wall thickness and plan dimensions. Wall density is larger in buildings with squared plan shape.
+
+**Wall Openings:** There are three types of openings in these structures: doors, windows, and shelves. The shelves are similar to the windows except that they are not through-wall openings. In other words, their depth is usually half of the walls' thickness. They are used for decoration purposes. The average area of doors, windows and shelves are 1.9m.sq., 2.2m.sq., and 2.1m.sq., respectively. Either wooden lintel or arch (more common in arched roof adobe buildings) are provided above openings (Figure 6).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Off
+
+**Modifications of buildings:** In some cases, extensions to the original houses are found, usually for adding more rooms for the newlyweds or for other functions, e.g. stable.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** As stated by Mousavi Eshkiki (2006), the foundation, in its best form, is limited to about 50 cm of digging the ground and filling it with lime-sand mortar and stones or the wall materials up to the ground level. Generally, foundation construction is mostly affected by the topography of the site and the soil conditions, and it is usually neglected during construction, unless in regions with very loose (organic) soils.
+
+**Type of Floor System:** No elevated or suspended floor system (single-story building)
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Vaulted earthen roof
+
+**Additional comments on roof system:** The material of arched roofs greatly depends on the structural specifications. In polygonal, dome and vaulted roofs, only adobe blocks are used, while in the crescent (Tagh-o-lenge) roofs, wooden ties are usually applied. These roofs are 30 to 50 cm thick and have a mass per unit area from 450 to 750 kg/sqm. Over time, several additional protective layers are mounted on top of these roofs which make them heavier due to aging process (Figure 7).
+
+**Additional comments section 2:** The plan dimensions are related to the area under each arched roof. A cluster of several rooms (having a roof each) with the dimensions of 20 m can exist. Also, story height ranges from 2.8 m to 3.2 m (Figure 8).
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Sun-dried adobe blocks | Compressive strength of masonry prism:5-28 kg/cm2; Shear strength of mud mortar: 0.04-0.15 kg/cm2; Density 1,800 kg/m3; Mix proportion of clay-sand of the mortar is 5:1 but this varies a lot in different regions |
+| Foundations | N.A. | |
+| Floors | N.A. | |
+| Roof | Sun-dried adobe blocks	| Compressive strength of masonry prism: 5-28 kg/cm2; Shear strength of mud mortar: 0.04-0.15 kg/cm2; Density 1,800 kg/m3; Mix proportion of clay-sand of the mortar is 5:1 but this varies a lot in different regions |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Builder; Owner
+
+**Roles of those involved in the design process:** There is no special design process for these buildings. The construction details are finalized by experienced masons based on the owner's needs.
+
+**Expertise of those involved in the design process:** Masons' expertise is mainly developed through experience and it is transferred in the family over several generations.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Mason
+
+**Roles of those involved in the building process:** The construction process is mainly performed by experienced and specialized masons.
+
+**Expertise of those involved in building process:** The expertise of the masons mainly originated from experience and from generation to generation.
+
+**Construction process and phasing:** The construction process is carried out under the direct supervision of the building owner. The construction process starts with producing adobe blocks and sun-drying them (Figure 9), excavating the ground, and placing a few courses of adobe masonry if a shallow foundation is provided. Next, the walls are built first and then the arched roof is constructed. The final step involves finishing of the walls and especially the roof with mud-straw overlay.
+
+**Construction issues:** The main construction issues related to the seismic vulnerability of these buildings are poor connections between the perpendicular walls, and also the connection between the roof and the supporting walls.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Off
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Off
+
+**Is this typically informal construction?** Off
+
+**Is this construction typically authorized as per development control rules?** Off
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** Usually, it is the owner who maintains the building, but given the low economic levels of the owners there is generally little or no maintenance and over time the construction deteriorates.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit construction cost for this housing type ranges from 10 to 50 USD/sqm. However, it is difficult to estimate the cost as the construction of this building type is rare nowadays.
+
+**Labor requirements:** The construction requires approximately three skilled workers and it takes up to about 2-3 months. The mason(s) involved in construction need(s) to have experience with respect to the building site selection, architectural requirements, and need(s) to be knowledgeable about the proper mix proportions for manufacturing the adobe blocks.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Since these buildings are found in arid and semi-arid areas (deserts), they are often found in the form of cluster houses concentrated around a main yard. A housing unit is typically occupied by a single family, or sometimes by an extended family (two generations of the same family). In general, there may be up to 20 housing units in each building (Figure 10).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-May
+
+**Additional comments on number of inhabitants:** Since a considerable number of adobe houses in Iran are in the form of cluster houses, the total number of inhabitants in one complex can reach up to 100 persons. However, the average number of inhabitants in each housing unit is 5 people. Moreover, in case of an earthquake, the entire cluster behaves as a single building since there are common walls between these housing units.
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** 
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Off
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Off
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2003 | Bam, Kerman Province | 6.6 | X-XI (EMS-98) | 			
+| 2005 | Zarand, Kerman Province | 6.4 | X-XI (EMS-98) |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 2003, the Bam earthquake struck Bam and the surrounding Kerman province of south-eastern Iran with a moment magnitude Mw 6.6. The earthquake was particularly destructive, with a death toll amounting to 26,271 people and injuring an additional 30,000. The effects of the earthquake were exacerbated by the use of mud bricks as the standard construction material. The earthquake left an estimated 100,000 people homeless. An important regional center during the 16th and 17th centuries, Bam contained many buildings that were not constructed to survive earthquake effects. Many houses in Bam were owner-built, and the owners did not use the help of skilled labor or proper building materials to resist earthquakes in the construction. The Bam Citadel was considered to be one of the most significant existing mud citadels before the event. Most of it was demolished in the earthquake, including a large square tower (Wikipedia.org). In 2005, the Zarand earthquake hit the city of Zarand and several villages in Kerman province of Iran. The earthquake was measured at 6.4 on the Richter scale. The quake lasted for 11 seconds and at least 61 aftershocks were reported with magnitudes between 3.3 and 4.8. The maximum recorded peak ground acceleration was 0.51g at Shirinrud Dam. Though ISNA reports, 790 dead and 1,423 injured according to officials in Kerman University of Medical Sciences. Four villages, each having around 1,000 inhabitants, were reported completely destroyed, and 30 to 70% of buildings in more than 40 villages were reported damaged (Wikipedia.org). As for adobe houses which formed the majority of the housing in rural and suburban areas in the both aforementioned regions, the common failure mode was destabilization of the arched roof due to poor connection of the perpendicular walls as shown in Figure 2-1, Figure 4-a, Figure 5-a and Figure 11.
+
+**Additional comments on earthquake damage patterns:** Walls experience detachment from each other and from the roof. Sliding in the form of bed-joint and diagonal is common. For barrel, crescent and complex arched roofs where two walls are load-bearing, the other two usually experience out-of-plane overturning (Figure 13).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | N/A |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | FALSE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** In many cases, there is no foundation in these buildings (Figure 11). In some cases, rubble stones are found at the base of the walls and in some cases under the ground level in order to act as moisture insulator. Deterioration of the walls and wall bases have been observed due to weathering and moisture (Figure 12) as stated by Webster et al. In some cases, especially those found in suburban areas, the maintenance of the houses is acceptable. Moreover, those which have been constructed recently are kept in good condition. However, in rural areas, the quality of the existing arched-roof houses are poor due to deterioration of adobe mainly because of weathering and also cracks in the walls and the dome from previous earthquakes.
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Walls have a great potential in tolerating seismic forces both in in-plane and out-of-plane directions because of their low height/length aspect ratio and height/thickness slenderness ratio. However, since no special attention has been given to ensure the connection of perpendicular walls, these walls separate from each other during an earthquake and this results in partial or complete roof collapse.
+
+**Earthquake-resilient features in walls:** In rare cases, parallel walls are connected by means of steel rods. This provision was found to be very effective in preventing detachment of walls and hence maintaining 'box-like' behavior. Adobe walls are thicker and shorter than their brick counterparts and hence possess greater load-bearing capacity. Also, considering high surcharges, their in-plane behavior is governed by friction due to low cohesion of mud mortar, hence their response is more ductile than brick walls with sand-cement mortar. Also, since in many cases the openings are arch-shaped (no lintel is used), no diagonal cracks are initiated at the openings (Figure 14).
+
+**Seismic deficiency in frames:** N.A.
+
+**Earthquake-resilient features in frame:** N.A.
+
+**Seismic deficiency in roof and floors:** The main concern about the roofs is their attachment to the supporting walls which in many cases are weak. However, this weakness cannot result in roof collapse per se provided that 'box-like' behavior of the building has been guaranteed.
+
+**Earthquake resilient features in roof and floors:** The arched roofs are expected to maintain their integrity because of arching action. Their seismic performance is superior to wooden flat roofs. Besides the arching action, other reasons for good seismic resistance are their lighter weight and more uniform distribution of roof surcharge on the walls. Dome and polygonal roofs transmit their weight to four walls, while in other roof systems, these loads are placed on two walls and the remaining two walls are non-load-bearing.
+
+**Seismic deficiency in foundation:** N.A.
+
+**Earthquake-resilient features in foundation:** N.A.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  %%-|%%  |  | | |  |
+
+**Additional comments section 5:** The cluster pattern of single building units improves their strength and integrity during earthquake.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Detachment of perpendicular walls | Using four steel rods in each direction to attach parallel walls. These rods were used in a few retrofit projects and proved to be effective in past earthquakes (Figure 15). The rods can easily pass through the drilled holes in the walls. |
+| Cracking in walls (in-plane) | Installing steel welded mesh on the exterior faces of walls. The mesh is attached with through-wall connections bolted on the other side of the wall. Also it is enough to place the mesh only on the upper half of the wall and without any shotcrete; only a proper coating is needed in order to prevent the deterioration of the steel (Figure 15). This strengthening technique is also very simple to implement since it does not require any concrete covering. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Retrofitting of adobe houses was practiced on few pilot examples throughout the country as a pilot project. The final goal was to execute a major retrofitting project for similar rural houses and several thousand school buildings of Iran by the State Organization of Schools Renovation Development and Mobilization. As of this writing (2014), this project is underway under supervision, and technical and financial assistance of the Housing Foundation of Islamic Revolution.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Adobe buildings showed two distinct performances during past earthquakes; severe damages or collapse and no major damages. The former needed demolition and probably replacement of the structural type and the latter needed retrofitting as a mitigation program.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** A structural engineer and two skilled workers involved in the retrofit design and execution, respectively. The construction is carried out by a contractor appointed by the master (provincial Housing Foundation offices).
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The seismic performance of the retrofitted adobe houses has not yet been observed in earthquakes. However, shake-table studies performed in Iran proved that the proposed retrofitting system is very effective in preventing collapse of the model building even against Maximum Considered Earthquake (MCE) with a PGA of 0.92g based on Bakhshi et al. (2009).
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Alalhesabi, M. (1993). Patterns of rural houses, Housing Foundation of Islamic Revolution, Tehran, Iran.
+
+  * Bakhshi, A., Ghannad, M.A., Yekrangnia, M., and Masaeli, H. (2009). Seismic Performance of Existing and Retrofitted Dome-Roof Adobe Houses in Iran using Shaking Table Tests, PEER 2009/02, October 2009, Proceedings of a U.S.-Iran Seismic Workshop , June 29-July 1, 2009, Irvine, California.
+
+  * California Institute of Earth Art and Architecture, http://www.calearth.org
+
+  * European Macroseismic Scale 1998. European Seismological Commission, Subcommission on Engineering Seismology, Working Group Macroseismic scales, 1998.
+
+  * Hejazi, M., and Mehdizadeh Saradj, F. (2013). Persian Architectural Heritage: Form, Structure and Conservation, WIT Press, Southampton and Boston, 2013.
+
+  * Mousavi, Eshkiki S.E., Khosravifar, A., Ghannad, M.A., Bakhshi, A., Taheri Behbahani, A.A., and Bozorgnia, Y. (2006). Structural Typology of Traditional Houses in Iran based on their Seismic Behavior, Proceedings of the 8th U.S. National Conference on Earthquake Engineering, April 18-22, 2006, San Francisco, California, US.
+
+  * Webster, F., and Tolles, E. (2000). Earthquake damage to historic and older adobe buildings during the 1994 Northridge, California Earthquake, Proceedings of the 12th World Conference on Earthquake Engineering, 2000.
+
+  * http://en.wikipedia.org/wiki/2003_Bam_earthquake; http://en.wikipedia.org/wiki/2005_Zarand_earthquake
+
+  * Zamrashidi, H. (1995). Architecture of Iran - Construction of traditional houses, Zomorrod Publications, Tehran, Iran.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mohammad Yekrangnia | Ph.D. Candidate | Sharif Univ. of Tech. | Azadi St., Tehran, Iran | m.yekrangnia@gmail.com | 
+| Ali Bakhshi | Associate Prof. | Sharif Univ. of Tech. | Azadi St., Tehran, Iran | bakhshi@sharif.edu | 
+| Mohammad Ali Ghannad | Prof. | Sharif Univ. of Tech. | Azadi St., Tehran, Iran | ghannad@sharif.edu | 
+| Arash Khosravifar | M.Sc. Graduate | Sharif Univ. of Tech. | Azadi St., Tehran, Iran |  | 
+| Ebrahim Mousavi Eshkiki | M.Sc. Graduate | Sharif Univ. of Tech. | Azadi St., Tehran, Iran |  | 
+| Hamid Masaeli | M.Sc. Graduate | Sharif Univ. of Tech. | Azadi St., Tehran, Iran |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+

@@ -1,0 +1,327 @@
+====== Confined masonry house, Peru ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 51
+
+**Building Type:** Confined masonry house
+
+**Country:** Peru
+
+**Author(s):** Cesar Loaiza, Marcial Blondet, Papa Simona
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Peru, particularly in the coastal region. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is the most common single-family housing construction practice followed both in urban and rural areas of Peru in the last 45 years. Confined masonry buildings consist of loadbearing unreinforced masonry walls made of clay brick units, confined by cast-in-place reinforced concrete tie columns and beams. These buildings do not have a complete load path in both horizontal directions required for adequate lateral load resistance. However, in spite of that typical houses may show a good seismic performance.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Total number of housing units depends on the number of building sections. Typically, for the three-section building, the number
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shape
+
+**Additional comments on plan shape:** Rectangular shape or L-shape.
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 5-10
+
+**Typical story height (meters):** 2.6 - 2.8
+
+**Type of Structural System:** Masonry: Confined Masonry: Clay brick masonry with concrete posts/tie columns and beams
+
+**Additional comments on structural system:** The lateral load-resisting system is confined masonry wall system. Masonry shear walls give stiffness to the structure and control lateral drifts. Tie columns and bond beams provide adequate confinement and ductility to the masonry walls. Typical houses have a good wall density in one horizontal direction, but a lower wall density in the other. This makes the house particularly vulnerable in the horizontal direction where the density is lowest. Tie columns have enough longitudinal reinforcement to resist overturning moments. Closely spaced transverse reinforcement at beam-column joints provides adequate ductility to resist seismic forces. Floors/roofs can consider to be rigid diaphragms in the analysis. Typical wall thickness is 150 mm or 250 mm. In general, the same system as describe above. Floors/roofs transmits gravity loads to the structural walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** In some cases, rubble stone and massive stone walls have been used.
+
+**Typical wall densities in direction 1:** 1-2%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** Typical wall densities for each horizontal direction are 2% and 7%, respectively.
+
+**Wall Openings:** A typical house has 6 to 10 windows per floor, with a total average size of 3.0 sq m. The position of these openings is variable, but usually is approximately 0.8 to 1.0 m from the floor level in rooms and from 1.8 to 2.0 m in bathrooms.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Commonly, owners build interior walls or additional floors for new rooms.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone isolated footing
+
+**Additional comments on foundation:** In buildings close to rivers, fieldstone strip footing can be found.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 0.01 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick masonry | Compressive strength (masonry prisms)=13-16 MN/sq m Shear strength= 0.6 - 0.8 MN/sq m 1:4 / 90mm x 120mm x 240mm Compressive strengths depend on the quality of brick units. | 
+| Foundations | Concrete | Compression strength 10-14 MN/sq m | 
+| Floors | Concrete | Compression strength: 21- 35 MN/sq m Steel yield strength: 410 MN/sq m 1:2:3 | 
+| Roof | Concrete | Compression strength: 21- 35 MN/sq m Steel yield strength: 410 MN/sq m 1:2:3 | 
+| Other | Concrete | Compression strength 18 - 21 MN/sq m Steel yield strength 410 MN/m 1:2:3 | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Engineers are in charge of the structural design and construction process. Architects are in charge of the architectural design and could be in charge of the construction process.
+
+**Expertise of those involved in the design process:** Both, the structural and the construction engineer will have five years of study and minimum work experience of two years.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is typically built by developers.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Masonry walls are built with serrated edges, and then the tie-columns are cast against them. After that, bond beams, lintels and floors are built simultaneously. Concrete is mixed in machine mixers and taken with wheelbarrows to fill the wood formwork. Tools and equipment used are: hammers, spatulas, wheelbarrows, concrete vibrator and concrete mixers. The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size. Buildings are originally designed for a specific number of stories. However, it is common that owners decide to build additional floors some years later.
+
+**Construction issues:** #NAME?
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Seismic Design Standards E-030. 1977 National Construction Standards, Masonry Standards E-070 1998
+
+**Process for building code enforcement:** Municipal authorities approve the structural and architectural design for the building. It is a common practice that owners retain a building supervisor to oversee the construction process. In order to start the construction, it is necessary to get a building permit. Municipal authorities are in charge of giving this permit to builder companies. Each project must have four types of technical drawings: structural drawings, architectural drawings, hydraulic installation drawings, and power installation drawings. Municipal authorities need to approve this technical information to issue a building permit.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)Renter(s)No one
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Unit construction cost may vary from 200 to 250 $US/sq m. This price includes the entire construction cost and could change depending on the quality of finishing materials.
+
+**Labor requirements:** A typical 2-story house will need approximately 90 days (3 months) to complete the construction.
+
+**Additional comments section 3:** These buildings were constructed using the following construction materials: 2. Exterior walls (2 layers); one layer is made using regular concrete and the other one is made of lightwight concrete (for the purpose of heat insulation). 3. Interior walls are made of regular concrete.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one family occupies one house. In some cases, two families may occupy one house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Economic Level: For Middle Class the Housing Unit Price is 80,000 and the Annual Income is 12,000. For Rich Class the Housing Unit Price is 120,000 and the Annual Income is 60,000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** At present time, the Government does not support any new construction of this type.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** It is not common that owners purchase earthquake insurance. It is a total coverage, which includes the price of a new house.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1970 | Chimbote | 7.8 | VI (MM) | 
+| 1974 | Lima | 7.7 | VIII (MM) | 
+| 1996 | Nazca | 7.3 | VII (MM) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** Shear cracking in the walls (cracks propagate through tie columns).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | N/A | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Inadequate thickness to resist gravity and seismic loads (slender walls). -Inadequate wall density in one direction.
+
+**Earthquake-resilient features in walls:** Good seismic force transfer.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Parapets and nonstructural walls | Parapets and nonstructural walls are confined with tie columns and bond beams. When parapets are located between tie columns, they are isolated with a construction joint. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Yes, parapets are confined and nonstructural walls are isolated from the structure.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The seismic strengthening was done in a new construction.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Usually engineers are involved in the strengthening efforts.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Good seismic performance: parapets resist overturning forces and cracking effects were reduced in non structural walls.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Harmsen T. y Mayorca, 1997, de Estructuras de Concreto Armado, Pontificia Universidad Catolica del Peru.
+
+  * Norma Peruana de Albanileria E-070, 1998, Capitulo Peruano del ACI.
+
+  * Norma Peruana de Sismorresistente E-070, 1998, Capitulo Peruano del ACI.
+
+  * Quiun, San Bartolome, Torrealva, Zegarra, 1997, El Terremoto de Nasca del 12 de Noviembre de 1996, Pontificia Universidad Catolica del Peru.
+
+  * San Bartolome, 1994, Construcciones en Albanileria, Pontificia Universidad Catolica del Peru.
+
+  * San Bartolome, Munoz, Rodriguez, 2001, Fuerzas as de para Edificaciones de Albanileria, Pontificia Universidad Catolica del Peru.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Cesar Loaiza | Professor | Civil Engineering Department, Catholic University of Peru | San Bartolome, Munoz, Rodriguez, 2001, Fuerzas as de para Edificaciones de Albanileria, Pontificia Universidad Catolica del Peru. | cloaiza@pucp.edu.pe | 
+| Marcial Blondet | Professor | Civil Engineering Department, Catholic University of Peru | POB 1761, Lima 32 , PERU | mblondet@pucp.edu.pe | 
+| Papa Simona | Architect | KazNIISSA | 53, Mynbayeva str, Almaty, Republic of Kazakhstanoff. # 305 |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

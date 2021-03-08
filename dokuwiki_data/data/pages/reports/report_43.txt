@@ -1,0 +1,331 @@
+====== Rural mud wall building ( nyumba yo mata OR ndiwula ), Malawi ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 43
+
+**Building Type:** Rural mud wall building ( nyumba yo mata OR ndiwula )
+
+**Country:** Malawi
+
+**Author(s):** Sassu, M., Ngoma,I
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the three regions of Malawi (Northern, Central and Southern region). This housing type represents about 5% of the entire housing stock. This type of housing construction is commonly found in rural areas.
+
+**Summary:** This housing construction type is used only for residential purposes. The building technique consists of timber poles as the core or base with a mud smear applied on both sides. The plan is circular (only one floor) and the roof is formed by grass thatch supported on timber poles and cross members. The circular shape of the plan and the light weight of the roof, combined with the wood skeleton or frame, ensure a good seismic response. The seismic vulnerability is increased by poor connections of the wood skeleton and by progressive damage of the natural components.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Curved, solid (e.g. circular, elliptical, ovoid)
+
+**Additional comments on plan shape:** Mainly circular shape.
+
+**Typical plan length (meters):** 4
+
+**Typical plan width (meters):** 4
+
+**Typical story height (meters):** 2
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is timber frame. Timber poles form the inner skeleton of the building. Timber vertical elements, of about 5-7 cm (butt end) with a spacing of approximately 1.5 cm, provide the circular transverse section of the structure; horizontal wooden elements (half part of an element with a diameter of 2-3 cm) connect the vertical ones by way of bark strings. The mud layers give transverse stiffness to the wooden skeleton, completing the connection. Gravity load-bearing system: The roof and the mud smear vertical loads are directly supported by the wooden structure.
+
+**Gravity load-bearing & lateral load-resisting systems:** Wattle and daub may not fully cover the structural timber elements where wooden poles are used instead of bamboo/reeds mesh.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. 10 - 13%.
+
+**Wall Openings:** Windows are not provided in this type of circular housing and there is only one door with a typical size range of (1.50 - 1.70 m) height X (0.60 - 0.80 m) wide. The diameter of the round plan is estimated at about 3 - 4 m. In some cases an additional external ring of about 0.50 m is constructed to keep domestic animals and for extra storage space.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Periodic restoration of the roof (three-five years) and re-smearing with mud on internal and external surfaces.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** The back fill is tamped (compacted) after all vertical members are placed.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Other: Timber, rammed earth with ballast and concrete or plaster finishing Roof and floor are considered to be flexible diaphragms.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Other: Timber, thatched roof supported on wood purlins Roof and floor are considered to be flexible diaphragms.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Timber/mud |  | 
+| Foundations |  |  | 
+| Floors | Rammed earth |  | 
+| Roof | Timber |  | 
+| Other | Timber |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** The level of expertise is good as it is a practice communally executed which ensures all the necessary skills and knowledge.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Builder lives in this construction type. It is communally built.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** This type of construction is completed by a group/communally. Timber poles are cut to the same length, holes (0.3 m) to receive the poles dug in the ground, poles are placed in the holes but not firmly back filled, the horizontal members are tied to the poles, and the embedded poles are firmly fixed in the ground ensuring that the poles are vertical. The mud is now placed/smeared on both sides of the pole walls. The tools used are axe, hoe and buckets. In regards to the roof, a central pole (0.2-0.3 m diameter) is placed at centre (embedded 0.3 m in the ground) to receive horizontal members 0.03 m diameter acting as purlins placed at 0.3 m centres top and bottom and tied by bark strings. The pitch is not less than 20 degrees. The grass depth is about 0.025 m forming a thatch. The grass is supported on the timber skeleton by three rows of timber placed at the eaves level, mid-way and top tied by bark strings. Poles 0.15 m diameter and spaced 0.6 m apart support eaves projections. These poles are placed about 0.7 m from the wall forming a verandah or khonde. The verandah/khonde is raised 0.15 m above ground level to protect wall from surface or rain water. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** Low comfort; no facilities; necessity of periodic rebuilding of the roof.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Not possible to estimate because of communal nature of construction.
+
+**Labor requirements:** In general, 7 to 10 days are required to complete the construction. This includes the cutting of timber poles , digging of holes, placing of poles in the holes, tieing the horizontal members (connecting the vertical poles with transverse thin wooden branches), smearing/application of mud on both sides of poles wall, roofing, and flooring.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Generally, a single family occupies a single dwelling
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** These houses are communal buildings and haven't price. 50% (very poor - less than 50US$/per year) - 50% (poor - less than 100US$/per year). It is difficult to estimate. (From the web page -CIA-The world factbook- the GPD per capita is USD900.00, 2000 est.) http://www.odci.gov/cia/publications/factbook/geos/mi.html#Econ Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Informal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** This type of construction is not covered in insurance issues.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1957 | Champira | 5 | MMI IIIV | 
+| 1966 | Mwanza | 5.3 |  | 
+| 1967 | Thambani in Mwanza | 5.4 |  | 
+| 1989 | Salima | 6 | MMI VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 1973 another earthquake hit Livingstonia measuring 5.1 on the Richter magnitude. The 1989 Salima earthquake was the worst in Malawi. It is reported that 9 people lost their lives and over 50,000 people were left homeless. Rural mud wall buildings performed reasonably well. Geologists forecast more intense earthquakes in Malawi.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** No structural bond between mud and timber core
+
+**Earthquake-resilient features in walls:** Well tied vertical and horizontal members light structure
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Wall/roof connection weak. Floor is non- structural - it is made of rammed earth.
+
+**Earthquake resilient features in roof and floors:** Roof with strong mesh structure.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | o | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Wall/roof connection is weak | Periodic rebuilding of the roof | 
+| Mud not properly connected with timber core | Periodic replastering of the surfaces | 
+| Floor is not structural | Nossible relative settlements | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Yes
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work prevents environmental damages, including damage from earthquakes
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The owner
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A: the damaged buildings has been rebuilt
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismicity and Source Mechanisms of the Malawi Rift and Adjacent Areas, from 1900 to 1990 Chapola,L.S. Course of seismology 1990-1991 at International Institute of Seismology and Earthquake Engineering, Building Research Institute, Tsukuba, Japan 1991
+
+  * The Malawi Earthquake of March 10, 1989: A Report of Macroseismic Survey Gupta,H.K. Tectonophy 209, No. 1-4, 165-166 1992
+
+  * An Estimation of Earthquake Hazards and Risks in Malawi Chapola,L.S. Geological Surveys Department, P.O. Box 27, Zomba 1993
+
+  * Seismicity and Tectonics of Malawi Chapola,L.S. (for National Atlas of Malawi), Geological Survey Department, P.O. Box 27, Zomba 1994
+
+  * State of Stress in East and Southern Africa and Seismic Hazard Analysis of Malawi Chapola,L.S. M.Sc. Thesis, Institute of Solid Earth Physics, University of Bergen, Norway 1997
+
+  * National Housing Policy Malawi Government 1999
+
+  * Low Cost Building Materials in Malawi Kamwanja,G.A. Ph.D. Thesis, University of Malawi 1988
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sassu, M. | Associate Professor | University of Pisa | Department of Structural Engineering, Via Diotisalvi 2 56126 PISA Italy | m.sassu@ing.unipi.it | 
+| Ngoma,I | Senior Lecturer | University of Malawi | The Polytechnic, P/B 303, Blantyre 3.Malawi | ingoma@poly.sdnp.org.mw | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Manuel A. Lopez M. | Engineer | Escuela de Ingenier, Universidad de El Salvador | San Salvador , EL SALVADOR | manuel.lopez@unipv.it | 

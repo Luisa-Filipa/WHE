@@ -1,0 +1,348 @@
+====== Concrete-block masonry construction in Pakistan, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 174
+
+**Building Type:** Concrete-block masonry construction in Pakistan
+
+**Country:** Pakistan
+
+**Author(s):** Sarosh Hashmat Lodi, Abdul Jabbar Sangi, Adam Abdullah
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in around 3.3% of all construction in Pakistan [1]. This type of construction is very popular in Karachi and its suburbs due to the ready availability of concrete blocks. Sand, gravel, aggregate, and cement, the necessary ingredients for casting concrete blocks, are conveniently available in Karachi. Cement is used as a binding agent, which gives the blocks their strength and durability (at the cost of adding substantial weight to the structure). In other parts of the country where sand and gravel are not available as easily it is more practicable to construct in brick, which is appropriate to those areas climatically as well as economically. Concrete block construction has also started to replace stone masonry in the northern areas of Pakistan because of its lower cost as compared to building in stone. In Karachi, concrete blocks are mass produced on a large scale and exported to the suburbs and outlying settlements bordering the central urbanized region. They have come to define the typical construction of Karachi. Concrete blocks are more commonly used as infill material within an RCC frame in most of the construction in Karachi. However, they can be used as load bearing members without reinforcement. This type of housing construction is commonly found in both sub-urban and urban areas.
+
+**Summary:** This report provides an overview of concrete block masonry housing construction, which is generally found in urban areas of Pakistan. Block masonry covers 3.3% of the total built environment of Pakistan. Block masonry construction is the most common type in less developed urban areas, where clay is not readily available, and ranges from one-storey houses to multi-storeyed buildings. The construction is generally carried out without any technical input. There are no guidelines and laws available to regulate it; therefore, it suffers from a number of weaknesses. This construction type is highly vulnerable to seismic forces.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercial
+
+**Typical number of stories:** 44256
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Concrete block construction has also started to replace stone masonry in the northern areas of Apart from being the main load
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling; Institutional housing
+
+**Typical number of stories:** 
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is still being constructed and around 5.2% of the existing building stock of Pakistan compr
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** As this type of construction is limited to urban or suburban regions where there are defined allotments of land rather than open parcels like in the countryside, buildings are strictly regular squares or rectangles in plan according to the plot size. Buildings contain basic living amenities. A main entrance door, which might not necessarily be located centrally on the external wall, opens into an interior lobby, from which one can access rooms or a staircase leading to an upper floor. Additional features like a wash basin, a water motor, and an underground tank may be located within this entrance lobby. Sometimes, the exterior door connects to an open veranda, and each interior room has its own door connected to the central veranda space. For other plots, shops may occupy the entire ground floor area, leaving just enough space for a minimal flight of stairs to the first floor where living facilities are provided.
+
+**Typical plan length (meters):** 10-50
+
+**Typical plan width (meters):** 5-30
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Concrete block masonry in cement mortar
+
+**Additional comments on structural system:** The vertical load-resisting system is un-reinforced masonry walls. The loads from the roof are transferred to the walls and to the foundations. The lateral load-resisting system is un-reinforced masonry walls. The walls have a very low resistance to out of plane forces. In most cases, there is no proper connection between the roof and the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is unknown.
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Smaller block masonry units are usually open to incremental modification as funds become available. These modifications can be in the form of ad hoc appendages to an existing, finished construction (Figure 5), or the addition of a single block masonry room or floor on top of an already built RCC ground floor (Figure 6). As block masonry construction is adopted by low and low-middle class residents, modifications to existing buildings are quite common, depending on when funds become available, and whether the owner decides to add more space to rent out to tenants as a source of additional income.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** The foundations are block masonry wall footings laid in cement sand mortar, typically 1.5 to 2.5 feet deep, and 1.5 to 2.5 feet wide.
+
+**Type of Floor System:** Composite cast-in-place reinforced concrete and masonry floor systemOther floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Single story block masonry houses generally have a lighter roof made of steel girders with tiles or CGI sheets. Precast concrete beams and slab panels are also used in urban areas like Karachi. For block masonry buildings with 2 to 3 storeys, RC slab is also used. Single story block masonry houses generally have a lighter roof made of steel girders with tiles or CGI sheets. Precast concrete beams and slab panels are also used in urban areas like Karachi. For block masonry buildings with 2 to 3 storeys, RC slab is also used.
+
+**Additional comments section 2:** These buildings can be found in the flattest of areas such as Karachi to quite rugged terrains such as the mountainous Gilgit and Hunza regions. The location of block masonry buildings depends more on the availability of suitable materials for construction than geographic features of the land. Another factor is the lack of availability of clay in the areas as they are located away from the river plains as shown in Figure 1. When separated from adjacent buildings, the typical distance from a neighboring building is 1-5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Solid concrete blocks with cement sand mortar. | Wall: Characteristic Strength-There is a large variation of strengthens, ranging from 2 to 6 MPa. Mix Proportion/Dimensions-The mix proportions of the concrete blocks are 1:6 cement and sand. The dimensions of the blocks are 150 x 200 x 300 mm. Walls of block masonry houses are approximately 10 feet high or more. The thickness is up to 6 inches, the same as the width of a single block. As most block masonry houses are single story structures, the total height of the structure rarely exceeds 12 feet. Where an additional story has been constructed, building heights can go up to 24 feet. |
+| Foundations | Concrete blocks and cement sand mortar.	| Characteristic Strength: The strength of the foundation ranges from 2 to 6 MPa. Mix Proportion/Dimensions: The mix proportions and the dimensions of the blocks are same as the walls. Strip foundation is commonly provided, the depth of the foundation being at least 3 feet. The depth is larger in areas where the load bearing capacity of the soil is less. The foundation can be either of concrete blocks or stone masonry (Figure 10). The thickness of the stone masonry foundation is usually between 12 to 15 inches, and in some cases might be as high as 18 inches. Where stone is not available, concrete blocks are used in the foundation, with the foundation wall 12inches thick. The plinth is provided at around 2 feet from the ground level. The plinth wall has a thickness equal to that of the foundation. Both the internal and the external faces of the plinth are plastered. |
+| Floors | Steel girders with clay tiles or precast slab panels. | Roofs of block masonry structures are constructed using lightweight material, as unreinforced blocks have a limited load bearing strength. In relatively urban settlements, the roofs are flat and may be of corrugated galvanized iron sheets held down by blocks or of concrete I-beams with concrete tile roofs where residents can afford them. Otherwise, light wooden or bamboo beams protected with a plastic sheet for waterproofing are covered with mud and soil. Wooden or bamboo rafters run along the shorter directions placed at a centre to centre distance of 18 inches or more. Wooden planks are laid perpendicular to these rafters. A 6 inch layer of soil is laid at the top of the plastic sheet. This practice is more common in the northern parts of the country where wood is abundant, and where the colder temperature requires a well-insulated rood layer. |
+| Roof | Steel girders with clay tiles or precast slab panels. | Roofs of block masonry structures are constructed using lightweight material, as unreinforced blocks have a limited load bearing strength. In relatively urban settlements, the roofs are flat and may be of corrugated galvanized iron sheets held down by blocks or of concrete I-beams with concrete tile roofs where residents can afford them. Otherwise, light wooden or bamboo beams protected with a plastic sheet for waterproofing are covered with mud and soil. Wooden or bamboo rafters run along the shorter directions placed at a centre to centre distance of 18 inches or more. Wooden planks are laid perpendicular to these rafters. A 6 inch layer of soil is laid at the top of the plastic sheet. This practice is more common in the northern parts of the country where wood is abundant, and where the colder temperature requires a well-insulated rood layer. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** There are no design or construction guidelines available for this type of construction. Local masons rely on their past experience and the engineers or architects are not generally involved.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** The builder is usually the owner of the house who decides whether to live in it or rent out portions as residential or commercial space.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Block masonry construction is usually carried out by local masons and labourers who rely on their experience. The foundations are generally constructed using block masonry with cement sand mortar and are wider than the walls. From plinth level, the walls are constructed in cement sand mortar. Various types of roofing materials are used which are generally directly resting on the walls without proper connections. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Repairs consist largely of plaster peeling or blocks falling out of walls, which is not that common.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The cost of construction is roughly Rs. 7,500 to Rs. 10,000 per m2.
+
+**Labor requirements:** The construction of a typical housing unit takes approximately 4 to 6 months to complete.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** As block masonry houses are occupied by low to low-middle income households, they are left somewhat vacant during the daytime as men leave for work. Womenfolk from the surrounding houses may gather in one of the rooms to share gossip or do household chores together, like preparing meals. It is common for the elderly to bask in the sun during the early morning hours, and toddlers to play about in the street. This gives a block masonry settlement a lively morning ambience. Men return to the houses for afternoon meals, after which they might go off to work in the evening. It is not before night time that the entire family sits together for a while before retreating to the bedrooms.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** Block masonry houses are relatively small, single-family residences. A larger extended family resides where they cover two stories. Tenants may also be present if the resident family is small in size.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 5:1 or worse Block masonry houses are ideal for low to low-income residents, who fall short of affording an RCC frame construction but still manage to pay for a durable form of construction.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** Houses belong to the builder. Often after acquiring a plot and unable to start construction immediately, the owner may decide to erect a few temporary block masonry structures, such as a room or a number of shops, so that the plot is not encroached upon illegally by political or other vectors.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Block masonry houses are relatively small, single-family residences. A larger extended family resides where they cover two stories. Tenants may also be present if the resident family is small in size.
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1668 | Samawani Sindh | 7.6 | VIII to IX | 
+| 1931 | Sharigh Valley Balochistan | 7 | VIII to IX | 
+| 1931 | Muchh Balochistan | 7.4 | VII | 
+| 1935 | Quetta Balochistan | 7.5 | VIII | 
+| 1945 | Pasni Makran | 8.3 | VII to VIII | 
+| 1974 | Pattan Swat | 6.2 | VII | 
+| 2001 | Bhuj Gujarat | 7.6 | VII | 
+| 2005 | Kashmir | 7.6 | X | 
+| 2008 | Ziarat Balochistan | 6.4 | VIII | 
+| 2011 | Dalbandin Balochistan | 7.2 | IV to V | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type** The Indian plate upon which Pakistan, India and Nepal lie, is continuously moving northward and subducting under the Eurasian plate, thus triggering earthquakes in the process and forming the Himalayan mountains. Within the Suleiman, Hindu Kush and Karakoram mountain ranges, the Northern Areas, Chitral district in NWFP, Kashmir including Muzaffarabad, Quetta, Chaman, Sibi, Zhob, Khuzdar, Dalbandin, the Makran coast including Gwadar, and Pasni in Balochistan are located in high or very high risk areas. Cities of Islamabad, Karachi and Peshawar are located on the edges of high risk areas. Figure 7 shows the seismic zoning map of Pakistan, which was developed after 2005 Kashmir earthquake [2]. A large number of major earthquakes have hit Pakistan in 20th Century including: 1935 Quetta earthquake, 1945 Makran coast earthquake, 2001 Bhuj earthquake and 2005 Kashmir earthquake [3]. Figures 8 and 9 show the damage to block masonry houses in Kashmir 2005 earthquake.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included : Collapse of wall due to out of plane effects and shear; Collapse of roof due to out of plane failure of walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | FALSE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor lateral resistance, weak in out of plane direction, no lintel band, Improper opening proportions, poor quality of construction
+
+**Earthquake-resilient features in walls:** There are no earthquake resistant features.
+
+**Seismic deficiency in frames:** Heavy dead loads, no connection between roof elements and walls, lack of diaphragm action
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** There are no specific set of provisions available for seismic strengthening and retrofitting of block masonry houses.
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismic Vulnerability Assessment of Existing Buildings of Pakistan, Earthquake Model for Middle East Region (EMME) Lodi, S.H., N. Alam, and M. Ahmed (2012) Department of Civil Engineering, NED University of Engineering & Technology, Karachi, Pakistan
+
+  * Building Code of Pakistan - Seismic Provisions Ministry of Housing & Works, Government of Pakistan
+
+  * Seismic Hazard Analysis for the Cities of Islamabad and Rawalpindi Lindholm, C., et al. (2006) NORSAR and Pakistan Meteorological Department
+
+  * Unreinforced Brick Masonry Residential Building Ali Qaisar (2006) World Housing Encyclopedia
+
+  * First Report on the Kashmir Earthquake of October 8, 2005 Naeem, A., et al. (2005) EERI
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Sarosh Hashmat Lodi | Professor and Dean | Faculty of Civil Engineering and Architecture, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | sarosh.lodi@neduet.edu.pk | 
+| Abdul Jabbar Sangi | Professor | Department of Civil Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | ajsangi@neduet.edu.pk | 
+| Adam Abdullah | Research Assistant | Department of Earthquake Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | adam@neduet.edu.pk | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Tom Schacher | Architect | Swiss Agency for Development and Cooperation, Humanitarian Aid | Agarone, Switzerland | tom.schacher@adhoc.ch |

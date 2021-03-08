@@ -1,0 +1,375 @@
+====== Adobe House, Chile ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 179
+
+**Building Type:** Adobe House
+
+**Country:** Chile
+
+**Author(s):** Claudia Alvarez Velasquez, Matias Hube Ginestar, Felipe Rivera Jofre, Hernan Santa Maria Oyandenel, David Hernandez Jara
+
+**Last Updated:** 
+
+**Regions Where Found:** Adobe houses are mainly found in rural areas of the central regions of Chile. These represent 3% of the total number of houses in the country.
+
+**Summary:** Adobe houses are mainly found in rural areas of the central regions of Chile. These represent 3% of the total number of houses in the country and they are characterized for having a large mass and very small strength, particularly against out-of-plane forces. Adobe houses are used as single or multiple family dwellings and are one or two stories high with no basement floors. This type of construction exhibited very bad performance during past strong earthquakes (i.e. Valparaiso 1985, Maule 2010, Iquique 2014), causing a decrease in the number of adobe constructions through time. This type of construction is not included in the seismic building code of the country since it is considered to be highly vulnerable to seismic forces. However, it is allowed to build adobe structures following the requirements of the General Planning and Building Ordinance (MINVU, 2014a), and following a foreign seismic code for adobe. After the 2010 Maule earthquake, two standards were created with the requirements for intervention, renewal, retrofit or structural consolidation of adobe structures with heritage value. These standards are NCh 3332 (INN, 2013) and NTM 002 (MINVU, 2013).
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, unknown typeSingle dwelling
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Adobe houses can be found all over the country and are mainly found in rural areas of the central regions of Chile, representing
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Adobe houses commonly have rectangular plan shapes despite there are no plan shape regulations in the codes. The rooms are divided symmetrically on both sides of the main axis, with a limited number of small openings for windows.Article 4.1.1 of the General Planning and Building Ordinance (MINVU, 2014a) establishes a minimum interior free height of 2.3 m for housing dwellings, except under beams, horizontal installations, and small areas under sloping roofs. Article 4.1.2 indicates that there should be at least one window in each room (bedrooms, living room and bathrooms) of the dwelling. In bedrooms, windows must have a minimum free horizontal distance of 1.5 m. For thermal requirements, and according to Article 4.1.10, maximum window area is limited based on the type of glass and the thermal zone where the structure is built.
+
+**Typical plan length (meters):** 11m
+
+**Typical plan width (meters):** 11m
+
+**Typical story height (meters):** 2.2m
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** 
+
+**Gravity load-bearing & lateral load-resisting systems:** The vertical load-resisting system is earthen walls. Gravity loads from the roof construction itself (dead loads), live loads, wind or snow loads are transferred directly from the roof construction to the walls and then to the foundations. The lateral load-resisting system is earthen walls. The lateral stiffness is provided by the massive adobe shear walls. Generally, wall thickness is between 30 and 40 cm (Solar Hermosilla, 1975). Common dimensions of adobe bricks in Chile are 58 × 30 × 8 cm and 78 × 40 × 8.
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** Adobe houses have a typical story height of 2.2 m, and a wall density of 20%.
+
+**Wall Openings:** Adobe houses commonly have rectangular plan shapes despite there are no plan shape regulations in the codes. The rooms are divided symmetrically on both sides of the main axis, with a limited number of small openings for windows.Article 4.1.1 of the General Planning and Building Ordinance (MINVU, 2014a) establishes a minimum interior free height of 2.3 m for housing dwellings, except under beams, horizontal installations, and small areas under sloping roofs. Article 4.1.2 indicates that there should be at least one window in each room (bedrooms, living room and bathrooms) of the dwelling. In bedrooms, windows must have a minimum free horizontal distance of 1.5 m. For thermal requirements, and according to Article 4.1.10, maximum window area is limited based on the type of glass and the thermal zone where the structure is built.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typically, no modifications are made to these houses.
+
+**Type of Foundation:** Shallow Foundation: No foundationOther Foundation
+
+**Additional comments on foundation:** Concrete strip footing are also used but with no reinforcement as it is shown in Figure 9.Foundation requirements such as dimensions, allowable soil contact stress, minimum area of reinforcement in spread foundations, which depends on the number of stories, and minimum buried depth of foundations, are specified in Title 5 Chapter 7 of the General Planning and Building Ordinance (MINVU, 2014a).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Wooden structure with light roof covering
+
+**Additional comments on roof system:** Roof consists of wooden beams or truss forming a pitched roof with gable ends. This wooden structure are required to be embedded in the earth wall and securely anchored (see Section 6.3 and Figure 14).
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe | 1.64 to 3.75 Kgf/cm2No standard values available/ 58 * 30 * 8 cm or78 * 40 * 8 cm |
+| Foundations | Concrete | 170 Kg of cement per m3 of concrete |
+| Floors | | |
+| Roof | Wood | Wood: depending on local quality. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Only local traditional knowledge is used in these constructions. The role of professionals such as engineers and architectures is minimal to none.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** The builder/owner usually lives in these housing constructions.
+
+**Expertise of those involved in building process:** Only local traditional knowledge is used in these constructions. The role of professionals such as engineers and architectures is minimal to none.
+
+**Construction process and phasing:** A dry and flat terrain must be chosen to build the house. This field should be slightly raised above the surrounding terrain. Besides, the proximity to rivers, or areas with steep slopes should be avoided.Excavations must be at least 40 cm deep and 20 cm for gravel soil, and a width of 40 cm; foundations must be built with concrete of at least 170 Kg of cement per m3 and 40% of rock boulders. In order to avoid the erosion of adobe blocks closest to the ground, a plinth wall must be constructed, which can be built from concrete or masonry. Then the adobe wall can be constructed. The joints between blocks of adobe, both vertical and horizontal, are made with the same material of the adobe, and its thickness should be 2 cm. All bricks must be locked with a midblock overlap. The intersection of the walls must be orthogonal (Figure 12). As reinforcement in door and window openings, wooden lintels are embedded in the adobe walls (Figure 13).A continuous horizontal reinforcement called "crowning chain" is placed at the top of the walls, along all their length. It is constructed using two parallel 3 x 3 in timber pieces joined by 2 x 2 in transverse elements. This set constitutes a chain that must be assembled at the corners as shown in Figure 14 to prevent the walls from separating, and must be filled with the same material as the adobe bricks.Finally, the roof structure is mounted over the crowning chain.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+ 
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Adobe houses must follow the General Planning and Building Ordinance. The Ordinance indicates that there are two types of adobe structures (Article 5.3.1): a) type E, which are constructions with timber supporting structure, timber panels made of fibre-cement, gypsum plasterboard, and/or adobe wallboard partitions, and timber floors; and b) type F, which are adobe constructions, earth-cement or another light material bonded with cement, and timber floors. According to the Article 5.1.7 of the Ordinance, for both types, if the construction area is less than 100 m2 or occupancy load is less than 20 people, it is possible to not require a structural calculation and design, and only has to follow Title 5 Chapter 6. However, in Title 5 Chapter 6, adobe constructions are not included. Thus, in 2010 Ministry of Housing prepared a document that says that a structural analysis for adobe structures prepared by an engineer is always required (MINVU, 2010).Article 5.3.2 establishes that structures type F cannot have more than one story, and 3.50 m of height. Structures type E have to follow Art. 5.6.8, for timber structures, because of their wooden elements.
+
+**Process for building code enforcement:** In Chile every structural design has to follow the seismic code NCh 433 (INN, 2009) and Decree DS 61 (MINVU, 2011), but for materials lacking of seismic standard, such as adobe, there are two options. First, it is required to prove through nonlinear cyclic tests that it has strength and ductility (following this seismic code) equivalent to those that have specific seismic standard (DS 61, 2011). Second, it is required to follow a foreign seismic code for this construction material (MINVU, 2010).After the 2010 earthquake, the standards NCh 3332 (INN, 2013) and NTM 002 (MINVU, 2013) were created to establish minimum requirements for intervention, renewal, retrofit or structural consolidation of existing earthen structures with heritage value, including those considered of adobe masonry.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** No
+
+**Is this construction typically authorized as per development control rules?:** Yes
+
+**Additional comments on building permits and development control rules:** The construction permits are regulated and given by the Municipalities. Each Municipality is in charge of the master plan of the zone or city. Additionally, a Municipality permit is required to expand or modify an existing structure. According to Article 5.1.6 of the General Planning and Building Ordinance, to obtain the permits for a project it is necessary to give the following documents to the Municipality Building Director:1) Application signed by the owner and the architect of the project with the following attached documents:- A list of all the documents and architectural drawings signed by the architect.- Statement of the owner indicating being the owner of the domain of the property.- Special conditions of the project.- All the professionals of the project.- A statement indicating if the project consults public buildings or not.- If the project has a favourable report of an independent reviewer and the identity of this reviewer.- If the project has a favourable report of a structural design reviewer and the identity of this reviewer.- A copy of the approval document if the project has an approved project draft.2) A copy of the current Certificate of Prior Information of the project.3) Unique Edification Statistics Form.4) Report of an independent reviewer, or the architect if the project consists of one house, one or more progressively build houses, or sanitary structures.5) Favourable report of the structural designs reviewer, if it corresponds.6) Certificate of feasibility of drinking water and sewerage issued by the sanitary company.7) Architectural drawings which must content exact location of the project, distribution of structures, drawings of each level, and every elevation drawing.8) Structural design and calculations according to the Article 5.1.7 of the Ordinance.9) Technical specifications of the items included in the project, especially those relating to compliance with fire regulations or standards of the Ordinance.10) Other documents.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, a house of this housing type is maintained by the owner(s). In general, there is no careful maintenance of adobe houses.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A unit construction type F (see section 6.5 for definition) may cost 87-121 USD$/m^2, considering quality category Semi-Inferior to Regular (MINVU, 2014b), and its base appraisal unit value is 100 -184 USD$/m^2. This base appraisal value has to be modified by four factors dependent on the structure's location, special conditions of the structure, depreciation, and a commercial coefficient applicable to structures built in commercial zones (SII, 2013).
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one dwelling is occupied by one family (father, mother and two to three children). The main function of the building is residential housing.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Each house typically corresponds to one housing unit. The number of inhabitants in a building during the day or business hours can be none. The number of inhabitants during the evening and night can be 2 or more. In average, there are 3 inhabitants per adobe house in Chile (INE, 2012).
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** The Ministry of Housing and Urbanism (MINVU) defines five categories of quality of residential structures: Superior, Semi-Superior, Regular, Semi-Inferior and Inferior (MINVU, 2014b). A total score of the structure, which is obtained considering design aspects, general characteristics, installations, and terminations, defines first to fourth quality categories. The Inferior category is assigned to social condominiums only. Social condominiums are built by the government for low income and vulnerable population. The ownership of the unit is given to 60% of the lowest quintile income families and they have the right to sell it after five years of use (Comerio, 2013). According to the Chilean Internal Revenue Service (SII), a house of 60 m2 (segment S1) may have an appraisal value between USD$5,977 and USD$11,069 depending if construction quality is classified as Semi-Inferior or Regular. To obtain an appropriate appraisal value, this value has to be modified by four factors: structure location, special conditions of the structure, depreciation, and commercial coefficient applicable to structures built in commercial zones. A 100 m2 house (segment S2) may have an appraisal value between USD$9,962 and USD$18,448 if construction quality is Semi-Inferior or Regular. For segment S3, a house of 140 m2 or more may have an appraisal value of more than USD$25,827 for a Regular construction quality (SII, 2013).According to the Ministry of Social Development (MDS) the average monthly working income for a family is approximately USD$1,000 (MDS, 2015). The minimum legal monthly wage for a person in Chile is USD$360. The average family monthly working income of the first decile is USD$102 per person. For the fifth and tenth deciles these working incomes are USD$617 and USD$3,680 per person, respectively.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** This construction type is built following the system of self-construction. In some cases the house owners own the land.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Earthquake insurance for this construction type is typically unavailable.Owners of residential real estates must pay annual territorial taxes, corresponding to 0.98% of tax appraised value if it is less than USD$117,648, and 1.143% if tax appraised value is more than that, plus an annual surcharge tax benefit of 0.025%. If tax appraised value of the residential real estate is less than USD$32,941, then it is exempt of contribution payments (SII, 2014).
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1939 | Chillan, VIII Region | 8.3 | VIII | 			
+| 1960 | Valdivia, XIV Region | 9.5 | XII | 			
+| 1985 | San Antonio, V Region | 7.7 | XI | 			
+| 2010 | Maule, VII Region | 8.8 | IX | 			
+| 2014 | Iquique, I Region | 8.3 | VII | 			
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 2010, the Maule earthquake left a total of 4 buildings on the ground, and approximately 50 buildings with demolition order. Some adobe structures in cities like Talca and Curepto experienced total collapse (see Figure 11).The 2014 Iquique earthquake (MW 8.2) was felt by more than a million people. The strongest seismic intensity occurred in Iquique (MMI VII), Arica (VII), and Tacna (VI). The earthquake generated a tsunami with maximum measured water run up of 3.15 and 4.4 meters above sea level at Iquique and Patache, respectively. There were more than 13,000 damaged houses in the affected area, mostly reinforced masonry dwellings. Adobe and masonry houses located in small towns were strongly affected by the main shock.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | False |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | False |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | False |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | True |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | True |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | False |
+| Wall Openings |  | True |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | False |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | False |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | False |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Lack of connection between walls.Walls with openings greater than the 30% of the total wall area.Poor lateral resistance, weak in out of plane directionCollapse of interior walls. Falling down of pieces and parts of adobe blocks from the face of the wall.General shear cracking of walls.Vertical separation of walls occurs at intersection of walls.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The roof is poorly connected to the walls. If the walls move out of plane, the roof can collapse.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | |  |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Not cracking or decoupling of structural elements (existing elements)	| Static Structural Analysis with real parameters of the structure and materials. Design, Geometric (structural elements slenderness, maximum size of openings, location of openings, vertical braces) verification of the existing structure. If it is possible after all the verifications, repair, and if it is not, rebuild. |
+| Cracking and decoupling of structural elements | Dynamic Structural Analysis with real parameters of the structure and materials. Design, Geometric (structural elements slenderness, maximum size of openings, location of openings, vertical braces) verification of the existing structure. If it is possible after all the verifications, repair, and if it is not, rebuild. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** For a new adobe structure a foreign seismic can be used for structural calculations and design a foreign seismic code (MINVU, 2010) and for intervention, renewal, retrofit or structural consolidation of existing adobe structures NCh 3332 (INN, 2013) and NTM 002 (MINVU, 2013) are used.
+
+**Has seismic strengthening described in the above table been performed?** Only after the earthquake of February 27, 2010.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Repairs following earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** No
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Contractors hired by private/governmental institutions. Engineers and/or architects were involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** No subsequent earthquakes have affected that zone yet.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * http://www.sismologia.cl/pdf/informes/terremoto_iquique_2014.pdf \\Barrientos, S. (2014). Technical Report, Earthquake of Iquique, Mw = 8.2. April 1st, 2014. Centro Sismologico Nacional (CSN). Retrieved January 14th, 2015 from:
+
+  * Barrios, G. (1989). Adobe Construction Manual [in Spanish]. (2nd ed.). Santiago, Chile: Editorial Universitaria.
+
+  * Camara Chilena de la Construccion (CChC). (2014). Balance of Housing in Chile [in Spanish]. Chile.
+
+  * http://sismologia.cl/links/terremotos/index.html \\Centro Sismologico Nacional (CSN). (n.d.). Important and/or destructive earthquakes (1570 to date) [in Spanish]. Retrieved January 14th, 2015 from:
+
+  * Comerio, M. (2013). Housing Recovery in Chile: A Qualitative Mid-program Review. Pacific Earthquake Engineering Research Center (PEER). California, U.S.A.
+
+  * Cruz, E., Riddell, R., Van Sint Jan, M., Hidalgo, P., Rodriguez, F., Vasquez, J., Luders, C. & Troncoso, J. (1988). Lessons from the earthquake of March 3rd, 1985 [in Spanish]. Instituto Chileno del Cemento y del Hormigon. Santiago, Chile.
+
+  * http://www.eeri.org \\Earthquake Engineering Research Institute (EERI). (2014). M8.2 Iquique, Chile Earthquake and Tsunami: Preliminary Reconnaissance Observations. The Pulse of Earthquake Engineering. Retrieved March 27th, 2015 from:
+
+  * Graham, P. (1984). Adobe and Rammed earth buildings, Design and Construction. New York, U.S.A.: The University of Arizona Press.
+
+  * Instituto Nacional de Estadisticas (INE). (2012). Preliminary Results of the Population and Housing Census 2012 [in Spanish] (by personal request, February, 2014).
+
+  * Instituto Nacional de Estadisticas (INE). (2014). Unique Edification Statistics Form 2002 - 2014 [in Spanish] (by personal request, September, 2014).
+
+  * Instituto Nacional de Normalizacion (INN). (2009). NCh 433 Of. 1996, Modified in 2009, Earthquake resistant design of buildings [in Spanish]. Santiago, Chile.
+
+  * Instituto Nacional de Normalizacion (INN) (2013). NCh 3332 Of. 2013, Structural design - Retrofitting of historic earth buildings - Requirements for the structural design planning [in Spanish]. Santiago, Chile.
+
+  * http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Evolucion_Distibucion_Ingresos.pdf \\Ministerio de Desarrollo Social (MDS). (2015). Casen 2013, Evolution and distribution of household income (2006-2013), Summary of Results [in Spanish]. Retrieved March 17th, 2015 from:
+
+  * http://repositoriodigitalonemi.cl/web/bitstream/handle/123456789/1094/SismoDestructivoMarzo1985.pdf?sequence=1 \\Ministerio del Interior y Seguridad Publica, Oficina Nacional de Emergencia (ONEMI). (2009). Destructive earthquake of March 3rd, 1985 [in Spanish]. Retrieved July 21th, 2014 from:
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (1999). Manual Application, Thermal Regulation, General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2010). DDU - ESP 18/2010 - Circular Ord. 0338, Classification of Buildings, and Material Adobe, referred to construction classes E and F [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU), Diario Oficial. (2011). DS 61, Seismic design of buildings code, replacing DS 117 (2010) [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2013). NTM 002, Structural intervention project for earth constructions [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014a). General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014b). Exempt Resolution 0251. Construction Unit Values to be applied in Calculating Municipal Rights [in Spanish]. Santiago, Chile.
+
+  * http://www.dibam.cl/Recursos/Contenidos/Museo%20Hist%C3%B3rico%20Nacional/archivos/TERREMOTOS2011.pdf \\Museo Historico Nacional. Departamento Educativo. (n.d.). Earthquake of Chillan (January 24th, 1939) [in Spanish]. Retrieved January 22th, 2015 from:
+
+  * http://www.dibam.cl/Recursos/Contenidos%5CMuseo%20Hist%C3%B3rico%20Nacional%5Carchivos%5CTERREMOTO%20VALDIVIA%201960.pdf \\Museo Historico Nacional. Departamento Educativo. (n.d). Earthquake and Tsunami of Valdivia (May 22nd, 1960) [in Spanish]. Retrieved January 22th, 2015 from:
+
+  * http://www.sii.cl/pagina/br/tablas_copropiedad_2013.htm \\Servicio de Impuestos Internos (SII). (2013). Exempt Resolution 108. Appendix 5, Construction Unit Values Tables [in Spanish]. Retrieved January 22th, 2015 from:
+
+  * http://www.sii.cl/preguntas_frecuentes/bienes_raices/001_004_3848.htm \\Servicio de Impuestos Internos (SII). (2014). Frequent Questions. How property taxes are calculated? [in Spanish]. Retrieved January 16th, 2015 from:
+
+  * http://www.sismo24.cl/500sismos/730h1939chil.html \\Sismo24.cl. (n.d.). May 1960, Earthquake in Chile - II [in Spanish]. Retrieved January 22th, 2015 from:
+
+  * Superintendencia de valores y seguros (SVS). (2012). Earthquake 2010, Analysis and Impact of the 27-F earthquake in the Insurance Market [in Spanish]. Retrieved July 21th, 2014 from: http://www.svs.cl/sitio/destacados/doc/TERREMOTO-9-1-13.pdf
+
+  * Solar Hermosilla, C. (1975). Adobe Construction (Undergraduate thesis, to obtain Civil Engineering degree) [in Spanish]. Pontificia Universidad Católica de Chile, Santiago, Chile.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Claudia Alvarez Velasquez | Civil Engineer/Researcher | Pontificia Universidad Catolica de Chile | Santiago, Chile | cdalvar1@uc.cl | 
+| Matias Hube Ginestar | Civil Engineer/Assistant Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | mhube@ing.puc.cl | 
+| Felipe Rivera Jofre | Civil Engineer/Researcher | Pontificia Univesidad Catolica de Chile/National Research Center for Integrated Natural Disasters Management | Santiago, Chile | felipe.rivera@igiden.cl | 
+| Hernan Santa Maria Oyandenel | Civil Engineer/Associate Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | hsm@ing.puc.cl | 
+| David Hernandez Jara | Civil Engineer | Pontificia Universidad Catolica de Chile | Santiago, Chile | dhernanj@uc.cl | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marcial Blondet | Professor of Civil Engineering | Pontificia Universidad Catolica del Peru | Lima, PERU | |

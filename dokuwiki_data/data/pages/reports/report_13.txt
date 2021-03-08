@@ -1,0 +1,334 @@
+====== Gravity designed reinforced concrete frame buildings with unreinforced masonry infill walls, Cyprus ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 13
+
+**Building Type:** Gravity designed reinforced concrete frame buildings with unreinforced masonry infill walls.
+
+**Country:** Cyprus
+
+**Author(s):** V. Levtchitch
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the entire country. This type of housing construction is commonly found in both rural and urban areas. This type of housing accounts for more than 30% of the total dwelling stock. In urban areas these buildings constitute approximately 45% of houses.
+
+**Summary:** This type of concrete apartment building was widely constructed after the 1974 Turkish invasion in order to accommodate approximately 200,000 refugees. Typically, these buildings are low-rise (up to 5 stories) apartment blocks. As a rule, architectural considerations prevail over structural requirements. Very often columns are located irregularly and do not form a definite grid. Soft ground stories are used for car-parks (garages) and shops. Staircases and lift (elevator) shafts are not located symmetrically. The vulnerability of these buildings should be very high when the inherent seismic deficiencies of this structural type (design mistakes, construction faults, unavoidable aging, lack of maintenance, accumulation of minor damage from previous earthquakes, deterioration of the concrete and corrosion of the reinforcing bars) are taken into account. But against all odds the majority of these buildings have stood well in numerous small earthquakes and exhibited rather good performance under the peak ground accelerations of up to 0.15g (the maximum expected in Cyprus). Damage and destruction have been very selective depending on the local soil conditions and periods of natural vibration.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1994
+
+**Building Occupancy:** Residential, 5-9 unitsResidential, 10-19 unitsMixed residential/commercial
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** This construction practice was, and still is, widely used in ElSalvador although this region is highly seismic. El Salvador's ea
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Basically rectangular, but rather often an irregular location of columns and asymmetric position of stairs-and-lift-shafts, re-entrant corners and set-backs transform them into structurally irregular systems. Sometimes a building plot shape influences the configuration of buildings.
+
+**Typical plan length (meters):** 12
+
+**Typical plan width (meters):** 18
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. Common cast-in-situ R.C. frame, basically of usual dimensions and typical proportions. In spite of frequent irregularities of the beam-arrangement, the commonly used 150 mm deep slab over usual spans contributes to the lateral diaphragm action of the floor-and-roof system. Re-entrant corners and set-backs were provided without taking into account torsional effects, distribution of lateral seismic forces and overloading of outward external columns. "Strong column-weak beam" principle was not followed. Just the opposite is the case. Rigid and slender columns are used within the same storey and "short column effect" was not considered. Interaction between flexible R.C. frames and rigid-low-strain-capacity-brittle infill walls was not addressed. Joints between them are not specified. Generally, deformation compatibility was not analyzed. Usually, floor systems are rigid enough in their own plane to act as the horizontal stiff diaphragm and to distribute seismic forces between columns in accordance with their rigidities. But rather often some beams are omitted or arranged in one direction only. The continuity is disrupted, slab supports are altered, membrane action is affected, load path is complicated and frame lateral performance is influenced adversely. Besides, sometimes slabs have the hollow core clay bricks as the filler in tensile (bottom) zone. Since seismic forces alternate in both vertical and horizontal directions and generate torsional movements this is not a good choice to resist them. Spans of a single continuous beam usually differ considerably, but their cross-sections remain the same and, hence, their relative rigidities and forces transferred to them are quite different. End anchorage of beams and slabs in the outer bays is not adequate. Top reinforcement in both beams and slabs is not sufficient in terms of quantity and length of extension into spans. Usually there is overcapacity of bottom reinforcement and undercapacity of the top reinforcement. In spite of the fact that these buildings were neither designed nor detailed for earthquakes, they have certain reserves of lateral resistance. Tied-up columns can take lateral drifts. Floor-and-roof diaphragms this. Provided that anchorage and continuity are maintained, concrete structures reinforced with ductile steel have an inherent ability to adapt to cyclic loadings due to spatial redistribution of stresses, change of rigidities and natural periods of vibration, strain hardening of steel. In many cases their available capacities are somewhat higher than those determined by simplified methods of analysis. The vertical load-resisting system is reinforced concrete moment resisting frame. Common cast-in-situ R.C. frame, basically of usual dimensions and typical proportions. In spite of frequent irregularities of the beam-arrangement, the commonly used 150 mm deep slab over usual spans contributes to the lateral diaphragm action of the floor-and-roof system. Re-entrant corners and set-backs were provided without taking into account torsional effects, distribution of lateral seismic forces and overloading of outward external columns. "Strong column-weak beam" principle was not followed. Just the opposite is the case. Rigid and slender columns are used within the same storey and "short column effect" was not considered. Interaction between flexible R.C. frames and rigid-low-strain-capacity-brittle infill walls was not addressed. Joints between them are not specified. Generally, deformation compatibility was not analyzed. Usually, floor systems are rigid enough in their own plane to act as the horizontal stiff diaphragm and to distribute seismic forces between columns in accordance with their rigidities. But rather often some beams are omitted or arranged in one direction only. The continuity is disrupted, slab supports are altered, membrane action is affected, load path is complicated and frame lateral performance is influenced adversely. Besides, sometimes slabs have the hollow core clay bricks as the filler in tensile (bottom) zone. Since seismic forces alternate in both vertical and horizontal directions and generate torsional movements this is not a good choice to resist them. Spans of a single continuous beam usually differ considerably, but their cross-sections remain the same and, hence, their relative rigidities and forces transferred to them are quite different. End anchorage of beams and slabs in the outer bays is not adequate. Top reinforcement in both beams and slabs is not sufficient in terms of quantity and length of extension into spans. Usually there is overcapacity of bottom reinforcement and undercapacity of the top reinforcement. In spite of the fact that these buildings were neither designed nor detailed for earthquakes, they have certain reserves of lateral resistance. Tied-up columns can take lateral drifts. Floor-and-roof diaphragms this. Provided that anchorage and continuity are maintained, concrete structures reinforced with ductile steel have an inherent ability to adapt to cyclic loadings due to spatial redistribution of stresses, change of rigidities and natural periods of vibration, strain hardening of steel. In many cases their available capacities are somewhat higher than those determined by simplified methods of analysis. The vertical load-resisting system is reinforced concrete moment resisting frame. Common cast-in-situ R.C. frame, basically of usual dimensions and typical proportions. In spite of frequent irregularities of the beam-arrangement, the commonly used 150 mm deep slab over usual spans contributes to the lateral diaphragm action of the floor-and-roof system. Re-entrant corners and set-backs were provided without taking into account torsional effects, distribution of lateral seismic forces and overloading of outward external columns. "Strong column-weak beam" principle was not followed. Just the opposite is the case. Rigid and slender columns are used within the same storey and "short column effect" was not considered. Interaction between flexible R.C. frames and rigid-low-strain-capacity-brittle infill walls was not addressed. Joints between them are not specified. Generally, deformation compatibility was not analyzed. Usually, floor systems are rigid enough in their own plane to act as the horizontal stiff diaphragm and to distribute seismic forces between columns in accordance with their rigidities. But rather often some beams are omitted or arranged in one direction only. The continuity is disrupted, slab supports are altered, membrane action is affected, load path is complicated and frame lateral performance is influenced adversely. Besides, sometimes slabs have the hollow core clay bricks as the filler in tensile (bottom) zone. Since seismic forces alternate in both vertical and horizontal directions and generate torsional movements this is not a good choice to resist them. Spans of a single continuous beam usually differ considerably, but their cross-sections remain the same and, hence, their relative rigidities and forces transferred to them are quite different. End anchorage of beams and slabs in the outer bays is not adequate. Top reinforcement in both beams and slabs is not sufficient in terms of quantity and length of extension into spans. Usually there is overcapacity of bottom reinforcement and undercapacity of the top reinforcement. In spite of the fact that these buildings were neither designed nor detailed for earthquakes, they have certain reserves of lateral resistance. Tied-up columns can take lateral drifts. Floor-and-roof diaphragms this. Provided that anchorage and continuity are maintained, concrete structures reinforced with ductile steel have an inherent ability to adapt to cyclic loadings due to spatial redistribution of stresses, change of rigidities and natural periods of vibration, strain hardening of steel. In many cases their available capacities are somewhat higher than those determined by simplified methods of analysis. The lateral load-resisting system is reinforced concrete moment resisting frame. Reinforced concrete frame acts as the stabilizing-lateral load resisting system. The rigid, brittle infill walls have approximately two times smaller interstory-drift capacities than those of the columns. Their joint response can be utilized only within low levels of lateral displacements. After shearing of infill walls, the whole of the lateral load is suddenly transferred to columns and this makes them very vulnerable.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is approximately 10% (infill-walls).
+
+**Wall Openings:** In external infill-walls openings may cover up to 40% of the wall surface and in internal walls # up to 20%. Openings in infill-walls (if they are not located immediately near the columns) do not constitute a major vulnerability factor. Framing of continuous lintels into columns is to be considered.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Internal infill walls and partitions can be removed or added to meet new functional requirements. As a rule , columns remain unaffected. Balconies can be supplemented by enclosing walls made of various materials. In one-two storey private buildings there can be the plan extensions of different types without paying any attention to a seismic structural integrity of a modified structure. Practically all private one-three storey buildings are provided with the starter reinforcement bars projecting from the columns for the future construction of additional storeys. This strong desire for the additions is not always backed by the initially provided foundations and the structural capacities of a first-phase constructed frame. The unprotected starter bars are usually extensively corroded and practically cannot serve the purpose. Moreover, their corrosion inevitably propagates inside and there are cracks due to corrosion products expansion. Ocasionally, the additional stairs have been constructed.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** In the coastal areas the mat foundations were sometimes used.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: cast-in-place and precast solid slabs In most cases floors and roofs can be treated as the rigid diaphragms.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: cast-in-place and precast solid slabs In most cases floors and roofs can be treated as the rigid diaphragms.
+
+**Additional comments section 2:** The typical separation distance between buildings is 6 meters 3 meters from the property border, i.e. 6 m between buildings. At present there are clearly defined width of seismic separation joints for buildings located within one building site but in the past majority of joints were of evidently inadequate width.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Frame: Concrete, Steel | 15-25 N/mm2, S220-S500 | 
+| Foundations | Concrete | 15-20 N/mm2 | 
+| Floors | Concrete , Steel | 15-20 N/mm2, S220-S400 | 
+| Roof | Concrete , Steel | 15-20 N/mm2, S220-S400 | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** At present a design is to be prepared by the registered engineer and architect. Architects are responsible for the architectural planing and drawings . Civil Engineers are responsible for the structural design.
+
+**Expertise of those involved in the design process:** The compulsory site-control by engineers was introduced only in 1999.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** BuilderContractor
+
+**Roles of those involved in the building process:** Typically these buildings are constructed by developers, but the builders can live in them.
+
+**Expertise of those involved in building process:** Contracts are awarded on the tendering basis. Contractors are to be registered with the specified qualification and experience. In the past, however, this practice was not followed.
+
+**Construction process and phasing:** Usually developers and contractors have built up these type of buildings. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. Modifications, alterations and additions are possible. Permissions are to be obtained.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Before adoption of the National Code of Practice in 1994 the codes of any developed country could be used , provided that a design will be checked and approved by the authority. As a result the following codes have been used: CP114, CP110, BS8110, ACI318, BAEL, DIN , SNiP and some others.
+
+**Process for building code enforcement:** Before adoption of the National Code of Practice in 1994 the codes of any developed country could be used , provided that a design will be checked and approved by the authority. As a result the following codes have been used: CP114, CP110, BS8110, ACI318, BAEL, DIN , SNiP and some others. The year the first code/standard addressing this type of construction issued was beginning of the last century. Seismic design and construction of reinforces concrete structures. 1994. Practically it is a version proposed by the CEB-FIP. But the described here type of buildings does not conform with it.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** These buildings were constructed before the adoption and enforcement of current Codes. In the past a lax inspection and quality control resulted in a shoddy construction which can be rated as one of the main contributing factors to destructions. At present a site inspection by a structural engineer is compulsory.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** Torsional vulnerability. Short-column effects. Inadequacy of shear and confining reinforcement. Combination of stiff and flexible structural and non-structural elements. Poor detailing in terms of seismic performance. In many instances, the depth of carbonation is larger than the cover to reinforcement which itself is rather frequently not adequate and sometimes-it does not exist at all. Corrosion of reinforcement and subsequent cracking of concrete are widespread. In coastal areas the sea-ward sides of buildings are heavily affected by concrete deterioration and the corrosion of reinforcement.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Poor maintenance presents a huge problem.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Approximately 450 US$/m2
+
+**Labor requirements:** 5-6 months for a 4-storey building by the 8-10 person-strong team.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per housing unit. Each building typically has 8-14 units.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Rich-15%, middle class-75%, poor-10%. Ratio of housing unit price to annual income: 4:1
+
+**Typical Source of Financing:** Personal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1995 | Paphos | 5.7 | MMI-VII | 
+| 1996 | Paphos-Limassol | 6.5 | MMI-VII-VIII | 
+| 1999 | Limassol | 5.8 | MMI-VII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Main bulk of destruction was in masonry buildings. Note: the vulnerability rating of medium assigned in the previous section reflects the level of seismic hazard officially adopted in Cyprus (i.e. peak ground acceleration of 0.15g). For the higher intensities, this assessment would not be true, and buildings would be expected to be rated in the B category of vulnerability.
+
+**Additional comments on earthquake damage patterns:** Walls: Extensive diagonal cracking due to the principal tensile stresses is estimated to take place at inter-storey drifts between 1/400 and 1/200., while the common r.c. columns can accommodate inter-storey drifts of up to 1/100 or even more. Separation gaps at the corners and along beams are the common feature. Occasionally, the out-of- the -plane loss of stability has been observed. Sometimes, the lateral shear cracks have been developed. Frame: .Both columns of buildings with "soft storeys" and "short-rigid columns" incorporated into more flexible r. c. frames have suffered heavy damages. The shearing failure is the most common mode of destruction. Combined effects of shear,eccentric compression and torsion resulted in shear cracking, spalling of concrete and buckling of longitudinal reinforcement at the top and bottom parts. In some cases the corrosion of reinforcement aggravated the damage. Beams usually suffered some visible, but not life- threatening damages. Flexural and shearing cracks could have a maximum opening of up to 0.6mm. In some spandrel beams the torsional effects triggered a shear type cracking. Roof/floor: Some minor cracking was observed in one-way spanning floor slabs, when supporting beams were provided in one direction only. Generally, foundations performed satisfactorily, except some isolated cases of uneven settlements and certain base distortions.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Short column
+
+**Seismic deficiency in walls:** Rigid, brittle infill-walls are in contact with the much more flexible columns. Infill-walls suffer heavy damage themselves and trigger the damage and destruction of columns. A low quality site-prepared cement mortar has been used.The characteristic bond strength can be as low as 0.015MPa, i.e. approximately 10 times lower than that required for a good quality masonry. Vertical joints have not been filled with mortar.Neither an effect of infill panels on a frame nor that of a swaying r.c. frame on a brittle infill walls have been considered.
+
+**Earthquake-resilient features in walls:** In spite of their brittleness masonry infill panels can absorb and dissipate a considerable part of earthquake energy. Their strength must be lower than that of a basic r.c frame. After breaking down of infill panels the consecutive earthquake motions must be within the capacities of a r.c frame alone.The undesirable interaction between columns and walls may be prevented by providing of separation joints.. An infill panel can be upgraded to a structural type, which will respond jointly with r.c. frames, i.e.as boundary columns with a wall or a column with the side-walls.
+
+**Seismic deficiency in frames:** Columns are not specifically designed and detailed for seismic forces. #Strong column-weak beam# principle was not followed. Shear and confining reinforcement is not adequate. Panel zones of beam-column joints are not provided with lateral reinforcement and frequently are not compacted properly. Stiff and flexible columns are used within one floor. Soft ground floor. Columns with the large aspect ratio are used. Torsion of peripheral columns is not addressed. Anchorage of lateral reinforcement inside the core is not provided. Shear reinforcement of beams is not sufficient. Confining within the potential plastic-hinge zones is not adequate. Excessive bottom reinforcement and not adequate top reinforcement. Not sufficient length of top reinforcement. End anchorage in the outer bays is not sufficient.
+
+**Earthquake-resilient features in frame:** Although columns were not designed for seismic forces, they were reinforced by the high-ductility steels and performed as a part of a spatial frame. Columns of some older buildings have longitudinal reinforcement of plane mild steel which has an inherently high survival power. A certain continuity and redundancy have been intuitively provided. When anchorage of beams reinforcement was adequate and shear reinforcement required for the gravitational loads was provided their performance under a low intensity earthquake loadings (up to 0.10g) was satisfactory. Usually, a beam"s capacities were predetermined by its connections.
+
+**Seismic deficiency in roof and floors:** In most cases the roof and floor systems can be classified as rigid in their own plane. But there are cases of beams spanning in one direction, chaotic arrangement of beams and lack of their continuity, beams within a slab depth.
+
+**Earthquake resilient features in roof and floors:** Slabs of 15cm depth, when rigidly fixed into four supporting beams of adequate dimensions and spans, can effectively provide for the uniform distribution of lateral seismic forces.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  %%|-%% | o | %%-|%% | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low shearing capacity and ductility of columns | 1. Steel angles-strips jacketing over the whole height of a column. See Fig.26 Strength, stiffness and ductility are all affected. Concrete cover or ganite concrete is added on the top. \\2. Traditional r.c. jacketing. Existing concrete cover is to be removed, existing reinforcement is to be cleaned (if needed), new longitudinal reinforcement should be anchored into foundations and floors. Closely spaced lateral ties at the top and bottom are to be provided. Concrete cover should be reinstalled. \\3. Confining of concrete by the spiral wire tightly wrapped around a column and welded to vertical steel strips. See Fig.27 |
+| Excessive interstorey drift | 1. Diagonal bracing. See Fig.28 \\2. Infilling into opening , infilling into frame, infilling of a panel with an opening. See Fig.29 | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** A considerable improvement of confining by steel angles jacketing can be achieved by preliminary prestressing of a jacket. Before welding the steel strips are to be heated up to 300 deg C, ensuring that at a time of welding their temperature is not lower than 150 deg C. While cooling down the contraction forces create lateral tightening. The weak point of the steel-angle jacketing is the electric welds, which are brittle in themselves and commonly are not of an adequate length and capacity. Moreover, an anchorage of angles into floors and foundations is difficult. The joint response of newly added angle jackets and existing columns can be substantially improved by prestressing of longitudinal angles by means of lateral bolts tightening. Before installing angles the lateral notches are made in them to allow their slight bending. While tightening lateral bolts the angles are straightened and the vertical thrust forces are transferred to frame beams. Usually one of these techniques is used.
+
+**Has seismic strengthening described in the above table been performed?** These methods have been used in several cases.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Steel angles-strips jacketing, R.C. jacketing , bracing and in-fills were used as the repair-upgrading measures following slight damages after earthquakes. A confining of corner columns of circular cross-section by a spiral wire was done as a mitigation effort.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Contractor. Structural engineer was involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Satisfactory. There was no strong quake since then, but they stood well to several light tremors.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. G. Constantinou and K. Solomis. Summery of National experience, lessons learned from earthquakes and assessment of vulnerability in Cyprus. Ministry of Agriculture, National Resourses and Environment. Geological department. 1996.
+
+  * 2. Construction and housing statistics. Statistical Service of Cyprus. 1999.
+
+  * 3. I. Kalogeras, G. Stavrakis, and K. Solomis. The October 9,1996 earthquake in Cyprus. Annali di Geofisica, vol.42, N1, February 1999.
+
+  * 4. Seismicity of Cyprus during the last 100 years. Seismological station. Seismic zones. Microzones. Mitigation policy. Seismic code of practice. Ministry of Agriculture, National Resources and Environment.22/5/1997.
+
+  * 5. C. Chrisostomou. Earthquake in Paphos.23/2/1995. Aechitect and Civil Engineer. N2, May 1995.
+
+  * 6. K.Solomis. Eartquake of August 11,1999 in Limassol. Geological Department. 4/4/2000.
+
+  * 7. K. Ioannidi, G. Stavraki, C. Fringa, A.Kuriaxi and M.Sakhpaxi TEE, N1940. Athens,February3,1997 7. K.
+
+  * 8. Seminars, Conferences, Personal communications and practical involvements.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| V. Levtchitch | Professor | Frederick Institute of Technology | P.O.Box 24729, p.c.1303, Nicosia Cyprus | savvas@research.fit.ac.cy | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Craig D. Comartin | President | C.D. Comartin Associates | Stockton CA 95207-1705, USA | ccomartin@comartin.net | 

@@ -1,0 +1,321 @@
+====== RC Structural Wall Building : Moment frame with in-situ shear walls, Romania ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 78
+
+**Building Type:** RC Structural Wall Building : Moment frame with in-situ shear walls
+
+**Country:** Romania
+
+**Author(s):** Maria D. Bostenaru, Ilie Sandu
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Romania, and is particularly common in the capitalBucharest. This construction can be found in six quarters (districts) of Bucharest: Militari, Colentina, Drumul Taberii,Pantelimon, Berceni, Iancului, with the total of 8,000 apartment units. Except Iancului, other quarters are located inthe suburban area of the city and consist mainly of newer settlements (built after the World War II). Concrete shearwall construction is commonly used for the urban residential construction and it accounts for over 60% of the newbuildings. There are four different types of shear wall construction which were affected by the 1977 earthquake - type"OD" described in this contribution is one of them. This type of housing construction is commonly found in urbanareas.
+
+**Summary:** This is typical urban multi-family housing practiced throughout Romania in the period from1965 to 1989. There are many existing buildings of this type at the present time, with about8,000 apartments in Bucharest alone. Concrete shear wall construction is commonly used for the residential construction and it accounts for over 60% of new housing. Buildings of thistype are typically 10 or 11 stories high. The main load-bearing structure is a cast in-situconcrete shear wall structure supported by RC solid slabs. Each building block consists ofseveral (5-6) identical building units ("tronsons" in Romanian) separated by means of seismicjoints. The walls are continuous throughout the building height and orientated in twodirections, with only one centrally located wall in the longitudinal direction and eight walls inthe transverse direction. In addition, there are some lightweight concrete partition walls. Thisbuilding plan is known as the honeycomb ("fagure") plan. The buildings are often supportedby mat foundations due to soft (alluvial) soil conditions. Many buildings of this type weredesigned according to the 1963 Romanian Building Code (P13-1963) which was updated in1970 (P13-1970). The 1963 Code considered a magnitude 7 design earthquake for theBucharest area. This region is well known as a seismically prone area, with the epicentre ofdamaging earthquakes close to Vrancea. Earthquakes with the Richter magnitude of over 7.0occur once in 30 years. Bucharest, the capital, is located around 150 km south of the epicentreand lies in the main direction of the propagation of seismic waves. The Bucharest area islocated on the banks of the Dmbovita and Colentina river, on non-homogeneous alluvial soildeposits. During the earthquake of 4 March 1977 (Richter magnitude 7.2), over 30 buildingscollapsed in Bucharest, killing 1,424 people. The buildings of "OD" type suffered damages ofvarious extent in the 1977 earthquake, and one building unit ("tronson") totally collapsed(that was the only shear wall building that collapsed in t
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1989
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 10-11
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** Currently, this type of construction is not being built. This construction was practiced in the period from 1965 to1989.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Buildings of this type are of rectangular shape, with a very large length/width aspect ratio (of over 10).
+
+**Typical plan length (meters):** 137.5
+
+**Typical plan width (meters):** 11.5
+
+**Typical story height (meters):** 2.6
+
+**Type of Structural System:** Structural Concrete: Structural Wall: Moment frame with in-situ shear walls
+
+**Additional comments on structural system:** This building type is characterized with a so-called"honeycomb" ("fagure" in Romanian) building plan characteristic for the Romanian housing design. It consists ofbox-type units creating rooms. Due to such building configuration, the walls are well connected and are able to carrythe loads in a uniform manner. The walls are supported by 120 mm reinforced concrete solid slabs clamped in thewalls and elastically supported by the facade beams. These buildings are typically supported by mat foundations. The lateral load-resisting system is reinforced concrete structural walls (with frame). The main lateral load-resistingstructure consists of reinforced concrete shear walls supported by RC slabs. The walls are continuous throughout thebuilding height and laid in two directions, with only one centrally located wall in the longitudinal direction and eightwalls in the transverse direction (four are continuous over the building width, and other four are of smaller length).The transverse shear walls end on facade with "bulbs"- boundary elements. Wall thickness is on the order of 140 mm.Walls are rather lightly reinforced, with one layer of 12 mm diameter vertical bars and 8 mm horizontal bars. Thereinforcement spacing varies from 150 mm (longitudinal direction) to 250 mm (transverse direction) on centre. Thereare light concrete partition walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 2-3%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5%. (1.4% - 4.8%) 1.4% in the longitudinal direction and 4.8% in the transverse direction.
+
+**Wall Openings:** One window and door opening per room, in some cases with a door leading to balcony/loggia. The totalwindow area is about 25% of the overall wall area, and the total door area is even smaller. The walls with windows aregenerally not load-bearing structures.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** No modifications were observed.
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** The Bucharest area is located on non-homogeneous alluvial soil deposits. The buildings usually rest on matfoundations.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: solid slabs (cast-in-place, precast)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: solid slabs (cast-in-place, precast)
+
+**Additional comments section 2:** Whenseparated from adjacent buildings, the typical distance from a neighboring building is 0.07 meters. Typical Plan Dimensions: Length of a building unit (tronson) = 27.5 m; length of entire building (with 5tronsons) = 137.5 m Typical Span: Spans are variable in the range from 2.2 m to 4.6 m (based on the availableinformation).Each buildingconsists of several (5-6) identical building units (tronsons in Romanian) of rectangular shape separated by means ofseismic joints. "OD" in Romanian stands for Double Orientation ("Orientare Dubla") - meaning that the largerapartments have light from two sides (i.e. in the morning and in the afternoon) in different rooms. This building typeis characterized with a so-called "honeycomb" ("fagure" in Romanian) building plan typical for the Romanian housingdesign. It consists of smaller box-type units creating rooms. In this system, there are no corridors, and the rooms areconnected only by means of openings (doors and windows). This construction is characterized with large cantileveredbalconies.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | ReinforcedConcrete | Characteristic Strength- Concrete:cube compressive strength 25 MPa Reinforcement: tensilestrength 370 or 520 MPa | 
+| Foundations | ReinforcedConcrete | Characteristic Strength- Concrete:cube compressive strength 25 MPa Reinforcement: tensilestrength 370 or 520 MPa | 
+| Floors | ReinforcedConcrete | Characteristic Strength- Concrete:cube compressive strength 25 MPa Reinforcement: tensilestrength 370 or 520 MPa | 
+| Roof | ReinforcedConcrete | Characteristic Strength- Concrete:cube compressive strength 25 MPa Reinforcement: tensilestrength 370 or 520 MPa : | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Designprofessionals (engineers and architects) were involved in the design and construction of this type.
+
+**Expertise of those involved in the design process:** The quality of design and construction was ensured by "The State Inspection for Construction".
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** These buildings were built as residential construction by the government-owned companies.
+
+**Expertise of those involved in building process:** The quality of design and construction was ensured by "The State Inspection for Construction".
+
+**Construction process and phasing:** Between 1960-1990 all construction was performed by government-owned companies. Technical professionals wereinvolved in the construction. The construction of this type of housing takes place in a single phase. Typically, thebuilding is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** P13-1970, STAS 8000-67.The year thefirst code/standard addressing this type of construction issued was 1963. The code refers explicitly to seismic designof buildings (issued in 1963 and revised in 1970) P13-1963, P13-1970; the latest Code is P100-1992. The most recentcode/standard addressing this construction type issued was 1996. Title of the code or standard: P13-1970, STAS8000-67 Many buildings of this type were designed according to the P.13-1963 Romanian Code, although the Code waschanged in 1970 (P13-1970). The P13-1963 Code considered a magnitude 7 earthquake for the Bucharest area.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** At the time of the original construction (1974) the unit cost was 1170 lei/m2.
+
+**Labor requirements:** The information is not available as theconstruction company ceased to exist in 1990.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per housing unit (apartment). Each building typically has 21-50 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** Other
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** Other
+
+**Additional comments on number of inhabitants:** About 120 people inhabit each building unit ("tronson"); there are typically 5 tronsons per building.
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio)1:1 or better
+
+**Typical Source of Financing:** Owner financedGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** There is "The Voluntary Complex Insurance of the Households and Physical Persons"through ASIROM.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1977 | Vrancea | 7.2 | VIII (MMI) | 
+| 1986 | Vrancea | 7 | VIII (MMI) | 
+| 1990 | Vrancea | 6.7 | VII (MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** This region is well known as a seismically prone area, with the epicenter of damaging earthquakes close to Vrancea.Earthquakes with the Richter magnitude of over 7.0 occur once in 30 years. Bucharest, the capital, is located around 150km south of the epicenter and lies in the main direction of the propagation of seismic waves. The Bucharest area islocated on the banks of the Dmbovita and Colentina river, on non-homogeneous alluvial soil deposits. During theearthquake of 4 March 1977 (Richter magnitude 7.2), over 30 buildings collapsed in Bucharest, killing 1,424 people. Itshould be noted that the buildings of "OD" type suffered damages of various extent in the 1977 earthquake, and onebuilding unit ("tronson") totally collapsed (that was the only shear wall building that collapsed in the earthquake).Buildings with their longitudinal direction aligned parallel with the direction of seismic waves (mainly in Berceni andDrumul Taberii areas of Bucharest) were most affected. The damage patterns were the strongest on the OD16 site.The earthquake action in 1977 was mainly in NNE-SSV direction. Out of 167 building units ("tronsons") of the "OD"type existing in Bucharest at the time of the 1977 earthquake, only 7 were lightly damaged; the remaining buildingunits suffered a partial collapse (7 units) or were damaged (19 significantly damaged, 72 moderately damaged, 61 lightlydamaged) Balan (1982), Argent (1998). According to the reports, damages to this construction type were due toinadequate wall density in the longitudinal direction, inadequate amount and detailing of wall reinforcement, lack oflateral confinement in the walls and in the boundary elements ("bulbs") causing brittle concrete failure and buckling ofreinforcement. In addition, quality of concrete construction was found to be rather poor. No damages to the buildingsof this type were observed in the 1986 and 1990 earthquakes. In the 1977 earthquake (M 7.2), no significant damageswere observed on other buildings of similar construction.
+
+**Additional comments on earthquake damage patterns:** ShearWalls - Damage was more pronounced in the longitudinal wall(vertical and inclined cracks); - Cracking in the transversewalls was more pronounced at the lower levels whereextensive "X" cracks developed in the piers between thedoor openings); - Brittle failure of wall end zones withspalling and bursting of the concrete at the base andbuckling of reinforcement bars; - see Figures 15 and 16"Bulbs" - Brittle failure with concrete spalling and crushing at thebase and buckling of the reinforcement (OD16 building) -Crushing of concrete and reinforcement buckling at the firstfloor level (OD1 example) - see Figure 17 Lintels- Extensive cracking
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Inadequate (too small) wall thickness of 140mm; - Inadequate wall density in the longitudinaldirection (one shear wall only); - Significantlydifferent wall density in the two principal directions(i.e. larger wall density in the transverse direction)
+
+**Earthquake-resilient features in walls:** - Large stiffness, resultingin small displacementsand minimized damage tononstructural elements;
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Shear walls:inadequate wallthickness andreinforcement | - Cast in-situ RC jacketing of the boundary elements-bulbs (see Figure 18). A special care is taken to ensure the adequate bondbetween the new and existing concrete. - Jacketing with glass fibre woven fabric and epoxy resins in the severely damagedareas | 
+| Cracks in shear wallsand lintels | Small cracks - injecting the cracks with epoxy grout; Large cracks - filling the cracks with epoxy mortar (paste) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The above described methods are used for seismic retrofit of RC structures in Romania. These methods were used forretrofitting the buildings OD16 and OD1 damaged in the 1977 earthquake.
+
+**Has seismic strengthening described in the above table been performed?** Seismic strengthening was performed in the design practice after the 1977 earthquake. Many buildings in Bucharestwere damaged in the 1977 earthquake, however the strengthening was not performed in most cases. For that reason,in 1999-2000 the Ministry for Public Works (MLPA) established a special committee to evaluate seismic resistance andpossible retrofit requirements for this construction type according to the P100-1992 Code (latest edition issued in1996). The scale of work and financial resources required for the retrofit are quite significant. As a result, the progress israther slow and in case of an earthquake a significant life and property loss could be expected.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a repair following earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** Yes, the construction was inspected through "The State Inspection for Construction Works".
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The construction was performed by a specialized state agency.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The strengthening was performed after the 1977 earthquake. The 1986 and 1990 earthquakes were not very strong anddid not cause damages to the strengthened buildings.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Cutremurul de PamBalan,S., Cristescu,V., and Cornea,I.The Academy of the Socialist Republic of Romania, Bucharest, Romania. Esp. Chapter V.4.3. (Autors H. Sandi, V. Perlea), p. 194-198, ChapterVI.2.3.4. (Author M. Lupan) p. 264-273 and Chapter VIII.4.3. (Author M. Lupan), p. 430-431 1982
+
+  * Observations on the Behavior of Buildings in the Romania Earthquake of March 4, 1977NBSU.S. Department of Commerce/National Bureau of Standards, NBS Special Publication 490, Washington, DC, USA 1977
+
+  * Expertizarea si punerea Agent,R.Fast Print, Bucharest, Romania 1998
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria D. Bostenaru | Researcher | Urban and Landscape Design Department, Ion Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | maria.bostenaru-dan@alumni.uni-karlsruhe.de | 
+| Ilie Sandu |  |  | Sos. Oltenitei 34 Bl. 5C et. V ap. 23, Bucharest 7000, ROMANIA |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Vanja Alendar | Research Associate | Dept. of Civil Engineering, University of Belgrade | Belgrade 11001, SERBIA | vanja@imk.grf.bg.ac.yu | 

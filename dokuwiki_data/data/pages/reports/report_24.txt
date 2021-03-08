@@ -1,0 +1,327 @@
+====== Unreinforced clay brick masonry house, Indonesia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 24
+
+**Building Type:** Unreinforced clay brick masonry house
+
+**Country:** Indonesia
+
+**Author(s):** Sugeng WIJANTO
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in almost all rural areas in Indonesia. This type of housingconstruction is commonly found in rural areas.
+
+**Summary:** Unreinforced Clay Brick Masonry (UCB) housing construction is still often found in rural areas of Indonesia. This is a single-story building and the main loadbearing structure in these buildings consists of brick masonry walls built in cement mortar and a timber roof structure. This is non-engineered construction built following the traditional construction practice, without any input by architects or building experts. Builders follow a pattern by observing the behaviour of typical buildings in the surrounding area. Buildings of this type typically experience severe damage or collapse in the earthquakes in Indonesia.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The configuration of the building is typically regular and rectangular in plan.
+
+**Typical plan length (meters):** 8-20
+
+**Typical plan width (meters):** 3-12
+
+**Typical story height (meters):** 2.5-3
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** All clay brick walls are gravity load bearing structures. The timber roof rest directly on the walls without any special connection. All gravity load were transferred to the fieldstone strip footing.In order to resist lateral forces caused by earthquakes, UCB buildings relied on UCB walls which were interconnected at the corner of the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical storey height in such buildings is 3 meters. The typical structural wall density isup to 20 %. Around 0.150.
+
+**Wall Openings:** Unreinforced clay brick housings are usually facilitated with openings like main door, room doors and windows.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modification of the building often occurred in relation with the needs of additional rooms from the owner or the increased income of the owner Additional rooms were done by extending to the side or the rear of the building.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks or beams supporting naturalstones slates, Wood planks or beams that support slate,metal, asbestos-cement or plastic corrugatedsheets or tiles
+
+**Additional comments section 2:** Whenseparated from adjacent buildings, the typical distance from a neighboring building is several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Clay bricks | 2MPa - 6 MPa w x l x t = 90 mm x 190 mm x 42 mm1. very low compressive strength2. The quality of clay-brick varies depends on the local clay-soil material3. The clay-brick is very brittle and doesnt have any ductility | 
+| Foundations | Rubble stone, fieldstone in strip footing | around 3 MPa | 
+| Floors | Timber truss system without any special connection with the clay brick walls | low class <1.50 MPa | 
+| Roof | Timber truss system without any special connection with the clay brick walls | low class <1.50 MPa | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** No supervision fromarchitects or engineers had any roles towards the buildings. Occasionally final year university students organize atraining on how to design and built Earthquake resistance housing using local material to the local community in ruralareas.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerBuilderOther
+
+**Roles of those involved in the building process:** Generally housings in rural area were constructed by local builder or the owner himself helped by the community. The community house was built for their own purpose and no speculation involved.
+
+**Expertise of those involved in building process:** Construction was usually done by local labour without any special engineer skills. The construction skills were obtained from local community habit or information passed from one generation to the other.
+
+**Construction process and phasing:** The construction process usually carried out by local semi-skilled labour. Foundation digging was done manually using hoe and material field-stone can be found from surrounding river area if any. Stone foundation was constructed using cement mortar. Clay brick was taken from local community production and the quality was varied. Half-Clay brick laying walls (Figure 2) stacked with cement mortar and usually the walls were covered by cement plaster as well. Timber roof structure was done manually at site area and covered by local roof-tile, corrugated roof metal or palm fiber roof.The construction of this type of housing takes place incrementally over time. Typically, the building isoriginally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** Not any special code for this type of buildings.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** A fast uncontrollable development and low level economic condition usually creates "informal"residence area which are beyond existing rules and laws and the interrelated institution have difficulties to control andhave their eyes closed. These residence areas are actually prohibited or have no permits and vulnerable toearthquake.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Low income people only do the very necessary maintenance.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Unit construction cost per m2 is approximate US$ 60 to 75 (1 US$ = Rp. 10.000,- in year 2001). The price include thestandard architectural finishing and electricity.
+
+**Labor requirements:** About 10 15 people are involved in constructing this typical building. It takes about 3 4 months to construct the UCB housing.
+
+**Additional comments section 3:** Clay bricks are produced as mass production in every rural area in Indonesia and without any explicit standard. The quality of the clay bricks are varied depending on the local clay-soil condition used as the main ingredients. Nowdays common size of a brick is relatively small (length 190 mm, width 90 mm, thickness 42 mm) compare to the old bricks (Dutch colonial time, length 260 mm, width 120 mm, thickness 55 mm). Mix proportion for cement mortar is 1 cement : 5 to 7 sand. 2. 3. Tension/compression/shear strength (e.g. concrete compression strength, steel yield strength, masonry compressive/shear strength)
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Usually one house occupied by one family and sometime one big family grandfather until son and grandchildren.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2000 | Hypocentre 4.7 degree South line and 102.05 degree East line with 33 km depth and 100 km from Bengkulu city | 7.3 | V-VI MMI | 
+| 2006 | Yogyakarta | 6.3 |  | 
+| 2009 | Tasikmalaya | 7.3 |  | 
+| 2009 | Padang | 7.6 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Typical damage features on non-engineered buildings : 1. Failure on corners of the walls and the openings like doorsand windows. 2. Roof structure was usually sliding off from its base 3. Diagonal cracks on the clay-brick walls 4. Fail inconnection between: - foundation and walls, - walls and walls, - walls and roof structure. 5. low construction quality(the quality of building material and labor). On May 27, 2006 at 5:54 am local time, a Mw 6.3 earthquake struck the island of Java, Indonesia, about 20 km from Yogyakarta. According to the U.S. Geological Survey, the epicenter of the earthquake was on-shore at latitude 7.962 and longitude 110.458, with a fairly shallow focal depth ( 10 km). The affected area is a densely populated mix of urban and rural communities on the southern slope of Mounth Merapi, an active volcano. The latest casualty figures stand at 5,176 killed and over 40,000 injured. The total amount of damage and loss caused by this earthquake is estimated at US $3.1billion (CGI 2006). Most heavily damaged are single storey houses, which were built using unreinforced clay bricks as their bearing walls.On Wednesday, September 2, 2009, at 2:55:00 pm (07:55:00 am UTC), a tectonic earthquake with a magnitude of 7.3 on the Richter Scale struck the south part of West Java. Based on the report of the Indonesia Meteorology & Geophysics Agency, the epicenter of the earthquake was at 142 km South-West of Tasikmalaya (8.24oE, 107.32oE) and its focus was found at a depth of 30 km below the sea level. The quake happened at the intersection between the Eurasian and Australian tectonic plates. It was followed by some smaller aftershocks. Nearer to the epicentrum, the residents of four districts in the south part of West Java, namely Tasikmalaya, Garut, Cianjur, and Cilacap were terrified by the shocks, which reached the intensity of V to VI MMI Scale. The inhabitants went out right away from their dwellings. More than 67,000 houses were reported as badly damaged while about 150,000 of dwelling units experienced light to medium impairment. Based on the latest report, there were 80 people died, 47 missing villagers, and 1142 injured inhabitants. Single storey houses, which were built using unreinforced clay bricks as their bearing walls,suffered severe damages.On Wednesday September 30, 2009, at 5:16 p.m. local time (10:16:10 UTC), an Mw 7.6 earthquake at 0.7250S, 99.8560E struck the west coast of Sumatra, depth 87 kilometers epicenter. It was affecting an area with a population of about 1.2M people, including 900,000 in Padang and 80,000 in Pariaman. Padang is the capital of West Sumatra, situated on the coast of the Indian Ocean between the Sumatra fault and the Sunda Trench fault. Single storey houses, which were built using unreinforced clay bricks as their bearing walls, suffered severe damages.
+
+**Additional comments on earthquake damage patterns:** Shear crack, flexure crack orcombination of both in claybrick walls.The roof sliding off from theclay brick walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 1. Clay-brick with very low compressive strength2. The quality of clay-brick varies depends on the local clay-soil material3. The clay-brick material is very brittle and doesnt have any ductility
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Timber truss system for roofing without any special connection with the clay brick walls.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | |  | |
+
+**Additional comments section 5:** Indonesia lies on seismic prone area, since March 1997, there were several earthquakes happened in Indonesia such as :- On March 17, 1997, a 6.0 Richter Scale earthquake struck west part area in Java Island. The epicenter (7.47 Southlatitude dan 104.66 East longitudinal) was about 300 km in South-West direction from Jakarta capital city, the exactlocation was at 33 km depth in Hindia Ocean. - On December 21, 1999 at 21:14:59 (Indonesian Time), a 6.0 RichterScale earthquake struck west part area in Java Island. The epicenter (7.21 South latitude dan 105.64 East longitudinal)was about 200 km in South-West direction from Jakarta the capital city, the exact location was at Hindia Ocean. - OnJune 4, 2000 at 23:28:24.4 (Indonesian Time) or 16:28:24 GMT, a 7.3 Richter Scale earthquake struck BengkuluProvince in Sumatera Island of Indonesia. The epicenter (4,70 South latitude dan 102,00 East longitudinal) was inHindia Ocean about 100 km from Bengkulu city. This is a big earthquake in early year 2000, with following after shockabove 5.6 Ms in several days. The earthquake has caused material damage of about 250 - 300 billion Rupiahs, 103deaths and up to 2,600 injured people. This earthquake has demolished the transportation system and public servicesbuilding. Majority of damages occurred in resident housing area (UCB-housing). - On July 12, 2000 at 08:30(Indonesian Time) , a 5.1 Richter Scale earthquake Sukabumi areas - West Java.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** It is rather difficult to convince the community to do seismic strengthening on the existing undamaged houses to the local community. One of the best ways is by disseminating recommended earthquake resistant construction to the local community under supervised an engineer by applying local material condition which are easy to obtain in the neighbourhood. Recommended seismic strengthening provisions for the new construction of this type are illustrated in Figures 5, 6 and 7.
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Indonesian Earthquake Study, Volume 7 : Masonry TestingBeca Carter Hollings and Ferner Ltd 1981
+
+  * Manual of Earthquakes Resistant Building (Housing) In IndonesiaBoen, T.105 p. 1978
+
+  * Guidelines for Earthquakes Resistant Non-Engineered ConstructionIAEE CommitteeGakujutsu Bunken Fukyu-kai, Japan, 158 p 1986
+
+  * Guidelines for Earthquakes Resistant Non-Engineered ConstructionIAEE CommitteeGakujutsu Bunken Fukyu-kai, Japan, 158 p 1986
+
+  * Evaluation of The Seismic Performance of A 1907's L-shaped Three Storey Unreinforced Masonry Building inIndonesiaWijanto,S. and Andriono,T.Proceeding of NZSEE Conference, Rotorua - New Zealand, pp. 103-110 1999
+
+  * Strengthening of A 1907's L-shaped Three Storey Unreinforced Masonry Building in IndonesiaWijanto,S., Andriono,T. and Satyarno,I.Proceeding 12th WCEE, Auckland 2000, Paper Number 1368 2000
+
+  * Bengkulu Earthquake 4th June 2001Wijanto,S., Wreksoatmodjo,S., Hardy,L. and Pendellah,A.Journal of Civil Engineering Department, Trisakti University, Vol. 01, No. 1, Jakarta, 18 p (in progress) 2001
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sugeng WIJANTO | Senior Lecturer | Civil Engineering Dept. Trisakti University | Jalan Kyai Tapa No. 1 Jakarta Barat 11440 Indonesia | gistama@cbn.net.id | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, INDIA | rsinha@civil.iitb.ac.in | 

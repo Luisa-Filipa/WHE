@@ -1,0 +1,356 @@
+====== Prefabricated metal construction of the Modern Movement, Germany ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 95
+
+**Building Type:** Prefabricated metal construction of the Modern Movement
+
+**Country:** Germany
+
+**Author(s):** Maria D. Bostenaru
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Karlsruhe (1929 Dammerstock: Fig. 3,4), Frankfurt, Berlin,Stuttgart (1927 Weissenhof: Fig. 6), Kassel (1929 Rothenberg), Celle (1930 Blumlagerfeld) and others. Some 300,000residential units (see "Weisse Vernunft", 1999). This type of housing construction is commonly found in sub-urbanareas.
+
+**Summary:** This urban housing construction was practiced for about 20 years during the early 1900s inGermany. Single-family houses and blocks of flats, both built according to the sameconstruction system, are included in this report. This construction was built in what were oncethe outlying areas of German cities. Typically, these low-cost housing units are rented by theresidents. The buildings consist of a row of several individual, 20-meter-long units, each ofwhich usually contains two apartments on each floor. The load-bearing system is iron skeletonwith brick infill. Usually, the skeleton is made out of columns and beams, but dense columngrids were sometimes used to minimize the spans of metal joists as a cost-saving measure.Experiments with various materials for the bricks were tried as part of the continuous searchfor improved insulation. The floors are also made out of bricks on iron joists. Stiffening isusually provided by diagonal ties at the staircases, which are placed in the middle of eachbuilding unit. Because of the seismic activity, both along the Rhine and in the Swabian Juraaffecting Baden-Wuerttemberg, seismic codes (DIN) were issued in 1981 and have beenupdated. Standards have existed since 1957 and are expected to be included in the newEuropean code, Eurocode 8.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingResidential, 20-49 units
+
+**Typical number of stories:** 2-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** See figures 7and 8 for typical views in a Siedlung.This construction type was both used for single family housing andmultiple ho
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 20-160
+
+**Typical plan width (meters):** 5.5-8.5
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Steel: Moment Resisting Frame: With brick masonry partitions
+
+**Additional comments on structural system:** The vertical load-resisting system is iron skeleton (fig. 11-13) with infill walls of half clay or"Schwemmstein" bricks support the gravity loads. The connections are made with screws over corner elements in theupper floors and in the basements and at column base with nits (fig. 16). The statics were computed for a 10cm thickbrick-iron floor. Iron/steel frames are one story high and later infilled with masonry (Stuttgart, Karlsruhe). In Cellemany joists are missing and vertical load bearing elements are spaced 85cm. Gravitational loads are transmitted directlyto the foundation. Here the skeleton serves as "Fachwerk" up to the cornice.Lateral load resistance is provided by iron skeletonstiffened by brick infill walls (fig. 21) and by wind bracing within the staircase walls (fig. 20). The floor is the so called"Kleine" brick-iron-floor system with I-profile joists. The "Kleine" floor system was characterized through concretereinforced with round iron bars at about 30cm distance.
+
+**Gravity load-bearing & lateral load-resisting systems:** Typical skeleton with I shaped members is shown in Ahnert (2002) Vol. III in Table 10 on page 41.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 5 - 8% This density is given for infill walls.
+
+**Wall Openings:** The openings are usually 85cm wide, which also determined the spacing of metal elements used, forexample in Celle (where many joists were missing). Images showing details of openings in mid-rise buildings can beseen in figure 17 (long facade of a typical building bar) and 19 (short facade of a typical building bar). The size and thedistribution of windows in a typical low-rise building can be seen in figure 12.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** The original light walls were later replaced by the masonry partition walls. The empty rooms were later used forresidential occupancy.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Composite steel deck and concrete slab
+
+**Additional comments on floor system:** Composite masonry and steel joists. Ahnert (2002) shows the details of such a structure in Table 6 on page 36, Vol.III (with "Kleine" floor). More details are given in the "Kleine" floor in Table 18 on page 57 in Ahnert (2002), Vol. II.Here and in the adjacent Table 17 also another floor system of the same type (I joists and holed bricks) was used inGermany for common buildings at that time: "Secura", "Wingen", "Kelling", "Rhein", "Frster", "Ludwig" and finally"Hourdis". Hourdis is the French name for hollow bricks. This system was also used with "Bimsbeton" (special kindof concrete, based on pumice). All these systems are unreinforced floor system types. Later on round steel was used tobind the I joists (see Ahnert, 2002, Vol. II, Table 22 on page 164) to the exterior walls and within these with higherdensity in the basement (Ahnert, 2002, vol. II, Table 23, page 65). With added round steel wide variations of the floortype, called "Stahlsteindecken" (steel stone floors) were created and some of them from 1936 are shown in Ahnert(2002), Vol. II, in Table 25 on page 78 and Table 26 on page 79. These were addressed from 1943 on by the code DIN1046. Later cross reinforcing of such floors was possible, as documented by Ahnert (2002), Vol. II, Table 31 on page88.
+
+**Type of Roof System:** Composite steel roof deck and concrete slab
+
+**Additional comments on roof system:** Composite masonry and steel joists. Ahnert (2002) shows the details of such a structure in Table 6 on page 36, Vol.III (with "Kleine" floor). More details are given in the "Kleine" floor in Table 18 on page 57 in Ahnert (2002), Vol. II.Here and in the adjacent Table 17 also another floor system of the same type (I joists and holed bricks) was used inGermany for common buildings at that time: "Secura", "Wingen", "Kelling", "Rhein", "Frster", "Ludwig" and finally"Hourdis". Hourdis is the French name for hollow bricks. This system was also used with "Bimsbeton" (special kindof concrete, based on pumice). All these systems are unreinforced floor system types. Later on round steel was used tobind the I joists (see Ahnert, 2002, Vol. II, Table 22 on page 164) to the exterior walls and within these with higherdensity in the basement (Ahnert, 2002, vol. II, Table 23, page 65). With added round steel wide variations of the floortype, called "Stahlsteindecken" (steel stone floors) were created and some of them from 1936 are shown in Ahnert(2002), Vol. II, in Table 25 on page 78 and Table 26 on page 79. These were addressed from 1943 on by the code DIN1046. Later cross reinforcing of such floors was possible, as documented by Ahnert (2002), Vol. II, Table 31 on page88.
+
+**Additional comments section 2:** TypicalPlan Dimensions: Typically a building is divided into rectangular units of about 20m long, separated by joints. One toeight such units can form a building, the typical number being 3 to 5 (fig. 9 and 10). An aerial view today of a typicalsettlement showing these relationships can be seen at http://www1.karlsruhe.de/Stadtteile/Weiherfeld-Dammerstock/Bilderbogen/luft-dam.jpg ) or http://www1.karlsruhe.de/Stadtteile/Weiherfeld-Dammerstock/bilder_quu.php). Typical Number of Stories: The typical number of stories for multiple housing unitsvary from 2 to 4 depending on the region. The average number of stories is 4 (1 ground floor (GF)+3 regular) inStuttgart (fig. 5), 4 (1 basement +GF+3 regular) in Kassel and in Karlsruhe (fig. 1) . The single family houses are 2story (1 basement+GF+1 regular) in Celle and Karlsruhe (fig. 2). Typical Span: For typical buildings the spans inunreinforced systems are 1-2m (and rarely 3-4m). In the cases where anchors were used, the spans were around 2.5mand in case of "Stahlsteindecken" it is approximate 3m. By 1925, the spans for no iron were usually 1.3-1.4m. In thedry-mounting application the spacing is 1.06m. The span for example buildings: 3.2m all at facade in longitudinaldirection except at staircase where 1.8m; 4.8 the long ones in transversal direction (the short ones remaining 3.6m).Other buildings have spans of 0.85, 1.06 for the secondary joists.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Infill Walls: Hollow clay brick or other stone Tekton coverinside reinforced with steel on both sides of light isolatingconcrete filling (Karlsruhe) OR pumice concrete with tektoncover. Basement Walls: simple concrete (not reinforced) | Basement Walls: B50-B225(prescribed since 1894)brick masonry 12cm thicktekton cover 6-10cm thick25-12-6.5cm("Reichsformat") in 1870.System Benzinger(the name givento a mountingconstructionsystem out of"stau" bricks andframes) | 
+| Foundations | concrete |  | 
+| Floors | Floors: hollow clay brick and I iron profiles, sometimesbrick and RC (concrete reinforced with round iron bars)(Stuttgart) OR pumice cement floorboards withoverconcrete (Celle) OR cement holed floorboards on Tsteel joints with overconcrete (Karlsruhe) with pumiceoverconcrete OR pumice floorboards on I joists (Stuttgart) | 10cm thick - 1,25 kN/m2;12cm thick - 1.5 kN/m2. The"Kleine" floor (fig. 15) had15cm thickness for 2.85mspan and 10cm thickness for1.90m span prescribed forhousing. Overconcrete in themiddle: B80, at the ends:B120."Lochstein" (holed brick)10x15x25cm or10x12x25cm. Mortar:1:1:5-6 (cement:calc:sand)Round steel forreinforcement: diameter of5,6,7,8,9,10cm... or mixed8+10, 10+12cm...System Benzinger | 
+| Roof | Roof: RC (Stuttgart) OR pumice concrete (Celle) ORcement holed floorboards on T steel joints withoverconcrete (Karlsruhe) | 10cm thick - 1,25 kN/m2;12cm thick - 1.5 kN/m2. The"Kleine" floor (fig. 15) had15cm thickness for 2.85mspan and 10cm thickness for1.90m span prescribed forhousing. Overconcrete in themiddle: B80, at the ends:B120."Lochstein" (holed brick)10x15x25cm or10x12x25cm. Mortar:1:1:5-6 (cement:calc:sand)Round steel forreinforcement: diameter of5,6,7,8,9,10cm... or mixed8+10, 10+12cm...System Benzinger | 
+| Other | iron/steel | See tables for typical loads forcomputing columns as wellas computation examples inAhnert vol. III, P. 23-42. Seetables for typical loads forcomputing joists as well ascomputation examples inAhnert vol. III, P. 9-16.Double T profiles OR Zprofiles for columns, Iprofiles for joistsin mortar ?System Benzingerfor mounting ORdry mountedTypicalconstructiondetails are shownin Ahnert vol. IIIon page 32 (Table6) and page 41(Table 10) | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Engineers had a technical role. High enterprisesconstructing bridges and industrial facilities came into the market of small houses. Architects acted as managers anddesigners of the construction process. Architects envisaged the optimization of housing prices. They designed buildingelement types for industrial serial production while accounting for spatial considerations as well. Some Germanarchitects came back after a stay in the USA where prefabrication and rationalization were used more.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** New construction methods: Central ideas were rationalization, typization and standardization. Industrial mountingmethods aimed saving in time and costs. The construction flow had to be optimized in a process plan (see an exampleof processual planing in an axonometrical construction schema of Walter Gropius in "Weisse Vernunft", 1999). Thistime the Net Plan so used today has come to life as the model used for process planning was similar to the net plan ofoperating railways (or to machine models Ford's). All elements which could be prefabricated were done so. Theninstead manufacturing construction machines had been extensively employed. The construction flow was optimizedregarding the employment of construction machines. This could be only done due to the line-shaped planimetry ofthe Siedlungen of that time. Regarding the construction technique itself the prefabricated building elements used to bemounted. In case of dry mounting the house could be inhabitated immediately after being finished. First the skeletonwas made, one week after that the surface on the ground was made, about ten days later the walls with openings, forwhich an exterior screening was needed, were constructed. For characteristic images see Stein Holz Eisen P. 769). Thewalls of the staircases were infilled first, then the other exterior walls (with windows) from the bottom to the top (fig.23-24) were placed. For an archive photo of a low-rise building of this type during construction process seehttp://www1.karlsruhe.de/Stadtteile/Weiherfeld-Dammerstock/bau-damm_1.jpg (orhttp://www1.karlsruhe.de/Stadtteile/Weiherfeld-Dammerstock/bilder_v.php) In certain cases the constructionwithout using any wet techniques was proposed, so that the house could be occupied right after the rough structurewas completed. The construction of this type of housing takes place in a single phase. Typically, the building isoriginally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The year the first code/standardaddressing this type of construction issued was In 1917, the first code (DIN = [Deutsche Industrie Norm] ="German Industrial Standard") for the construction industry appeared. The board was initiated by Muthesius, Behrensand the Deutsche Werkbund. The most recent code/standard addressing this construction type issued was DIN4149 [Bauten in deutschen Erdbebengebieten - Lastannahmen, Bemessing und Ausfhrung blicher Hochbauten] ="Building in German earthquake regions - loading assumptions, dimensioning and execution of common buildings"was issued in 1981. This then became a technical prescription.
+
+**Process for building code enforcement:** First standards for earthquake safe buildings in Baden Wrttemberg appeared in 1957 and 1972. Since 1981 (thismeans after the earthquake from Swabian Alb in 1978) the DIN 4142 has been used. It is foreseen that this will appearin the Eurocode 8. For details see: http://www.lgrb.uni-freiburg.de/d/akt/lgrb_n0202.pdf.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Other
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Generally 10-15% cheaper than traditional building. Otto Haesler is one of the few architects who reached a notablecost sinking through rationalization in this type of building. The material price of steel was low at the time. Accordingto "Weisse Vernunft"(1999): the cost for multiple housing unit of this type is 52RM/m; and for dry mountingexample is 80RM/m. Other buildings of innovative type cost 64 (example with iron-concrete)-85 RM/m. RM =Reichsmark. Workmanship prices of the time were approx. 1.5 RM/h, while material prices looked like: ~50RM/1 tcement, ~70RM/1m gravel, ~200RM/1t steel (after Ahnert, 2002, vol. I, P. 13).
+
+**Labor requirements:** Realization in record speed owes tothe optimized construction flow, the so-called Taylorization. Most of the construction is based on theextensive prefabrication of parts. The size of prefabricated parts was dictated by the lifting force of the machinery oreventually of a worker, although manual work had been tried to be avoided. The construction site managementbecomes almost like managing industrial lines. For further examples, including numerous films of prefabrication andconstruction process, see "Weisse Vernunft" (1999): [Baustelle] (="construction site"). Ex. on the Gropius buildingsite in Dessau-Trten 130 residential units were constructed in 88 working days, i.e. 5 1/2 days for one unit. TheGropius siedlung there belongs nevertheless to another construction type than the one described in this report butuses similar construction methods. Martin Wagner had had an innovative concept of the construction enterprise,where the workers free of making decisions: the "Bauhtte". For details see "Weisse Vernunft" (1999).
+
+**Additional comments section 3:** Columns for this type of building have been addressed by standards since 1876 and by norms (DIN) since 1934. Thelast DIN addressing them is DIN4114 released in 1952. Joists for this type of building have been addressed bystandards since 1876 and by norms since 1934. The DIN1050 was updated in 1937 and 1947 retained its name.This construction type was typically built as social housing.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The type of occupancy is generally residential. The number of inhabitants in a unit varies depending on the size of theunits. There are units that can accommodate 2 (32-34m2) to 8 (60-78m2) persons. The size of the units, on the otherhand, is determined by the degree of "luxury". The most common unit is designed for a family of 3 to 5 persons (seefigure 14).Each building typically has 24 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** Theaverage number of inhabitants in a typical building depends on the number of units. Approximately 96 inhabitantsreside in a typical building.
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** This construction type was considered as social housing for poor inhabitants based on the minimum living spaceprinciple of the Modern Movement. The rent was about 150-500 RM per month. Economic Level: For Poor Class theratio of Housing Unit Price to their Annual Income is 11:1.
+
+**Typical Source of Financing:** Government-owned housingOther
+
+**Additional comments on financing:** After 1918 the state took the initiative to support housing construction in mainly two ways: cheap credits to privatepersons and financing of housing construction from public money, through the so-called[Wohnungsbaugesellschaften] = "Housing construction societies". A corresponding legislative framework anddifferent instruments (taxes and housing construction support programs about how to distribute these taxes) hadbeen created. This replaced the "free housing market". Before World War I (WWI), 25% of construction price wasprovided by the investor, 60% by the first mortgage (=credit got by the investor) and the rest by the second mortgage(this followed an English model concerning the separation between capital and interest). After WWI, problems wereencountered with the second mortgage. This model is still implemented in the Dammerstock Siedlung in Karlsruhe.The mortgage is just 35% but there is an interest aid spanning over 12 years. In Frankfurt 40% of the cost is coveredby the so-called [Hauszinssteuer] = "House interest tax" and 20% comes from the Wohnungsbaugesellschaft. TheKarlsruher financing model is thus more independent from state money. Research societies were also financinginnovative residential buildings. For further details see "Weisse Vernunft" (1999): [Wohnungsnot/Sozialpolitik](="Housing shortage/Social politics") and [Finanzierung] (=Financing).
+
+**Type of Ownership:** Rent
+
+**Additional comments on ownership:** The rent of the units in this construction type had gone down (up to 25% less) because of the newer buildingsconstructed with other techniques.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Research to assess seismic risk for buildings in Germany is running and the aspects aboutinsurance necessity are included in this research. According to this, some of the damages from the earthquake in 1978were covered by insurance. However, earthquake insurance is separated from house insurance. More details (inGerman) about insurance for "elementary damages" (this is, damages caused by natural forces) can be found at:http://www.diw.de/deutsch/produkte/publikationen/wochenberichte/docs/02-35-2.html#HDR2.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1970 | Albstadt, Sw abian Jura |  | VIII | 
+| 1977 | Sigmaringen | 3.8 |  | 
+| 1978 | Tailfingen-Onstmettingen (Albstadt) | 5.3 | VII-VIII | 
+| 1980 | Onstmettingen (Albstadt, Sw abian Jura) | 3.5 | VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** For further details on the earthquake in 1978 see: http://www.iaag.geo.unimuenchen.de/sammlung/Zollerngraben.html The following earthquakes affecting Germany are documented inAmbraseys et al. (2002): 1977 - Albstadt, Swabian Jura (Magnitude 3.2 Ms); 1982 - Abstadt, Swabina Jura (Magnitude3.5 ML); 1983 - Grosselfingen (in Zollernalbkreis in front of the Swabian Alb; Magnitude 3.6 ML); 1992Wutschingen (north of the Rhein and south of Donaueschingen, west from Bodensee in the Black Forest;earthquakes from there registered in Basel, Zrich and many other locations with both rock and stiff soil; Magnitude3.9 ML); 1996 - Gottmadingen (close to Wutschingen, west from Bodensee, between Singen and Zrich; 3.1 ML);1997 - Binzen (locality laying at the frontier between Germany, France and Switzerland; earthquake registered in Basel;3.1 ML); 1998 - Degerfelden (part of Rheinfelden, in the extreme SW Black Forest, next to the Swiss frontier; 2.6 ML);2000 - Steisslingen (near Singen next to Konstanz; 3 ML). See also: http://www.iaag.geo.unimuenchen.de/sammlung/Stockach.html for more recent earthquake activity. Historically on the 18th of October 1356the biggest earthquake of middle Europe destroyed the city of Basel. 1869/71 a strong earthquake in Gro-Gerau(north of Basel on the Rhein) followed. A new earthquake map for Baden-Wrttemberg has been proposed on:http://www.lgrb.uni-freiburg.de/d/akt/lgrb_n0202.pdf Damages caused by earthquakes among other "elementarynatural forces" in south-west Germany (Albstadt) are documented in the dissertation of Plapp(2003) and availableonline (in German) as follows: http://www.ubka.uni-karlsruhe.de/cgi-bin/psview?document=2003/wiwi/10&search=erdbeben&format=1&page=262 Thus the earthquake of 22 January 1970 inZollerngraben (MMI = VIII) caused a total loss of 1 Million as a result of the damage. The earthquake of 18September 1977 in Sigmaringen (M=3.8) caused only low damage in buildings. During the earthquake of 3 September1978, 5000 buildings were damaged, 60 of them collapsed. 20000 people were affected, 23 injured, 100 left homeless,300 homes were evacuated. The total loss was 275 Million DM, of which 120 Million DM was insured. In theearthquake of 21 April 1980 only the phone connection in Albstadt was damaged. Damages caused by earthquakesamong other "elementary natural forces" on the lower Rhein in Germany (Cologne) are documented in thedissertation of Plapp (2003) and available online (in German) as follows: http://www.ubka.uni-karlsruhe.de/cgibin/psview?document=2003/wiwi/10&search=erdbeben&format=1&page=258 - on the 13th of April 1992 anearthquake of M 5.2, max. Intensity VII-VIII occurred with epicenter in Roermond, the Netherlands. In Cologne,houses and vehicles were damaged. The main damage area was in the Netherlands but it was felt in Cologne as well.
+
+**Additional comments on earthquake damage patterns:** Curvature up to 5cm of the floor; the out of planedeformation of reinforcing iron (30cm).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** hollow bricks, large window openings
+
+**Earthquake-resilient features in walls:** fills the frame
+
+**Seismic deficiency in frames:** especially the column bases oxydates, as it layswithout protection in the concrete
+
+**Earthquake-resilient features in frame:** presence of stiffeningelements
+
+**Seismic deficiency in roof and floors:** heavier than computed and thus inducing additionalloads into the structure; sensitive to oscillation
+
+**Earthquake resilient features in roof and floors:** rigidity through large concretevolume or reinforcement
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| The structure is heavier than designed one, which imposesadditional loads to the structure; sensible to oscillation | Replacement of damaged floors with new ones; reducing gravitational load at terraces(strengthening through replacement of thermal insulation material with a lighter one) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** These measures were applied because of general structural system problems, not necessarily due to seismicdeficiencies.
+
+**Has seismic strengthening described in the above table been performed?** It was performed in practice, in Stuttgart, see Ngele (1992), P. 112-114.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The building was damaged but not by an earthquake.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The German government contracted the work. A workgroup was created including representatives from the financeand construction ministries, the direction of monuments of the state and of the city of Stuttgart, the Association ofthe Friends of the Siedlung. They had to determine the way of approach and a concrete rehabilitation concept. In thefirst phase the state of the siedlung in 1927 was documented. In a second phase a building survey was conducted. Inthe third phase the rehabilitation concept was developed. This included the construction technique, the infrastructuretechnique, the concept for implementation with the tenants, costs estimation, application for financial means anddetailed plans for monument conservation. Architects were involved; they had to identify themselves with the role ofthe "protector of a cultural monument".
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** No data is available on this.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Typical Constructions from 1860 till 1960/ Vol. I. Foundations, Isolations, load bearing massive walls,corniches, smokestacks, load bearing walls out of wood, old units of measure (in German)Ahnert,R., and Krause,K.H.CD-ROM; ISBN 3-345-00622-7 2000
+
+  * Typical Constructions from 1860 till 1960/ Vol. II. Wooden joist floors, massive floors, floor index,floorings, bays and balconies, overview of live loads (in German)Ahnert,R. and Krause,K.H.CD-ROM, ISBN 3-345-00623-5 2001
+
+  * Typical Constructions from 1860 till 1960/ Vol. III. Beams and masonry belt arches, piers and columns, stairs,roofs and roof structures, wooden roof buildings, loading assumptions for the roof (in German)Ahnert,R. and Krause,K.H.CD-ROM, ISBN 3-345-00624-3 2002
+
+  * Internet-Site for European Strong-Motion Data, European Commission, Research-Directorate GeneralAmbraseys,N., Smit P., Sigbjornsson,R., and Suhadolc,P., and Margaris,B.Environment and Climate Programme. Geo. - Hamburg : Gruner + Jahr ISSN 0342-8311, 1980 2002
+
+  * My Lifework as ArchitectHaesler,O.P. 30, 32, 33, XVIII. Images 34, 42, 44 and 47 1957
+
+  * Art and HandcraftKunst and Handw erkZeitschr. f 1929
+
+  * Perception of Risks from Nature's Catastrophes - An Empirical Study in Six Endangered Zones of Southernand Western GermanyPlapp,T.PhD Dissertation, University of Karlsruhe, Online at: http://w w w .ubka.uni-karlsruhe.de/cgi-bin/psview ?document=2003/w iw i/10 2003
+
+  * Wahrnehmung von Risiken aus Naturkatastrophen. Eine empirische Untersuchung in sechs gefPlapp,T.Reihe II - Risikoforschung und Versicherungsmanagement Vol 2, Ed. Prof. Dr. U. Werner, Verlag f 2004
+
+  * Stone Wood IronStein,H.E.Frankfurt,M. P.769 1929
+
+  * Stone Wood IronStein,H.E.Frankfurt,M. P.536, Page 18 1930
+
+  * Die Suche nach einer WohnreformUngers,L.P.149 1983
+
+  * Gruner + JahrGeo. - Hamburg, ISSN 0342-8311 1980
+
+  * The Restoration of the WeiNStuttgart: Karl Kr 1992
+
+  * White Ration. Siedlung Construction in the 20thCDROM f. MacOS 7.5x u. Window s 95. Prestel, March 1999
+
+  * www.weissenhof2002.de/
+
+  * www.baukosten.de/
+
+  * www.iaag.geo.uni-muenchen.de/sammlung/Zollerngraben.html
+
+  * www.iaag.geo.uni-muenchen.de/sammlung/Stockach.html
+
+  * www.lgrb.uni-freiburg.de/d/akt/lgrb_n0202.pdf
+
+  * www.lgrb.uni-freiburg.de/d/akt/lgrb_n0202.pdf
+
+  * www.diw.de/deutsch/produkte/publikationen/wochenberichte/docs/02-35-2.html#HDR2
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria D. Bostenaru | researcher | Urban and Landscape Design Department, Ion Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | Maria.Bostenaru-Dan@alumni.uni-karlsruhe.de | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ahmet Yakut | Assistant Professor | Department of Civil Engineering, Middle East Technical University | Ankara 6531, TURKEY | ayakut@ce.metu.edu.tr | 

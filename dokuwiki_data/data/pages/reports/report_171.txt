@@ -1,0 +1,336 @@
+====== Mud wall construction in Spiti Valley (Himachal Pradesh), India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 171
+
+**Building Type:** Mud wall construction in Spiti Valley (Himachal Pradesh)
+
+**Country:** India
+
+**Author(s):** Ankita Sood, Aditya Rahul, Yogendra Singh, Dominik H. Lang
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the Spiti river valley of the districts Lahaul and Spiti, in the state of Himachal Pradesh (Figure 1, Figure 2). As a specific term has not yet been coined for these houses, it was decided to name this construction type Spitian architecture. The addressed region is a desert area where timber is scarce and mud is the main locally available construction material. The addressed buildings are therefore made of rammed earthen walls and timber is solely used for floors and roofs as well as for door and window frames. Natural stones are also scarce and are thus only used for foundations. This type of housing construction is commonly found in both rural and sub-urban areas.
+
+**Summary:** This report describes a building type found in Himachal Pradesh, a northern state in India. It is concentrated in the upper reaches of the state in the Lahaul and Spiti districts, which are located in a cold-desert area with very hot days and chilling nights. Precipitation usually only occurs in the form of snowfall with almost no to very little rainfall. This dryness of the local climate is reflected in the architecture of this construction typology which consists of thick mud walls with small openings in order to insulate the interior from the harsh outside climate. This style of construction which is predominantly used for residential houses and temples is still being practiced though it shows high seismic vulnerability.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The earliest good example is an 800 year-old Kii gompa (monastery) in the village Kii (Figure 3). This type of construction is s
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The houses are generally rectangular in plan without any verandah.
+
+**Typical plan length (meters):** 8-12
+
+**Typical plan width (meters):** 3-10
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Rammed earth/pile construction
+
+**Additional comments on structural system:** The vertical load-resisting system is earthen walls. The vertical load-resisting system consists of 300 - 500 mm wide walls made of rammed earth resting on a foundation base made of undressed field stones with mud mortar.The lateral load-resisting system is earthen walls. The same 300 - 500 mm wide walls made of rammed earth, which are basically constructed to resist the gravity load, also constitute the lateral load resisting system. The walls have practically no tensile strength and very little shear strength resulting in extremely poor in-plane and out-of-plane resistance against lateral loads.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Openings are generally of small size. In some cases, skylights are provided in the roof in order to provide natural light to the interior corridors and staircases (Figure 7 and Figure 8).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** It is assumed that buildings of Spitian architecture were designed and constructed under the influence of one particular architectural school that prioritized human comfort in the harsh weather conditions while being constricted to using locally available materials. In recent times, various experiments of construction using conventional building materials (bricks) have failed as these materials do not provide the same advantages with respect to insulation (both during winter and during summer) as mud. However, more contemporary materials have found their way into many Spitian houses, e.g. pre-cast RC lintels (Figure 10) which replace wooden lintels. The small open-to-sky-and-sun bath spaces (Figure 11) were recently replaced by enclosed winter gardens with large glass windows. A new variant can also be found in some places where single RC columns and beams are arranged (Figure 12)
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Locally available stone is used for foundation. A trench is dug about 300 mm in depth and 500 mm in width. Courses of stones with mud mortar are then laid in the trench up to the ground level. The same courses are then taken up to 600 to 900 mm above the ground in order to form the lower portion of the walls. Through this procedure the walls are protected from direct rain water splashes and snow. Generally, there is no plinth in these houses (Figure 13).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing, Thatched roof supported on wood purlins, Wood planks or beams supporting natural stones slates
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is a minimum of 0.3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Locally available mud | No standard values available. No measurements available. |
+| Foundations | Field stones | |
+| Floors | Wood, mud | Characteristic Strength: Wood: depending on local quality |
+| Roof | Wood, mud | Characteristic Strength: Wood: depending on local quality |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Architects and engineers are not involved in the design or construction of this housing type.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Construction is carried out under the surveillance of the owner himself
+
+**Expertise of those involved in building process:** Local masons are involved in the construction of these buildings, inheriting their skills from their fathers. Architects and engineers are not involved in the design or construction of this housing type.
+
+**Construction process and phasing:** Wall System: Houses of Spitian architecture have a load-bearing wall system. The 300 - 500 mm thick mud walls take up the entire load. Construction materials: The foundations and walls up to 600 to 900 mm height above the ground level are made of local available field stones. Above this base, the walls are entirely constructed of rammed earth. Construction methodology of walls: Step 1 - A wooden formwork is assembled and kept at place over the stone courses of the wall. This formwork has two wooden planks laid parallel to each other at a distance of either 300 or 500 mm and is secured at place by wooden screws and members (Figure 17). The height of the planks is generally 300 mm. Step 2 - In order to lay the first course of the mud wall, the formwork is filled with mud and rammed properly with a mallet. Once the mud sets at place, the formwork is slid further in order to make the other portions of the wall. The same procedure is repeated until the whole course of all four walls is finished. Thus a course of about 300 mm height has been prepared. Through the same procedure courses are laid one over the other in order to construct the entire wall. During the summer, it is possible to do two courses per day. In winter, only one course is laid per day and then allowed to dry/harden overnight. The horizontal borderline between two individual courses can be clearly seen on the walls. Lintel beams are placed at appropriate height during the wall construction. Step 3 - Once the walls are made and dried properly, windows of appropriate and desired size can be cut into them (Figure 18). In case of scarcity of mud, window frames are arranged in place while laying the courses (Figure 19). Step 4 - The walls are finished with a mud slurry allowing for organic design patterns and finally are white washed. The lines of individual courses are still visible after finishing (Figure 20). The walls of these houses are thicker at the bottom and thinner at the top. This is not done intentionally but since one course is laid over the other before fully drying, the lower courses of the wall spread out a bit under the weight of the upper courses. Thus the bottommost course is widest while the course at the top is thinnest. This phenomenon results in somewhat better stability of the walls. Floor system and roof typology: Ground floor - The flooring at ground floor level consists of only an earth fill which is finished with mud slurry. Upper floors - Wooden beams are laid across the walls in one direction only. These are secured in place with mud only. The distance between the beams is kept small considering the strength and weight of the overlaying material. Tree branches and wooden planks are densely laid over them and then a 50 mm thick layer of mud is spread over it (Figure 21). Roof - As the area has very little or no rainfall, the roofs are flat and constructed in the same way as the floors. Nowadays, with somewhat improved connectivity for transportation, poplar tree logs or steel sections are sometimes used for the beams as well (Figure 22). Parapets - To construct the parapets, a 300 mm thick and 300 mm high course of mud is laid at the periphery of the terrace. On top of it, dried bushes are packed densely (Figure 23). These bushes are projecting to the outside and hence also act as a sunshade (Figure 24). The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** 2
+
+**Applicable codes or standards:** This construction type is not addressed by the codes/standards of the country. However, an Indian code for improving earthquake resistance of earthen buildings (IS 13827 : 1993) exists and the provisions are applicable to this type of construction as well. The main provisions of the code recommend the provision of: (i) a wooden band at lintel level, (ii) pillars and buttresses in long walls, (ii) vertical (cane or bamboo) reinforcement, (iii) diagonal wooden members at the corners, and (iii) diagonal bracings between roof/floor girders to avoid their relative movement.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** This type of construction is non-engineered, and authorized as per development control rules. Building permits are not required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by the Owner(s). Exteriors are coated with mud-slurry once or twice a year whereas interiors are coated with the same more frequently for cleanliness.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 
+
+**Labor requirements:** 
+
+**Additional comments section 3:** The construction of these buildings is the only efficient option in the valley as the main building material mud is easily available and also suits to the harsh weather conditions.
+
+----
+
+==== 4. Socio-Economic Issues ====
+ 
+**Patterns of occupancy:** In large houses, the ground floor is generally used for cattle or as storage space. The first floor has a living/prayer room, 1 or 2 bedrooms, a kitchen and a toilet. In houses with three storeys, the entire top floor is used as a prayer room. The occupancy pattern changes in winters, when the inhabitants also move to the cozy ground floor. Houses have a small front yard (Figure 14) for household chores and to keep the cattle (yaks).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** These numbers apply to the summer months. During winters, the number of inhabitants in a building during the day and during the night is less than five as the young people move to other places, mainly Delhi and Goa, for work.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio)- 4:1
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1555 | Kashmir | > Mw 7.0 |  | 
+| 1720 | Kumaun | > M 8.0 |  | 
+| 1803 | Garwhal | Mw 8.09 |  | 
+| 1855 | Shrinigar (Kashmir) | Mw 6.3 |  | 
+| 1905 | Kangra (Himachal Pradesh) | Mw 7.8 | IX | 
+| 1974 | Pattan | Mw 6.2 |  | 
+| 1981 | Karakoram, Darel, Tangir, Khanbari valleys | M 6.2 |  | 
+| 1991 | Uttarkashi (Uttarakhand) | Mw 6.8, mb 6.1 (IMD), Ms 7.1 (USGS) | I (MMI) = VIII | 
+| 1999 | Chamoli (Gharwal region) | Mw 6.4, Ms 6.6, ml 6.8 (IMD), mb 6.3 (USGS) | I (MMI) = VIII | 
+| 2005 | Muzzafarabad (Kashmir) | Mw 7.6 | X to XII | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The structural configuration of these buildings is quite regular. Further, these buildings have a complete and direct load path in the form of thick mud walls. The main source of deficiency in these buildings lies in their main construction material, i.e. rammed earth, which has poor in-plane and out-of-plane resistance against lateral loads. The geographical area, which is characterized by very difficult geo-environmental conditions, has a scarcity of any other construction material. At the same time, the region is remotely located and not well connected with the mainland, making the transportation of better (in terms of more seismically resilient) construction materials very difficult and costly. The flexible roof system also adds to the vulnerability as it provides no lateral restraint to the walls in the out-of-plane direction. As a result, the walls act as vertical cantilevers above the foundation, and are highly prone to failure in out-of-plane action. Nevertheless, the seismic vulnerability could be significantly reduced by using some simple strengthening measures which would involve the use of a little amount of timber in the walls and bracing of the roof girders.
+
+**Additional comments on earthquake damage patterns:** Not known during any past earthquake. But it is expected that the walls will fail in out-of-plane action. It is also expected that the wooden girders will move relative to each other and relative to walls, resulting in the collapse of floors/roof.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The walls are made of rammed earth which has very little shear and bending strength. The flexible floors and roofs are also simply resting over the walls. In some cases opening sizes are also quite large.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof and floors are made of wooden girders, without any bracing or measure to prevent the relative movement.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | |  |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low in-plane and out-of-plane strength of mud walls | The walls can be supported in-plane using a braced frame system. The posts of the braced frame will support the roof beams directly, so that even if the walls fail during an earthquake, collapse of the roof is avoided. The diagonal bracing in the frame provides the required in-plane strength to the walls. Wooden ties can be located at roof, lintel and sill levels on both sides of the walls to support them in out-of-plane action (Figure 25). The corners of walls and joints of girders with vertical posts can also be strengthened using diagonal bracings. This provides a resilient alternative system to resist vertical and lateral loads in the form of the wooden frame, duly braced in all directions. |
+| Flexible roof/floor system | The main cause of damage to such roof and floor systems is the relative movement between the main girders. This relative movement can be restricted by providing horizontal bracing in the plane of the ceiling, interconnecting the girders (Figure 26). |
+| Low in-plane and out-of-plane strength of dry stone walls | Strengthening of New Construction: Indian code IS 13827 : 1993 suggests simple measures to improve the seismic resistance of mud walls. These are similar to those described above for existing buildings and consist of: (i) wooden bands in walls at lintel and roof level, (ii) pillars/buttresses at wall junctions, (iii) diagonal bracing in corners, (iv) reinforcement of mud walls using cane, bamboo, or timber. |
+| Flexible roof/floor system | Strengthening of New Construction: Flexible roofs and floors are to be provided with diagonal bracings as per IS 13935 : 2009 (Figure 26). |
+| Lack of anchorage of roof with walls | Strengthening of New Construction: Indian code IS 13827 : 1993 suggests connection of roof girders with the roof band, which in turn is connected with the door and window frames |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Indian standard IS 13827 : 1993 provides some simple measures for improving seismic resistance of earthen buildings. A large sample of existing buildings in the region was surveyed during this study. However, no strengthening or retrofitting measures could be observed in any of these buildings.
+
+**Has seismic strengthening described in the above table been performed?** No case of strengthening of such buildings was observed during an extensive survey of the study area.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** The strengthening measures suggested above are mainly based on Indian standards IS 13827:1993 and IS 13935 : 2009. The same (or any other strengthening measures) have not been observed in practice, and therefore no information about their performance during past earthquakes is available.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Indian Standard, Improving Earthquake Resistance of Earthen Buildings - Guidelines. IS 13827 : 1993. Bureau of Indian Standards (BIS), New Delhi, October 1993 (reaffirmed 1998), 20 pp.
+
+  * Dhajji Dewari. Hicyilmaz, K., Bothara, J., and Stephenson, M. (2012). Report no. 146, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+  * Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India. Rautela, P., Girish, J., Singh, Y., and Lang, D.H. (2009). Report no. 150, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+  * Indian Standard, Repair and Strengthening of Masonry Building - Guidelines. IS 13935 : 2009. Bureau of Indian Standards (BIS), New Delhi.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Ankita Sood | MURP student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR), Roorkee | 247667, INDIA | ankita.sood87@gmail.com | 
+| Aditya Rahul | M.Arch. student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR), Roorkee | 247667, INDIA | aditrahul@gmail.com | 
+| Yogendra Singh | Professor | Dept. of Earthquake Engineering, Indian Institute of Technology Roorkee | Roorkee 247 667, INDIA | yogenfeq@iitr.ernet.in | 
+| Dominik H. Lang | Senior Research Engineer | NORSAR | Kjeller 2027, NORWAY | dominik@norsar.no | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Qaisar Ali | Professor | Civil Engineering Department, UET Peshawar | Peshawar, Pakistan | drqaisarali@nwfpuet.edu.pk |

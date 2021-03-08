@@ -1,0 +1,325 @@
+====== Street front building with arcade at the first floor (pre-1970's construction), Taiwan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 61
+
+**Building Type:** Street front building with arcade at the first floor (pre-1970's construction)
+
+**Country:** Taiwan
+
+**Author(s):** Yao, George C., M.S. Sheu
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in almost all cities and towns on the island. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This building type is common in most Taiwanese cities and townships and it represents a construction practice that had been followed over 30 years ago (pre-1970s) and is no longer used. The main load-bearing structure consists of reinforced concrete frames designed for gravity loads only with brick masonry infill walls. Brick walls were built before the concrete was poured thereby serving as a form-work for concrete. Buildings of pre-1970 construction were characterized with a better bond between the masonry and concrete as compared to the buildings of more recent construction, in which reinforced concrete frames serve as main load-bearing system for lateral and gravity loads (note that the modern construction practice has been described in another contribution by the same authors). Buildings of this type are medium-rise (4 to 5 stories high). Usually, the first floor (typically 4 m high) is used for commercial purposes while the upper stories (typically 2 to 4 stories above, floor height 3 m) are used for storage and residential use. There is an #arcade# at the street level so that people may walk in it to hide from the strong sunlight or rainfall. Neighboring units of a similar design are constructed together to form a shady corridor for pedestrians to walk in. However, neighboring units may not be built at the same time. The number of units connected together varies from 6 to 10. These units may be connected in one row, or in an "L" shape, or in the "U" shape along the street block. There are several structural deficiencies characteristic for this construction: (1) the weak and soft first story because the commercial space demands a large opening at the street level; (2) a typical architectural building layout has walls in one direction only, perpendicular to the street. As a consequence, there are few earthquake-resisting elements in the other direction; (3) extra rooftop additions increase loadings. Building owners also tend to reduce the number of columns for a wider store front view. Many buildings of this
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Mixed residential/commercial
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:**
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Rectangular shape is most common.
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 4.5
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** Floor weight on different stories is transferred to solid RC floor slabs, usually 120 mm thick, which are supported by RC beams (usually 600 to 800 mm deep and 400 mm wide). Loads are transferred from the beams to the brick walls, usually 240 mm thick. The width of RC columns was often equal to the wall thickness (240 mm), such that the columns could appear as if they are "hidden" in the walls, whereas the column depth was on the order of 500 mm. The foundations are mostly isolated (spread) footings connected with tie-beams. In general, deformed steel reinforcement has been used for the improved bond properties between the concrete and steel. Transverse reinforcement in the columns is usually spaced at 300 mm on centre. The reinforcement bars are usually terminated under the beam-column connection. Longitudinal reinforcement ratio in columns varies from 1 to 2.9 %, depending on the design or building height. Concrete strength varies from 10 to 20MPa and was mostly mixed on site. Reinforced concrete slabs were cast monolithically with the beams and columns. As a result, honeycombing can be observed on the column surface if concrete was not sufficiently vibrated during the construction. The main structural system for these buildings consists of RC frames built around brick masonry walls. Brick walls, usually 240 mm thick, were laid before the concrete was poured and were tightly connected to the adjacent concrete members. These brick walls are characterized with a good bond with RC members and they act integrally with RC members in resisting seismic forces. Columns are able to carry gravity loads only due to their rather small dimensions and the lack of seismic detailing in the reinforcement. At the time of original construction, column strength was not taken into account in the seismic design. In the later period (post-1980s) the RC frames were built as main load-bearing structures for lateral and gravity loads and the walls were built as infill after the frame construction was completed. Buildings of pre-1970 construction were characterized with a better bond between the masonry and concrete as compared to the buildings of more recent construction. Wall layout is a critical factor that influences the seismic resistance of these buildings. In each housing unit, two end walls separate different units, most of the walls run only perpendicular to the street. Such structural characteristics make these buildings very strong for the seismic effects in the wall direction (perpendicular to street). However, due to the lack of lateral load-resisting elements in the other direction (parallel to the street), seismic resistance of these buildings is inadequate. In some buildings, there are walls parallel to the street direction because of the layout of stairways as shown in Figure 3. These buildings have demonstrated better seismic performance, as observed in the 1999 Chi-Chi earthquake.
+
+**Gravity load-bearing & lateral load-resisting systems:** predating seismic codes i.e. no seismic features
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The wall density perpendicular to the street direction at the first floor is approximately 5%. Parallel to the street direction, it may range from 0.3% to 1%.
+
+**Wall Openings:** Walls perpendicular to the street (side walls) are mostly used to separate building units, therefore these walls do not have any openings. Other walls may have openings, but the openings were not the major cause of capacity reduction. Major seismic problems are due to the architectural layout of these buildings, characterized with the total absence of walls or a very few walls in the direction parallel to the street. As a consequence, columns are the only elements resisting earthquake forces in the direction parallel to the street. This structural deficiency has led to a significant damage or even collapse of the columns in the 1999 Chi-Chi earthquake.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Typical patterns of modification include: additional story/stories were added on roof, demolishing interior wall at the ground floor to be used as a commercial space.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: cast in place solid slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: cast in place solid slabs
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+|  |  |  | 
+| Wall/Frame | Wall: Brick wall Frame: Reinforced Concrete | Wall: Characteristic Strength- Compression: 130 kg/cm.sq. Tension:37 kg/cm.sq. Mix Proportion/Dimensions- Brick dimensions are 5 X 11 X 23 cm Frame: Characteristic Strength- fc#=175 kg/cm.sq. fy=2800 kg/cm.sq. Mix Proportion 1:2:4 | 
+| Foundations | Reinforced Concrete | Characteristic Strength: fc#=175 kg/cm.sq. fy=2800 kg/cm.sq. Mix Proportion 1:2:4 | 
+| Floors | Reinforced Concrete | Characteristic Strength: fc#=175 kg/cm.sq. fy=2800 kg/cm.sq. Mix Proportion 1:2:4 | 
+| Roof | Reinforced Concrete | Characteristic Strength: fc#=175 kg/cm.sq. fy=2800 kg/cm.sq. Mix Proportion 1:2:4 | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** ArchitectOther
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** All buildings in Taiwan need the signature of a registered architect before government approval is granted. However, some architects may not have adequate knowledge for the latest development in seismic design.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is mostly built by developers. Builders do not necessarily live in these buildings.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The brick walls were constructed first, and RC frames were subsequently constructed around the brick walls. The brick walls, zigzagged at edge, served as a form for RC columns. As a result of concrete shrinkage after the concrete was cast, the brick walls were firmly enclosed in the RC frame. This has resulted in a very good bond between the frame and the brick wall. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** Due to the absence of major earthquakes before the 1999 Chi-Chi earthquake in Taiwan, contractors were reluctant to spent extra workmanship in the seismic detailing. Therefore in most of the construction sites, seismic detailing for RC structure is insufficient.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Building construction technique code in 1974 first addressed the seismic force and wind force for building design; the most recent code/standard addressing this construction was issued 1998.
+
+**Process for building code enforcement:** Building permits are granted after the architectural drawings are reviewed to satisfy building codes. Construction work proceeds afterwards. At this stage, the design architect is usually responsible for monitoring whether appropriate construction methods and materials were used. After the construction work is finished, government official will inspect the building to ensure that everything is built to the design drawings before building permit is issued.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** To include the material (for all the structural and nonstructural components) and labor: 75 $US/ m.sq.(for currency at the time of the original construction).
+
+**Labor requirements:** Usually, it takes 10 days to build one story (structural part only), including the bar installation, forming, and pouring of concrete.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Usually one family per housing unit. Number of housing units varies from 6 to 10.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 10-20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** Other
+
+**Additional comments on number of inhabitants:** More than 50 may dwell in the building during the night. Grandparents and parents may live with two or three children in the same unit. Also rooms may be rented to tenants for extra income.
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better Varies, according to locations. Typical annual income for a middle class family in Taiwan ranges from $US 25,000 to $US 60,000
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1999 | Chi-Chi, Taiwan | 7.3 | X | 
+| 2001 | Taipei | 6.8 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Although many buildings of this construction type sustained significant damage in the 1999 Chi Chi earthquake, most of them performed satisfactorily. Earthquake damages are illustrated in Figures 11-13. The main causes for damage observed after the earthquake are (EERI, 2001): 1) Poor configuration attributable to the open front combined with inadequate column lateral reinforcement (ties). The large displacement demands from the soft-story and torsional effects often damaged the plastic hinge regions of the columns at the open front. All damaged columns were observed to have nonductile confinement reinforcement details consisting of widely spaced horizontal hoops, more than 300 mm apart, and 90 degree hooks. Usually, the lack of confinement reinforcement in the plastic hinge regions resulted in brittle failure. In some cases, hinge rotation caused buildings to permanently lean out of plumb. In other cases, buildings with no signs of earthquake damage remained standing next to the seemingly identical buildings that sustained the total collapse of entire bottom stories. 2) There was also widespread damage to the unreinforced brick partitions and perimeter walls. Although partitions are usually considered nonstructural elements, the collapse of or damage to unreinforced brick partitions represents a significant falling hazards, and it forced many people out of their homes. 3) Performance of this construction type in the earthquake was significantly influenced by the infill wall layout. Because brick infills significantly influence the structural characteristics and yet are not considered in the design, the seismic performance of this building type is highly unpredictable. A five-story building of this construction type (constructed in the early 1970#s) collapsed in the March 31, 2002 Taipei earthquake. The bottom two stories were flattened in the earthquake. Fortunately no one died in this building owing to the quick response of the rescue team established after the 1999 Chi-Chi earthquake in central Taiwan. According to a local newspaper, a garage shop purchased several units at the first floor. The first floor walls were torn down to satisfy the spatial needs of a garage. As a result, a weak story formed and the building leaned forward and collapsed in the first few seconds in the earthquake.
+
+**Additional comments on earthquake damage patterns:** -In a major earthquake (of intensity similar to or larger than the design level earthquake), collapse of buildings is expected to take place due to the lack of structural strength in the weak direction. -Collapsed columns -Extensive damages and building collapses due to the large demands on the bottom story columns caused by soft story and torsional effects (see Figures 11-13)
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** Soft/weak story
+
+**Seismic deficiency in walls:** -Unreinforced brick masonry walls are laid out in one direction only, resulting in the increased vulnerability in the other direction due to the absence of vertical elements of lateral-load resisting system, as illustrated in Figures 2 and 3.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** - Column reinforcement is usually spliced at the top of the slab where the column bending moments are the largest (see Figure 7). As a result of this poor construction practice, seismic capacity of the columns is largely reduced. Majority of the buildings
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** No major deficiencies
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Absence of walls at the ground floor level in the direction parallel to the street | -Installation of new walls near the rear door or staircase to increase seismic strength in the direction parallel to the street, as illustrated in Figure 14. - Installation of new steel braces. | 
+| Weak columns | #NAME? | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** It is generally accepted by builders. However, recent economic downturn may weaken the will to retrofit.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Both
+
+**Was the construction inspected in the same manner as new construction?** Less stringent in retrofit work
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Contractors performed retrofit construction. Only small percentage of the work involved architects or engineers.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Yet to be discovered by the next major earthquake.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Special Report on Chi-Chi Earthquake, Structural Engineering, Vol. 55, Dec.1999
+
+  * Chen, M.S., Experimental Study on Mechanical Behavior of Brick, Mortar and Their Interface, Master thesis, Dept. of Architecture, NCKU. 1994, Taiwan.
+
+  * Deng, S.S. Investigation of Damages of Low-Rise RC Mixed-Used Buildings in the Chi-Chi Earthquake, Master thesis, Dept. of Architecture, NCKU. 2000, Taiwan.
+
+  * EERI. The 1999 Chi-Chi, Taiwan, Earthquake Reconnaissance Report, CD-Rom, Earthquake Engineering Research Institute, Oakland, California, 2001.
+
+  * National Center for Research on Earthquake Engineering, Ji-Ji Earthquake Reconnaissance Report, http://www.921.ncree.gov.tw/e_index.php3
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Yao, George C. | Professor | Dept. of Architecture | #1 University Rd. NCKU, Tainan 701 Taiwan | gcyao@mail.ncku.edu.tw | 
+| M.S. Sheu | Professor | Dept. of Arch., NCKU | #1 University Rd. NCKU, Tainan 701 Taiwan |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Craig D. Comartin | President | C.D. Comartin Associates | Stockton CA 95207-1705, USA | ccomartin@comartin.net | 

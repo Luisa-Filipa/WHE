@@ -1,0 +1,319 @@
+====== Precast reinforced concrete frame panel system of seria IIS-04, Uzbekistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 66
+
+**Building Type:** Precast reinforced concrete frame panel system of seria IIS-04
+
+**Country:** Uzbekistan
+
+**Author(s):** Shamil Khakimov, Bakhtiar Nurtaev
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Tashkent and other cities of Uzbekistan and Central Asia. In Tashkent, this housing type accounts for over 18% of the residential building stock and for over 25% of the public building stock. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This housing type is used in the construction of residential and public buildings in many cities throughout Uzbekistan (including the capital city Tashkent) that are located in zones with intensities between 7-9. Residential buildings of this type are generally 9 to 12 stories high, whereas public buildings of the same construction are 1 to 4 stories high. All seismic loadresisting (and also nonstructural) components, e.g., foundations, columns, girders, slabs, staircases, wall panels, etc., are manufactured in specialized plants. The materials are subsequently transported to the building site. The positive features of this construction type are (1) the ability to manufacture all building materials in an industrialized setting, and (2) the gain in efficiency inasmuch as the same building components may be used both for residential and public buildings. The key drawback is that the welded joints cause seismic vulnerability when the building is located in zones of extremely high seismic loads. These joints have shown extremely brittle behavior during earthquakes. Earthquake damage is mainly concentrated in the column joints, or in the column-to-girder joints. In some cases non-bearing walls and exterior wall panels have collapsed.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 9-12
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** This traditional construction practice has been followed for over 35 years. The frame panel seria IIS-04 was first used in 1973.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 24
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Moment frame
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. The gravity load-bearing structure consists of reinforced concrete frame, including precast columns and beams and precast floor panels. The lateral load-resisting system is reinforced concrete moment resisting frame. The lateral load-resisting system is reinforced concrete frame, which consists of precast columns and beams and cast in-situ or precast concrete shear walls. Precast frame elements are joined together in the space frame structure. Shear walls may be made of precast panels or cast in-situ elevator cores in the taller buildings of this type (e.g., 12-story buildings). In medium-rise buildings of this type (e.g., 4-5 stories), the entire lateral load-resisting system consists of a RC frame only (i.e., shear walls are not present). Precast floor panels are joined in a rigid diaphragm for the distribution of lateral forces.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5%.
+
+**Wall Openings:** Usually a rectangular plan. In this housing type, the main load-bearing elements are the columns, beams and joints (a frame structure). Therefore, seismic vulnerability does not depend on the number and size of the openings. The size of the windows and doors ranges from 2.25 m to 4.5 m.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Minor modifications of interior partition walls may be done by the owners.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Hollow core slab (precast)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Hollow core slab (precast)
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 30 meters. Typical Plan Dimensions: Typical plan dimensions: 18x18m, 12x36m, 15x24m Typical Span: The typical span may be either 6 or 3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Partition Walls: Reinforced concrete Wall panels (vertical diaphragms): Reinforced concrete | Wall panels (vertical diaphragms): 30 MPa (cube compressive strength) Partition Walls: These walls are not lateral load-resisting elements Mix - 1: 1.5: 2.4: 0.45 Dimensions 6000 X 1500 X 250 (mm) Wall panels (vertical diaphragms): Mix- 1: 1.75: 3.21: 0.51 Dimensions 5600 X 140 X 3280 (mm) | 
+| Foundations | Reinforced concrete | 10-15 MPa (cube compressive strength) Mix- 1: 1,4: 2: 0,49 Dimensions: 1400 X 1400 X 900 (mm) | 
+| Floors | Reinforced concrete | 30 MPa (cube compressive strength) Mix- 1: 1.75: 3.24: 0.44 Dimensions : 6000 X 220 X 1600 (mm) | 
+| Roof | Reinforced concrete | 30 MPa (cube compressive strength) Mix- 1: 1.75: 3.24: 0.44 Dimensions : 6000 X 220 X 1600 (mm) | 
+| Other | Column: Reinforced concrete Girder: Reinforced concrete | Column: 40 MPa (cube compressive strength) Girder: 40 MPa (cube compressive strength) Column: 1: 2: 3: 0.5 Cross sectional dimensions: 400 X 400 (mm) X height (3300 -13500 mm) Girder: Mix- 1: 1.4: 2.8: 0.49 Cross-sectional dimensions: 420 X 480 (mm) | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerBuilderOther
+
+**Roles of those involved in the building process:** A builder may live in this construction type, and his children may attend the schools housed in buildings of this type. Typically, frame panel buildings are constructed by order of the municipality.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Based on the order of the government, a design agency develops a series of industrialized construction elements. Based on the information provided by the design agency, a concrete plant prepares a set of metal forms for the columns, girders, diaphragms, slabs, wall panels, staircases, etc., corresponding to the requirements of a series. Based on the order of a municipality or other clients, design firms develop designs of individual buildings or typical (standardized) building designs. A concrete plant manufactures and delivers all required building elements to the construction site. A construction company erects the building at the construction site. The main pieces of equipment used for the construction are a tower crane, welding equipment, and concrete mixers. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The construction is carried out based upon the catalogs of frame panel seria IIS-04 (developed in 1973), and upon the National Building Code of Uzbekistan: "Construction in Earthquake-prone Areas" (KMK.2.01.03-96). National Building Code, Material Codes and Seismic Codes/Standards; National Building Code of Uzbekistan: Construction in Earthquake-prone Areas (KMK.2.01.03-96). The most recent code/standard addressing this construction type issued was 1996.
+
+**Process for building code enforcement:** Design of buildings using the seria IIS-04 is carried out in accordance with the National Building Code of Uzbekistan: Construction in Earthquake-prone Areas. All designs are reviewed by the State Expert Bureau of the State Committee on Architecture and Construction (SCAC); the revisions are incorporated in the final design (if required). Once the review is completed, the designs are forwarded to the concrete plants and the construction company. The concrete strength is evaluated in the laboratory in the concrete plant, and the reinforcement schedule is checked and compared with the design documents. Periodically (once in six months), the laboratory data are examined by a representative of the State Architecture Construction Control Department (SACC) of SCAC. SCAC also monitors the construction quality at the site. In addition to this, a representative of the design agency or firm also performs a site inspection. The builders should take into account the designer's comments made during the site inspection. Once the construction is complete, a special state expert committee needs to approve the building and to issue the building permit. Use and selection of the typical, standard production of series IIS-04 depend upon load conditions. Engineers and architects cannot change any construction details (joints, connections) in the existing series, which is approved by the government. Only the agency that has developed the series is able to change the details.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 33000 sum/m# (110 US$/m#).
+
+**Labor requirements:** A 12-story residential building with 48 housing units and with plan dimensions18x18 m may be erected by 10 workers in 10 months.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** It depends on the size of the multi-story building. Typically, over 60 families live in a 12-story building. Each building typically has 60 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse Economic Level: For Middle Class the Housing Price Unit is 5000 and the Annual Income is 720.
+
+**Typical Source of Financing:** Commercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** Almost 90% of the buildings are privately owned and 10% are rented from the local government.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The insurance covers approximately 30% of the construction cost.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1984 | Gazli | 7.2 | IX (MSK) | 
+| 1988 | Spitak (Armenia) | 7.5 | IX-X (MSK) | 
+
+----
+
+=== Past Earthquakes ===
+
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Precast floor panels are constructed w ith special grooves and steel dow els projected on all four sides for achieving the cast in-situ joint. This type of floor structure subjected to lateral loads w as tested in the lab. The roof diaphragm is considered to be rigid provided that the quality of construction is adequate.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Exterior and interior partition walls are non-load-bearing (i.e., they carry their own weight only).
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** The most vulnerable parts of a frame are beam-column joints; these welded joints are located in the area of extremely high loads. As a result of the welding, steel reinforcement bars may have loose ductility. Also, the concrete poured in these joints is often poorly vibrated.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The joints between the precast slabs (grouted in-situ) are sometimes not properly filled with grout and may lose their strength in an earthquake.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  %%|-%% | o | %%-|%% | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Beam-column joints | Reinforcing of joints with steel plates | 
+| Frame (column) | Installation of additional (external) steel ties (straps) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Seismic strengthening of a building in Tashkent is illustrated in Figures 12 and 13.
+
+**Has seismic strengthening described in the above table been performed?** Yes. Seismic strengthening was performed on some buildings in Tashkent.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. Construction in Earthquake-prone Areas National Building Code of Uzbekistan, KMK 2.01.03-96 1996
+
+  * 2. Concrete and Reinforced Concrete - Design Codes and Standards
+
+  * 3. Construction Catalog: seria IIS-04.16
+
+  * 4. Earthquakes and Us Klyachko,M.A Intergraf, Saint Peterburg, Russia (in Russian) 1999
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Shamil Khakimov | Shamil Khakimov Head of the Department, | Institute of Typical and Experimental Design | Experimental Design |  | 
+| Bakhtiar Nurtaev | Deputy Director | Institute of Geology and Geophysics | Khodjibaeva 49, Tashkent 700041, UZBEKISTAN | Nurtaev@ingeo.uz | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

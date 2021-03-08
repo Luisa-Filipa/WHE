@@ -1,0 +1,328 @@
+====== Timber stilt homes, Belize ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 165
+
+**Building Type:** Timber stilt homes
+
+**Country:** Belize
+
+**Author(s):** Laura Redmond, Reginald DesRoches
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the suburbs surrounding Belize City and Belmopan, as well as rural communities throughout the country. This type of housing construction is commonly found in both rural and sub-urban areas.
+
+**Summary:** This type of home is a wood frame building built on stilts. The first story is left open to prevent flooding in hurricanes. This construction practice may make these structures vulnerable to seismic events as the building is effectively a large mass placed on top of a very flexible soft story. Additional vulnerabilities may come from settlement effects of the stilts, which are attached to concrete footings, as the soil conditions are variable and generally no formal geotechnical surveys are done in Belize.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The main function of this building typology is single-family house. Extended family will live in the house as well if the famil
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Buildings are regular in plan, but have an open first story, which could produce a soft-story mechanism.
+
+**Typical plan length (meters):** 5-10
+
+**Typical plan width (meters):** 5-10
+
+**Typical story height (meters):** 41702
+
+**Type of Structural System:** Wooden Structure: Load-bearing Timber Frame: Post and beam frame (no special connections)
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is timber frame. The lateral load-resisting system is not formally designed. As built, the siding and the plywood walls take the pressure loading from wind, but these structures have been shown to perform poorly in hurricanes. Gravity load-bearing system: The vertical load-resisting system is timber frame. Loads are transferred to the frame through a plywood floor.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 1 %.
+
+**Wall Openings:** There are typically one to two windows on each face of the house with a single front door.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** There are no typical structural modifications to the original building plan.
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** Typically, the buildings have shallow concrete footings that are made of plain concrete and a timber post is attached with a bracket.
+
+**Type of Floor System:** Composite cast-in-place reinforced concrete and masonry floor system
+
+**Additional comments on floor system:** Timber: Wood plank, plywood or manufactured wood panels on joists supported by beams or walls; The typical flooring system is plywood panels nailed into wood joists.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles; The corrugated metal sheeting used for roofing is rarely tied down appropriately for hurricanes and there has been severe damage to the roofs in the past.
+
+**Additional comments section 2:** Typical separation distance between buildings: 10 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | The walls are made of plywood or press board with wood siding. The frames and columns are timber posts and beams. | Building data is unknown and in poor families the materials may be reclaimed. |
+| Foundations | The foundations are timber posts attached to un-reinforced concrete footings. | |
+| Floors | The floor is a plywood sheeting nailed into timber joists attached to the beams. | |
+| Roof | The roof is constructed of corrugated metal sheeting placed on timber trusses, often without tie downs. | |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Most residential homes are not "designed" and are drawn up by technicians with high school or technical college degrees who have experience in construction. Details are generally determined based on experience and similarly sized projects. In formally constructed residences, the house is designed and plans are drawn by either a technician, an architect or an engineer and sent to the Central Building Authority (CBA) for approval.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** OwnerContractor
+
+**Roles of those involved in the building process:** In formally constructed residences the house is built by a contractor who is hired by the homeowner. Informal construction is typically built by the owner or the community.
+
+**Expertise of those involved in building process:** Construction workers and contractors typically have no formal training. Engineers and architects are typically not involved in the construction process of this type of housing.
+
+**Construction process and phasing:** Once they have a building permit, construction is conducted in a single phase by either the engineering company, or a contractor the owner has hired to build the house. However, most of the timber homes in the area are informally constructed. The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Currently the CBA recommends using the IBC design code, but the Caribbean Uniform Building Code (CUBiC), the British Standards, and the former UBC are also commonly used. The year the first code/standard addressing this type of construction issued was 1986. The first building code in place was the CUBiC. The most recent code/standard addressing this construction type issued was 2008. The Central Building Authority now recommends the use of the IBC. The Central Building Authority is a new governing body established in 2008. It is comprised of a 12 person board and 4 inspectors. Their primary purpose is to make recommendations to the local building authorities within each city. It is up to the local authorities to enforce their recommendations.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** In order to get a permit to build, the CBA recommendations specify that a building 1-2 stories tall and less than 1,000 sq. ft. can be constructed by a technician or contractor; buildings that are 1,000-3,000 sq. ft. must have the stamp of either an architect or an engineer, and buildings greater than 3,000 sq. ft. must have the stamp of both an engineer and an architect. However, there is no requirement for calculations to be submitted, just the final drawings with the appropriate stamps needed for approval. Inspections are conducted before occupancy starts and in case of a change of use. CBA also recommends routine inspection of commercial structures every four years. Buildings of this type are rarely reported to the Central Building Authority, and are usually built informally.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** The CBA recommends routine inspection of commercial structures every four years, but the local district authorities can choose rather or not to enforce this requirement. Residential construction is maintained by the owner.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 
+
+**Labor requirements:** Construction typically takes less than five months.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In the rural communities occupancy does not vary much, with only the men gone throughout the day as most make their living by farming their own land. In suburban areas the entire family may be gone for the day, at jobs or school in the city.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of people in the house typically depends on the income of the family. If they are poor, which tends to be the majority rural community, the extended family will also occupy the house.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 4:1 The higher-income families live in the suburbs and do not share the home with extended family members. Lower-income families live in rural areas and will share the home with extended family members.
+
+**Typical Source of Financing:** Personal savingsCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** In Belize, insurance is now available against floods, hurricanes and earthquakes.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | (15.32#N, 89.10#W) |  |  | 
+| 1977 | (16.70#N, 86.61#W) | 7.5 |  | 
+| 1980 | (15.89#N, 88.52#W) | 6.1 |  | 
+| 1997 | (16.16#N, 87.92#W) | 6.7 |  | 
+| 1999 | (15.78#N, 88.33#W) | 6.1 |  | 
+| 2009 | (16.73#N ,86.22#W) | 6.7 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The past earthquakes listed here are only those over magnitude 6.0. The effects of the earthquakes are often less intense in Belize because the earthquake epicenters have been fairly shallow and far off the coast in the Caribbean Sea.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included - (footing foundation): Houses sunk several feet into the ground (wood post stilts): Houses have fallen off their timber post stilts during a past earthquake (roof): No earthquake damage observed, but many roofs have been taken off during hurricanes.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 1) Lateral Load Path: The lateral load system is designed for wind loads but does not have seismic connections. The buildings are not designed for earthquake forces. 2) Building Configuration: The houses are regular in plan but not in elevation (soft story). 3) Roof Construction: Roofs are not designed for earthquakes and about 50% have adequate tie-downs for hurricanes. 4) Quality of Workmanship: Often inexperienced laborers build their own homes, and no special connections are used.
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** Soft/weak story
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** (wood frame system) : They are not designed for earthquake forces, and no special connections are used. Soft story mechanisms are likely because the bottom level is often left open.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Most roofs are not designed for earthquakes and do not have out-of-plane bracing. Additionally, only about 50% of roofs have adequate tie-downs.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** (Footing Foundation): Soils are variable and no testing is conducted. Houses often have visible settlement. Footing has no reinforcement.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%%  | | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Soft story on open first level | Additions of shear walls and columns at first story | 
+| Lack of continuity and lateral stability of roof | Applying roof ties to timber and corrugated metal roofing | 
+| Poor connection between the timber posts and the second story | Special connection detailing for timber should be used | 
+| Large settlements in soft soils | (New Construction):Conduct soil testing to determine locations of soft clay and the depth needed to drill to bedrock | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Retrofit practices have been started by a few companies in Belize, who have rebar scanners and insert reinforcement where it is not found to strengthen the structure. Some retrofit with respect to hurricanes has also been started using roof ties for timber roofs and corrugated metal roofing. Limited retrofit has begun using FRP wraps on commercial structures.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** This work has been done on undamaged buildings
+
+**Was the construction inspected in the same manner as new construction?** The construction retrofits were inspected in the same manner as new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An engineer or contractor performed the construction of the seismic retrofit measure.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There is no documented case of performance of these retrofits in subsequent seismic events.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Personal communication (interview) Carlton N. Young Youngs Engineering Consultancy Limited. 828 Coney Drive, PO Box 2665 Belize City, Belize
+
+  * Personal communication (interview) Dwayne A.W. Thurton Anthony Thurton and Associates Limited. P.O. Box 777 1 # Mls Western Highway Belize City, Belize
+
+  * Personal communication (interview) C. Phillip Waight Central Building Authority. 23 Cor. Baymen Ave & 5th St. P.O. Box 2589 Belize City, Belize
+
+  * Earthquake in Belize, Monkey River Hardest Hit, Images of the Damage Belize News Post http://belizenewspost.com/2009/06/02/belize-news/earthquake-in-belize-monkey-river-hardest-hit-images-of-the-damage/
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Laura Redmond |  | Civil Engineering, Georgia Institute of Technology | Mason Building, 790 Atlantic Drive, Atlanta GA 30332, USA | laura.mae.redmond@gmail.com | 
+| Reginald DesRoches | Civil Engineering, Georgia Institute of Technology | Mason Building, 790 Atlantic Drive, Atlanta GA 30332, USA |  |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sugeng Wijanto | Senior Lecturer | Civil Engineering Dept., Trisakti University | Jakarta Barat 11440, INDONESIA | s.wijanto1@xtra.co.nz |

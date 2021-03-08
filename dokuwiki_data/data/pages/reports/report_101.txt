@@ -1,0 +1,320 @@
+====== RC Structural Wall Building (Tunnel form building), Turkey ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 101
+
+**Building Type:** RC Structural Wall Building (Tunnel form building)
+
+**Country:** Turkey
+
+**Author(s):** Ahmet Yakut, Polat Gulkan
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in densely populated urban areas with limited land available fordevelopment. During the last decade, tunnel form buildings have also been the choice for rebuilding earthquakeaffectedtowns and urban areas because they fulfill the requirements of easy and rapid construction, and because theiracknowledged excellent earthquake performance that makes them popular with occupants. This type of housingconstruction is commonly found in both sub-urban and urban areas.The use of 'suburban' in this text does not correspond to its commonly understood connotation in, e.g., the USA.We mean districts and areas in newly developed parts of urban areas that are located on the outskirts or peripheries ofexisting settlements.
+
+**Summary:** This type of rapidly constructed, multi-unit residential form has been used in Turkey since thelate 1970s and early 1980s. It has demonstrated superior earthquake resistance and has alsobeen increasingly utilized as permanent housing in post-earthquake reconstruction programs.Initially, the tunnel form building was targeted for multi-unit residential construction forpublic or privately sponsored housing projects. Typically, a single building may contain 15 ormore stories and up to 40 or 50 residential units. This contribution has been motivated by ourintention to not only familiarize readers with the architectural or structural features of thebuilding type, but to also underscore its noteworthy seismic performance that stands in starkcontrast to Turkey's recent experience.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 10-15
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Each building typically has 21-50 housing unit(s). 40-50 units in each building. Since the number of stories vary, aunique numbe
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** The buildings enjoy a wide variety of plan and elevation shapes.
+
+**Typical plan length (meters):** 10-30
+
+**Typical plan width (meters):** 10-30
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Structural Concrete: Structural Wall: Moment frame with in-situ shear walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete structural walls (with frame). The walls and the slab carry allgravity loads. Gravity loads are transferred uniformly to the walls by slabs. A mat foundation is commonly used totransmit the gravity loads to the soil.The lateral load-resisting system is reinforced concrete structural walls (with frame). Structural walls provide thelateral-load resistance. The walls and the slab are cast in a single operation using specially designed half-tunnel-steelforms (upside down U shape) that maintains a certain size as shown in Figures 8 and 9. This cuts down theconstruction time significantly. The wall and the slab form a monolithic joint. The following construction sequence isimplemented. 1) The tunnel forms are first cleaned and coated with form oil. Then they are placed in their positions byusing the kicker as the guide (Figures 8 and 9). 2) The wall reinforcement is placed before the tunnel formwork ispositioned. Reinforcement steel and electric conduits are set in their places on the tunnel form (Figure 9). 3) Walls, slaband kickers are cast. The next morning the formwork is ready to be stripped and carried to the next location by a crane.In accordance with the design, steel blockouts may be installed on the formwork panels to form the plumbingopenings. Figures 10 and 11 show the elevation and plan of a typical building constructed by this technique. Figures 12to 15 show samples of the reinforcement detailing and the structural drawings taken from the blueprints of a typicalbuilding.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10 %. 2% - 6% The typical density of structural walls is about 4percent of the area of one floor. This density may vary from 2 to 6 percent depending on the thickness of the wall, thespan and the plan dimensions of the building. Both principal directions usually have the same density.
+
+**Wall Openings:** The constructionsequence creates walls and floor slabs typically without openings during the primary concrete placement. Windows looking outside and interior doors or partitions are usually crafted from precast panelsor lightweight concrete blocks. When architectural form allows it, doors may also be formed by leaving openings in theformwork during the primary casting.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The peculiar construction technique does not allow any structural modifications to the building.
+
+**Type of Foundation:** Shallow Foundation: Mat foundationDeep Foundation: Reinforced concrete bearing pilesDeep Foundation: Reinforced concrete skin friction piles
+
+**Additional comments on foundation:** It consists of reinforced concrete end-bearing piles and reinforced concrete skin-friction piles.
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floorOther floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Cast-in-place beamless reinforced concrete roofRoof system, other
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** The Turkish Building Development Law requires a minimum separation distance of 6 m for detachedbuildings. Tunnel form buildings are usually in the 12-16 story range, so the space between them is converted intocommon lawns by developers, and the buildings have substantial separation distances between. When separatedfrom adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Concrete Reinforcing Steel | 25 MPa/ 500 MPa | 
+| Foundations | Concrete Reinforcing Steel | 25 MPa/ 500 MPa | 
+| Floors | Concrete Reinforcing Steel | 25 MPa/ 500 MPa | 
+| Roof | Concrete Reinforcing Steel | 25 MPa/ 500 MPa | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Turkish contractors have gained much experience with tunnel form building construction, and have successfullyapplied this experience in many cases for foreign contracts, e.g. in Russia, North Africa, Caucasia and the MiddleEast. Although formal engineering registration does not exist in Turkey, these buildings go through a strict design,check, and supervision process.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** The construction of this type requires certain capacities the large construction companies have, thus it is typically buildby experienced developers.
+
+**Expertise of those involved in building process:** Turkish contractors have gained much experience with tunnel form building construction, and have successfullyapplied this experience in many cases for foreign contracts, e.g. in Russia, North Africa, Caucasia and the MiddleEast. Although formal engineering registration does not exist in Turkey, these buildings go through a strict design,check, and supervision process.
+
+**Construction process and phasing:** See Structural Features. The construction of this type of housing takes place in a single phase. Typically, the buildingis originally designed for its final constructed size. The tunnel form buildings are built in one construction cycle, andno increments or modifications are possible at a later stage.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. 1. Regulations for Buildings to Be Builtin Disaster Areas (1998) 2. TS 500: Requirements for Design and Construction of Reinforced Concrete Structures(2000). The year the first code/standard addressing this type of construction issued was The seismic requirementshave been first issued in 1945. The first edition of TS 500 was in 1969. We refer to Contribution No. 64 for a detailedaccount of the development of building codes and standards in Turkey. Most material codes have been issued by theTurkish Standards Institute at different dates. The most recent code/standard addressing this construction typeissued was 1. The seismic requirements have been last issued in 1998. 2. The last issue of TS 500 is dated 2000.
+
+**Process for building code enforcement:** Developer submits designs and other required documents to the relevant local government to receive the constructionpermit.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+**:** 
+**Building Maintenance and Condition:** 
+**:** 
+**Typical problems associated with this type of construction:** 
+**Who typically maintains buildings of this type?:** BuilderOwner(s)Renter(s)
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The average estimated unit construction cost for post-earthquake housing including utilities but excluding land is$154/m2. This usually corresponds to $ 15 000 per housing unit. The approximate cost for the utilities is $30/m2.The total cost of a housing unit including land strongly depends on the location and its architectural finish. One ofthe main advantages of this construction type is the speedy construction process. The formworks are handled by cranesand the ready mix concrete use minimizes the labor dependency. The cost efficiency is gained by optimizing labor,using less concrete, and minimizing the finishing work. This construction technique greatly reduces construction timeby as much as 50% and the costs by 20 percent relative to the conventional methods. It may take up to one year for theconstruction of a typical building to be completed.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** There is currently no specific set of requirements for this construction type in thecurrent seismic design code. The walls are designed and detailed according to the specifications for reinforced concretewalls. Therefore, the choice of strength reduction factor, R, depends on the preference of the design engineer and thecontractor for the building at hand. In general, a value between 4 to 6 is used by considering the economy. The highervalue requires more restrictive detailing requirements and wall thicknesses that lead to a trade-off rating between speedof construction and cost.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Nearly all occupants are single family or co-family.Each building typically has 40-50 housing unit(s). Since the number of stories vary, aunique number for the units in a building is hard to assign. Typically there are four apartment units per floor andaverage number of floors is 10-12.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** The average size of a familyresiding in a unit of this type of construction is about 4. During the day, one or two inhabitants reside in their units.
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Economical level of inhabitants depends strongly on the address of the building which also influences the price ofthe house unit. In Turkey, there is probably a poor correlation between the income and the price of the house unitpeople own. Economic Level: The ratio of price of each housing unit to the annual income can be 6:1 for middle classand 3:1 for rich class families.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesInvestment poolsOther
+
+**Additional comments on financing:** A number of successful developers have constructed multi-family housing of this type during the last quarter century.The way it works is as follows: Families wishing to invest in a dwelling unit enter a private contract with thedeveloping company that sets the conditions for the payments and delivery dates. Well managed enterprises haveenabled tens of thousands of families to have their own house. Another scheme is for prospective homeowners toform a cooperative whose state of objective is to built multi-unit family housing. In this, families must typicallyfinance about half of the cost of the finished building with the remainder coming from the government housingadministration, a government housing financing scheme that was created in 1984 to address the housing shortage inthe country. Many of the 1.1 million housing units constructed during 1984-2001 were financed by the housingadministration.
+
+**Type of Ownership:** RentOwn outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance for this construction type is typically available. For seismically strengthened existing buildingsor new buildings incorporating seismically resilient features, an insurance premium discount or more completecoverage is unavailable. DASK, a recently established entity similar to California Earthquake Authority, providesmandatory country-wide insurance for all property up to a ceiling of $40,000. For amounts in excess of this ownersmust purchase voluntary insurance. Although this construction type has an excellent earthquake performance, thecurrent earthquake insurance coverage treats all concrete structures under the same category when determining thepremiums. DASK employs three classifications for the construction type, namely concrete structures, steel structuresand masonry buildings. A second factor that is taken into account when determining premiums is the seismic region(based on current seismic zone map) in which the building resides. Work is underway to establish a more refined tariffstructure. Insurance provided by DASK covers structure only. In high-hazard areas a dwelling of the type describedunder this section will have an annual premium of some $40-50.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1999 | Izmit, Turkey | 7.4 | X (MSK) | 
+| 2003 | Bingol, Turkey | 6.4 | VII+ (MSK) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** This construction type has experienced the two major earthquakes of 1999 and the earthquake of 2003. Neitherdemolished nor damaged buildings of this type have been reported after these earthquakes. Figures 16-20 demonstratethe conditions of several buildings after these earthquakes. Several buildings surviving the earthquakes of 1999 areshown in Figures 16-18. The building in Figure 16, that is virtually untouched, is located 3-4 km from the fault thatwas ruptured during the earthquake. In the city of Bingl, although extensive damage was observed in reinforcedconcrete frame structures, a group of five story tunnel from buildings (Figure 19) performed superbly without any signof structural damage. Only minor nonstructural damage in the form of separation of the precast panels from thefloors was observed.
+
+**Additional comments on earthquake damage patterns:** Facade elements are usually pre-cast reinforced concretepanels that are placed after the walls have been formed,and attached along their periphery by welding. These havebeen observed to exhibit minor separation or crackingalong their boundary, but this is not considered to be astructural deficiency. The spandrel beams above the door openings have beenobserved to suffer shear cracks. This does not lead to areduced seismic capacity of the system therefore isconsidered as minor damage.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The concrete strength is typically 25 MPa, w hich is w ell above average concrete strength encountered in the country.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** The walls being the primary load-carryingmembers are proven to be the mosteffective members against earthquakes. Walldensity helps in reducing the unit shear, andenables almost elastic response during evenstrong ground shaking.
+
+**Seismic deficiency in frames:** Spandrel beams formed abovedoor openings have beenobserved to experience crackswhen the building is subjected tostrong seismic action. This is oflittle structural significance.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** The honey-comb pattern of walls and slabsenables slabs to respond in their elasticrange.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | | | o |
+
+**Additional comments section 5:** In Turkey, the observations from past earthquakes proved that the structures with adequate amount of shear wallsperformed quite well.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Shear cracks in spandrel beams. | Epoxy injection. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Since no reported cases of significant damage have been encountered for this construction type, there are no widelyexperimented techniques of retrofitting developed and used for this construction type.
+
+**Has seismic strengthening described in the above table been performed?** The minor damage observed in the spandrel beams is generally accounted for in the design phase thus is repaired byepoxy injection.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?** Not applicable.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not applicable.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not applicable.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * MESA Construction Co. website, www.mesaimalat.com.tr
+
+  * Turkish Government Housing Administration website, www.toki.gov.tr
+
+  * MESA Imalat, personal communicationAkt
+
+  * Turkish Prime Ministry, Project Implementation Unit, personal communicationKahraman,M.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ahmet Yakut | Assistant Professor | Department of Civil Engineering, Middle East Technical University | ODTU, Ankara 6531, TURKEY | ayakut@metu.edu.tr | 
+| Polat Gulkan | Professor | Department of Civil Engineering, Middle East Technical University | Ankara 6531, TURKEY | pgulkan@metu.edu.tr | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

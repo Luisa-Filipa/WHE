@@ -1,0 +1,342 @@
+====== Confined Masonry Building with Concrete blocks, tie-columns and beams, Guatemala ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 161
+
+**Building Type:** Confined Masonry Building with Concrete blocks, tie-columns and beams
+
+**Country:** Guatemala
+
+**Author(s):** Diego Velasquez Jofre, Lars Abrahamczyk, Jochen Schwarz
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in throughout Guatemala (see Figure 1). This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** The February 1976 earthquake caused severe damage to housing and buildings in Guatemala. Because many adobe houses were destroyed during the earthquake, there was greater interest in building with reinforced concrete block masonry structures after the event. This building type can now be found throughout Guatemala. Reinforced concrete block masonry structures are primarily used for family housing, both in cities and in rural Guatemala. The main loadbearing elements are masonry walls with concrete block walls reinforced with vertical and horizontal reinforced concrete elements in addition to internal steel reinforcement bars placed in the hollow cores of the concrete blocks. After the 1976 earthquake several guidelines were published on the construction of masonry block buildings, but the first formal standard/code was established in 2000, the Recommended Structural Standards of Design for the Republic of Guatemala -AGIES. The main parameters for structural design are incorporated in chapter No. 9 Mamposteria Reforzada [1]. Nowadays reinforced concrete block masonry houses are constructed all over the country by governmental institutions for low-income classes. Currently this type of structure is the most widely built in Guatemala [2].
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** They share common walls with adjacent buildings. In urban areas typically adjacent buildings have common walls on one or both si
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 6-10
+
+**Typical plan width (meters):** 6-10
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Confined Masonry: Concrete blocks, tie columns and beams
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced masonry walls. The lateral load-resisting system is reinforced masonry walls. The main load bearing elements are masonry walls reinforced with vertical and horizontal reinforced concrete elements and also steel reinforcement bars placed in the hollow cores of the concrete blocks.
+
+**Gravity load-bearing & lateral load-resisting systems:** Walls are made of concrete block masonry. The reinforcement consists of vertical and horizontal elements of reinforced concrete as well as steel reinforcement bars located in the holes of the concrete blocks as it is illustrated in Figure 5.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10%. Total wall area/plan area is 6.5 % in each direction.
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** There are no significant structural modifications known. Sometimes small modifications are made, which includes an elongation of the roof in front of the main entrance of the house, due to the climate extremes (severe rain or sun).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** The foundation is a reinforced concrete strip footing. After the cast-in-place footing, two rows of concrete blocks and finally a reinforced concrete beam are generally set on it to reach the floor level. The reinforcement of this reinforced concrete beam is linked with the reinforcement of the vertical elements of the main structure.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Generally the floor in this type of building is a solid reinforced concrete slab (cast-in-place), without any other finishes.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roof is mainly metallic. The main structure of the roof is a steel C profile and the area elements are galvanized thin plates coupled to the C profiles by screws. Sometimes the main structure of the roof is constructed with wooden beams with area elements that are galvanized thin plates. The second option is less used, mainly because of the deterioration of the wood beams due to decay, fungi and insects.
+
+**Additional comments section 2:** In urban areas typically adjacent buildings have common walls on one or both sides. In rural areas, these buildings are commonly arranged in a row with adjacent walls to neighboring buildings, but stand- alone buildings can also be found (see Figure 2). Due to the limited availability of flat land in Guatemala, these buildings are constructed very close together. When separated from adjacent buildings, the typical distance from a neighboring building is 0.5 to 2 or 3 meters. The thickness of the walls is generally 0.14 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Concrete blocks Frame: Reinforced concrete (RC) | Characteristic Strength (Wall): 35 kg/cm2 Mix Proportions (Wall): 14 x 19 x 39 centimeters Comments: 12.5 units per m2 Characteristic Strength (Frame): Concrete: 280 kg/cm2 Steel: 4200 kg/cm2 Mix Proportions (Frame): Concrete: generally 1:2:3 (cement:sand:gravel) | 
+| Foundations | Reinforced concrete (RC) | Characteristic Strength: Concrete: 280 kg/cm2 Steel: 4200 kg/cm2 Mix Proportions: Concrete: generally 1:2:3 (cement:sand:gravel) | 
+| Floors | Floor: RC Roof: | Characteristic Strength: Concrete: 280 kg/cm2 Steel: 4200 kg/cm2 Mix Proportions: Concrete: generally 1:2:3 (cement:sand:gravel) | 
+| Roof | Reinforced concrete (RC) | Characteristic Strength: Concrete: 280 kg/cm2 Steel: 4200 kg/cm2 Galvanized plate: 2300 kg/cm2 Mix Proportions: Concrete: generally 1:2:3 (cement:sand:gravel) Galvanized plate: 0.60 x 1.25 meters | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Due to the fact that the construction of these types of buildings involves several governmental institutions, the design, planning and supervision is provided by civil engineers and/or architects, (employed by the government institutions)
+
+**Expertise of those involved in the design process:** Civil engineers and/or architects have 6 years of education and typically 5 years of experience.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** The government hires construction companies to construct the buildings. This building type is rarely constructed as a private building or by a private owner.
+
+**Expertise of those involved in building process:** The construction engineer (who, in the case of these buildings, works for a private company) may have also 6 years of education and also more or less 5 years of experience. The masons involved in the construction are usually skilled and semi-skilled professionals.
+
+**Construction process and phasing:** The construction process begins with the preparation of the terrain, in which the masons excavate for the footing. After the cast-in-place footing is complete, as illustrated in Figure 6, the process of wall construction begins. Generally after four or five rows of concrete blocks, a reinforced beam is placed. At the same time, the vertical reinforcement and the columns in the corners are constructed. After the reinforced concrete beam has set, the spaces for the windows and the doors are made, and the same process of wall construction is repeated. This time only 2 or 3 rows of concrete blocks are laid. After the concrete has set the steel roof structure is installed. Once the roof structural work is completed, roofing sheet area elements are screwed on it. Then a reinforced on-grade floor slab is constructed. The final step is the installation of the windows and doors. Due to the simplicity of these buildings, the construction process is relatively short. The masons are skilled or semi-skilled. The following equipment is commonly used: concrete mixer, trucks for transporting the construction materials, and of course all the necessary tools for the masons. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. This construction type is addressed by the code Recommended Structural Standards of Design for the Republic of Guatemala (AGIES) of the country. Specifically for this kind of building chapter 9 is used: AGIES NR-9: 2000 Mamposteria Reforzada.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Owner(s). However, as a direct consequence of the difficult economic situation of many of the inhabitants of this construction type, the buildings are seldom maintained.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The average cost of this type of housing is 750 Qtz Quetzales/sq m (around 100 to 110 US dollars/sq m). When the building is designed for its final size and engineers and/or architects participate in the construction, it is possible to construct one unit in one and a half or two months average.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically one family (father, mother and two, three or four children) occupies one housing unit. The main function of the building is residential housing. Each building typically has 1 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Combination
+
+**Additional comments on financing:** Generally, the source of financing is a combination of subsidy and the resources of the owner. The government provides a subsidy of 75% of the total cost of the housing, and the owner has to pay the remaining 25%, which can be paid over time.
+
+**Type of Ownership:** Own with debt (mortgage or other)
+
+**Additional comments on ownership:** The 25% of the total cost of the building, which has to be provided by the inhabitants, can be paid in installments due to financial hardship.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance for this construction type is typically unavailable.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is unavailable.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | 15.32#N, 89.10#W Motagua Fault | Richter Magnitude | 9 MMI | 
+| 1988 | 13.881#N, 90.450#W San Vicente Pacaya | 7.5 | 9 MMI | 
+| 1998 | 14.374#N, 91.473#W Santo Domingo Suchitep#quez | 7.5 | 6 MMI | 
+| 2007 | 13.623#N, 90.797#W 115 km southw est of Guatemala City | 6 |  | 
+| 2009 | 14.58#N, 91.08#W South of Patz#n | 6.7 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Guatemala is a seismically active area, primarily affected by the interaction between the North American Plate, the Caribbean Plate and the Coco Plate. The principal seismic sources coincide with the plates: the subduction zone between the Coco Plate and the Caribbean Plate, the big fault systems of the Polochic-Motagua, and the fault systems in the interior of the Caribbean Plate: the line of the Volcanic Arc and the region of grabens between the fault of Motagua and the Volcanic Arc. Historically, each of these systems of faults has produced destructive earthquakes. In the twentieth century 18 events occurred, which generated intensities greater or equal to VII according to the Modified Mercalli scale (MMI) in Guatemala. The following table lists (also illustrated in Figure 7) the strongest events since the 1976 earthquake, which was a major contributor to the adoption of this building type. Comments to vulnerability rating: The assignment of the vulnerability follows the European Macroseismic Scale EMS-1998 [9] where a classification of this building type into class D is suggested with a scatter from class C and E. However it is important to mention that the vulnerability rating is assigned assuming an excellent quality of the construction materials. If the housing is built with deficient materials or poor quality workmanship (produced without quality control) the vulnerability will be higher.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** In buildings without the vertical reinforcement in the masonry blocks walls (some cases) the necessary ductility is not reached. Sometimes diagonal shear cracks can appear.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The roof is too flexible and insufficiently connected to the walls to enable it to work as a rigid diaphragm. Roof failure due to insufficient support length of the structural roof elements.
+
+**Earthquake resilient features in roof and floors:** The roof is light-weight, minimizing risk of injury.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Lack of appropriate reinforcement | Up to now , no systems are adopted. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** When new construction follows the design, no strengthening scheme is needed.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The work has been done as a mitigation effort, in response to the poor performance of buildings in the 1976 earthquake.
+
+**Was the construction inspected in the same manner as new construction?** Yes. This kind of building requires inspection from the private company constructing it and also from the government institution.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Contractors hired by the governmental institutions. Engineers and/or architects were involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There have been no major earthquakes after the strengthening, but the performance in past moderate earthquakes was acceptable.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Recommended Structural Standards of Design for the Republic of Guatemala. Chapter number 9: MAMPOSTERIA REFORZADA, Guatemala AGIES
+
+  * Encuesta Nacional de Condiciones de Vida - ENCOVI 2006 -, Guatemala Instituto Nacional De Estadistica (INE)
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://w w w .foguavi.gob.gt/WXFoguavi/2011-Proyecto-Abril-Quiche-4421.html
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://w w w .foguavi.gob.gt/WXFoguavi/2011-Proyecto-Abril-Varios-6663.html
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://w w w .foguavi.gob.gt/WXFoguavi/2011-Proyecto-Abril-AltaVerapaz%20-%204539.html
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://w w w .foguavi.gob.gt/WXFoguavi/2011-Mayo-14-Visita_Cuilapa.html
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://w w w .foguavi.gob.gt/WXFoguavi/2011-Proyecto-Abril-San%20Marcos-2718.html
+
+  * Fondo Guatemalteco Para la Vivienda Foguavi [online] Ministerio de Communicaciones, Infraestructura Y Vivienda http://chuchosenlacalle.blogspot.com/2011/06/making-progress.html
+
+  * European Macroseismic Scale 1998 Grunthal, G. (ed.), Musson, R., Schw arz, J., Stucchi, M. Cahiers de Centre Europ#en de G#odynamique et de Seismologie 1998 15
+
+  * Earthquake Catalogue of Guatemala: CA_H1522_Mw35 Coordinadora Nacional para la Reduccion de Desastres (CONRED)
+
+  * Vulnerabilidad de viviendas construidas con mamposteria reforzada en Guatemala Francisco Javier Quinonez de la Cruz Centro de Investigaciones de Ingenieria -CII-, Universidad de San Carlos de Guatemala -USAC- 1996
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Diego Velasquez Jofre | Civil Engineer/Masters -NHRE- student | Bauhaus Universitat Weimar | Marienstr. 13B, Weimar 99421, GERMANY | diego.velasquez.jofre@uni-weimar.de | 
+| Lars Abrahamczyk | Dipl.-Ing | Earthquake Damage Analysis Center -EDAC-, Bauhaus-University Weimar | Marienstr. 13B, Weimar 99421, GERMANY | lars.abrahamczyk@uni-weimar.de | 
+| Jochen Schwarz | Dr.-Ing. | Earthquake Damage Analysis Center -EDAC-, Bauhaus-University Weimar | Marienstr. 13B, Weimar 99421, GERMANY | jochen.schw arz@uni-weimar.de | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Jitendra K Bothara | Senior Seismic Engineer | Beca Carter Hollings & Ferner | NEW ZEALAND | jitendra.bothara@gmail.com | 
+| Dominik Lang | Dr.-Ing. | NORSAR | Kjeller 2027, NORWAY | dominik@norsar.no | 
+

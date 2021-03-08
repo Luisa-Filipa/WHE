@@ -1,0 +1,317 @@
+====== Adobe / Earthen House, Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 104
+
+**Building Type:** Adobe / Earthen House
+
+**Country:** IRAN
+
+**Author(s):** Mehrdad Mehrain, Farzad Naeim
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the Middle East. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This building type is typically one or two stories and used for single-family housing. It is more predominant in the desert, in cold-weather, or other inhospitable climates. It has a large mass and basically no strength, particularly against out-of-plane wall forces. These buildings are the most seismically vulnerable. In the 2003 Bam earthquake, collapse of these buildings was widespread and contributed to many of the 43,000+ deaths. The typical mode of collapse is out-of-plane failure of the walls, resulting in loss of support for the roof. Adobe construction is widespread throughout Iran, and is used both by wealthy families in luxury residences, as well as by poor families in more modest dwellings.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 4
+
+**Comments:** Adobe construction is widespread throughout Iran, and is used both by wealthy families in luxury residences as well as poor fami
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, with an opening in plan
+
+**Additional comments on plan shape:** Small windows, one entrance door and one entry for each room.
+
+**Typical plan length (meters):** 12
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** The vertical load-resisting system is earthen walls . The roofs are usually adobe domes or cylindrical arches, supported on adobe walls. Sometimes flat adobe roofs with wood joists are used (as described in section 1.9, if these buildings are built on hillsides, the ground floor of one building can be the roof for another.) . The lateral load-resisting system is earthen walls . The lateral load-resisting elements are adobe walls, typically 3 m high, 4 m wide and 0.80 m thick. The walls do not have any additional system (such as crown beam or pilasters) to restrain their out-of-plane movement. That is one reason why the buildings are so vulnerable in earthquakes. If the walls move out of plane, the roof loses its support, and collapses .
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density varies from 10% to 35%. The walls are very thick, typically +/- 70-80 cm.
+
+**Wall Openings:** Small windows, one entrance door and one entry for each room. Opening area is about 30 percent of total wall area .
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** No modifications are made to the building .
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Vaulted masonry floorOther floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Vaulted masonry roofRoof system, other
+
+**Additional comments on roof system:** The roofs (and walls) typically have a 5 cm (2 inch) layer of straw reinforced mud to provide protection against rain .
+
+**Additional comments section 2:** The typical separation distance between buildings is more than one meter, if not connected to adjacent buildings.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe is used to make walls. | No information is available on this. | 
+| Foundations |  |  | 
+| Floors |  |  | 
+| Roof |  |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** No special expertise . None .
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** No special expertise . None .
+
+**Construction process and phasing:** Sun dried adobe units are used to build walls and roof. A 2-inch layer of straw-reinforced mud covers the walls and roof for rain protection. Every 4 to 6 years, this layer is washed away from the roof and requires replacement. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**:** 
+**Building Maintenance and Condition:** 
+**:** 
+**Typical problems associated with this type of construction:** 
+**Who typically maintains buildings of this type?:** Owner(s)
+**Additional comments on maintenance and building condition:** 
+
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** $20/m2 (this is a rough estimate. A lot of people build their own houses, using their own dirt to make adobe blocks.) .
+
+**Labor requirements:** It takes about 100 days for 2-3 persons (200-300 person days) to complete the construction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Just one family, possibly with married son and daughter-in-law, lives in each unit .
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** The ratio of price of each housing unit to the annual income can be 10:1 for very poor and poor families, and 20:1 for middle class families .
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1990 | Manjil | 7.7 |  | 
+| 1997 | Ardekul | 7.3 |  | 
+| 2003 | Bam | 6.6 |  |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Iran has a long history of devastating earthquakes that have affected adobe structures. In the 2003 Bam earthquake, over 40,000 people died; in 1997 over 1,568 people died and in the 1990 earthquake in Manjil over 40,000 people died. In the Bam area, there have also been other significant earthquakes: in the Gisk-Zarand 1977 earthquake--665 people were killed; in the 1981 Golbaf earthquake--between 1,000 and 3,000 people were killed; in the 1981 Sirch earthquake- -1300 people killed. Many people were killed in adobe structures .
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** They are weak in the out of plane direction. The walls tips over or bend outwards.
+
+**Earthquake-resilient features in walls:** There are no earthquake resistant features. If the adobe walls can be kept in place, the seismic performance of the building will improve significantly .
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** It is made of weak materials. If the walls move out of plane, the roof collapses.
+
+**Earthquake resilient features in roof and floors:** The roof consists of arches and domes which provide integrity.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Weak walls | In other countries, particularly Peru, add reinforced concrete, or add rope stitching | 
+| Weak walls | Dimensional constraints, bamboo reinforcement (Peru) or reinforced concrete overlay. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** None in Iran .
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable .
+
+**Was the construction inspected in the same manner as new construction?** Not applicable .
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not applicable .
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not applicable .
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mehrdad Mehrain | Vice-President | URS Corporation | 911 Wilshire Blvd., Los Angeles CA 90017, USA | Michael_Mehrain@URSCorp.com | 
+| Farzad Naeim | Vice President | John A. Martin & Associates | 1212 South Flow er Street 4th Floor, Los Angeles CA 90015, USA | farzad@johnmartin.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marcial Blondet | Professor | Civil Engineering Dept., Catholic University of Peru | Lima 32 , PERU | mblondet@pucp.edu.pe | 

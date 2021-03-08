@@ -1,0 +1,334 @@
+====== Rammed earth house with pitched roof (Nyumba yo dinda OR Nyumba ya mdindo), Malawi ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 45
+
+**Building Type:** Rammed earth house with pitched roof (Nyumba yo dinda OR Nyumba ya mdindo)
+
+**Country:** Malawi
+
+**Author(s):** Sassu, M., Ngoma,I
+
+**Last Updated:** 
+
+**Regions Where Found:** The house type is found in all regions of Malawi and neighbouring countries which are Zambia, Mozambique and Tanzania. This house type represents about 30% of total housing stock in the region.
+
+**Summary:** This type of construction is used for residential purposes only. The building technique consists of in situ ramming of moist soil in a carefully aligned/placed mould. The mould is about (200mm-300mm) wide x (400mm-450 mm) long x 200 mm height. The plan of the house is rectangular. The roof is either grass thatch or iron sheets supported on timber poles. This type is found in all three regions of Malawi and bordering countries such as Zambia, Mozambique and Tanzania. The strength of the wall is low and depends on the compacting effort applied. The expected seismic performance is poor. There are no vertical or horizontal reinforcements.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Never
+
+**Comments:** Rammed earth structures require levelling of uneven or sloping terrain to ensure proper transfer of forces to lower levels witho
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Round shapes have been attempted but presents challenges due to shape of moulds.
+
+**Typical plan length (meters):** 6
+
+**Typical plan width (meters):** 4
+
+**Typical story height (meters):** 2.1
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Rammed earth/pile construction
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is earthen walls. The wall is made by use of a mould which is placed where the wall will be located. Moist soil is placed in it and rammed using a tamping wooden piece in at least three layers. The process is repeated until the proper height is reached. The wall height is about 2.5m with a thickness of between 0.20 m and 0.30.Gravity load-bearing system: The roof is directly supported by the rammed earth wall which in turn rests directly on the ground.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** About 30%. The densities depend on the compaction effort and moisture level. The soil characteristics has also significant contribution to wall densities. Higher densities would be achieved if the number of layers per mould flight was increased to say 4 or 5.
+
+**Wall Openings:** Generally three openings are provided, i.e. one door and two windows. The door is in front and so are the windows. The door is about 1.7m high x 0.6m wide. The windows are 0.3m wide x 0.6m high. The window and door areas are about 5% of the overall wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Re-roofing and wall smearing i.e. smearing with specially prepared mud mortar. Re-roofing is done by removing the timber members and put new timber members i.e. rafters and purlins. The other re-roofing involves replacing the roof covering material be it grass or iron sheets.No structural modifications are made to the rammed earth walls.
+
+**Type of Foundation:** Shallow Foundation: No foundation
+
+**Additional comments on foundation:** Rammed earth walls start on leveled ground without digging into the ground. The reason is that the walls do not provide structural continuity against bending moments.
+
+**Type of Floor System:** Earthen floor, unknown
+
+**Additional comments on floor system:** Earthen floor, unknown is actually Rammed earth floor with plaster/smear finishing. Sometimes the finish can be a cement screed of less than 15 mm.Floor is considered to be a flexible diaphragm.
+
+**Type of Roof System:** Bamboo, straw, or thatch roof
+
+**Additional comments on roof system:** Timber structural system (rafters and purlins): thatched roof supported on wood purlins which is in turn supported on rafters and rafters transfer the load to walls. Roof system is considered flexible.
+
+**Additional comments section 2:** Typical separation distance between buildings: 2-3 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Rammed earth | No values but less than 1.5 N/mm2The soil has to have various proportion of fine and course grained soil i.e. clay and sand | 
+| Foundations | none | However, the immediate surrounding area sometimes is raised by bring in soil so that surface water does not touch the rammed earth walls. | 
+| Floors | 1. rammed earth - smeared finish2. cement screed | The smeared floor finish performance is poor compared to cement screed finish | 
+| Roof | Rafter and purlin system | rafter to purlin joint is by rope tie. | 
+| Other | Timber roof |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Other on the above represents the artisans/craft persons who build the walls. The owner is only involved in determining the space requirements i.e. two bedrooms or three etcThe artisan helps identify where the soil will be dug from as well setting out of the site/location for the building.There are no sketches for the building but is marked on the ground.
+
+**Expertise of those involved in the design process:** Generally good level of expertise based on this practice.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** BuilderOther
+
+**Roles of those involved in the building process:** The mason provides the expertise whereas the owner arranges for bringing in water and earth diggers.
+
+**Expertise of those involved in building process:** Generally good level of expertise based on this practice.
+
+**Construction process and phasing:** The house is built by a special master builder who learns the job as an assistant. He learns the job as he helps with bringing the soil (as assistant). A pit is dug and water is poured in it overnight. The soil is only expected to be moist i.e. the soil must not retain the water. The tools used are a hoe, two buckets, a mould, a tamping wooden piece, and a scraper for removing soil from the mould.FOUNDATION: There is no foundation. The lines of the walls are marked on levelled ground, pegs are placed where necessary.WALL CONSTRUCTION: The wall is made of rammed earth. A site of the soil pit is identified with trials to make sure that the soil does not have a lot of clay content. Soil is dug and water poured in it to soak it over night. The moisture of the soil is critical so that remixing is done from time to time. The soil is then moved to the mould which is already placed in the proper place on the construction site. The soil is rammed in layers in the mould. It is nece
+ssary to ensure that a proper compacting effort has been achieved before removing the mould.ROOFING: The roof is made up of grass thatch placed on timber poles made into a grid/mesh to retain the grass. The poles are supported on a timber pole beam which is itself supported on two king posts which are supported by timber pole beams spanning across the longitudinal walls. The two beams are placed at 1/4 points from the ends. Once the grass thatch has been placed, small sized timber poles are split and placed above grass and tied to poles below grass so that grass does not move out of place. This is done at 1/3 points all round.OPENINGS: The openings are few. Timber lintels are provided although not strong.This building is not typically constructed incrementally and is not genreally designed for its final constructed size.
+
+**Construction issues:** The problems encountered during construction include supports at door and window openings. The other one is that there is no load sharing for wall support as there is no wall plate.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** N/A
+
+**Process for building code enforcement:** N/A
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** Major problem is if roof leaks because soil crumbles.Short eaves projection leads to driving rain come in contact with the walls which weakens the walls.For smeared floor finish, crawling insects can bore through the floor and infect people living in the house with diseases.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Owner maintains the building by engaging the masons who build such houses.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Difficult to estimate because of communal nature of working. It is about K850.00/m2 (US$1.9/m2) for the wall.
+
+**Labor requirements:** The mason/builder, assistant, and others for drawing water from borehole, etc.The number of days required to complete the construction of walls is 2 weeks for walls. The roof takes 1 week.
+
+**Additional comments section 3:** There are no standards for rammed earth buildings because it is seen as unconventional construction.Costing of rammed earth buildings is complicated due to involvement of relatives either to draw water and other tasks.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Generally, one family occupies one housing unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** Number of inhabitants during the day is tricky in that most activities are done outside the house so that one would say that no one stays in the house during the day.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** 50% very poor and 50% poor. It is difficult to estimate the ratio of house price/annual income. It can be 9.
+
+**Typical Source of Financing:** Owner financedInformal network: friends or relatives
+
+**Additional comments on financing:** Most people build such houses from money sent by children working in town and the others building with money realized from produce income.
+
+**Type of Ownership:** Own outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** The houses are owned individually from the time of building. These houses are never sold as they are built within the clan compound.
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1957 | Champira | 5 | MMI IIIV | 
+| 1966 | Mwanza | 5.3 |  | 
+| 1967 | Thambani in Mwanza | 5.4 |  | 
+| 1989 | Salima | 6 | MMI VIII | 
+| 2009 | Karonga | 6.2 | MMI VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 1973 another earthquake hit Livingstonia with magnitude of 5.1 on the Richter scale. The 1989 Salima earthquake was the worst in Malawi. 9 persons lost their lives whilst over 50,000 people were left homeless. Geologists forecast more intense earthquakes in Malawi. Rammed earth buildings were the worst affected.The 2009 earthquake resulted in 4 people dead, 300 people injured and 2000 households affected.
+
+**Additional comments on earthquake damage patterns:** The building fails without particular pattern due to lack of structural continuity of the rammed earth material.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The structural and architectural features are not made seismic resistance. The incorporation of seismic resistance would make the structure expensive for intend users.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Very poor lateral resistance; lintels provided are very weak; soil structure is brittle and prone to crumbling.
+
+**Earthquake-resilient features in walls:** Built in situ would have been a positive feature if the material was flexible.
+
+**Seismic deficiency in frames:** N/A
+
+**Earthquake-resilient features in frame:** N/A
+
+**Seismic deficiency in roof and floors:** No ties between roof and wall; weak joining of roof members; and floor is made up of rammed earth which has no continuity.
+
+**Earthquake resilient features in roof and floors:** Wide bearing area at roof support.
+
+**Seismic deficiency in foundation:** The structure is built on ground level without embedding into the ground.The walls would not provide moment continuity.
+
+**Earthquake-resilient features in foundation:** N/A
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** The rammed earth building is not meant for seismic prone areas and so fails to meet minimum seismic construction.There is therefore need for further work for it to work in seismic areas.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Weak lintels | Reinforcing with wood lintels | 
+| No ties between roof and wall | Inserting of ties | 
+| Weak joining of roof members | Wood transverse connections | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** N/A
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Repair following earthquake damage
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The owner - no architects or engineers are involved
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not very satisfactory.
+
+**Additional comments section 6:** Traditionally no retrofit is done because of the nature of the building material which poor joining properties once constructed.
+
+----
+
+==== 7. References ====
+
+  * Seismicity and Source Mechanisms of the Malawi Rift and Adjuscent Areas, from 1900 to 1990Chapola,L.S.for the course of seismiology 1990-1991 at International Institute of Seismiology and Earthquake Engineering, Building Research InstituteTsukuba, Japan 1991
+
+  * The Malawi Earthquake of March,10, 1989: A Reportof Macroseismic SurveyGupta,H.K.Tectonophy 209, No. 1-4, 165-166 1992
+
+  * An Estimation of Earthquake Hazards and Risks in MalawiChapola,L.S.Geological Surveys Department, P.O. Box 27, Zomba 1993
+
+  * Seismicity and Tectonics of MalawiChapola,L.S.National Atlas of Malawi 1994
+
+  * State of Stress in East and Southern Africa and Seismic Hazard Analysis of MalawiChapola,L.S.M.Sc. Thesis, Institute of Solid Earth Physics, University of Bergen, Norway 1997
+
+  * National Housing PolicyMalawi Government 1999
+
+  * Low Cost Building Materials in MalawiKamwanja,G.A.Ph.D. Thesis, University of Malawi 1988
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sassu, M. | Associate Professor | University of Pisa | Department of Structural Engineering, Via Diotisalvi 2 56126 PISA Italy | m.sassu@ing.unipi.it | 
+| Ngoma,I | Senior Lecturer | University of Malawi | The Polytechnic, P/B 303, Blantyre 3.Malawi | ingoma@poly.sdnp.org.mw | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Manuel A. Lopez M. | Engineer | Escuela de Ingenier, Universidad de El Salvador | San Salvador , EL SALVADOR | manuel.lopez@unipv.it | 

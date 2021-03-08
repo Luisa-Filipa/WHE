@@ -1,0 +1,325 @@
+====== Typical Single-Story Residential Construction Practices in Trinidad and Tobago, Trinidad and Tobago ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 156
+
+**Building Type:** Typical Single-Story Residential Construction Practices in Trinidad and Tobago
+
+**Country:** Trinidad and Tobago
+
+**Author(s):** Richard P. Clarke, Rakesh Ramnath
+
+**Last Updated:** 
+
+**Regions Where Found:** This type of housing construction is commonly found in rural, sub-urban and urban areas.This form of construction is to be found in about 70% of all of the residential construction (i.e. isolated houses, apartment buildings, condominiums, townhouses).
+
+**Summary:** Typical single-story residential construction in Trinidad and Tobago comprises 100 mm thickunreinforced clay tile or concrete block masonry (URM) load-bearing walls supporting the roof. The roofing is a 20 to 30 degree gable or hipped shape and is of approximately 0.2 to 0.5 kN/m2 in weight. It comprises galvanized steel sheets supported by timber laths or coldformed steel Z-purlins, in turn supported by timber or structural steel rafters. The rafters are nailed or bolted to the top of the walls, without blocking between the rafters. The flexible roof cannot act as a diaphragm. The soil class ranges from IBC classes B to E. Given the significant seismic hazard for Trinidad and Tobago, (i.e. rock PGA in the range of 0.2g to 0.6g for 10% exceedance probability in 50 years), this form of residential construction is quite vulnerable.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This type of construction has become prevalent because it is the least costly.The main function of this building typology is sin
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** A typical residential structure is rectangular and 8.6 m wide x 11.0 m long, in plan. The floor height is typically 2.4 m.The walls on the perimeter of the roof support the roof, though sometimes an interior wall can be used as well. Thesame type of URM wall is used for the internal partitions and are connected to other walls by 'toothing'.
+
+**Typical plan length (meters):** 7-14
+
+**Typical plan width (meters):** 6-10
+
+**Typical story height (meters):** 2.4
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** Gravity Load-Resisting SystemThe vertical load-resisting system is un-reinforced masonry walls. The load-bearing walls are under combined axialload and out-of-plane bending. Since they are supported at the base on a simple mortar bed, and given the simpleconnection to the roof rafters at the top, the walls are 'pinned' at their base and at the top of the walls.Lateral Load-Resisting SystemThe lateral load-resisting system is un-reinforced masonry walls. Under lateral load the walls cannot be considered asflanged in -plan since the vertical connections between walls at their corners are inadequate for structural integrity.Given the low roof weight and wall weight, and their squat aspect ratio, the walls will act as shear walls resisting inplanesliding loads at the base joint and out-of-plane toppling loads. There is a RC beam at the top of the walls thatact as a "ring beam" enabling a degree of interaction among orthogonal walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** It is not "brick" that is used, but rather either clay tiles, which have horizontal cells, or concrete hollow blocks, whichhave vertical cells.
+
+**Typical wall densities in direction 1:** 3-4%
+
+**Typical wall densities in direction 2:** 3-4%
+
+**Additional comments on typical wall densities:** The typical structural walldensity is up to 3 %. There is limited scope for variation since the amount of structural wall area is determined by theroof support requirements.Wall proportions are up to 25% for unreinforced masonry wall.
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The most common type of modification is to add along one or both sides of the house for additional bedrooms,expansion of the kitchen or living room, or for a carport.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** It consists of cast in-place reinforced concrete piers. Wall footings are used when the soil is firm. They are typically0.6m wide and 0.3m deep with 3 No. 12mm high tensile steel longitudinal rebars, and 10mm mild steel transverserebar at 250mm center-to-center spacing. Cast-in-place piers are used when the soil is soft. The tie-beams are typically0.3m wide and 0.4m deep with 3 No. 12mm high tensile steel longitudinal rebars top and bottom, and 10mm mildsteel transverse rebar at 200mm center-to-center spacing. The piles are typically spaced 3.0m apart along wall lines andare 300mm in diameter and 4.0m deep with 4 No. 16mm high tensile steel longitudinal rebar, and 10mm mild steeltransverse rebar at 200mm center-to-center spacing. For both types of foundation, the concrete typically has a 28-daycompressive strength of 21 MPa (3000 psi). The regions between the tie beams are comprised of slab-on-gradeconcrete construction as described previously for the case of shallow foundations.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor is a 100mm thick slab-on-grade and the reinforcement is steel fabric of 142 mm2/m.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roofing iscomprised of galvanized steel sheets supported by timber laths or cold-formed steel Z-purlins, in turn supported bytimber or structural steel beams or rafters.
+
+**Additional comments section 2:** On sloping land it is common practice to cut or fill and use retaining walls When separated from adjacentbuildings, the typical distance from a neighboring building is 5.0 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | 100 mm thickclay tile (ASTMC34) orconcrete hollowvertical cellblock (ASTMC129) | Characteristic Strength: Brick masonry compression strength varies from 2 to 5 MPa. Mix Proportions/Dim.: 1:8 cement sand or 1:4: 4 cement, sand and stone dust. Brick size: 230 mm x 115 mm x 65 mm. w alls are usually 230 mm thick how ever in some instances half brick w alls having thickness of 115 mm are also provided as masonry infills. | 
+| Foundations | Reinforcedconcrete | Characteristic Strength: Concrete has a compressive strength of 17 to 21 MPa. Steel reinforcement has a yield strength of 275 to 415 MPa and a tensile strength of 480 to 625 MPa. Mix Proportions/Dim.: Concrete mix proportions of 1:2:4 (Cement, Sand, Coarse aggregate) are used for construction of foundations. Foundations are usually isolated column footings having an average w idth of 1.5 square meters w ith a thickness of 0.15 meters. | 
+| Floors |  | Characteristic Strength: Concrete has a compressive strength of 17 to 21 MPa. Yield strength of steel is in the range of 275 to 415 MPa and a tensile strength from 480 to 625 MPa. Mix Proportions/Dim.: Concrete has a compressive strength of 17 to 21 Mpa. Yield strength of steel is in the range of 275 to 415 MPa and a tensile strength from 480 to 625 MPa. Floors and roofs are usually 150 mm thick on average. | 
+| Roof | The roofingsystem isconsidered a'deck' systemsince a truss isnot typicallyused. It is asystem ofsheeting,secondary andmain beams. | Characteristic Strength: Concrete has a compressive strength of 17 to 21 MPa. Yield strength of steel is in the range of 275 to 415 MPa and a tensile strength from 480 to 625 MPa. Mix Proportions/Dim.: Concrete has a compressive strength of 17 to 21 Mpa. Yield strength of steel is in the range of 275 to 415 MPa and a tensile strength from 480 to 625 MPa. Floors and roofs are usually 150 mm thick on average. | 
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Certified architects or engineers have no role with respect to typical residentialsingle-story construction in Trinidad and Tobago.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** The design is 'deemed-to-satisfy' based on custom, and the construction is by uncertified apprentices of certifiedbuilders, but under their supervision. Certified architects or engineers have no role with respect to typical residentialsingle-story construction in Trinidad and Tobago.The builder typically lives in this type of construction.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The typical construction process is: 1. Prepare the site. 2. Install the foundation. 3. Install the floor slab. 4. Build theexternal walls on the floor slab. 5. Install the roof. 6. Build the internal partition walls. 7. Install the electrical andplumbing items. 8. Plaster all walls. 9. Paint the walls. The construction of this type of housing takes place in a singlephase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Typical construction cost is TT$4,800/m2 including contractor markup and excluding the cost of the land (1US$=TT$6.36). The current labor to material cost is about 75%.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each building typically has 1 housing unit(s). A typical household comprises of the "extended" family in which case, inaddition to the parents and children, there are also grandparents, aunts, uncles, some of their children, and friends. Inmany instances there is only one parent. The retirees or unemployed usually come and go. The former assist with obtaining supplies, and the latter seek workor odd jobs.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** It is common for visitors to periodically live in the house, and maystay at a number of houses over time. This is due to their inability to afford rent.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** The type of residential structure described herein is used by all income levels since it has become a standard ofhousing construction.
+
+**Typical Source of Financing:** Owner financedPersonal savingsSmall lending institutions/microfinance institutionsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Though stated as available, the coverage is usuallylumped with other natural disaster coverage so is nominal and typically insufficient.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** Strengthening is not officially recognized.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1766 |  | 7.9 |  | 	
+| 1825 |  |  | VIII | 	
+| 1910 |  |  | VIII | 	
+| 1954 |  | >6.5 | VIII | 	
+| 1968 |  | 5.1 | VI | 	
+| 1982 |  | 5.4 |  | 	
+| 1983 |  | 5.8 |  | 	
+| 1988 |  | 6.2 |  | 	
+| 1996 |  | 6 | V | 	
+| 1997 |  | 5.9 |  | 	
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The durations for the earthquakes were short (<6 sec). Damage was mainly as repairable horizontal or diagonalcracking to piers. In south Tobago in the 1997 event there was considerable liquefaction failure. There were about 3events of magnitude > 5.5 from 1997 to the present of (MMI) V to VI. Data is available from the Seismic ResearchCenter of The University of the West Indies.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | N/A | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The quality of the materials and workmanship relative to standards' requirements are not measurable since no standards existfor this type of housing construction.
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Load-bearing Walls - Unreinforced, slender, low bearing stress.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof - No chord continuity.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** Foundation - Capacity to demand probably high.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | o | | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls have insufficient ductility and strength in both the in-plane and out-of-planedirections | None used. |
+| Walls have insufficient ductility and strength in both the in-plane and out-of-planedirections | None used. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** None exists as a code, but the University of the West Indies developed recommendations based on wall testing andthe use of ferrocement overlays. This is available over the internet
+
+**Has seismic strengthening described in the above table been performed?** The strengthening procedure described has not been utilized.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * The Hysteretic Behaviour of Ferrocement-Retrofitted Clay Tile WallsRichard P. Clarke and Anil K. SharmaAmerican Concrete Institute Structures Journal 2004 Vol 101 No. 3 pp 387-394
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Richard P. Clarke | Lecturer | Civil & Environmental Engineering, The University of the West Indies | St. Augustine Campus, St. Augustine , TRINIDAD AND TOBAGO | Richard.Clarke@sta.uwi.edu | 
+| Rakesh Ramnath | Civil Engineering, University of the west indies | St. Augustine, Trinidad, WestIndies, Port Of Spain , TRINIDAD AND TOBAGO |  | rax-ramnath@hotmail.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ofelia Moroni | Civil Engineer/Assistant Professor | University of Chile | Santiago , CHILE | mmoroni@cec.uchile.cl |
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz |

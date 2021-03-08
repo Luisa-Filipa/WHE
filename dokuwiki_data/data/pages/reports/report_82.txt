@@ -1,0 +1,367 @@
+====== Single-family wood frame houses, Canada ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 82
+
+**Building Type:** Single-family wood frame houses
+
+**Country:** Canada
+
+**Author(s):** Carlos E. Ventura, Mehdi H. K. Kharrazi
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Canada: However, this contribution describes the construction practice typical for the Canadian West Coast, mainly the Province of British Columbia. According to the Census of Canada, single-family dwellings constitute 56% of the dwelling stock in the Province of British Columbia.
+
+**Summary:** Single-family wood frame construction represents the most common housing construction practice found throughout Canada and constitutes over 50% of the housing stock in British Columbia. A typical Canadian-style modern wood frame house consists of a concrete foundation, upon which a platform is constructed of joists covered with plywood or oriented-strand board (OSB) to form the ground-floor level of the house. This platform is connected directly to the foundation with anchor bolts, or alternatively, supported by a short wall, a so-called "cripple wall," "pony wall," or "stub wall," which should be connected to the foundation with anchor bolts. On this base, the exterior and interior walls are erected, which consist of a horizontal sill plate with vertical timber studs with board or panel sheathing nailed to the studs on the outside of the building. The roof structure typically consists of prefabricated trusses, which are covered with sheathing and roof tiles (Rainer and Karacabeyli 2000). Because this is generally considered to be a non-engineered construction, the Canadian National Building Code does not usually require direct professional architectural or engineering involvement. Specific seismic construction requirements and calculation/design requirements for seismic resistance are currently not included in Part 9 of the Code, which addresses low-rise residential wood frame construction. There is no evidence of substantial damage to this type of construction in past earthquakes in Canada, which have occurred away from densely populated urban centers. However, recent experimental research studies (Earthquake 99 Project at the University of British Columbia), focused on seismic performance of wood frame construction, have revealed vulnerability in this type of construction to seismic effects, depending on the age and wood construction technology.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Based on the historical development of wood frame construction in British Columbia, one could define three distinctive age class
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeT-shape
+
+**Additional comments on plan shape:** Building plan in older buildings of this type (pre-1980 construction) is generally regular i.e. rectangualr and "T" or "L"-shaped in some cases. In buildings of more recent construction the shape of the building plan is often irregular due to the modern architectural design trends.
+
+**Typical plan length (meters):** 12-18
+
+**Typical plan width (meters):** 12-18
+
+**Typical story height (meters):** 2.7
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Stud wall frame with plywood/gypsum board sheathing
+
+**Additional comments on structural system:** Gravity load is caried by the wall system, which consists of a horizontal sill plate with vertical timber studs of one storey height spaced at 30 to 60 cm on centre. Gravity loads are transferred from the walls to the foundation or the stub walls. Lateral load-resisting system in wood frame construction includes horizontal elements (roof and floors) and vertical elements (walls). A Canadian style modern wood-frame house consists of a concrete foundation or a basement, on top of which a platform is constructed of joists covered with plywood or oriented strand board (OSB) to form the floor of the ground level of the house. This platform is connected directly to the foundation with anchor bolts, or through a short so-called "cripple wall", #pony wall# or "stub wall" (this short wall may or may not be connected to the foundation with anchor bolts). On this base, the exterior and interior walls are erected. The walls consist of a horizontal sill plate with 38 x 89 mm (2# by 4#) or 38 x 140 mm (2# by 6#) vertical timber studs of one storey height at a spacing of typically 30 to 60 cm. A double top plate from 38 mm thick dimension lumber provides the base for the next floor structure. Board or panel sheathing is then nailed to the studs on the outside of the building, while the inside spaces are filled with thermal insulation and then covered with a vapour barrier and gypsum board as the interior finishing. This is the general configuration of a typical woodframe shear wall which resists the lateral loads of the system. The nailing amount and the type of sheathing and boarding largely affect the effectiveness of the lateral load-resisting system (Ventura et al. 2002).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 2-3%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** Wall density is widely varibale.
+
+**Wall Openings:** An estimate for the overall window and door area as a fraction of the overall wall surface area depends on the age of construction. The total area of openings is on the order of 25-40% in the older construction whereas it is in the range of 50-80% for the contemporary construction.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In older houses of this type, the basement ceiling has been raised in some cases to increase the floor height. Other modifications include moving the interior (partition) walls as a part of the renovation.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footingShallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundationDeep Foundation: Reinforced concrete skin friction pilesDeep Foundation: Steel skin friction pilesDeep Foundation: Cast-in-place concrete piers
+
+**Additional comments on foundation:** Other: Concrete block masonry strip footing.
+
+**Type of Floor System:** Wood-based sheets on joists or beams
+
+**Additional comments on floor system:** Wood plank, plywood or manufactured wood panels on joists supported by beams or walls The floor is usually considered to be a flexible diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood shingle roof; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | OSB Plywood Board | Depends to the species and / or composite wood product type. Wood Species such as S-P-F and D-Fir (Soft Wood Lumber) Wood Species such as SPF and DF (Soft Wood Lumber) | 
+| Foundations | Concrete | concrete mix 1:2:4 (cement:sand:aggregate) | 
+| Floors | Soft Wood Lumber | Wood Species such as S-P-F and D Fir (Soft Wood Lumber) usually f (bending)=5 to 16 MPa and f (shear) = 0.5 to 1.0 MPa and f(compression parallel to grain) = 4.0 to 16.0 dependent to the species. E(0.05)=3500 to 6000. For more information see the Canadian Wood Councils Wood Frame Construction Guide (CWC, 2001) Different type of joist and blocking with many available sizes For further information see CMHC "Residential Guide to Earthquake Resistance" | 
+| Roof | Soft Wood Lumber | Wood Species such as S-P-F and D Fir (Soft Wood Lumber) usually f (bending)=5 to 16 MPa and f (shear) = 0.5 to 1.0 MPa and f(compression parallel to grain) = 4.0 to 16.0 dependent to the species. E(0.05)=3500 to 6000. For more information see the Canadian Wood Councils Wood Frame Construction Guide (CWC, 2001) Different type of joist and blocking with many available sizes For further information see CMHC "Residential Guide to Earthquake Resistance" | 
+| Other | Soft Wood Lumber | Wood Species such as S-P-F and D Fir (Soft Wood Lumber) usually f (bending)=5 to 16 MPa and f (shear) = 0.5 to 1.0 MPa and f(compression parallel to grain) = 4.0 to 16.0 dependent to the species. E(0.05)=3500 to 6000. For more information see the Canadian Wood Councils Wood Frame Construction Guide (CWC, 2001) horizontal sill plate with 38 x 89 mm (2# by 4#) or 38 x 140 mm (2# by 6#) vertical timber studs of one storey height at a spacing of typically 30 to 60 cm For further information see CMHC "Residential Guide to Earthquake Resistance" | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Licensed (professional) Engineer (and Architects if required) for homes of area greater than 600 m.sq.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is typically built by developers.
+
+**Expertise of those involved in building process:** Licensed and Qualified Contractor for homes of area less than 600 m.sq.
+
+**Construction process and phasing:** The platform and baloon method of framing are two ways of constructing wood frame houses in Canada. Baloon framing was the most common method of wood-frame construction in the latter part of the 19th century, and early part of the 20th century. Platform framing has dominated since the late 1940s and today represents conventional practice in Canada. The chief advantage of platform construction is that the floor system, assembled independently from the walls, provides a platform or working surface upon which walls and partitions may be assembled and erected. Since the studs are one storey high, walls can easily be prefabricated off the site or assembled on the subfloor in sections and erected one storey at a time without using heavy lifting equipment. The bottom and top plates, which are an integral part of the wall framing, provide fire stops at the floor and ceiling and also nailing support for wall sheathing and interior finish. Baloon framing differs from platform framing in that the studs used for exterior and some interior walls are continuous, passing through the floors and ending at the top plates which support the roof framing. Since the connections between the floor joists and studs in baloon framing do not lend lend themselves to prefabrication or easy assembly on the site, this method of framing houses is rarely used (CMHC 2001). The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** Construction of most residential wood frame buildings with less than 600 m.sq. in floor area and four stories in building height should follow Part 9 of the National Building Code (NBC) - Housing and Small Buildings, and generally do not require direct professional architectural or engineering involvement. Explicit seismic provisions related to wood frame structures have never been provided in the NBC. General nailing schedules for wall sheathing attachment and framing were provided, however specific seismic construction requirements, or calculation/design requirements for seismic resistance did not appear in Part 9. The Vancouver Code has recently been modified to require seismic design of all wood frame buildings except for one- and two-family dwellings, which are required to be constructed according to the simplified requirements of the Canadian Wood Council's Wood Frame Construction Guide (CWC, 2001).
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** National Building Code Canada 1995 and City By-Law / Provincial Building Code. The year the first code/standard addressing this type of construction issued was 1941. National Building Code of Canada 1995. The most recent code/standard addressing this construction type issued was 2001.
+
+**Process for building code enforcement:** Requirements for plans, permits and inspections vary across Canada; however, most municipalities conform to the basic requirements described in the National Building Code of Canada for plans. Building permit needs to be issued in the pre-construction stage, based on the building plans. Several inspections are performed in the construction stage, such as framing inspection that verifies the quality of construction. Once the construction is complete, completion inspection (interior and exterior) needs to be performed. Finally, a certificate of occupancy is issued. The inspections are performed by the inspectors on behalf of the building department of the municipality the building site belongs to. The chart showing approvals, permits and inspections process for new houses is included in this contribution.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Lack of seismic construction requirements, or calculation/design requirements for seismic resistance in the National Building Code related to wood frame residential buildings (Part 9).
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** On the order of CAD 100/ft.sq.
+
+**Labor requirements:** Normally, about 4 months is required from start to finish of the construction. Average size of a wood-frame dwelling in Canada is approximately 1200 ft.sq. (CMHC 2001).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, a single family occupies one house. Less often, there are cases in which a house is shared among 4 to 6 individual occupants (case of larger rental houses).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Economic Level: For Middle Class the ratio of Housing Price Unit to their Annual Income is 4:1.
+
+**Typical Source of Financing:** Small lending institutions/microfinance institutionsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** In case of single-family houses, insurance covers the insured contents and the structure. The deductible is usually 5 to 6% of the insured value (depending on the insurance agency), irrespective of the type of the building and the location.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+| 2001 | Nisqually, Washington (USA) | 6.8 | MMI=VI FOR GREATER VICTORIA (GSC) | 
+| 1949 | Queen Charlotte Islands, British Columbia | 8.1 |  | 
+| 1946 | Vancouver Island Earthquake (Courtenay), British Columbia | 7.3 | MMI=VI FOR GREATER VICTORIA (GSC)MMI=V FOR GREATER VANCOUVER (GSC) | 
+| 1918 | Vancouver Island Earthquake, British Columbia | 7 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type** Wood frame construction had generally not been exposed to the effects of damaging earthquakes in Canada, however experimental studies were recently conducted to study the expected seismic response of residential wood-frame construction in the region and to explore practical alternatives for seismic retrofit. For more information on the Canadian earthquakes see: http://www.pgc.nrcan.gc.ca/seismo/hist/list.htm.
+
+**Additional comments on earthquake damage patterns:** No significant damage reported in the past earthquakes in Canada - see Additional Comments below
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** There is a concern that this construction type will experience excessive lateral drift (movement of the building relative to the foundations) because of inadequate wall-foundation anchorage i.e. absence of holdowns.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Use of horizontal board sheathing in the construction of exterior shear walls (low -cost construction); - Lack of anchorage and/or holddowns to foundations; - Lack of horizontal blocking in the walls; - Joints over interior load-bearing walls are common
+
+**Earthquake-resilient features in walls:** - High density of wooden shear walls and stucco; - Provision of holddowns in engineered wood buildings.
+
+**Seismic deficiency in frames:** #NAME?
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** - Absence of blocking in the roof and/or floors; - Inadequate shear studs for the roof openings.
+
+**Earthquake resilient features in roof and floors:** -Blocking of roof and/or floors; -Design of adequate shear studs for openings
+
+**Seismic deficiency in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%%  | | | %%-|%% | |
+
+**Additional comments section 5:** The expected seismic performance of wood frame housing was recently studied at the University of British Columbia in Vancouver through the Earthquake 99 Woodframe House Project. The main focus of the project was the study of the expected seismic response of residential wood-frame construction in the region. The ultimate goal of this project was to develop procedures for improved design and retrofit. The first part of the project was mainly concentrated on current construction in California and on new proprietary framing systems, while the second part was focused on existing residential (non-engineered) construction in British Columbia (BC). A total of 31 uni-axial shake table tests were conducted on full-scale one and two storey houses with a footprint of 6.1 m (20 ft) by 7.6 m (25 ft). For the California construction tests, records from the 1994 Northridge Earthquake records were used, while selected crustal and subduction earthquake records, adapted to the local geological setting, were used for the BC tests. For each shaking test complementary forced vibration and ambient vibration tests were conducted to evaluate the dynamic properties of the house before and after the simulated earthquake (Kharrazi 2001). The need for this research arose from the current construction practice in British Columbia that has resulted in many forms of contemporary residential housing being substantially more vulnerable to heavy earthquake damage than housing that was built 100 years ago. The project was completed in 2001. The key conclusions of this project were: 1. Non-structural materials such as stucco and gypsum wallboard play a major role in reducing the earthquake damage, and their contributions need to be recognized in the design. 2. There are several forms of high-risk residential construction practice in BC that need to be addressed immediately. Seismic deficiencies studied in the experimental part of the project included the use of horizontal board sheathing, absence of wall anchorages and hold downs and the lack of effective shear walls. The results of the experimental study clearly indicate that measures to address these high-risk construction practices will substantially reduce earthquake damage. 3. The use of an inelastic drift control approach to seismic design is strongly advocated in contrast to the current empirical quasi-elastic force method. Drift control of actual building deflections under real earthquakes is the best method for predicting earthquake damage and ensuring the reliable seismic performance. 4. Sophisticated software for the inelastic time history analysis has been developed to predict building drift levels for an arbitrary earthquake ground motion. The results of the laboratory test program have been used to refine the modeling methods.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Absence of wall-foundation anchorage | Install holddowns | 
+| Inadequate lateral resistance | Installation of Oriented strand board (OSB) or plywood sheathing | 
+| Flexible diaphragm | Installation of blocking | 
+| Inadequate wall stiffness | Installation of blocking | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The Vancouver Building Bylaw has recently been modified to require seismic design of all new wood frame buildings except for one- and two-family dwellings, which are required to be constructed according to the simplified requirements of the Canadian Wood Councils Wood Frame Construction Guide (CWC, 2001).
+
+**Has seismic strengthening described in the above table been performed?** Yes. Some retrofit projects of heritage and older woodframe buildings have been performed in the Vancouver area.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a mitigation effort on an undamaged buiding.
+
+**Was the construction inspected in the same manner as new construction?** Yes, the construction was inspected in the same manner as new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Generally, the contractor performed the construction and an architect or engineer were involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The performance of retrofitted building has not been tested under severe shaking.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Blanquera, A. (2000). Evaluation of Structural Earthquake Damage to Buildings in Southwestern B.C., Technical report No. 00-03, Department Of Civil Engineering, University of British Columbia, Earthquake Engineering Research Facility, Vancouver, Canada.
+
+  * CSA (1994). Design of Concrete Structures, A23.3-94, Canadian Standards Association, Rexdale, Ontario, Canada.
+
+  * CWC (2001). Engineering Guide for Wood Frame Construction, First Edition, Canadian Wood Council, Ottawa, Canada.
+
+  * CMHC (1998). Canadian Wood-Frame House Construction, Canada Mortgage and Housing Corporation (CMHC), Ottawa, Canada
+
+  * Delcan (1995). Earthquake Hazard Assessment and Seismic Vulnerability for the City of Vancouver, Delcan Corporation, Vancouver, Canada.
+
+  * Heidebrecht, Basham and Finn (1995). Overview of Major Issues Involved in Preparing New Seismic Loading Provisions for the 2000 Edition of the National Building Code of Canada, Proceedings, Seventh Canadian Conference on Earthquake Engineering, Montreal, Canada.
+
+  * Institute for Research in Construction (1989). Assessment of Earthquake Effects on Residential Buildings and Services in the Greater Vancouver Area, National Research Council of Canada, Ottawa, Canada.
+
+  * Kalman, H. (1979). The Sensible Rehabilitation of Older Houses, Canada Mortgage and Housing Corporation, Ottawa, Ontario, Canada.
+
+  * Kalman, H., and J. Roaf (1978). Exploring Vancouver 2 - Ten Tours of the City and Its Buildings, UBC Press, Vancouver, Canada.
+
+  * Kalman, H., Phillips, R., and R. Ward (1993). Exploring Vancouver, UBC Press, Vancouver, Canada. Macsai, J. et al. (1976). Housing, John Wiley and Sons, USA.
+
+  * Kharrazi, M. H. K. (2001). Vibration Behavior of Single-Family Woodframe Buildings, M.A.Sc. Thesis, University of British Columbia, Vancouver, BC, Canada.
+
+  * Kharrazi, M. H. K. et al., (2002), Experimental Evaluation of Seismic Response of Woodframe Residential Construction, 4th Strutural Specialty Conference of the Canadian Society for Civil Engineering, Montreal, Qc, Canada
+
+  * North Van (1993). District of North Vancouver Heritage Inventory, The Corporation of North Vancouver, report prepared by Commonwealth Historic Resource Management Limited, October, Vancouver, BC, Canada.
+
+  * NRC (1992). Manual for Screening of Buildings for Seismic Investigation. Institute for Research in Construction, National Research Council of Canada, Ottawa, Canada.
+
+  * NRC (1995). National Building Code of Canada 1995. National Research Council of Canada, Ottawa, Canada.
+
+  * Onur, T., Ventura, C.E. and W.D.L. Finn (2002) Seismic Damage Estimation in Southwestern British Columbia, Procs. of the 7th US Conference on Earthquake Engineering, Boston, Ma., USA.
+
+  * Ovanin, T.K. (1984). Island Heritage Buildings - A Selection of Heritage Buildings in the Islands Trust Area, Queens Printer for British Columbia, Victoria, BC, Canada.
+
+  * Pryor, S. E., Taylor, G. W., Ventura, C. E., (2000) Seismic Testing and Analysis Program on High Aspect Ratio Wood Shear Walls, World Conference on Timber Engineering (WCTE 2000), Whistler, BC, Canada.
+
+  * Rainer, J.H., and E. Karacabeyli (2000). Wood - Frame Construction in Past Earthquakes, Procs. of the 6th World Conference on Timber Engineering, Whistler, BC, Canada;7 pages
+
+  * Statistics Canada (1996). 1996 Census Profile of British Columbia, Internet URL: http://www.bcstats.gov.bc.ca/data/dd/c96drdat.pdf
+
+  * Taylor, S. (1996). Senior Lecturer, School of Architecture, University of British Columbia, telephone correspondence with Dr. Robert J. Taylor, P.Eng. (Research Associate at UBC), 23 Jan 1996.
+
+  * Taylor, G. W., and Ventura, C. E. (2001). Earthquake 99 Project, Earthquake Damage Estimation for Residential Woodframe Construction, ICLR/IBC Earthquake Conference, Simon Fraser University, Vancouver, BC, Canada.
+
+  * Ventura, C.E., Taylor, G.W., Prion, H.L.G., Kharrazi, M.H.K. and S. Pryor (2002). Full-scale Shaking Table Studies of Woodframe Residential Construction, Procs. of the 7th US Conf. on Earthquake Engineering, Boston.
+
+  * Ventura, C.E., Robertson J., and Brzev S. (2002). Urban Housing Construction in British Columbia, Canada, Procs. of the 7th US Conf. on Earthquake Engineering, Boston.
+
+  * Victoria (1978). This Old House - An Inventory of Residential Heritage, City of Victoria Heritage Advisory Committee, Victoria, BC, Canada.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Carlos E. Ventura | Professor | University of British Columbia | 2324-Main Mall | ventura@civil.ubc.ca | 
+| Mehdi H. K. Kharrazi | Graduate Student | University of British Columbia | 2324-Main Mall | kharrazi@civil.ubc.ca | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

@@ -1,0 +1,328 @@
+====== Traditional Naga Type House, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 147
+
+**Building Type:** Traditional Naga Type House
+
+**Country:** India
+
+**Author(s):** Amir Ali Khan
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in northeastern parts of India covering the states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura. The different tribes of these states have unique life-styles and habitats. However, their housing type falls within this category with slight changes in their appearance attributed to individual tribal identities. At national level about 11.4% of hosing stock consists of this type of houses (Vulnerability Atlas of India, 2006). In this category of houses the wall material comprises bamboo, thatch and grass etc. with a light weight roof of similar material but also mud, plastic, polythene, GI metal, and asbestos sheet. This type of housing construction is commonly found in both rural and urban areas. Although more confined to rural areas a significant percentage of this type of housing is also found in towns of the region. However, in the last two decades a decrease of these traditional houses in urban areas of the region has occurred. Very limited numbers of houses are in urban areas (towns).
+
+**Summary:** The housing type is most common throughout the Northeast India which lies in the most severe seismic zone of the country (Zone V - corresponding to MSK IX). Majority of this type of houses are used for residential purposes. Typically these houses are built with light weight locally available material like bamboo, wooden planks, thatch etc. These housing types have traditional system of bamboo/wooden posts. Bamboo posts are inserted into the ground to actas compression members and are tied with horizontal bamboo/wooden girders with the help of bamboo ropes (cane) to give a proper shape and framing action. However, there is no protection of bamboo/wooden posts against decaying/termites or any other natural cause. The performance of these houses during the past earthquakes is unknown. However, during the discussions with local people about the performance of these houses in the past major earthquakes, it was noted that the majority of houses survived.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:**
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidCurved, solid (e.g. circular, elliptical, ovoid)
+
+**Additional comments on plan shape:** Most of these buildings are rectangular in shape. A few tribes build in circular shapes as well.
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 4-5
+
+**Typical story height (meters):** 41702
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Walls with bamboo/reed mesh and post (Wattle and Daub)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame. Structure provides a continuous load path. Load is transferred through wooden/bamboo beams and columns/ posts embedded into the ground. The lateral load-resisting system is timber frame. Roof truss/bracing; long wooden pieces / bamboo are used as beams and compression members. They are tied well with the help of bamboo rope/cane. Lateral forces are resisted by cantilever action of the embedded posts and the bracing effect of diagonal bracing members where they are provided.
+
+**Gravity load-bearing & lateral load-resisting systems:** Generally these are very light weight structures.
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. Bracing is not achieved by walls but by the timber posts and diagonal timber bracing where provided.
+
+**Wall Openings:** This housing type has very limited openings. There is only one entrance. Some of the tribes have a rear or side exit as well in their houses. Generally, there is no window and there is no provision for ventilation, making the house very dark inside. A typical house has about 2-5% openings in the surface area of its walls.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** In recent times some changes are taking place in term of 1. Provision of back courtyards 2. Roofing material changing from thatch to corrugated galvanized Iron (CGI) sheets.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: No foundation
+
+**Additional comments on foundation:** Bamboo posts are inserted into the ground. Generally, the depth is 1 meter.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** There is no suspended flooring. Ground floor is simple earthen floor with mud plaster in some cases. At times the floor of the house is raised slightly. This safeguards against flooding and dampness during the rainy season. Bamboo matting is used to cover the mud floors.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Thatched roof supported on wood purlins; Wood planks or beams supporting natural stones slates; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 3-4 (minimum) meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Bamboo, Wooden logs, bamboo mat | Bamboo wall matting is mud-plastered for durability | 
+| Foundations |  | No foundation. Poles are just embedded in the ground. | 
+| Floors | Bamboo roof framing with thatch | No suspended floor | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** BuilderOwner
+
+**Roles of those involved in the design process:** No role is played by professionals such as architects/engineers.
+
+**Expertise of those involved in the design process:**
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** The entire construction takes place under the master builder who has slightly more expertise in comparison to others in the village. This man has expertise in erecting wooden frames/trusses. He develops his expertise by assisting in the construction of a large number of houses. Over a period of time, due to his experience, he starts working as a master builder. No role is played by professionals such as architects/engineers.
+
+**Construction process and phasing:** Construction of this type of house generally takes place in the dry season / winters. Sourcing of construction materials like thatch/timber/bamboo are collected during winters only. Bamboo/wooden posts are erected and then beams/logs are connected and rafters placed and tied up. The wider community participates in the construction of this type of house. Indigenous/traditional tools are used in the construction. Generally nails or other steel materials are not used for making connections between various members. The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** National Building Code of India Other codes are referred to in the National Building Code of India Part 6 (Structural Design; Section 3) Timber and Bamboo; 3B Bamboo are as following: IS 6874:1973 -Methods of test of round bamboo IS 8242:1976 - Methods of test of split bamboo IS 9096:1979 - Code of practice for preservation of bamboo for structural purposes IS 13958:1994 - Specification for bamboo mat board for general purposes.
+
+**Process for building code enforcement:** There is no strict enforcement of building codes in the construction of this house type.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** This type of construction is a non-engineered, and authorized as per development control rules. Building permits are not required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Owner(s). The maintenance of this type of house is done in phases in terms of replacing the thin layered mud plaster on the walls every 2-3 years, replacing of walling mat every 4-5 years and replacing the roofing thatch every 5-6 years. Roof and wall material are generally replaced 3-4 times during the life span of the structure. The floor mud plastering is done every week.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit cost varies from owner to owner. Usually it ranges between Rs. 600-700 (US$ 15-20) per square meter.
+
+**Labor requirements:** During the construction of the house, 20-25 people from the village/community come and help the owner in the construction process. Usually, they finish the task by the evening. If some work is leftover, few of them return the next day and finish it. The owner of the house serves food to the members of the community. There is no system of paying the wages for the labour.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Most of the family members go to work during daytime. Those that stay back at home finish household chores outside the house in the sun. Adult children in every family sleep (at night) at a community hostel/ dormitory made for this purpose.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** A middle-income family in the village earns in the range of about Rs. 30,000 to 40,000 annually. However, it is very difficult to calculate the actual income of a household. Every household possesses other means of income with cattle, harvesting of paddy etc.
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** It is community-based house construction. Construction materials like bamboo, thatch etc. are collected by the individual from relatives and friends and from the jungle. The construction of the house involves community participation.
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** Land for construction of house belongs to the village/community. Entire land is divided into community and individual spaces, where individuals can build/construct their house.
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is unavailable. NA.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The entire northeastern region of India is highly prone to earthquakes. This region lies under zone V, corresponding to MSK IX+, according to the seismic hazard map of India (IS:1893-2002). A large number of earthquakes have taken place in the region, including the two M8+ earthquakes in 1950 &1897. During the discussions with the local people it was learned that there was no damage to this type of structure during past earthquakes.
+
+**Additional comments on earthquake damage patterns:** No serious damage is reported in such houses in the recent past
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | N/A | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | N/A | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** ?Roofing framing is tied together w ith bamboo ropes (cane). ?There is not much maintenance done to these houses. Average life of a house is 10-15 years, after w hich the old house is abandoned due to deterioration of the material used. How ever, during the life span of houses, w alling and roofing material (thatch) is replaced 3-4 times.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** Very light material - bamboo mat covered with mud plaster
+
+**Seismic deficiency in frames:** No foundation for columns Rope used for the connections betw een timber members may fail
+
+**Earthquake-resilient features in frame:** Proper load transfer path available w here there are diagonal bracing members w ithin the w all framing. Joints made of rope (cane)
+
+**Seismic deficiency in roof and floors:** Light weight material is used to cover the roof framing No suspended flooring.
+
+**Earthquake resilient features in roof and floors:** Proper frame when bracing elements are provided to resist lateral forces
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | | o |  %%-|%%  |  |
+
+**Additional comments section 5:** #NAME?
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Insufficient wall bracing | Corner stiffening through diagonal bamboo bracing members | 
+| Hanging storage loft | Instead convert it into a self-supported platform | 
+| Hanging items for storage purposes | Provide storage on a wooden platform supported by its own posts | 
+| Fire Resistance | Use fire retardents and increase general awareness | 
+| Decaying of bamboo at ground level | Proper treatment against rodents and moisture |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Strengthening of New Construction : Foundation- Embed posts into a proper concrete foundation Post earthquake Fire- Improve fire resistance of the materials/ use of cgi sheets for roofing purpose Use of cane for joints- Use nails to achieve stronger joints Hanging storage loft- Provision of a proper platform that is braced over the hearth Decaying of bamboo at ground level- Proper treatment against rodents and moisture
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Vulnerability Atlas of India A.S. Arya et. al. BMTPC 2006
+
+  * National Building Code of India BIS, Bureau of Indian Standard 2005
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Amir Ali Khan	| Assistant Professor | Geo Hazard Group, National Institute of Disaster Management | 5B Indra Prastha Eatate, IIPA Campus, Ring Road, New Delhi 110002, INDIA	| alikhanamir@gmail.com |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Gayatri Kharel | | | Kalimpong 734301, INDIA | gayatriajit@gmail.com |
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz |

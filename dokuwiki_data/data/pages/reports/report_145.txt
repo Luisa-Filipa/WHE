@@ -1,0 +1,333 @@
+====== Pillar walaghar (URM infilled RC frame buildings), Nepal ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 145
+
+**Building Type:** Pillar walaghar (URM infilled RC frame buildings)
+
+**Country:** Nepal
+
+**Author(s):** Yukta Bilas Marhatta, Jitendra K Bothara, Meen Bahadur Magar, Gopal Chapagain
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in many areas of Nepal. This type of housing construction is commonly found in both sub-urban and urban areas. This building type is perceived to be the safest and strongest in every respect compared to all the other building types in Nepal. It has allthe characteristics of a vernacular building only with the exception that few of theconstruction materials are not local. It is one of the most emerging building typologies in Nepal. This is mostly non-engineered building typology. However, in urban areas sometimescompetent structural engineers are also involved in the design. This technology was picked upafter its relatively better performance during 1988 Udaypur earthquake which recorded M6.4on Richter scale, that severely hit eastern Nepal. In this type of building a lightly reinforcedframe is constructed first and then infill walls are erected later between columns. Though notusual, sometimes walls are constructed first and columns and beams later. These buildingsserve multifunctional purposes such as residential, commercial, official, religious, educational,etc. These buildings are highly vulnerable to earthquake because of deficient detailing, inferiorconstruction materials and the inadequate technology employed. Despite the use of modernmaterials of construction there is an ever growing risk to life and property due to potentialearthquake attack. This building type, if designed and constructed properly, is suitable for lowrise buildings up to 3 to 4 stories high. It is necessary to disseminate simple techniques ofearthquake resistant measures for these buildings to the grass-root level.
+
+**Summary:** This building type is widely constructed in the urban and semi-urban area of Nepal.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercialOther
+
+**Typical number of stories:** 2-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Each building typically has 1 housing unit(s). However, a building could have multiple households as well, dependingon the buil
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Building configuration in general depends on where the building is located and its function. Usually these buildings are rectangular and regular in plan shape depending on the shape of land. Sometimes, these buildings have wings.
+
+**Typical plan length (meters):** 10-20
+
+**Typical plan width (meters):** 8-10
+
+**Typical story height (meters):** 2.75-3.3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. Vertical load resistance is primarily provided by a RC frame, though part of the load is carried by infill walls. The lateral load-resisting system is reinforced concrete moment resisting frame. Lateral loads on the buildings are resisted by the combined effect of RC Frames and the brick or block masonry infill walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** The most common practice is to construct the frame first and infill later. The most common infill is fired brick in cement mortar, though block or stone infills are also common. Infills constructed of stone in mud mortar have also been seen in remote areas. This building type does not work as moment resisting system.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** Wall density depends upon the function of the building. In mixed used buildings the bottom story could be open if used for commercial purpose. In commercial, institutional buildings, wall density is much lower than that of a residential building.
+
+**Wall Openings:** A room has two windows and a door provided that there are no legal and other practical restrictions such as building on or near the property line. The openings are usually around 30-40% of the plinth area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Both vertical and horizontal extensions of a building are common depending on the requirement of space and availability of funds. Vertical extension is more common in this type of building as this building type is perceived as strong enough to go as high as required. Change in room size by removing walls is quite common in the upper storeys depending on functional needs. This requires placing of partition walls away from the frame or walls in the storey below. Sometimes columns are also removed to make larger rooms.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** These isolated footings are not tied together at the foundation level though a plinth beam is provided at plinth level. Sometimes combined footings are also used. For large commercial buildings, raft foundations are also used. Pile foundations for buildings are not common in Nepal. In hilly terrain, foundation pads are placed at different levels.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Solid slabs (cast-in-place)
+
+**Additional comments section 2:** In rural areas building are separated by many meters. If a building is extended then extensions will share common walls with the existing half. Dhajji buildings are more commonly found in rural areas. In urban areas and settlements along transportation corridors, wherever modern materials such as cement and steel are easily available and more affordable than they used to be, Dhajji buildings are largely being displaced by modern forms of construction. In rural areas, houses probably have a larger foot print but are likely to be only one to two stories high. In urban areas, and this is mainly in Srinagar, Indian Kashmir, there are many example of Dhajji buildings up to four stories high. After the 2005 earthquake in Pakistan there has been considerable uptake of the Dhajji construction method due to evidence of their relatively good structural performance under the earthquake and the fact that they are affordable unlike the more modern and much more expensive and complicated reinforced concrete construction methods that exist these days. One of the big issues for the siting of Dhajji buildings or any other type of such building is the necessity to construct back walls as part of the building to retain the higher ground and to construct high plinths at the downward slope of the building or under the veranda. Safe site selection is an important issue. However often families do not have much choice in deciding where they live. Typical sites 4 of 34 10/15/2012 10:20 AMare at risk from avalanches, landslides and are accessed with great difficulty because most are built away from the few existing roads in their mountainous setting. A short film prepared by the Pakistani Earthquake Rehabilitation and Reconstruction Authority (ERRA), set up after the 2005 earthquake, indicates that land ownership is recorded at the revenue department where records go back for 500 years. Traditionally land boundary records were kept on a map drawn on cloth called a ladha. The ownership records would typically name the father, the grandfather and the great grandfather and the fathers son on the records. Finally a unique field number should be available for every plot of land and that in Pakistan that records are maintained at the village level in patwar circles, district and provisional levels. Recent field experience by the authors indicates that the above description of landowner ship is not a national practice. It is thought that the majority of land is held by landlords with various agreements with tenants. Pakistan administered Kashmir has a high prevalence of owner occupancy but again that this is not a national practice. Increasingly marginal land is being used for settlement, both in rural and urban areas due to rising population. Growing rural population and settlement is increasing pressure on natural resources including ground water supply, forest cover and increased pollution by sewerage disposal. This in turn increases vulnerability to hazards and decreases resilience. When separated from adjacent buildings, the typical distance from a neighboring building is 0.5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^ 
+| Wall/Frame | Bricks or blocks are commonly used construction materials for walls, how ever, sometimes stones are also used. Reinforced concrete is used in beams and column. | Wall: Strength of bricks varies between 40-120kg/cm2. Cement sand mortar is mixed in the proportion of 1:6-8 Brick size ranges from 20x10x10 to 50x50x20 cm. Wall thickness ranges from 12.5 to 23 cm. Strength, size and quality of materials of wall construction varies from place to place. Many times, bricks or blocks are of inferior quality such as low crushing strength, broken corners, etc. Frame: Strength of concrete varies from 100 to 150 kg/cm2. Standard yield strength of steel, commonly used for longitudinal steel is 415 and 500 MPa. For stirrups 250 MPa plain bars are used. Cement:sand:aggregate is mixed in the proportion of 1:3:5 to 1:3:4 Mostly hand mixing and hand compaction is applied in concrete. However, in recent days there is a growing trend to use machines for mixing and compacting | 
+| Foundations | Reinforced concrete is used in the foundation | Strength of concrete varies from 100 to 150 kg/cm2. Standard yield strength of steel, commonly used for longitudinal steel is 415 and 500 MPa. Cement:sand:aggregate is mixed in the proportion of 1:3:5 to 1:3:4 Mostly hand mixing and hand compaction is applied to the concrete. Recently however, there is a growing tendency to use machines for mixing and compacting. | 
+| Floors | Reinforced concrete is used in roof and floors. | Strength of concrete varies from 100 to 150 kg/cm2. Standard yield strength of steel, commonly used for longitudinal steel is 415 and 500 MPa. Cement:sand:aggregate is mixed in the proportion of 1:3:5 to 1:3:4 Mostly hand mixing and hand compaction is applied in concrete. Recently however, there is a growing tendency to use machines for mixing and compacting | 
+| Roof | Reinforced concrete is used in roof and floors. | Strength of concrete varies from 100 to 150 kg/cm2. Standard yield strength of steel, commonly used for longitudinal steel is 415 and 500 MPa. Cement:sand:aggregate is mixed in the proportion of 1:3:5 to 1:3:4 Mostly hand mixing and hand compaction is applied in concrete. Recently however, there is a growing tendency to use machines for mixing and compacting | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerOther
+
+**Roles of those involved in the design process:** Design/ construction expertise exists in the country, particularly in urban areas. The irony is that these buildings behave very differently than that of the moment resisting frame. However, most engineers design them as moment resisting frame without considering the infill walls in the design. Most of this type of building is non-engineered although technicians are involved in the preparation of drawings for building permit in municipal areas. However, mostly it is mere official formality.
+
+**Expertise of those involved in the design process:** Owners rely on masons who play a crucial role in building construction of this type. However, they are unaware of the National Building Code. Moreover, all masons are not equally competent in their profession. In most of the cases, the role of engineers is limited only in making drawings and building permit processes. In some cases, they are involved in structural design, construction monitoring, and quality control as well.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** House owners themselves are involved in the construction right from the beginning to the end. This construction is mostly informal construction. Basically, the building owner himself manages the project and procures the materials.
+
+**Expertise of those involved in building process:** The leader craftsman (Naike) plays a pivotal role in the building development process by helping the building owner in various ways such as quantity estimates, time estimates, providing advice etc.
+
+**Construction process and phasing:** It is basically owner-built construction. Locally known contractors cum masons (leader craftsmen) are invited and entrusted with the labor contract. Construction is carried out under the advice and consultation of the mason though sometimes engineers/ architects are also involved. Construction material is procured by the building owner. Column and wall foundations are packed with rubble stone and soil alternately in layers up to ground level. After constructing the plinth beam, about 2.5 m high columns are cast. Then formwork for beam and slab are laid. Beams and slab are cast together though it is not a norm in many parts of the country. Then masonry walls are erected in cement sand mortar. The tools used are hammer, trowel, concrete mixtures, concrete vibrator etc. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. As a vernacular building, it is also constructed over the years depending upon availability of funds and requirement of space. Vertical extension is the most common form of extension. Usually these buildings are constructed by convention rather than design.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Nepal National Building Code, NBC 201, Mandatory Rules of Thumb, Reinforced Concrete Buildings with Masonry Infill.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** A building permit is required in municipal/ urban areas only; no building permit is required in rural areas. This type of construction is most common in the urban area but it has been spreading to the rural area as well.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Approximately US$ 250/ m2.
+
+**Labor requirements:** For construction of a one story average sized house (say 100 sqm), 4-6 persons work for about 9 months to a year. For upper stories it could be a little less, say 6 to 9 months. However, on the day of floor/ roof slab concreting 40-50 people work together as everything such as concrete mixing, placing, and compacting is done manually. Now manual mixing and compacting are being gradually replaced by machine mixing and compacting, which reduces the labor requirements from 40-50 to 30-40.
+
+**Additional comments section 3:** Even in municipal areas most of the time engineers are involved in obtaining the building permit only. In theory, only buildings larger than a certain size require structural design, but most of the time this is a ritual rather than reality. Building permits are required to build this housing type.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses of this type are occupied by a single family as well as multiple families depending on size of the building and number of stories. The number of households depends on size of building. Typically, one small building is occupied by one household unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of inhabitants in a building during the day or business hours is less than 5. On an average there are 2 to 5 occupants during day/business hours if the building is being used for a single household unit. During the day/business hours typically babies, very small children, mothers, sick people and grandparents would be at home. Children of school age and working men will typically be at school or work. School children will return earlier in the day than working adults. In the evenings and night time these buildings will have the largest number of inhabitants. As these buildings are mainly family homes, they will likely to have their highest occupancy level during school holidays. The number of inhabitants during the evening and night is 5-10. However, in institutional buildings (educational, day care centers, office, etc), the occupancy is much higher in day time. In schools, there could be 100s of children in one building during day time, but after school time none. Although this type of structure has many uses, the information supplied here addresses a typical residential building.
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** These days, people can obtain a mortgage from a bank to buy an apartment or house, although it is not common.
+
+**Type of Ownership:** Own outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** Most of the houses in Nepal are outright ownership. Ownership with mortgage is a relatively new concept in Nepal.
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Earthquake Insurance is not common in Nepal. However, insurance companies have started to offer insurance schemes and a few people procure it.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1255 | Data Not Available | 7.7 | X(MMI) | 
+| 1681 | Data Not Available |  | IX (MMI) | 
+| 1803 | Data Not Available |  | IX (MMI) | 
+| 1833 | Data Not Available | 7 | X(MMI) | 
+| 1934 | Sankhuwasabha, Nepal | 8.3 | IX-X(MMI) | 
+| 1980 | Bajang, Nepal | 6.1 | VII(MMI) | 
+| 1988 | Udayapur, Nepal | 6.4 | VIII(MMI) | 
+| 1993 | Data Not Available |  |  | 
+| 2003 | Pokhara, Nepal | 5 | VIII(MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Nepal has not suffered any major seismic event since the introduction of this building type.
+
+**Additional comments on earthquake damage patterns:** (wall): 1 Out-of-plane toppling of infill walls. 2. Serious soft-storey and torsional problems. 3. Short column effect (frame): 2.1. Crushing of concrete, high brittleness of structural elements. 2.2 Splicing failure leading to severe damage and destruction of the building structure. 2.3 Anchorage failure of beam bars 2.4 Bursting of column due to lack of adequate confinement. 2.5 Relative movement between columns leading to column failure. (other): - Crushing of concrete, - Snapping of reinforcement.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Many times severe structural deficiencies such as dislocation or abrupt interruption of columns can be seen. The other problem with these building types is reinforcement detailing such as deficient lapping of bars, deficient anchorage of beam bars in the column, open stirrups, etc. Further, due to lack of proper cover to reinforcement and porous concrete, severe corrosion of the reinforcement can be seen. It is also common to have areas where the load paths are indirect, and such configuration problems lead to soft-storeys in the case of commercial and residential occupancies.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 1. Walls and frame are not integrated. The infills are not tied to the frames 2. Walls are placed without any judicious thought from a seismic point of view and so severe configuration problems such as soft-storeys can occur. 3. Provision of open ground floor for shops, parking, lobby etc that leads to a soft-story. 4. Trapped columns by partial-height confining walls.
+
+**Earthquake-resilient features in walls:** The following features listed are recommended rather than existing features 1. Provide horizontal dowel bars in columns to tie infill walls to the frame. Provide lintel and sill level bands passing through columns. 2. Equal walls provided at extreme ends of the building in both the directions. 3. Continue some walls down to the foundation level to mitigate the soft storey effect. 4. Provide RC walls that continue from the foundation to the roof. The stiffness of the ground floor walls should be at least 70% of the upper storey. 5. Provide bracing to improve stiffness and strength of open story. 6. Isolate partial height walls from the frame to avoid the short- column effect. Provide closely spaced stirrups throughout the height of column where there is a possibility of a short column. Provide at least few full height shear walls in both the directions to reduce deflections that lead to short column effect damage.
+
+**Seismic deficiency in frames:** 1. Columns are deficient in terms of size, reinforcement and detailing. 2. Columns and beams suffer severely deficient detailing 2.1 Deficient reinforcement splicing, eg. length and location 2.2 Deficient anchorage for beam reinforcement in columns 2.3 Open stirrups at too widely spaced. 2.4. No foundation beam to tie column bases together.
+
+**Earthquake-resilient features in frame:** 2.1 Splice away from high action areas, longer splicing length to develop full strength of reinforcement 2.2 Enough length of anchorages with L-bends or hooks at the end of beam bars inside the column. 2.3 Closed stirrups with 135 degree hooks at close spacing. 2.4 Foundation beams at base of columns to tie column bases together.
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Roof and floor slabs are strong and stiff enough to act as rigid diaphragms.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 1.Open bottom story is common in mixed use buildings such as shops, where there is parking in the bottom storey, /or and residential/ office use in upper stories. This creates a soft-storey that can often lead to building collapse. 2. Non-alignment of walls: In many cases walls are not constructed in the same vertical line but are constructed according to the functional requirements.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Plan irregularity | Provide additional walls, or bracing along open sides such as for a corner building | 
+| Soft storey effect | Continue most of the infill down to ground level in both orthogonal directions, increase the size of columns in bottom storey, or best of all, provide RC shear walls to resist lateral forces in both directions. | 
+| Short column effect | Provide full height walls to stiffen the frame thereby reducing the deflection, provide closely spaced stirrups in columns, isolate infill walls structurally from the columns. |
+| Weak structure | Provide new RC shear walls in both directions, provide jacketing to the existing walls, increase the strength of the structure. |
+| Out-of-plane toppling of walls | Provide a bandage at lintel level to integrate the walls with the frame. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Anchorage failure of beam bars - Could consider providing a haunch to improve tying of the beam with column but the best solution is to provide new lateral load resisting structure that relieves the poorly detailed frames from having to provide resistance. NEW CONSTRUCTION: Plan irregularity- Provide walls judiciously to avoid torsion and tie them into the frame. Vertical irregularity- Provide walls continuous from foundation to roof level uninterrupted. Weak structure- Provide solid masonry walls, or much better, RC walls in both the directions from foundation to roof. Short column effect- In the vicinity of the column provide a length of solid masonry so as a diagonal strut can form in the infill walls and not cause shear failure in the column. Provide solid walls in all the directions so the deflection can be reduced, provide closely spaced stirrups in the column (realizing that this will be insufficient on its own). Wall on two adjoining sides only (corner building) - Provide bracing infill walls along the open fronts. Deficient splicing length , open stirrups - Meet provisions for ductile detailing Beam-column joint failure - Provide stirrups in the beam column joint region. Anchorage failure of beam bars- Provide enough anchorage length of beam reinforcement in column with bend at the end of the reinforcement as well as other recommended measures
+
+**Has seismic strengthening described in the above table been performed?** Retrofitting is a completely new terminology even among practicing civil engineers. Retrofitting is practically non-existent but it is slowly emerging.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Such work is rare but a few retrofit projects have been accomplished. These are as part of a mitigation program.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** Engineers are involved in the design of strengthening. The strengthening is implemented by contractors.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Not applicable. Nepal has not suffered any significant earthquake in recent history to test this work.
+
+**Additional comments section 6:** The national code provides rules of thumb for buildings up to three storey high. However, it does not discuss the retrofitting of such buildings.
+
+----
+
+==== 7. References ====
+
+  * NBC201: Mandatory Rules of Thumb: Reinforced Concrete Buildings with Masonry Infill Nepal National Building Code Development Project Government of Nepal, Ministry of Housing and Physical Planning, Department of Buildings 2004 NBC-201
+
+  * NBC105: Seismic Design of Buildings in Nepal Nepal national Building Code Development Project Government of Nepal, Ministry of Housing and Physical Planning, Department of Buildings 2004
+
+  * General Observations of the Building Behaviour during the 8th October 2005 Pakistan Earthquake Bothara J K & Hicyilmaz K M O Bulletin of the New Zealand Society for Earthquake Engineering, 2008 Vol 41, No 4
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Yukta Bilas Marhatta | Civil Engineer | PARADIGM-Nepal | Bharatpur, 10, Bharatpur , NEPAL | ctwaseem@wlink.com.np | 
+| Jitendra K Bothara | Senior Seismic Engineer | Beca Carter Hollings & Ferner | 77 Thorndon Quay, Wellington, NEW ZEALAND | jitendra.bothara@gmail.com | 
+| Meen Bahadur Magar | Junior Engineer | PARADIGM-Nepal | Bharatpur, Chitwan , NEPAL |  | 
+| Gopal Chapagain | Engineering Student | Nepal Polytechnic Institute | Bharatpur, Chitwan , NEPAL |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Yogendra Singh | Associate Professor | Dept. of Earthquake Engineering, Indian Institute of Technology Roorkee | Roorkee 247 667, INDIA | yogenfeq@iitr.ernet.in | 
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz | 

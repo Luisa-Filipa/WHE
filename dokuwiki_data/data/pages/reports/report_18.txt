@@ -1,0 +1,331 @@
+====== Rubble stone masonry walls with timber frame and timber roof, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 18
+
+**Building Type:** Rubble stone masonry walls with timber frame and timber roof
+
+**Country:** India
+
+**Author(s):** Svetlana Brzev, Marjorie Greene, Ravi Sinha
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Maharashtra state (around 15% of the total housing stock of approx. 3 million houses). Particularly common for the Marathwada region (formerly a part of the kingdom ruled by Nizam of Hyderabad); typically found in villages. A very similar type of construction is found in the state of Jammu and Kashmir (according to INTERTECT, 1984); for other states in India, refer to Vulnerability Atlas of India (BMPTC, 1996). This type of housing construction is commonly found in rural areas.
+
+**Summary:** This typical rural construction in central, southern, and northern India houses millions of people. It is cheap to construct using field stones and boulders, but extremely vulnerable in earthquakes because of its heavy roofs and poorly constructed walls. The load-bearing structure is a traditional timber frame system, known as 'khan'. It is a complete frame with timber posts spanned at about 2.6 m. Thick stone walls (typical thickness 600 mm - 1.2 m) provide enclosure and partial support to the roof. Walls are either supported by strip footings of uncoursed rubble masonry or are without any footings at all. The roof structure consists of timber planks and joists. To help keep the interiors cooler during hot summer months (peak temperatures exceeding 40#C.), a 500-800 mm thick mud overlay covers the top the roof. This construction type is considered to be very vulnerable to earthquake effects. Many buildings of this type were damaged or collapsed in the 1993 Killari (Maharashtra) earthquake (M 6.4) with over 8,000 deaths.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:**
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** Building plan is typically of a very regular shape, usually rectangular or square.
+
+**Typical plan length (meters):** 14
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame load-bearing wall system. Gravity load-bearing system consists of timber frames-khands, which carry the weight of the roof and frame self-weight down to the stone pedestals. Stonewalls act as enclosure and carry mainly the self-weight down to the foundations (if provided). An exception is the case when there are no timber posts provided; in such a case the entire roof weight is carried by the walls. The lateral load-resisting system is timber frame load-bearing wall system. The load-bearing structure for this housing type is a traditional timber frame system, known as "khan". It is a complete frame with timber posts spanned at about 2.6 m, with an average height of approximately 2 meters; spacing between the successive frames is 1.2 to 1.5 m. The posts are supported by above ground stone pedestals (there is no anchorage between the pedestals and the ground). Thick stone walls (typical thickness 600 mm - 1.2 m) provide enclosure and partial support to the roof. Walls are supported either by strip footings of uncoursed rubble masonry or there are no footings at all. Roof structure consists of timber planks and joists. For the sake of thermal comfort during hot summer months (peak temperatures exceeding 40#C.), a 500-800 mm thick mud overlay is provided atop the roof. Lateral seismic forces are transferred from the roof to the timber posts, which tend to sway laterally. As the posts are typically constructed adjacent to the stone walls (with a very small gap or no gap at all), the swaying timber frames induce out-of-plane seismic forces in the stone walls. In some cases, there are no timber posts in portions of a house, and entire lateral load from the roof is transferred to the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** Wall density (area of walls in one direction/total plan area) ranges from 0.12 (larger houses) to 0.25 (houses with smaller plan dimensions and thick walls).
+
+**Wall Openings:** Typically one or two small door openings per wall; doors are generally smaller in size as compared to standard doors used in new houses; typically, there are no window openings, except for a small ventilator in a wall (typically 500 mm#) just below the eaves level. It is estimated that the total window and door widths constitute approximately on the order of 15-25% of the total wall length.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** In general, the buildings of this type have been modified over time. They are mainly built around the central courtyard and can be expanded horizontally by building additional rooms. In some cases, there is a vertical extension however it is not very common. Also, after the 1993 earthquake in Maharashtra, there was a general trend of removing heavy roofs in the buildings of this type.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks and joists covered with thick mud overlay. The buildings of this type are typically of a single-storey construction; therefore no floors have been provided.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roof structure per se is a flexible diaphragm, however due to a heavy mud overlay (a rigid block) the whole system behaves as a rigid diaphragm (this is an estimate).
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 2 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Stone | Large round boulders (size 300 mm or larger). Uasalt stone, hard for cutting in a regular block shape. | 
+| Foundations | Mud (mortar) | Very low compressive strength and no tensile strength; used for mortar, typically. In some cases, mud with good binding properties (containing high percentage of clay) is used. | 
+| Floors | Timber | used for planks and beams | 
+| Roof | Timber | used for planks and beams | 
+| Other | Timber (teak wood, jungle wood) | Good quality timber commonly used for the construction of front portion of the building; low quality timber (jungle wood) used for the rear rooms | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Engineers are generally not involved in this type of construction. After the 1993 Maharashtra earthquake, engineering staff of the Public Works Department was involved in the repair and strengthening program that included the construction of this type#they provided technical assistance and oversaw the construction process in the villages affected by the earthquake.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** MasonBuilder
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** Skilled artisans-wadars cut stones; masons (with a very basic training) construct walls and foundations; skilled carpenters-sutars construct timber frames.
+
+**Construction process and phasing:** Typically constructed by village artisans. Walls are constructed in a random uncoursed manner by using simply piled stones bound with mud mortar. Round stone boulders are usually picked up in the field and then used without any additional shaping. In some cases stones are cut with chisels and hammers in wedge-shaped blocks. Space between the interior and exterior wall wythes is filled with loose stone rubble and mud mortar. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** IS13828-1993 Improving Earthquake Resistance of Low Strength Masonry Buildings-Guidelines IS 4326-1993 Indian Standard Code of Practice for Earthquake Resistant Design and Construction of Buildings IS 1893-1984 Indian Standard Recommendations for Earthquake Resistant Design of Structures
+
+**Process for building code enforcement:** There is presently no process for building code enforcement in the rural areas of Maharashtra. However, as a part of its Disaster Management Plan (see EERI, 1999), Government of Maharashtra is planning to enforce the implementation of building codes in rural areas.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** There is a formal approval procedure for rural housing in the Maharashtra State (at a village level), however this does not include verification of structural stability. In many cases of rural housing, no permits are issued at all.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** No quality control, uneven quality of materials (some stones well-cut, some cement mixed properly and cured properly; others not); very often inappropriate type of mud used in construction.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Unit construction cost: approximately US$50 (Rs.2,100) per sq. m. Note that the unit cost can be lower than the stated value, provided that the owners contribute own labour. The cost also depends on the type of mortar used in the construction; the stated value applies if cement mortar is used; if mud mortar is used instead of cement mortar, then the cost would be substantially lower. The cost would also be lower if recycled materials (stone boulders and headers from old house) are used.
+
+**Labor requirements:** The smallest houses take about 50 effort-days for construction. Larger houses may take much longer (even one order of magnitude longer).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses of this type are typically occupied by extended families, consisting of parents and one or two children (usually sons) and their families. Several generations live under one roof.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44105
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Houses of poor people are smaller in size, plan size ranges from 15 to 50 sq. m. Plan areas for houses of middle income population are usually between 50 and 1,00 sq. m. Plan areas of the houses of high-income households are over 100 ft. m. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1993 | Killari, Latur District, Maharashtra State | 6.4 | VIII (MMI SCALE) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Buildings of this construction type suffered substantial damage in the 1993 Maharashtra earthquake. Close to 30,000 houses of this type collapsed, and other 200,000 houses were damaged. Typical patterns of earthquake damage and failures reported in the 1993 earthquake were: delamination and failure of stone masonry walls (out-of-plane) separation of the walls at corners and junctions lateral swaying of timber frames due to heavy roof weight and inadequate post-to-beam connections.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Extremely large thickness; -Absence of through-stones; -Unshaped boulders used in construction; -Absence of header stones at corners and junctions; -Vertical separation joints at wall corners and junctions.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** -Ambiguous system of vertical load transfer: transverse timber beams supported simultaneously by timber posts and stone masonry walls; - Inadequate post-to-beam connection; -Poor quality of timber frame construction; -Poor maintenance of timber elements,
+
+**Earthquake-resilient features in frame:** - Provided that post-to-beam connections in timber frames are adequate, the frames could serve as restraint and prevent the inwards collapse of the walls (an observation made after the 1993 Maharashtra earthquake).
+
+**Seismic deficiency in roof and floors:** Excessive weight of mud overlay atop the roof, thickness ranging from 50 to 80 cm
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%%  | | | | |
+
+**Additional comments section 5:** -Delamination and failure of inner and outer wall wythes; -Separation of walls at the corners; -Lut-of-plane collapse of the walls. -lateral swaying of the frames due to poor post-to-beam connections (mainly deteriorated due to aging and insect attacks).
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Heavy roof | removal of mud overlay atop the roof; simple construction. | 
+| Deficient timber frame connections | Bracing of frame (knee-brace/diagonal brace) to strengthen post-to-beam connections using timber or steel elements; simple construction; some materials (e.g. rolled steel sections) may not be locally available; timber braces considered to be more appropriate. | 
+| Thick multi-wythe walls without through-stones | Instalation of through-stones; requires training of local artisans (new skills); must be performed very carefully; | 
+| Separation joint at wall corners | Strengthening of wall corners using wire mesh and cement overlay; welded wire mesh usually not available locally in rural areas. | 
+| Lack of integrity of load-bearing structure to lateral loads | Installation of concrete ring beam (band) at the lintel/roof level | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Structural Deficiency: Delamination of exterior wall wythe - Description of a typical seismic strengthening provision used: Pointing of exterior walls in cement mortar
+
+**Has seismic strengthening described in the above table been performed?** Several thousand buildings of this type have been retrofitted using the above methodology after the 1993 Maharashtra earthquake.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The work was done as a post-earthquake rehabilitation effort following the 1993 Maharashtra earthquake.
+
+**Was the construction inspected in the same manner as new construction?** In this case, the same extent of inspection was made for the new construction and for the retrofitted buildings.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The work was performed by the contractors (masons) contracted by the owners. Financial and technical resources were provided by the Government of Maharashtra. In some cases, owners subsidized the construction. In other cases, construction was sponsored by NGOs.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The buildings of this type were not subjected to a damaging earthquake as yet.
+
+**Additional comments section 6:** Strengthening of New Construction : Wall: Use shaped stones in construction; Use cement/sand mortar; Construct concrete ring beam at the roof level; Use throughstones (header stones). Roof: Liimit the thickness of mud overlay to 200 mm. Timber frame: Install knee-braces to reinforce post-to-beam connections.
+
+----
+
+==== 7. References ====
+
+  * 1. EERI (1999). Lessons Learned Over Time, Vol. 2 #Innovative Earthquake Rehabilitation in India#, Earthquake Engineering Research Institute, Oakland, USA.
+
+  * 2. GOM (1998). Manual for Earthquake-Resistant Construction and Seismic Strengthening of Non-Engineered Buildings in Rural Areas of Maharashtra. Revenue and Forests Department, Government of Maharashtra, Mumbai, India.
+
+  * 3. BMPTC (1994). Retrofitting of Stone Masonry Houses in Marathwada Area of Maharashtra. Building Materials and Technology Promotion Council, Ministry of Urban Development, Government of India, New Delhi, India.
+
+  * 4. BMPTC(1996). Vulnerability Atlas of India. Building Materials and Technology Promotion Council, Ministry of Urban Development, Government of India, New Delhi, India.
+
+  * 5. CBRI (1994). Pilot Project on Repairs and Strengthening of Earthquake Damaged Houses in Maharashtra. Central Building Research Institute, Roorkee, India.
+
+  * 6. INTERTECT (1984). Vernacular Housing in Seismic Zones of India. Joint Indo-U.S. Program to Improve Low-Strength Masonry Housing. Prepared by INTERTECT and the University of New Mexico for the Office of U.S. Foreign Disaster Assistance, USA
+
+  * 7. BMPTC (1993). Action Plan for Reconstruction in Earthquake Affected Maharashtra. Prepared by TARU for Development, New Delhi, India.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Brzev | Instructor | Civil and Structural Engineering Technology | British Columbia Institute of Technology, 3700 Willingdon Avenue, Burnaby, BC | sbrzev@bcit.ca | 
+| Marjorie Greene | Manager, Special Projects | Earthquake Engineering Research Institute | 499 14th Street, Suite 320Oakland, California | mgreene@eeri.org | 
+| Ravi Sinha | Associate Professor | Civil Engineering Department | Indian Institute of Technology, Powai, Mumbai | rsinha@civil.iitb.ac.in | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, INDIA | rsinha@civil.iitb.ac.in | 

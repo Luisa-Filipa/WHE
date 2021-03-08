@@ -1,0 +1,329 @@
+====== Unreinforced brick masonry building with reinforced concrete roof slab, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 21
+
+**Building Type:** Unreinforced brick masonry building with reinforced concrete roof slab
+
+**Country:** India
+
+**Author(s):** Ravi Sinha, Svetlana Brzev
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of southern and western India. About 20% of housing units in Maharashtra state (approximately 3 million housing units in total) are of this type. Their number in urban areas is greater, and about 30% of all houses in Mumbai are of this type. Similar construction technology is used in northern and eastern India, but the bricks in those areas are of far superior quality. This type of housing construction is commonly found in both rural and urban areas. Most buildings in rural areas are of single-storey construction, however in urban areas multi-family housing of this type is very common.
+
+**Summary:** Typical rural and urban construction in western and southern India. This construction is widely prevalent among the middle-class population in urban areas and has become popular in rural areas in the last 30 years. Brick masonry walls in cement mortar function as the mainload-bearing element. The roof structure is a cast-in-situ reinforced concrete slab. If constructed without seismic features, buildings of this type are vulnerable to earthquake effects. They exhibited rather poor performance during the Koyna (1967), Killari (1993), Jabalpur (1997), and Bhuj (2001) earthquakes in India.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercial
+
+**Typical number of stories:** 1-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Cement mortar and reinforced concrete are relatively recent introductions to the local construction practice. These houses may b
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The building type is typically regular and is rectangular in plan. However, some buildings on sloping terrain may have split-level leading to stiffness discontinuity.
+
+**Typical plan length (meters):** 10-20
+
+**Typical plan width (meters):** 5-20
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** The gravity load is carried by the masonry walls. The roof slab rests directly on the walls, and the total load is transferred to the foundation. The foundation generally consists of brick masonry or stone masonry walls and strip footing is very commonly used for these constructions. In rural areas, the walls are directly extended into the ground; the behaviour of these foundations is similar to strip footing. The lateral load is carried by the walls in the direction of seismic forces. The masonry walls thus act as shear walls. The RCC roofs are generally flat and are directly supported on the walls, and act as rigid diaphragm. The lateral loads in these structures are distributed to the walls through the RCC slab. In rare situations where the RCC slabs are not horizontal or where the slabs do not act rigidly, the lateral loads are not fully distributed to the different shear walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The wall density typically ranges from 0.12 to 0.15.
+
+**Wall Openings:** The houses typically have one door opening and one or two window openings per wall. The openings are typically away from the edges (>0.75 m). The windows are typically 1.25 sq. m. and the doors are typically 1.75 sq. m. The total opening length is typically 20-25% of wall length. RCC lintel beams are commonly provided over the openings.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In urban areas, additional floors are often added without considering structural aspects. The construction is therefore staggered and a gap of several years may exist between the construction of different portions of the building. In rural areas, where population density is lower, horizontal building expansion is more common.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: cast-in-place and precast solid slabs The RCC roof slabs typically act as rigid diaphragm. On the ground floor, RCC slabs are not provided. In multi-storey constructions all other floors have RCC floor slabs.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: cast-in-place and precast solid slabs The RCC roof slabs typically act as rigid diaphragm. On the ground floor, RCC slabs are not provided. In multi-storey constructions all other floors have RCC floor slabs.
+
+**Additional comments section 2:** This housing type is found on both flat and hilly terrain. However, brick masonry houses are not constructed on a very steep terrain When separated from adjacent buildings, the typical distance from a neighboring building is 3-5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick Cement mortar | Brick: < 2.5 MPa (compressive) Typical brick size 230 mm x 115 mm x 75 mm Bricks are low strength, very low compressive and shear strength. 1:6 cement/sand mortar Low compressive strength (< 5 MPa) | 
+| Foundations | Stone or brick Cement mortar | Brick: < 2.5 MPa (compressive)Typical brick size 230 mm x 115 mm x 75 mm or locally available uncoursed random rubble stone blocks are used 1:6 cement/sand mortar Low compressive strength (< 5 MPa) Bricks are low strength. Stone blocks are high strength but are uncoursed and have poor bond. Very low compressive and shear strength | 
+| Floors | RCC | Compressive strength (10-20 MPa) 1:2:4 to 1:3:6 cement/coarse aggregate/fine aggregate mix) Average to low compressive strength, but very strong compared to walls | 
+| Roof | RCC | Compressive strength (10-20 MPa) 1:2:4 to 1:3:6 cement/coarse aggregate/fine aggregate mix) Average to low compressive strength, but very strong compared to walls | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** In rural areas engineers and architects do not play any role. In urban areas, the structural design may be carried out by the architect. in several situation, the architectural and structural design is also carried out by the contractor since development control rules, where they exist, and very seldom enforced.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** MasonOther
+
+**Roles of those involved in the building process:** The builder does not typically live in this building type. In most situations, the structure is built on the request of the owner and as per his requirements.
+
+**Expertise of those involved in building process:** In rural areas, the masons may not have formal training. In urban areas, most masons have craftsman training. The construction process in urban areas is controlled by the contractors whose commitment to quality may be questionable.
+
+**Construction process and phasing:** This construction is typically constructed by groups of skilled and semi-skilled masons and artisans. The foundations are constructed from stone boulders (if locally available) or from bricks with lean cement mortar. The walls are constructed from brick masonry and lean cement mortar. RCC roof slabs are often constructed by the same group without any design specification for size and placement of reinforcement. In cities, simple tools such as hand-operated concrete mixers are used in some cases. In large portions of western and southern India, the climate is very hot and good quality water is not easily available. In such situations, the cement mortar and concrete may not be adequately cured. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. In urban areas, additional floors are often added without considering structural aspects. The construction is therefore staggered and a gap of several years may exist between the construction of different portions of the building. In rural areas where population density is lower, the buildings tend to expand horizontally and not vertically.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This type of construction is covered by several Indian Standards. IS 1905-1987 Code of practice for structural uses of unreinforced masonry (3rd edition) was first published in 1961. IS 4326-1993 Earthquake resistant design and construction of buildings (2nd revision) was first published in 1967 and has several sections pertaining to unreinforced brick construction. Earthquake resistance is also addressed in IS 13828-1993 Improving earthquake resistance of low strength masonry buildings # Guidelines, and IS 13935-1993 Guidelines for repair and seismic strengthening of buildings.
+
+**Process for building code enforcement:** Building codes, even if they are notified, are seldom enforced. There is no formal procedure for enforcing the building codes.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Are building permits required? Yes, in large cities e.g. Mumbai; permits are not required in smaller municipalities and villages.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** Due to very poor compressive and shear strength of brick walls, earthquake loading leads to shear cracks and crushing of bricks. Partial collapse of brick walls has been observed during past earthquake that can be directly attributed to low strength masonry and mortar. The pattern of damage also makes repair difficult and expensive. In some places, differential settlement has been observed due to inadequate foundation.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** In urban areas, the cost of construction is in the range of Rs. 4,500 to Rs. 5,500 per sq m (US$ 90-110 per sq m). In rural areas, the cost is by approximately 10-25 % lower due to lower labor cost and possibly due to inferior quality of work.
+
+**Labor requirements:** Single family dwelling is typically constructed in about 3 months employing about 15 people. In multi-storeyed houses, the time of construction may be much longer. Slabs are generally cast in a single operation and may require about 50 to 60 people over 12 to 18 hours.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In rural areas, houses of this type are typically occupied by a single extended family, with several generations staying together. In urban areas, the houses may have multiple dwellings with different families living in different apartments/floors.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Brick masonry houses are used by lower middle class and middle class in both rural and urban areas, and the rich class in rural areas. The middle class dwellings are typically smaller in size (less than 100 sq m) while the rich class dwellings may be much larger and even multi-storied. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Personal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance for residential dwellings is not currently available in India.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1967 | Konya | 6.7 | VIII (MSK) | 
+| 1993 | Killari | 6.4 | VIII (MSK) | 
+| 1997 | Jabalpur | 6.1 | VII (MSK) | 
+| 2001 | Bhuj | 7.6 | X (MSK) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Building construction of this type (without seismic provisions) suffered significant damage during Koyna (1967) and Killari (1993) earthquakes. Some damage was also observed during Jabalpur (1997) earthquake. The main damage patterns consisted of: shear cracks in walls, mainly starting from corners of openings; partial out of plane collapse of walls; partial caving-in of roofs due to collapse of supporting walls, and shifting of roof from wall due to torsional motion of roof slab. This construction has experienced moderate to very heavy damage in the 2001 Bhuj earthquake (M 7.6). In the epicenter region, several buildings of this type suffered total collapse of the walls resulting in the death and injury to a large number of people. The overall building performance was dependent on the type of roof system: buildings with lightweight roof suffered relatively less damage while buildings with RC roofs suffered much greater damage (Source: IIT Powai 2001). Importance and effectiveness of seismic provisions was confirmed both in the 1993 Killari earthquake and the 2001 Bhuj earthquake. A building with RC lintel band (located in the Killari village only few kilometers away from the epicenter) shown on Figure 9 sustained the earthquake effects with a minor damage while large majority of other buildings in the same village collapsed, causing over 1,400 deaths. Similarly, unreinforced masonry buildings with RC bands sustained the effects of the 2001 Bhuj earthquake with moderate damage while the neighbouring buildings of similar construction without seismic provisions collapsed (see Figure 23).
+
+**Additional comments on earthquake damage patterns:** Wall: - Shear cracks in the walls, mainly starting from corners of openings. -Partial or complete out-of-plane wall collapse due to the lack of wall-roof anchorage and large wall slenderness ratio Roof and floors: - Partial caving-in of roof due to collapse of supporting walls -Horizontal crack at the wall-roof connection - Shifting of roof from the wall due to torsional motion of roof slab.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Absence of RC bands or poorly constructed bands - Brick masonry strength very low - Poor mortar quality; excessively thick bedding joints - load-bearing walls not properly interlocked - Poor quality of construction -Openings are not properly proporti
+
+**Earthquake-resilient features in walls:** - When present, seismic features (in particular RC bands) are very effective in enhancing seismic resistance, as confirmed in the 1993 Killari earthquake (Figure 9) and 2001 Bhuj earthquake (Figure 23)
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  %%|-%% | o |  %%-|%% | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Lack of integrity (box-type action) | Installation of seismic belt (bandage) at the lintel level; it consists of welded wire mesh installed above the lintel level and anchored to the wall. The mesh is covered with a thin cement plaster overlay (see Figure 25) | 
+| Cracks in the walls | In case of small cracks, pressure injection of epoxy grout; in case of large cracks, filling the gaps with cement grout and jacketing with reinforced cement overlay. (Source: IAEE 1986), see Figure 31. | 
+| Inadequate wall resistance (shear and tensile) | Reinforced concrete jacketing. Difficult to find skilled labor and materials for welded wire mesh in rural areas | 
+| Flexible floor/roof diaphragm (Corrugated metal sheets/timber) | Installation of RC roof band (bond beam). Provision of roof band is expected to enhance the overall integrity and improve torsional resistance of building | 
+| Cracking/ damage of wall corners (due to improper interlocking of cross walls) | Corner strengthening of wall corners - installation of welded wire mesh anchored to the walls with steel dowels and covered with a thin cement plaster overlay (GOM 1998), see Figure 26. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Strengthening of New Construction: Roof: -Reinforced concrete roof band; provision of roof band results in an improved overall integrity and torsional resistance of the building. Wall: -RCC lintel band; very effective, how ever skilled labour and materials may not be available, see Figures 27, 28 and 29. -Improved quality of masonry (bricks and mortar) use of better quality bricks will drastically improve the wall seismic resistance; use or richer cement/sand mortar will improve wall shear resistance. -Provision of vertical reinforcement at wall corners and intersections, see Figure 30 (Source: IAEE 1986)
+
+**Has seismic strengthening described in the above table been performed?** Yes. Seismic strengthening was implemented after the 1993 Maharashtra earthquake. Some existing buildings were strengthened after the earthquake, however majority of new masonry buildings were constructed with seismic provisions incorporated.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Repair and strengthening following earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** Yes. It was a major government-sponsored program.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The construction was performed by the contractors, and the owners were overseeing the construction.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Retrofitted buildings were not subjected to the damaging earthquake effects as yet.
+
+**Additional comments section 6:** A summary of key seismic strengthening provisions for this construction type is presented in Figure 24.
+
+----
+
+==== 7. References ====
+
+  * Innovative Earthquake Rehabilitation in India EERI Lessons Learnt Over Time, Vol.2, Earthquake Engineering Research Institute, Oakland, USA
+
+  * Manual for Earthquake-Resistant Construction and Seismic Strengthening of Non-Engineered Buildings in Rural Areas of Maharashtra GOM Revenue and Forests Department, Government of Maharashtra, Mumbai, India 1998
+
+  * Damage Survey Reports of Koyna, Killari and Jabalpur Earthquakes in published literature
+
+  * Guidelines for Earthquake-Resistant Non-Engineered Construction IAEEThe International Association for Earthquake Engineeing, Tokyo, Japan (also available via Internet at www.nicee.org) 1986
+
+  * The Bhuj Earthquake of January 26, 2001 - Consequences and Future Challenges Department of Civil Engineering, Indian Institute of Technology Bombay, India and Earthquake Disaster Mitigation Research Center (EdM), Miki, Hyogo, Japan (CD-Rom) 2001
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Associate Professor | Civil Engineering Department | Indian Institute of Technology, Powai, Mumbai | rsinha@civil.iitb.ernet.in | 
+| Svetlana Brzev | Instructor | Civil and Structural Engineering Technology | British Columbia Institute of Technology3700 Willingdon Avenue, Burnaby, BC | sbrzev@bcit.ca | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

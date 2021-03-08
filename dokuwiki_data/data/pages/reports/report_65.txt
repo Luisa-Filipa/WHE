@@ -1,0 +1,321 @@
+====== Wood frame single family house, USA ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 65
+
+**Building Type:** Wood frame single family house
+
+**Country:** USA
+
+**Author(s):** Chris Arnold
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in In the earthquake-prone regions of the Western USA wood frame housing accounts for about 98% of existing and new single family houses that are constructed. There is also a considerable market for prefabricated manufactured houses, generally of low cost, that use a factory-built version of standard wood frame construction. This type of housing construction is commonly found in rural, sub-urban and urban areas. There are many of these buildings in suburban areas too. Some wood frame single-family houses may still be found in a few urban areas: these are generally large houses that are now remodeled into a number of apartments or professional offices.
+
+**Summary:** Wood frame construction is typical for single family houses throughout the USA.. Historically, in the Eastern, Midwestern and Southern USA, brick masonry and stone were used for house construction, but this began to be superseded by wood frame around the turn of the nineteenth century. In the earthquake prone western regions of the USA stone and brick has been little used, and wood frame has been dominant throughout the development of these regions. The development of today#s wood frame construction began with the appearance of standardized sawn lumber and cheap machine made nails. By 1840 the typical wood frame house was built of milled lumber in standard sizes.(Reference 1) The standardized wood frame structure is now augmented by a wide range of compatible standardized components such as doors, windows, electrical and plumbing fixtures and the like, that are designed to be easily installed in the wood structure. Because wood frame walls are hollow, alternative levels of insulation can be installed enabling any climatic conditions to be accommodated and plumbing and electrical services are easily installed within walls, in the open spaces above ceilings, within the floor structure and in the space between the first (ground) floor and the ground below. Because of their light weight (compared to brick or stone), their relatively large number of walls, and the use of a multiplicity of nails for connections, woof frame houses have traditionally performed well in earthquakes. Deaths and serious injuries are very rare in these structures. Today#s wood frame construction is highly codified and regulated, with a good standard of inspection by suburban local building departments in earthquake-prone regions. In smaller towns and rural areas quality control may be lacking.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The standardized wood frame construction described here applies to houses built approximately from the 1940#s to today. Many de
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeU- or C-shape
+
+**Additional comments on plan shape:** There is great variation in building configuration. Early small houses were generally rectangular or L-shaped or U- shaped. As house increased in size many variations of these basic forms were used. In addition, setbacks on the upper floors are common, and combinations of one and tow-story portions of the house. Sometimes portions of the house may be designed as post-and #beam structures, relying on sufficient shear walls to provide lateral resistance. In more recent merchant- built houses and architect designed houses two story interior spaces are common, often at the entrance or main living areas. Individual architect designed houses often have extreme configuration irregularities.
+
+**Typical plan length (meters):** 15
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.43
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Stud wall frame with plywood/gypsum board sheathing
+
+**Additional comments on structural system:** Gravity loads are accommodated by wood #studs#, commonly spaced at 16 inches (approx 400mm.) centers. The entire structural system is typically constructed from milled lumber which is 2 inches (approx. 50mm.) in thickness. Wood studs are 2 inches by 4 inches in section (approx 50mm X 100mm). If deemed necessary, the stud spacing may be reduced to 12 inches (approx 300 mm.) and the stud width increased to 6 inches (150 mm.). Floor and roof framing members are 2 inches in thickness and may be from 6 to 14 inches (150mm to 350mm) in depth. Construction lumber is supplied by merchants in standard dimensions of multiples of 2 inches: thus heavier beams are commonly 4 or 6 inches in width and 6 to 12 inches in depth. 2 inch wide members are connected by nails: larger members are connected by bolting. In the last two decades the use of metal nailed connectors has become common. (the finished dimensions of construction lumber are less than the nominal dimensions, which refer to the rough, unplaned material. A 2X4 is commonly 1.1/2 inches wide by 3.1/2 inches deep (approx. 40mm.X 90mm.) Lateral resistance is provided by a shear wall system consisting of plywood or manufactured wood panels (#particle board#) nailed to the vertical wood studs, creating shear walls. In lower seismic zones shear resistance may be provided by gypsum sheathing nailed to the studs. The vertical studs are connected to the foundation by bolting, and to the plywood or particle board panel diaphragms by nailing. A direct load path from roof to foundation is provided. The thickness and types of shear panels and the size and spacing of nails are specified in the building code. Older houses, before the common use of plywood, employed horizontal or diagonal sheathing nailed to the studs, or wood diagonal bracing nailed to the studs. When the structure is complete, waterproof building paper is attached to the exterior sheathing and the exterior finish material is applied. This is commonly cement plaster (#stucco#), wood or vinyl planks, or aluminum planks (in lower cost houses). In addition, brick masonry or stone is sometimes applied to the exterior as a non-load-bearing veneer.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** There is wide variation in wall density.
+
+**Wall Openings:** There is great variation in openings in this type of construction. Early houses ( 1940s and 1950s) had relatively small openings, due to limitations in available window sizes . Architectural trends in the 1960s, together with the development of aluminum windows, resulted in large #picture windows#, #window walls# and the use of large sliding glass doors (#patio doors#.) Energy conservation requirements in the 1970s caused a reduction in window openings, but economic improvement and the development of standardized double glazed windows resulted in increasing openings. The mild climate in the western USA also encouraged large glazed areas and #indoor-outdoor living#. In general, openings are large and irregular: large skylight areas are now common, which may diminish the integrity of the roof diaphragm.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modifications are not widespread occurrence in this building type. Possible patterns of modification are demolishing interior walls and extensions to buildings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Other: Wood post and pier Houses constructed on soft of unstable soil sometimes use a foundation composed of a number of short concrete piles.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Close spaced beams that support wood planks, plywood, or manufactured wood panel sub-floor or roof structure. Although plywood diaphragms are nominally flexible, in wood frame construction the lightness of the entire structure is such that the diaphragms are assumed to maintain structural integrity in a design earthquake.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Close spaced beams that support wood planks, plywood, or manufactured wood panel sub-floor or roof structure. Although plywood diaphragms are nominally flexible, in wood frame construction the lightness of the entire structure is such that the diaphragms are assumed to maintain structural integrity in a design earthquake.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 3-6 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame |  | These are described in Section 2 | 
+| Foundations |  | These are described in Section 2 | 
+| Floors |  | These are described in Section 2 | 
+| Roof |  | These are described in Section 2 | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** Single family houses are not required to be architect or engineer designed. Developer built housing is generally designed by draftspersons, who though not licensed architects, specialize in residential design. In California, an increasing number of larger developers are now using architectural firms that specialize in residential design. Since developers' houses are now often of considerable size and complexity, it is common to employ engineers. Houses designed for individual owners are more likely to be architect and engineer designed. It has been estimated that approximately 2% of houses in the United States are designed by architects.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Commonly built by developers, or by a contractor for an individual owner.
+
+**Expertise of those involved in building process:** Basic framing is constructed by carpenters: sometimes this is subcontracted by the general contractor to a firm that specializes in wood frame construction. Installation of other components and specialized construction (such as installing windows or applying final finishes, exterior and interior, etc) is performed by specialized subcontractors to the general contractors. Each will be skilled in their specialty: a house may typically by employ over a dozen subcontractors.
+
+**Construction process and phasing:** Typically built by a developer /builder (on speculation) or by a builder contracted by the owner. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Wood frame construction has been regulated for several decades in California. The current code (such as the Uniform Building Code, used in California) defines wood frame construction in Section 23, and Earthquake requirements in Section 1630 (Reference 3). Structures that are one or two stories in height can use prescriptive code requirements that define the size and quality of all materials and will size framing members relative to spans and loads without the need for structural analysis. Three story structures require structural analysis, and any structure of irregular configuration or with other non-typical characteristics may require analysis at the discretion of the building official.
+
+**Process for building code enforcement:** Complete plans and specifications must be submitted to the local building department for checking and approval. Building inspectors will inspect the structure at key points in the construction process. These are at such times as just prior to pouring foundation concrete, and at the completion of structural framing.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+**:** 
+**Building Maintenance and Condition:** 
+**:** 
+**Typical problems associated with this type of construction:** 
+**Who typically maintains buildings of this type?:** Owner(s)
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Construction cost varies widely, depending on the geographic region and the quality and complexity of the building. In California, construction costs vary from about 60 US$/ft# to 200 US$/ft# (approx. 540 US$/m# to 1800 US$/m#). Houses are generally sold by developers on an all-inclusive basis: house and land, with some basic appliances, ready for the owner to move in. The house shown in Figure 3 is currently offered for sale at US$ 693,000. This house in constructed in the San Francisco Bay area, in a region with greatly inflated prices. In other parts of the Bay Area (further from the urban centers) the price might be half. In other parts of the country a comparable house might be one third the price or less. The difference is due to higher wage s and living costs in the western United States compared to many other states. The hypothetical house shown in Example 2, Section 2.3, is estimated to cost US$ 334,670 (in 2001 prices), or 127 US$/ft# in Los Angeles. These prices are for construction only and do not include land and marketing. They are median price estimates (Reference 2). Approximate regional variations are: Alaska: 146 US$/ft# Phoenix, Arizona 102 US$/ft#. Seattle, Washington 111 US$/ft# San Francisco 136 US$/ft#.
+
+**Labor requirements:** Depending on size and complexity, a wood frame house takes from 4 months to a year to construct, exclusive of time required to obtain financing and necessary building and planning permits.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically one family will occupy a house. Sometimes the house owner may rent out rooms to others, and in very low economic groups two or more families may share the house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Typically, in a house with pre-school children the day occupancy might be two or three. In a house with school age children, where both parents work, the day occupancy might often be zero. In a house with three or more children, the night time population might be five or more. At the upper income levels it is unusual for another relative beside the parents to live in the house. At the lower income levels extended families (grand parents, aunts, uncles) are fairly common.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The basic construction will apply to all houses: as the economic level rises the house will become larger, better finished and with superior equipment. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedSmall lending institutions/microfinance institutionsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** The majority of houses are financed by banks or other lending institutions. Few houses are government financed , but some may obtain bank loans that are assisted by specific federal government programs, such as for veterans of the armed forces.
+
+**Type of Ownership:** Own outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** Very few houses are owned outright.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** After the Northridge earthquake of 1994.private agencies withdrew from the business of residential earthquake insurance. Subsequently, the state California Earthquake Authority was set up, which provides "mini" earthquake insurance policies, not covering pools, patios, fences, driveways or detached garages. The deductible is 15%: the policies cover no more than US$ 5000 worth of home contents and provide a minimum of US$ 1500 in living expenses. The cost of these policies varies throughout the state depending on the earthquake risk and the age and construction of the home. The cost is highest in San Francisco, where the policy for a US$ 300,000 wood frame house built before 1960 would cost US$ 1,710 per year. In Sacramento, the same policy would cost US$ 600. More recently, some private insurance companies have offered more favorable rates, with premium deductions if mitigation measures, such as bracing cripple walls, have been undertaken (Reference 4).
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** In earthquake-prone country, in which earthquake codes are in effect, it is assumed that the house is reasonably earthquake resistant, and so no premium discounts are offered for superior construction.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1971 | San Fernando Valley | 6.5 |  | 
+| 1983 | Coalinga | 6.7 |  | 
+| 1989 | Loma Prieta California | 7.1 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The Northridge (Los Angeles) earthquake of 1994 is estimated to have experienced a magnitude of M L = 6.4 on the Richter Scale. This was regarded as a moderately strong tremor but the specific characteristics of the earthquake showed it to be one of the worst in recorded history in the United States. A random sample of 340 single-family houses within a 10 mile radius of the epicenter provided the following analysis of damage: COMPONENT DAMAGE in % of sample NONE LOW MODERATE HIGH Foundation 90 8 1 1 Walls and roof 98 2 0 0 Exterior finish 50 46 3 1 Interior finish 50 46 4 0 Source: Adapted from report by NAHB (reference 3) The damage scale used was as follows: NONE No visible damage LOW Component stressed but functional MODERATE Severe stress evident, permanent deflection or near failure in any structural component HIGH Partial or complete failure of any structural component About 90% of the surveyed homes were built prior to 1970, using simple prescriptive requirements. Most of the homes were one-story. Structural damage was very infrequent and primarily located in the foundation system. Less than 2% of homes suffered moderate to high levels of damage and most occurrences were associated with localized site conditions including liquefaction, fissuring and hillside slope failures. In general, the three main types of damage are: #Damage to exterior walls, particularly from unbraced cripple walls and where stucco (cement plaster) is used without wood sheathing. #Damage (typically overturning) to water heaters #Damage to interior gypsum faced walls
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The entries in the table assume a well-designed building constructed in accordance with current codes.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** A well designed structure constructed in accordance with current codes should provide a satisfactory resistant structure. Common deficiencies in existing structures are: The most common is that of an unbraced #cripple wall#. (The cripple wall is the short portion of wall between the foundation and the underside of the first floor structure) In older structures this often has no lateral bracing with the result that it racks and collapses. The damage is not life threatening but is expensive to repair and makes the building uninhabitable. Inadequate shear resistance may occur in older structures that are deficient in sheathing or bracing. This may result in racking that damages finishes and components such as windows. Many older house were not bolted to their foundations and may move under ground motion , causing damage to the structure and possible severance of water, gas or electrical connection . Poor construction quality, even in newer structures, may result in damage .
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| unbraced cripple wall | Unbraced cripple walls are the most common deficiencies in wood frame houses. The figure shows the typical way in which an unbraced cripple wall is strengthened. It is not necessary to brace the entire wall: all corners should be braced together with some intermediate portions of wall, depending on the length of the walls. The work can be done at very low cost by a home owner who has moderate carpentry skills. If the work is performed by a contractor it may cost from $3,000 to $10,000 depending on the size and complexity of the work. See Figure 21. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * American Building, the Historical Forces that Shaped it Fitch,J.M. Houghton Mifflin Co., Boston, MA 1966
+
+  * Improving Loss Estimation for Woodframe Buildings CUEEE-Caltech Woodframe Project, Draft Report, Berkeley, CA 2001
+
+  * Uniform Building Code, 1994 Edition International Conference of Building Officials, 5360 Workman Mill Road, Whittier, CA 90601 1994
+
+  * Earthquake Basics: Insurance Roth,Jr., J.R. Earthquake Engineering Research Institute, Oakland California 1997
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Chris Arnold | President | Building Systems Development Inc | PO Box 51950 Palo Alto, CA | Chrisarno@aol.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Rich Eisner | Regional Administrator | CISN & Earthquake Programs, Governor's Office of Emergency Services | Oakland CA 94610-2421, USA | rich_eisner@oes.ca.gov | 

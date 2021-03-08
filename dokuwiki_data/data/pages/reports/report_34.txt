@@ -1,0 +1,319 @@
+====== Buildings with hollow clay tile load-bearing walls and precast concrete floor slabs, Kyrgyzstan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 34
+
+**Building Type:** Buildings with hollow clay tile load-bearing walls and precast concrete floor slabs
+
+**Country:** Kyrgyzstan
+
+**Author(s):** Ulugbek T. Begaliev, Svetlana Uranova
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in large parts of Kyrgyzstan: Most of them are located in urban areas.
+
+**Summary:** Buildings of this type are characterized with load-bearing masonry walls and precast concrete floors. Typical buildings of this type are 3 to 4 stories high and they are characterized with the two longitudinal walls and several cross walls. There are many existing buildings of this type in the Kyrgyzstan, and most of them were constructed in the 1960's. This construction practice was banned after 1966, in Code provisions which required restricted size of cores in hollow clay tiles (blocks). The exterior walls are made of hollow clay masonry tiles (blocks). In some cases there are two wall wythes: the exterior wythe made of hollow clay tiles and the interior wythe made of solid clay bricks. Floor system consists of precast reinforced concrete hollow core slabs. Buildings of this type were built in areas with high seismic design intensity (8, 9 and higher on the MSK scale). This building type is considered rather vulnerable to seismic effects.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Usually there are 32-64 units in each building.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Typical shape of a building plan for this housing type is rectangular.
+
+**Typical plan length (meters):** 60
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 2.7
+
+**Type of Structural System:** Other
+
+**Additional comments on structural system:** Lateral load-resisting system: Lateral load-resisting system consists of exterior walls of small-size clay block masonry and interior brick masonry walls. The exterior walls are made of hollow clay masonry tiles (blocks). The block dimensions are: 138 mm (height)x120mmx250mm. The blocks have oval hollow cores (90mmx16mm). The area of the cores accounts for 25-33 % of the block area. Due to the large area of hollow cores, masonry is characterized with rather low tensile resistance. Usually mortar is of a poor quality. In some cases, exterior walls consist of two wythes; the exterior wythe is made of hollow clay tiles whereas the interior wythe is made of solid bricks (dimensions 250 mm thickness x 120mm x 70 mm). Floor system consists of precast reinforced concrete hollow core slabs. Dimensions of slab panels are 5.86m length x1.2m width. The panels are combined in a uniform diaphragm by means of reinforced concrete belt (cast in-situ reinforced concrete beam). Windows and door lintels are of precast concrete construction. Gravity load-bearing system: Gravity load-bearing structure consists of load-bearing masonry walls and concrete floor slabs.
+
+**Gravity load-bearing & lateral load-resisting systems:** Masonry: Clay brick/block masonry walls: Unreinforced brick masonry in cement mortar with reinforced concrete floor/roof slabs
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Typical window size is 1.2m x 1.2m. Typical door size is 0.9m(width) x 1.9m(height). The overall window and door area accounts for 10 to12% of the overall wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** There are lot of modifications at the ground floor level in buildings of this type. Typical modifications include installation of new door and windows openings, complete/partial removal of existing walls, and horizontal extension (addition of rooms).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Precast hollow core concrete slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Precast hollow core concrete slabs
+
+**Additional comments section 2:** Typical separation distance between buildings: 10 meters or more
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Masonry | Wall: Characteristic Strength- Tension resistance of mortar: less than 60 MPa Mix Proportion/Dimensions- mortar mix 1:12 (cement/sand)and less (different, depending on mix materials) | 
+| Foundations | Concrete | Characteristic Strength: 5-7 MPa (cube compressive strength) Mix Proportion/Dimensions: 1:3:6 (different, depending on mix materials) | 
+| Floors | Reinforced Concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) steel: flow limit 390 MPa, Elasticity Modulus 200MPa Mix Proportion/Dimensions: 1:1,7:3,2 (different depending on type of mix materials) | 
+| Roof | Reinforced Concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) steel: flow limit 390 MPa, Elasticity Modulus 200MPa Mix Proportion/Dimensions: 1:1,7:3,2 (different depending on type of mix materials) | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Design institutes develop design documentation.
+
+**Expertise of those involved in the design process:** Expertise is necessary for the design and the different stages of construction according to the laws of the Kyrgyz Republic.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** These buildings are constructed by contractors; special construction companies perform construction.
+
+**Expertise of those involved in building process:** Engineers play a leading role in each stage of construction.
+
+**Construction process and phasing:** Precast elements and bricks are made at the plant. Main equipment for construction is: crane, welding equipment and concrete mixers. This building is typically constructed incrementally and is not designed for its final constructed size.
+
+**Construction issues:** The problems are associated with the use of hollow clay tiles (blocks) for load-bearing walls, large span for cross walls, and poor quality of construction.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** SN-8-57.Building norm and guiding principles in seismic regions, SNiP II-A.12-62 Building in seismic regions:Design codes. The first code/standard addressing this type of construction was issued 1957; the most recent code/standard addressing this construction was issued 1981. Applicable national building code, material codes and seismic code/standards: SNiP II-7-81. Building in Seismic Regions.Design code
+
+**Process for building code enforcement:** Building permit will be given if the design documents have been approved by State Experts. State Experts check the compliance of design documents with pertinent Building Codes. According to building bylaws, the building cannot be used without the formal approval of a special committee. The committee grants approval (permit) if design documents are complete and the construction has been carried out in compliance with Building Codes.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderRenter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** For load-bearing structure only: about $ 150/sq.m.
+
+**Labor requirements:** It would take 12 to 24 months for a team of 15 workers to build the structure only.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each floor in the building consists of 2 to 4 housing units. One family occupies one housing unit. Depending on the number of building units and stories, 32 to 64 families occupy one building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** 80% poor, 20% middle class
+
+**Typical Source of Financing:** Personal savingsGovernment-owned housing
+
+**Additional comments on financing:** Before 1990 all construction typically had a government source of financing. Now, all existing apartment buildings are private.
+
+**Type of Ownership:** Own outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1992 | Suusamir (Kyrgyz Republic) | 7.4 | 7 (MSK) | 
+| 1986 | Kairakum (Kyrgyz Republic, Tadjikistan) | 6.8 | 7 (MSK) | 
+| 1988 | Spitak, Armenia | 7 | 10 (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Diagonal cracks in wall, cracks at the wall corners, out-of-plane collapse walls, partial or complete collapse of buildings.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included damage to walls: inclined and diagonal cracks in the piers, destruction of building corners, partial collapse of walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismic Hazard and Buildings Vulnerability in Post-Soviet Central Asia Republics. Edited by Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker. Kluwer Academic Publishers, P.O.Box 17, 3300 AA Dordrecht, The Netherlands. (Proceeding of the NATO Advanced Research Workshop on Earthquake Risk Management Strategies for Post-Soviet Central Asian Republics. Almaty, Kazakhstan, 22-25 October 1996).
+
+  * Building and Construction Design in Seismic Regions. Handbook. Uranova S.K., Imanbekov S.T...KyrgyzNIIPStroitelstva, Building Ministry Kyrgyz Republic. Bishkek. 1996.
+
+  * SNiP II-7-81* Building in seismic regions. (Building Code). Moscow, 1981. Klyachko M. A. Earthquakes and Us. Intergraf, Saint Peterburg, Russia, 1999 (in Russian).
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ulugbek T. Begaliev | Head of Department | KNIIPC | Vost Prom Zone Cholponatisky 2, Bishkek 720571 Kyrgyz Republic | utbegaliev@yahoo.com | 
+| Svetlana Uranova | Dr., Head of the Laboratory | KRSU | Kievskai 44, Bishkek 720000 Kyrgyz Republic | uransv@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, Canada | sbrzev@bcit.ca | 

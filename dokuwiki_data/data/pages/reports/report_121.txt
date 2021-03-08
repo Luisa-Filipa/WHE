@@ -1,0 +1,323 @@
+====== Lower and middle class residential building in rural areas of central Italy, Italy ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 121
+
+**Building Type:** Lower and middle class residential building in rural areas of central Italy
+
+**Country:** Italy
+
+**Author(s):** Riccardo Vetturini, Fabrizio Mollailoli, Paolo Bazzurro
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Central Italy. This housing type constitutes approximately 60% of the entire building stock in the rural areas of Umbria.
+
+**Summary:** Typical house occupied by low-income and middle-class families in rural areas of central Italy. The building studied in this report is located in the municipality of Nocera Umbra, province of Perugia, Umbria region, Italy. This type of building, with minor differences in construction practice and material, is frequently found throughout central Italy. The four-story building was constructed more than 200 years ago and is located on a steep hillside, with the elevation facing the valley completely above grade; the uphill elevation is two stories above grade, withthe two stories below ground-level surrounded on two sides by earth-retaining stone masonry walls. This building was severely damaged by the 1997 Umbria-Marche earthquake and was further weakened by the elements before repair and reconstruction efforts began in 2003. Figures 1 through 5 show the damaged building before reconstruction. Figure 6 helps to locate this building in the cluster of buildings around the old citadel.The overall floor plan of this building is L-shaped; it accommodates two residential units and has a basement with four separate spaces and entrances for housing farm animals and storing tools. Building plans showing the extent of wall and floor reconstruction can be seen in Figures 7 to 9. Figures 11 to 13 display details of the seismic retrofit. Most buildings of this type, however, are smaller in size, rectangular in shape, and often have one unit. It is very common for these buildings to share perimeter walls with adjacent buildings. In these rural regions it is typical for many generations of a single family to live in the same residence and the building has undergone numerous additions andmodifications over its life span to accommodate changing living requirements. The construction modifications are typical of Italian rural regions. The architecture is fairly plain with few architectural details of significant historic value; these were repaired and restored during the seismic reconstruction project.Gravity loads in the building ar
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This construction type is still being practiced today, although someof the details and materials used in new buildings may not b
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, with an opening in planL-shape
+
+**Additional comments on plan shape:** The shape is irregular, often rectangular. In this case it has a L-shaped configuration.
+
+**Typical plan length (meters):** 20
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3.2
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** Stone masonry walls (see above) and slabs with wooden planks and beams or, more recently, with steel beams and small clay-brick vaults in between. Masonry walls are made of fairly regularly cut stones of regular size for the exterior wythe. The interior wythe is often made by stone of smaller size and rounder in shape. The space in between the wythes is filled with debris of even smaller size (walls "a sacco"). Bond-stones are often absent and the lime mortar is of poor quality. Thelocal presence of clay bricks is not unusual. Steel ties are rarely present.
+
+**Gravity load-bearing & lateral load-resisting systems:** The building belongs to Type 1, except that lime mortar has been used instead of mud mortar. The exterior wythe,and sometimes the interior one as well, are made of stone blocks that are regularly cut in similar dimensions. Only thespace between the wythes is filled with rubble stones.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** About 15 openings for any typical floor. The dimensions of the windows are typically 1.0 m x 1.4 m and the dimensions of thedoors are 0.90 m x 2.0 m with a void-to-wall ratio of about 15%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Over the centuries, these residential buildings have undergone several transformations, mainly due to the different living needs of the owners (e.g., more children and new marriages). These needs generated either enlargement of the living area and the addition of stories or, more simply, internal changes to the layout, to the internal and external openings, and to the fireplace locations. All these changes often weakened the existing structure because the new openings were frequently not coupled with adequate strengthening measures for the affected walls. It is common to find old doors and windows closed up by a simple layer of clay bricks and large niches or unused fireplaces, whichsignificantly compromise the structural uniformity of the walls. There is a unique means of egress from the main building and from each fo the basement units.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Vaulted masonry floorOther floor system
+
+**Additional comments on floor system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing. Floor diaphragms are flexible.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roof structure is made of timber trusses, connected by beams of local chestnut wood and purlins. The interior part of the roof cover is made of flat clay bricks covered by mortar, which provides the bed for two layers of the typical clay brick tiles called "coppi." "Coppo" is the name of a tile that is shaped like a half cylinder (cut through the longitudinal dimension). Timber: wood planks or beams with ballast that support clay tiles.
+
+**Additional comments section 2:** This type of building can be found both on hilly and flat areas throughout central Italy. There is no typical distance between adjacent buildings of this kind. The separation distance could range between zero (i.e., common wall) to hundreds of meters in the case of isolated buildings in the countryside.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Stone blocks | Wall: Characteristic Strength-30 kPa (shear)Mix Proportion/Dimensions- The lime/sand (perhaps 1/3) mortar is of poor quality. The dimension of theblocks is variable: ranging from 50 x 30 x 20 cm for the largest blocks downto 10 x 5 x 3 cm for the smallest ones.Walls "a sacco" | 
+| Foundations | Stone blocks | Characteristic Strength: 30 kPa (shear)Mix Proportion/Dimensions: The lime/sand (perhaps 1/3) mortar is of poor quality. The dimension of theblocks is variable: ranging from 50 x 30 x 20 cm for the largest blocks downto 10 x 5 x 3 cm for the smallest ones.Taperedwalls "ascarpa" | 
+| Floors | Wood planks andbeams that support claytiles. Vaulted ceilings | Characteristic Strength: 50 MPa (tension-beams) 30 MPa(compression-beams) | 
+| Roof | Wood planks andbeams that support claytiles. Vaulted ceilings | Characteristic Strength: 50 MPa (tension-beams) 30 MPa(compression-beams) | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** Input from engineers and architects was absent in most cases.
+
+**Expertise of those involved in the design process:** The construction was based on the state of practice and it was dictated by purely geometrical rules. For example, the maximum distance between walls was determined by the length of the timber beams that the local trees (e.g., chestnut and oak) could provide. From these considerations it is apparent why the room dimensions rarely exceeded 5.5 m. The thickness of the walls ranged from 50 to 80 cm above ground and exceeded 1.0 m close to the foundation (walls a scarpa). In most cases the construction was essentially based on the mason's experience without supervision from formally trained professionals (engineers or architects).
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** These buildings were usually inhabited by lower-income families. Local craftsmen or the owner themselves built these residential houses without any supervision by local architects. This construction type is common in predominately rural and agricultural areas. The construction process was generally influenced by the number of family members, animals, and agriculture tools that needed to be accommodated. The building layout, both in plan and in elevation, changed over time to serve evolving living requirements. The construction tools were simple (trowel, etc.).
+
+**Expertise of those involved in building process:** The construction was based on the state of practice and it was dictated by purely geometrical rules. For example, the maximum distance between walls was determined by the length of the timber beams that the local trees (e.g., chestnut and oak) could provide. From these considerations it is apparent why the room dimensions rarely exceed 5.5 m. The thickness of the walls can range from 50 to 80 cm above ground and exceed 1.0 m close to the foundation (walls "a scarpa"). In most cases the construction was essentially based on the mason's experience without supervision from formally trained professionals (engineers or architects).
+
+**Construction process and phasing:** The construction process was generally influenced by the number of family members, animals, and agriculture tools that needed to be accommodated. The building layout, both in plan and in elevation, changed over time to serveevolving living requirements. The construction tools were simple (trowel, etc.). The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size. Again, multiple additions and interior layout changes took place over time.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This building type predated modern design codes.However, the seismic retrofit of the building was based on the local regulations DGR 5180/98 and L.61/98 of the Umbria region. Year that the first code or standard addressing this construction type was issued: 1981 Building Code, Material Codes, Seismic codes/standards: The first code was issued after the 1980 Irpinia earthquake. Decretory Ministerial 2-7-1981: ?Normative per la riparazione ed il rafforzamento degli edifici danneggiati dal sisma.? (Revised in 1986, 1996, and 2004). New brick masonry structures are addressed in a different standard. Most recent codes/standard addressing this construction type: 2004.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** At present, all these constructions are registered and subject to national urban codes. This, however, was not the case at the time of their original construction. Hence, the answers above are valid for retrofitting and seismic upgrade projects but not for the original construction. Building permits are required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+ 
+**Typical problems associated with this type of construction:** Low strength of the bearing walls due to poor quality of the building material, inadequate connection between the interior and exterior wythes, and suitable connections between orthogonal walls and floor slabs.Floor slabs and roof structures without a suitable connection to the walls (e.g., the timber roofs do not have a ring beam and lack adequate connection between primary and secondary beams.Outward thrust of the vaults is not balanced.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** In this region, the owners of collapsed buildings after the 1997 Umbria-Marche earthquake received an amount in the neighborhood of 700 $/m2 (about $550/m2) from the government to rebuild in accordance with the currentregulations for new buildings.This amount is a lower-range estimate of unit construction costs for new buildings.Please note that this construction technique is seldom used today for new buildings. The unit construction costs for retrofitted buildings vary significantly from case to case.
+
+**Labor requirements:** Several months, depending on the size.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one or two units in each building; two units in the exampleshown here. In addition, there are four spaces in the basement with separate entrances. Each space was used for housing farm animals and storing tools.Typical one bathroom and one latrine per housing unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** The housing price can vary considerably, depending on location, the state of preservation, and the level of modern comforts present. These houses are usually inhabited by lower-class families with modest incomes and sometimes by middle-class families. Some houses are used today as holiday homes (mainly by relatives living in other parts of the country).Economic Level: The ratio of price of each housing unit to the annual income can be 10:1 for poor families.and 5:1 for middle class families.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** No earthquake insurance is available for residential building in Italy at the time of this writing.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1279 | Serravalle Chienti, Nocera Umbra, Camerino | 6.4 | IX | 
+| 1747 | Gualdo Tadino, Nocera Umbra | 6 | IX | 
+| 1751 | Gualdo Tadino, Busche | 6.3 | X | 
+| 1832 | Valle Umbra, Cannara, Foligno | 6.1 | IX-X |
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The area where this building is located, which was hit by the 1997 Umbria-Marche seismic sequence, belongs to a region of the Apennines with significant historical seismicity. The seismic catalogues and specific studies (e.g., Decanini et al. 2000 and 2002 in Section 11) show numerous earthquakes in this area with epicentral intensity between VII and X degrees of the Mercalli-Cancani-Sieberg scale. Within the examined seismic region, 15 destructive earthquakes with M greater than or equal to 6 may be found from the historical data.
+
+**Additional comments on earthquake damage patterns:** (walls): Detachment between slabs and walls; collapse of the roof structure; detachment of the corner walls; diffuse diagonal cracks; compression of the base of the foundation "tapered" walls(roof/floors): Collapse of most of the roof structure. Figures 1 to 5 show the damage pattern that was caused by the 1997 Umbria-Marche earthquake.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The quality of workmanship and level of maintenance vary considerably from building to building. A typical value of the ultimateshear strength of this type of stone wall is about 3.0 t/m2 (30 kPa).
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Lack of efficient wall-to-wall connections; poor-quality wallconstruction due to the lack of bond stones between the wythes(walls a sacco are known to perform very poorly during earthquakes);lack of vertical alignment of openings in the facade that interrupts thecontinuity of walls from the foundation to the roof.
+
+**Earthquake-resilient features in walls:** Presence of tapered walls ("a scarpa" - literally, shaped like a shoe) at the ground floor; thick walls throughout the building
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Lack of efficient slab-to-wall and roof-to-wall connections.
+
+**Earthquake resilient features in roof and floors:** A limited number of tie-rods.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Ineffective connection between the wythes andexisting deficient structural components, (e.g.,flues, niches, etc.). | Injection of good-quality grout and the addition of artificial diatones (bond-stones). In the mostserious cases, the walls were replaced. The niches were closed and more seriously damaged wall partswere fixed using the cuci-scuci technique. | 
+| Lack of effective wall-to-wall connections. | Insertion of tie-rods inside the wall connections. | 
+| Lack of effective wall-to-slab connections | Insertion of tie-rods between the floor slabs and the adjacent walls | 
+| Lack of effective connection between the roofstructure and the walls. | Addition of a tie-beam at the connection between the roof structure and supporting walls. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The extent of the reconstruction of this building and several construction details of the strengthening measures thatwere adopted are shown in Figures 7 to 13.
+
+**Has seismic strengthening described in the above table been performed?** Yes, the description of the retrofit measures provided in the table is routinely performed in design practice.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** As a repair following earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The original design most likely did not involve engineers or architects; local masons and carpenters paid by the owner,or the owners themselves, undertook the construction. An engineer designed the retrofit and a contractor performedthe work.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The retrofitted building has not experienced a significant earthquake since the completion of the strengthening.However, the strengthening measures adopted are believed to have significantly improved the seismic behavior of thisbuilding.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Some remarks on the Umbria-Marche Earthquakes of 1997Decanini,L., Gavarini,C., and Mollaioli,F.European Earthquake Engineering, 3, 2000, pp 18-48 2000
+
+  * Structural and seismological implications of the 1997 seismic sequence in Umbria and Marche, ItalyDecanini,L., Mollaioli,F., and Oliveto,G.Innovative Approaches to Earthquake Engineering, G. Oliveto, Editor, WIT Press, Southampton, pp. 229-323 2002
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Riccardo Vetturini | Senior Engineer |  | Corso Cavour 84, Foligno (PG) , ITALY | posta@riccardo vetturini.com | 
+| Fabrizio Mollailoli | Engineer/Associate Professor | Dipartimento di Ingegneria Strutturale e Geotecnic, University of Rome ?La Sapienza? | Via Gramsci 53, ROMA 197, ITALY | fabrizio.mollaioli@uniroma1.it | 
+| Paolo Bazzurro | Engineer | AIR-Worldwide | 388 Market Street Suite 750, San Francisco CA 94111, USA | pbazzurro@air-worldwide.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

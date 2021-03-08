@@ -1,0 +1,318 @@
+====== Precast concrete panel apartment buildings, Romania ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 83
+
+**Building Type:** Precast concrete panel apartment buildings
+
+**Country:** Romania
+
+**Author(s):** Maria Bostenaru Dan, Ilie Sandu
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all major urban areas in the country. This type of housingconstruction is commonly found in urban areas.
+
+**Summary:** This multi-family urban housing construction waspracticed in Romania between the 1960s and1990s. The load-bearing system is a precastreinforced concrete large panel construction.Buildings of this type are typically highrises (10or 11 stories high), although there are also lowtomedium-rise buildings (4 to 8 stories high) ofthis construction type (with different structuraldetails). In general, buildings of this type are ofrectangular plan, with honeycomb ("fagure")layout, housing typically four apartments perfloor. Wall panels are laid in both the longitudinaland the transverse direction. The panels aremechanically coupled at the base, withcontinuous vertical reinforcement bars.This region is well known as a seismically pronearea, with the epicentre of damagingearthquakes close to Vrancea. Earthquakes withthe Richter magnitude of over 7.0 occur onaverage every 30 years. Bucharest, the capital,is located around 150 km south of the epicentreand lies in the main direction of the propagationof seismic waves. The Bucharest area is locatedon the banks of the Dmbovita and Colentinarivers, on nonhomogenous alluvial soil deposits.During the earthquake of 4 March 1977 (Richtermagnitude 7.2), over 30 buildings collapsed inBucharest, killing 1,424 people. There was nosignificant damage reported to the buildings ofthis construction type in the 1977 earthquake.Consequently, this construction technique hascontinued to be practiced since the earthquake.The building described in this report was builtafter the 1977 earthquake, and has not beenexposed to damaging earthquakes so far.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1990
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 4-11
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** This construction was practiced between 1960 and 1990. In the Bucharest area,buildings of this type were initially built in 1959
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 25-125
+
+**Typical plan width (meters):** 25-125
+
+**Typical story height (meters):** 2.6
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Shear wall structure with precast wall panel structure
+
+**Additional comments on structural system:** This building type is characterized by a so-called "honeycomb" ("fagure" in Romanian) building plancharacteristic for Romanian housing design - the same system is described for the "OD" housing type(World Housing Encyclopedia Report 78). It consists of box-type units creating rooms. Due to such abuilding configuration, the walls are well connected and are able to carry the loads in a uniform manner.Floor structures are 120 mm thick reinforced concrete solid slabs supported by the loadbearing walls.Typical wall-floor connection is illustrated in Figure 13. These buildings are supported by mat foundations.The basement walls are cast-in-place.The special feature of the building described in this report is that the facade walls are non-loadbearingstructures of lightweight block masonry construction. In some buildings of this construction type, precastconcrete wall panels are used as faade elements. The interior wall panels are of solid concreteconstruction - in this case, there is no need for a 3-layered panel section with thermal insulation in themiddle (typical for the faade wall panels).The load-bearing walls are laid in two principal directions, as illustrated in Figure 9. In general, there aretwo interior walls in the longitudinal direction and nine walls in the transverse direction; it should be notedthat four transverse walls are continuous over the building width, whereas the other five walls are shorter.In addition, there are lightweight concrete partition walls, some of which have been removed in buildingrenovations carried out by owners.The main lateral load-resisting structure consists of 200 mm precast reinforced concrete wall panelssupported by RC slabs (walls in pre-1977 buildings are typically 140 mm thick). The wall panels form abox of room size ("panouri mari"). The lateral stability is provided by the columns tied to the wall panels,as illustrated in an example of corner panels, see Figure 12. Boundary elements are used instead of thecolumns as "stiffening" elements at the exterior (as shown in Figure 10). According to NBS (1977), themechanical union of wall panels in the joints is achieved by means of splice bars welded to the transversereinforcement of adjacent panels. Longitudinal bars, used singly in vertical joints and in pairs in horizontaljoints, provide an added bearing area for the transfer of tension across the connections. The coupling ofthe floor panels is somewhat different, as illustrated in Figure 15. The top bars are splice welded whilethe bottom bars are bent up 90 degrees and lapped. This particular scheme gives greater continuity to thefloors at the supports than the lapped loop arrangement used in the high-rise building system. The wallpanels are mechanically coupled at their base, as illustrated in Figure 16, so that all vertical bars arecontinuous across the horizontal joints (it should be noted that in the case of the high-rise building panelconnections only the longitudinal bars of vertical joints are coupled).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typicalstructural wall density is 5% - 7% Wall density is larger in the transverse direction.
+
+**Wall Openings:** There are between 20 and 30 windows per floor. Each room has one window and one door, except forthe corridors (larger number of doors). Windows constitute around 25% of the exterior wall area, whereasdoors constitute less than 15% of the interior wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modifications in buildings of this type are not common.
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** In general, these buildings are supported by mat foundations. There are castin-situ basement walls.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Solid slabs (cast-in-place); Solid slabs (precast)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Solid slabs (cast-in-place); Solid slabs (precast)
+
+**Additional comments section 2:** Whenseparated from adjacent buildings, the typical distance from a neighboring building is 2.5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced concrete:Steel | Steel PC 52 - steel yieldstrength 350 MPa; Concrete:around 1970s, typicalconcrete strength was in therange of 25 MPa (cubestrength)Information onconcrete and steelproperties is inagreement with thereports after the1977 earthquake(e.g. NBS 1977) | 
+| Foundations |  |  | 
+| Floors |  |  | 
+| Roof |  |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+ 
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** The building design was developed by "Design Institutes", which employ trained technical specialists,including engineers and architects.
+
+**Expertise of those involved in the design process:** The building design was developed by "Design Institutes", which employ trained technical specialists,including engineers and architects.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** Buildings of this type were financed by government housing funds and were built by construction companies.
+
+**Expertise of those involved in building process:** The construction was made by technical specialists employed by theconstruction companies using the specialized equipment. The construction was additionally supervised bya special unit called "State Inspection for Buildings".
+
+**Construction process and phasing:** The construction was performed using specialized equipment for prefabricated construction. The construction of thistype of housing takes place in a single phase. Typically, the building is originally designed for its final constructedsize. In some cases, new building blocks were built at the same location; however,these new blocks were built as completely new buildings with their own walls and foundations.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. P-100-81. The year the firstcode/standard addressing this type of construction issued was 1981. The most recent code/standard addressing thisconstruction type issued was 1992.
+
+**Process for building code enforcement:** Information not available.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Building permits were required in the period when this construction was practiced. Building inspections wereperformed by the construction company staff and also by a special government department called "State ConstructionInspection."
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The 1991 price was 2590 lei/m.sq. of the built area (176 USD/m/sq/.). Note that this is a real estate price(reflecting the value of an existing building) and not the cost of new construction (which is not available).
+
+**Labor requirements:** Information not available, as the construction company no longer exists.
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per housing unit.Each building typically has more than 100 housing unit(s). 150 units in each building. In general, there are 48 to 54housing units per building block. Each building block is centered around a staircase. There are usually between oneand five building blocks in a typical building complex.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Other
+
+**Additional comments on financing:** Before 1990, the construction was financed by funds from the central government.After 1990 (post-communist period), individual apartments are owned by the inhabitants.
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** There is "Voluntary Complex Insurance of the Households of Physical Persons" throughS.C. ASIGURAREA ROMNEASCA - ASIROM S.A. (a public company).
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** There is "Voluntary Complex Insurance of the Households of Physical Persons"through "S.C. ASIGURAREA ROMNEASCA - ASIROM S.A." (public company)
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1986 | Vrancea | 7 | 8 (MMI) | 
+| 1990 | Vrancea | 6.7 | 7 (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No damage to buildings of this type was observed in the 1986 and 1990earthquakes. In the 1977 earthquake (M 7.2 ), no significant damage was observed to other buildings ofsimilar construction.
+
+**Additional comments on earthquake damage patterns:** According to the reports on the 1977earthquake (Balan et al. 1982), somebuildings of this type experiencedcracking in the wall panel connectionarea, especially at the wall corner jointsand intersections, and wall-floorconnections. In some cases, those wereexisting cracks that were widened inthe 1977 earthquake. However, in thecity of Lasi (north of the epicentre), 45cracks developed in the walls especiallyabove the openings and around thestaircases in some 8-storey buildingsbuilt around 1960.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The buildings described in this report were designed in accordance with theP100-81 norm (the 1981 edition of the Romanian seismic standard).
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** - Large panel stiffness; redundancyprovided by several wall panels in bothdirections with frequent cross walls;regular and symmetric plan; goodquality of concrete construction.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** #NAME?
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** Information on earthquake damage patterns is based on other buildings of similarconstruction that experienced the 1977 earthquake. The building described in this report was built afterthe 1977 earthquake.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Based on the good performance of buildings of similar construction in the 1977 earthquake, it isconsidered that retrofit is not required.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Balan, S., Cristescu, V., and Cornea, I. (1982). Cutremurul de Pamnt din Romnia de la 4 Martie1977, The Academy of the Socialist Republic of Romania, Bucharest, Romania. (refer to Chapter VI.2.3."Behaviour of new residential buildings" by Mircea Lupan)
+
+  * Smighielschi, S. (1990). Course notes on Building Construction, Architectural Institute "Ion Mincu",Bucharest, Romania.
+
+  * NBS (1977). Observations on the Behavior of Buildings in the Romania Earthquake of March 4, 1977.U.S. Department of Commerce/National Bureau of Standards, NBS Special Publication 490, Washington,D.C., USA.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria Bostenaru Dan | Dipl.-Ing. | Urban and Landscape Department, on Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | Maria.Bostenaru-Dan@alumni.uni-karlsruhe.de | 
+| Ilie Sandu | Ing. | Bucharest, Romania |  |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

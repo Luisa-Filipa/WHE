@@ -1,0 +1,321 @@
+====== Reinforced concrete frame building with an independent vertical extension, Greece ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 17
+
+**Building Type:** Reinforced concrete frame building with an independent vertical extension
+
+**Country:** Greece
+
+**Author(s):** Vlasis Koumousis
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in many suburbs of large cities and as apartment building in smaller cities with older houses with no provisions for vertical extension. This contribution describes a typical building located in the Central Greece (Thrakomakedones - suburb of Athens). This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is a typical residential construction found in the suburbs of large Greek cities and smaller towns. Buildings of this construction type are three-story high with a warehouse at the ground floor level and typically two apartments at the upper floor levels. The peculiarity of this building type is that it consists of two independent structures built over a period of 20 years. The lower two stories were constructed in 1960's as a reinforced concrete frame structure, without provisions for the vertical extension. In 1980's, the building was extended by building an additional floor atop the existing structure and expanded horizontally by building an independent elevator core and staircase. Columns and shear walls at the perimeter of the 1980 portion of the building were built on the separate footings, whereas the interior columns and shear walls were constructed by drilling the openings through the slabs of the 1960 portion in order to achieve continuity from the top floor downwards to the new foundations. Floor structure for the 1980 portion was constructed at an elevation 400 mm higher as compared to the roof level of the 1960 portion. The entire layout results in a tight connection of the new and the old structure. Due to the eccentric position of the channel-shaped elevator shaft, seismic response of this structure is characterized with significant torsional vibrations in the newer (1980's) portion, thus resulting in excessive lateral displacements in the 1960 structure. Some buildings of this type were damaged in the 1999 Athens earthquake and were strengthened after the earthquake.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 2 unitsResidential, 3-4 units
+
+**Typical number of stories:** 3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is being built. The traditional concrete construction of the 1960's and 1980's with increas
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 20
+
+**Typical plan width (meters):** 11
+
+**Typical story height (meters):** 3.5
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete structural walls (with frame). Reinforced concrete slabs on beams supported by columns and shear walls. The lateral load-resisting system is reinforced concrete moment resisting frame. The main lateral load-resisting system consists of reinforced concrete moment-resisting frame with shear walls. The lower two stories were constructed in 1960's as a reinforced concrete frame structure, without any provisions for the vertical extension. The frame is infilled with unreinforced limestone masonry infill walls 400 mm thick. The column layout is quite regular and there are no shear walls in this portion (see gray-shaded column sections in Figure 2). The building was expanded in the 1980's by constructing an additional floor atop the existing structure with an independent elevator core (see Figures 2, 3 and 4). The columns and shear walls located at the perimeter of the 1980 portion were built on the separate footings, whereas the interior columns and shear walls were constructed by drilling the openings through the slabs of the 1960's portion in order to achieve continuity from the top floor down to the new foundations. Floor structure for the 1980 portion was constructed at an elevation 400 mm higher as compared to the roof level of the 1960 portion.The entire layout resulted in a tight embracement of the 1960 and 1980 portion of the building.
+
+**Gravity load-bearing & lateral load-resisting systems:** The older (1960s) portion of the building is a RC frame with limestone masonry infill walls designed to seismic requirements of the current building code of the period. The newer (1980s) portion was designed with seismic provisions. The 1980 portion is a dual system - RC frame with shear walls.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 0.06% - 0.08%.
+
+**Wall Openings:** Typical openings for reinforced concrete buildings: window and door widths range from 0.80 m to 1.5 m. A gross estimate of the overall window and door area is about 20% of the exterior wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The top floor has been added as a vertical extension to the existing building.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: solid slabs (cast-in-place), solid slabs (precast)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: solid slabs (cast-in-place), solid slabs (precast) Timber: wood shingle roof
+
+**Additional comments section 2:** This is also the typical separation distance for up to three-story high buildings When separated from adjacent buildings, the typical distance from a neighboring building is 0.04 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced concrete | Concrete: C12/16 (16 MPa cube compressive strength) Steel: S400 (400 MPa characteristic tensile strength) | 
+| Foundations | Reinforced concrete | Concrete: C12/16 (16 MPa cube compressive strength) Steel: S220 (220 MPa characteristic tensile strength) | 
+| Floors | Reinforced concrete | Concrete: C12/16 (16 MPa cube compressive strength) Steel: S220 (220 MPa characteristic tensile strength) | 
+| Roof | Reinforced concrete | Concrete: C12/16 (16 MPa cube compressive strength) Steel: S220 (220 MPa characteristic tensile strength) | 
+| Other |  | Concrete: C12/16 (16 MPa cube compressive strength) Steel: S220 (220 MPa characteristic tensile strength), Concrete: C12/16 (16 MPa cube compressive strength) Steel: S400 (400 MPa characteristic tensile strength). | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Engineers and architects play a major role in the design, however they play a minor role in the construction.
+
+**Expertise of those involved in the design process:** In general, the level of expertise is good, but the quality of construction and the design needs to be improved. In the case of the building described in this contribution, the designer of the newer (1980s) building portion did not try to separate the motion of the two structures allowing excessive torsional vibrations.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Typically the owner lives in the house. The house is built by the technicians.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The owner manages the construction under the supervision of a civil engineer who has the complete technical responsibility. Different phases, i.e. excavation, concrete construction, brick construction etc., are subcontracted to technicians. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Greek Aseismic Code 1959 Greek Aseismic Code (EAK 2000), Greek Concrete Code (NKOS)
+
+**Process for building code enforcement:** Building inspections performed by the engineer in charge.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)No one
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** 300-500 $US/sq m
+
+**Labor requirements:** 14-18 months for a 3-storey RC Building of 20m x11m plan dimensions. Groups of 10-15 technicians are responsible for the RC frame construction and the infill walls and the plaster, while smaller groups take care of the remaining parts (finishing).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Two to three families per building. Each building typically has 2-3 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** It covers the maximum cost agreed in the contract and the premium is a fixed percent of that.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1999 | Athens, Greece | 5.9 | IX (MMI) | 
+| 1981 | Korinth, Greece | 6.6 | VIII (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Due to the eccentric position of the elevator shaft (an "U"- shape open core) in the 1980s portion, the dynamic response of this building showed intensive torsional vibrations in the 1980 structure causing excessive displacements to the old (1960) structure. The torsional eccentricity (distance between the centers of mass and stiffness) was equal to 7m in a building of 20 m maximum plan dimension. In the 1999 Athens earthquake, the building described in this contribution experienced severe damage caused by the tight connection of two structures with rather different dynamic properties. The damages included the extensive cracking in the exterior limestone masonry infill walls and the interior brick masonry infill walls, and the minor cracks in the flexible 1960s frame structure. More information on the 1999 Athens earthquake is available on the Internet at www.itsak.gr.
+
+**Additional comments on earthquake damage patterns:** - Minor cracks in the walls. -Minor cracks in the columns of the 1980 portion. -Moderate cracks in the columns of the 1960 portion -Incompatible dynamic characteristics of the old and new portion of the building were the major cause of the damage in the
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Limestone masonry walls 400 mm thick; very stiff as compared to the 1960 portion of the RC frame
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** -Designed for adequate strength but not checked for excessive lateral displacements due to torsion (1980 portion) -Low capacity for lateral loads (1960 portion)
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** #NAME?
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Minor cracks in concrete columns and shear walls | Sealed with epoxy resins following standard practice | 
+| Strengthening of the footings | Anchoring of the new reinforcement, installation of dowels in the interface, preparation of the concrete interface for improved bonding, cast in situ concrete (see Figure 10) | 
+| Installation of new shear walls | Welding of new reinforcement to the existing reinforcement at several (3 to 5) locations within a storey-height, preparation of concrete surface for improved bonding, pouring of concrete in-situ (see Figures 8, 9 and 13). | 
+| Demolition and partial reconstruction of beams | Careful support (underpinning) of the adjacent structure, partial demolition of the beams, installation of additional reinforcement adequately anchored, preparation of the concrete interface, pouring the concrete. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The problems associated with the seismic performance of this building type are due to the tight connection of two structures with quite different dynamic properties. Since it is not possible to separate these two structures (i.e. the 1960 and 1980 portion of the building), the strengthening is required. The following options have been considered: a) strengthening of the 1960 frame, b)strengthening of the 1980 frame, or c) strengthening of both structures. The purpose of strengthening is to achieve an acceptable performance for the entire structure, to control the lateral displacements (drifts), and also to avoid excessive damage of the exterior and interior infill walls in future earthquakes. Strengthening of the old 1960 RC frame has appeared to be impractical and unreliable due to the poor quality of concrete and the lack of seismic detailing (inadequate amount of reinforcement, lack of stirrups, etc). Strengthening of the newer, 1980 frame, with the objective to reduce the excessive torsional effects in the structure and control the response of the old 1960 structure was considered. This option seemed to be very expensive, as it required strengthening of almost all columns and shear walls. Finally, it was decided to demolish all severely damaged infill walls and the frame at the first floor level (1960 structure), including the columns, beams and the floor slab, and to rebuild the brick infill walls at this floor level within the frames of the new structure. In addition, all cracks in the vertical elements were sealed with epoxy resins. Finally, three columns or shear walls in the new structure were strengthened to increase the torsional rigidity (locations STR 1-3 in Figures 2, 3 and 4). Beams at the first floor level had to be partially demolished and rebuilt with additional reinforcement (see Figures 2 and 12). These strengthening measures were effective in ensuring the overall seismic performance of the strengthened building (including the 1960 and 1980 portion) in accordance with the requirements of the current Greek design code.
+
+**Has seismic strengthening described in the above table been performed?** Yes. Seismic strengthening is a common practice for this type of construction.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a repair following damage due to the September 7, 1999 Athens earthquake.
+
+**Was the construction inspected in the same manner as new construction?** The inspection on the retrofit of this construction was more thorough than it would be for a new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The construction was performed by a contractor, who was chosen by the owner, and the construction was supervised by the designer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The performance was good in the aftershocks of Richter magnitude 4.5.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Greek Code for Earthquake Resistant Design (NEAK), Athens 1995
+
+  * Greek Code for Reinforced Concrete Design (NKOS), Athens 1995.
+
+  * Report on the 1999 Athens Earthquake, Institute of Engineering Seismology and Earthquake Engineering, Thessaloniki, Greece (www.itsak.gr)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Vlasis Koumousis | Assoc. Professor | National Technical University of Athens | Zografou Campus 15773 Greece | vkoum@central.ntua.gr | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Kostas Skliros | Research Engineer | John A. Martin & Associates | Los Angeles CA 90015, USA | cskleros@johnmartin.com | 

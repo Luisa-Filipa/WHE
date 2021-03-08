@@ -1,0 +1,319 @@
+====== Prefabricated concrete panel buildings with monolithic panel joints (seria 105), Kyrgyzstan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 38
+
+**Building Type:** Prefabricated concrete panel buildings with monolithic panel joints (seria 105)
+
+**Country:** Kyrgyzstan
+
+**Author(s):** Svetlana Uranova,Ulugbek T. Begaliev
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in most large cities of Kyrgyzstan and other republics of the former Soviet Union. In Kyrgyzstan, buildings of this construction type can be found in the following cities: Bishkek, Tokmok, Och, Karakol (Kyrgyzstan). Large panel buildings account for up to 35 - 40% of the multi-story residential building stock in the capitol, Bishkek. Buildings of this type are less common in other cities mentioned above. This type of housing construction is commonly found in urban areas. There are large panel buildings in suburban areas too.
+
+**Summary:** Prefabricated concrete panel buildings with monolithic panel joints have been constructed since 1965 in various republics of the former Soviet Union, including Kyrgyzstan. This type of prefabricated construction is known as seria 105. Apartment buildings of this type are usually 5-9 stories high. The foundations are made of cast in situ reinforced concrete. Steel dowels are provided in the foundations to ensure anchorage of steel rebars located in the panels and in the panel joints. The load-bearing structure in large panel buildings consists of reinforced concrete panels combined to form a box-type rigid system by means of special joints. This building type is considered to be one of the most earthquake-resistant construction types in the former Soviet Union.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 5-9
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** A typical shape of a building plan for this housing type is rectangular.
+
+**Typical plan length (meters):** 39.6
+
+**Typical plan width (meters):** 10.8
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Large panel precast walls
+
+**Additional comments on structural system:** Gravity load-bearing structure consists of large reinforced concrete wall panels and concrete floor slabs. The lateral load-resisting system consists of large reinforced concrete panels acting as shear walls. All wall and floor panels are combined together, thus creating a rigid structure by means of special joint system. Horizontal and vertical steel dowels are provided in wall and floor panels. Once the panels are erected in their final position, the dowels are welded, and the gaps between the panels are filled with cast in situ concrete. Shear stress in the joints is resisted by means of shear keys. Vertical steel bars are placed close to the window and door openings in the panels. These bars are located in vertical joints. Figure 5 shows a typical precast floor panel with steel dowels and grooves (shear keys) for achieving monolithic concrete panel joints. Details of a typical wall panel without openings are shown on Figure 6, whereas a typical panel with a wall opening is shown on Figure 7. Horizontal and vertical sections of exterior wall panels are shown on Figures 8 and 9, respectively. Horizontal and vertical sections of an interior panel are shown on Figures 10 and 11, respectively. Wall and floor panels are of room size dimensions. Interior wall panels and floor panels are of normal-weight concrete (density 24 kN/m3), and the facade (exterior)-wall panels are of light-weight concrete. Thickness of the interior wall panels is typically 120mm or 160mm. Size of typical wall panel is 2.7 m (width) x 3 m (height) or 3.6 m (width)x3.0 m (height). Thickness of a floor panel is 160 mm.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The ratio of total wall area/plan area is about 0.14. Wall density in the two principal directions is not equal; in one of the directions, wall density is less by 20 to 30% as compared to the other direction.
+
+**Wall Openings:** Large panel prefabricated construction technology does not allow for a variation in the size of door and window openings. Usually, for a 3.6 m long panel, the window size is 1.82 m (width) X 1.53 m (height); for a 2.7 m long panel - the window size is 1.24 m (width) X 1.53 m (height). The size of a balcony door (together with window) is either 2.25 m or 1.66 m wide and 1.9 m in height. The overall window and door area account for 17% of the overall wall area. There are 16 windows for a building with plan dimensions of 10.8 m X 25.2 m
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Buildings of this type are generally standardized and therefore modifications are not very common. Typical modifications include perforation of new door openings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundation
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Precast solid slab panels Floor/roof considered to be a rigid diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Precast solid slab panels Floor/roof considered to be a rigid diaphragm.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^ 
+| Wall/Frame | Reinforced concrete | Characteristic Strength- Concrete: 20-30 MPa (cube compressive strength) Steel: 295-390 MPa (Yield strength) | 
+| Foundations | Reinforced concrete | Characteristic Strength: Concrete: 20-30 MPa (cube compressive strength) Steel: 295-390 MPa (Yield strength) | 
+| Floors | Reinforced concrete | Characteristic Strength: Concrete: 20-30 MPa (cube compressive strength) Steel: 295-390 MPa (Yield strength) | 
+| Roof | Reinforced concrete | Characteristic Strength: Concrete: 20-30 MPa (cube compressive strength) Steel: 295-390 MPa (Yield strength) | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** Designs for buildings of this type were prepared by specialized design institutes with expertise in this type of construction. Design for this construction type was done completely by engineers and architects. Engineers played a leading role in each stage of construction.
+
+**Expertise of those involved in the design process:** Expertise related to design and construction of this type according to the legal sistem of Kyrgyzstan was available.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** BuilderOther
+
+**Roles of those involved in the building process:** Typically buildings of this type are constructed by construction companies specialized in prefabricated construction.
+
+**Expertise of those involved in building process:** Expertise related to design and construction of this type according to the legal sistem of Kyrgyzstan was available.
+
+**Construction process and phasing:** Typical equipment used for the erection includes crane, welding equipment, scaffolding. Panels are cast in the plants using a mechanized process. Steam is used in the panel production process. Usual distance from plant is not more 100-150km. The panels are transported from a plant to the construction site by means of special vehicles. The construction of this type of housing takes place in a single phase. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** Poor quality of panel joints due to poor construction: inappropriate density of concrete in panel joints (not meeting the specifications), nonaligned reinforcement bars from adjacent panels that need to be joined together by welding, poor quality of welding.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** SNiP II-7-81. Building in Seismic Regions.Design code. The first code/standard addressing this type of construction was issued 1962; the most recent code/standard addressing this construction was issued 1981.
+
+**Process for building code enforcement:** A building permit will be given if the design documents have been approved by State Experts. State Experts check the compliance of design documents with pertinent Building Codes. According to the building bylaws, buildings cannot be used without the formal approval of a special committee. The committee gives the approval if design documents are complete and the construction has been carried out in compliance with the Building Codes.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** For load-bearing structure only (without finishes) about 150-200 US$/sq m.
+
+**Labor requirements:** For load-bearing structures only (without finishes), depending on the number of stories and plan area, the construction would take from 1 to 6 months for a team of 15 workers.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In general, in a building of this type there are 4-8 housing units per building unit ("Block-Section"). One family occupies one housing unit. Depending on the size of the building (number of stories), there are 20 to 36 families occupying one building unit. Each building typically has 51-100 housing unit(s). The number of units can vary between 40-80.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** 40% poor and 60% middle class inhabitants occupy building of this type. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Personal savingsGovernment-owned housingOther
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1986 | Karakum | 6.8 | 7 | 
+| 1988 | Spitak | 7.4 | 9 | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included cracking in joints and some panels (walls, roof/floor).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The building maintenance level is variable. Majority of buildings in Bishkek have rather good service, however in other cities maintenance is not equally good.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Panel joints; quality of construction,especially welding of reinforcing bars from the adjacent panels and filling the gaps between the panels with concrete, is not satisfactory in some cases
+
+**Earthquake-resilient features in walls:** Due to a large number and uniform distribution of panel joints existing in one building, deficient construction of some joints does not have a major impact on the overall seismic resistance of the building as a whole.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Panel joints; quality of construction,especially welding of reinforcing bars from the adjacent panels and filling the gaps between the panels with concrete, is not satisfactory in some cases.
+
+**Earthquake resilient features in roof and floors:** Due to a large number and uniform distribution of panel joints existing in one building, deficient construction of some joints does not have a major impact on the overall seismic resistance of the building as a whole.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Cracks in joints and panels | Installation of reinforced concrete bushing key; reinforced gunite applied on the panel surface; crack injection by means of polymers. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Some recommended methods for seismic strengthening are: installation of reinforced concrete bushing keys, applying reinforced gunite on panel surface, injection of polymers in cracks. It is usually not required to strengthen buildings of this type. Poor quality of construction is sporadic and does not make significant influence on the reliability of buildings. In Kyrgyzstan, we have some experience with strengthening the existing load-bearing structures. In Uzbekistan, there is experience with strengthening the buildings damaged by the 1978 Gazly earthquake; damaged buildings were constructed without earthquake-resistant features (as the area was thought to be of low seismic risk i.e. seismicity 6 on 12 intensity scale).
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * King, Stephanie, Vitaly Khalturin and Brian E. Tucker (1996). Seismic Hazard and Buildings Vulnerability in Post-Soviet Central Asia Republics. Proceedings of the NATO Advanced Research Workshop on Earthquake Risk Management Strategies for Post-Soviet Central Asian Republics, Almaty, Kazakhstan, 1996. Kluwer Academic Publishers, Dordrecht, Netherlands.
+
+  * Uranova, S.K., and Imanbekov, S.T. (1996). Building and Construction Design in Seismic Regions-. Handbook.Kyrgyz NIIP Stroitelstva, Building Ministry Kyrgyz Republic, Bishkek, Kyrgyz Republic.
+
+  * Imanbekov, S., Uranova, S., and Iwan. W. Earthquake Resistance of Multi-Story Residential Buildings in Central Asian Capital Cities. Seismic Hazard and Building Vulnerability in Post-Soviet Central Asian Republics (Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker-Editors), NATO ASI Series 2. Environment - Vol.52, Klywer Academic Publishers, The Netherlands, 1999.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Uranova | Dr., Head of the Laboratory | KRSU | Kievskai 44, Bishkek 720000 Kyrgyz Republic | uransv@yahoo.com | 
+| Ulugbek T. Begaliev | Head of Department | KNIIPC | Vost Prom Zone Cholponatisky 2, Bishkek 720571 Kyrgyz Republic | utbegaliev@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, Canada | sbrzev@bcit.ca | 

@@ -1,0 +1,318 @@
+====== Reinforced concrete frame buildings without beams (seria KUB), Kyrgyzstan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 39
+
+**Building Type:** Reinforced concrete frame buildings without beams (seria KUB)
+
+**Country:** Kyrgyzstan
+
+**Author(s):** Svetlana Uranova, Ulugbek T. Begaliev
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Duchanbe (Tadjikistan), Nalchik (Russia), and Almaty (Kazachstan). There are some of these buildings in Bishkek (Kyrgyzstan). This type of housing construction is commonly found in urban areas.
+
+**Summary:** Frame buildings without beams were introduced in the last decade of the Soviet Union (period 1980-1989) in some of the Soviet Republics: Kyrgyzstan,Tadjikistan, Caucasian region of Russia etc. This type of precast construction is known as seria KUB. This type of apartment building is usually 5-9 stories high; in some cases these buildings are 12 stories high. The load-bearing structure consists of precast reinforced concrete columns and slabs. Precast column elements are usually two stories high. Typically, column spans are equal to 6m. Precast slab elements are made of solid concrete without ribs, and the dimensions are: 3m x 3m x 0.16m (length x width x thickness). Most buildings of this type have some kind of lateral load resisting elements, such as: cast-in-situ shear walls, precast shear walls, shear cross braces, etc. All precast structural elements are combined in 3-D moment frame by a special joint system. Partitions are made of brick masonry or small concrete block masonry. This building type is considered to be very earthquake vulnerable. Seismic resistance of buildings of this type depends on the type of column-to-slab joints. Similar structures were damaged in the 1988 Spitak (Armenia) earthquake.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 5-12
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** Typical shape of a building plan for this housing type is rectangular or square with some modifications at the perimeter.
+
+**Typical plan length (meters):** 24-60
+
+**Typical plan width (meters):** 18-24
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Moment frame
+
+**Additional comments on structural system:** Gravity load-bearing system consists of reinforced concrete columns and slabs (same elements as in lateral load-resisting system). The lateral load-resisting system consists of reinforced concrete columns and slabs. In addition to this, most buildings of this type have some kind of lateral load resisting elements, such as: cast-in-situ shear walls, precast shear walls, shear cross braces, etc. In case lateral load-resisting elements (shear walls etc.) are not present, lateral load path depends on the ability of slab-column connections to transfer moments. In case of poorly constructed connections this is not possible and in such cases the completeness of lateral load path is questionable. However, properly constructed slab-column joints are capable of transferring moment as shown by several full-scale vibration tests on buldings of this type performed in Kyrgyz Republic. Precast column elements are usually two-storey high. Typically, column spans are equal to 6m. A typical precast column element is shown on Figure 4. Precast slab elements are made of solid concrete without ribs and the dimensions are: 3m x 3m x 0.16m (lengthxwidthxthickness). A typical precast slab element is shown on Figure 3. All precast structural elements are combined in a space frame system by means of special joints. The assembly of precast concrete elements is shown on Figures 2 and 7. Precast concrete floor slabs are lifted from the ground up to the final elevation. Longitudinal steel bars-dowels are projected from the adjacent slabs and subsequently welded. Transverse reinforcement bars are installed in-situ. Gaps in the connections are filled with concrete at the site. Details of the slab-column connection are shown on Figure 6.
+
+**Gravity load-bearing & lateral load-resisting systems:** Shear walls usually do not exist in buildings of this type.
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** Walls are not load-bearing structures. If present, shear elements constitute less than 1% of the floor area in a building.
+
+**Wall Openings:** Walls are not the part of load-bearing structure in frame buildings without beams. If lateral load-resisting elements (e.g. shear walls) are present, the overall wall area usually does not exceed 1% of the floor area. These shear elements are solid (without openings), and are usually located between columns inside the building. Typical size of window openings is: 1.2 to1.5 m (height) x2 m (width), doors: 2m (height)x0.9-1m (width). Overall window area constitutes up to 30 or 40% of the exterior wall area. Less than 10% of the partition walls are perforated by door openings.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Usually, modifications are made in non-load-bearing elements e.g. exterior and interior walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Concrete: Precast solid slab panels
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Concrete: Precast solid slab panels
+
+**Additional comments section 2:** Typical separation distance between buildings: minimum 10 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Brick and gasconcrete masonry | Non bearing structure | 
+| Foundations | Reinforced concrete | Characteristic Strength: 10-15 MPa (cube compressive strength) Mix Proportion/Dimensions: Variable-depending on the type of mix materials | 
+| Floors | Reinforced concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) Mix Proportion/Dimensions: Variable-depending on the type of mix materials | 
+| Roof | Reinforced concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) Mix Proportion/Dimensions: Variable-depending on the type of mix materials | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** Design institutes develop design documentation. Design for this construction type was done completely by engineers and architects. Engineers played a leading role in each stage of construction.
+
+**Expertise of those involved in the design process:** Expertise related to design and construction of this type according to the legal system of Kyrgyzstan was available. Designs for buildings of this type were prepared by specialized design institutes with expertise in this type of construction.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** The construction process is performed by builders.
+
+**Expertise of those involved in building process:** Expertise related to design and construction of this type according to the legal system of Kyrgyzstan was available.
+
+**Construction process and phasing:** A construction company fabricates precast elements and performs the assembly. Precast elements can be made either at the factory (plant) or at the building site. The main construction equipment includes crane, welding equipment and concrete mixers. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** SNiP II-7-81. Building in Seismic Regions.Design code. The first and most recent code/standard addressing this type of construction was issued 1981.
+
+**Process for building code enforcement:** Building permit will be given if the design documents have been approved by State Experts. State Experts check compliance of design documents with pertinent Building Codes. According to the building bylaws, buildings cannot be used without the formal approval of a special committee. The committee gives the approval if design documents are complete and construction has been carried out in compliance with the Building Codes.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** For load-bearing structure only (without finishes) about 120 US$/sq m.
+
+**Labor requirements:** It would take between 10 and 15 months for a team of 10 workers to build load-bearing structure for a building of this type.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each floor in a building unit consists of 2-6 housing units. One family occupies one housing unit. Depending on the number of building units and stories in a building, number of families occupying one building ranges from 10 to 120; with a common occupancy of 36 to 40 families per building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** It is estimated that 60% poor inhabitants and 40% middle class inhabitants occupy buildings of this type. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1988 | Spitak, Armenia | 7.5 | IX | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Buildings of this type (seria KUB) have not been exposed to a major earthquake as of yet. However, buildings with a similar load-bearing structure (seria 111) experienced severe damage or collapse in the 1988 Spitak (Armenia) earthquake. The main cause was considered to be damage and failure of column-slab joints. The difference between seria KUB and seria 111 is in the floor slab construction. Seria KUB consists of smaller floor panels that are joined together in the erected position (see Figure 2). Floor slabs in seria 111 were large panels cast on the ground and then lifted and erected to the final position. It is expected that these two construction types would experience similar earthquake damage.
+
+**Additional comments on earthquake damage patterns:** Complete or partial (wall) damage Collapse of floors, damage of joint areas
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor quality of walls and their joints with columns and floors. Walls are generally partitions (i.e. non load-bearing structures).
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Poor quality of joints.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof and floor slabs are load-bearing structures. The most deficient part is slab-column joint.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Column-slab joint | Steel and reinforced concrete cantilever |
+| Column-slab joint (new construction) | Improved design solutions for column-slab joint | 
+| Floor slabs(new construction) | Construction of ribbed slabs. Increased slab thickness. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * King, Stephanie, Vitaly Khalturin and Brian E. Tucker (1996). Seismic Hazard and Buildings Vulnerability in Post-Soviet Central Asia Republics. Proceedings of the NATO Advanced Research Workshop on Earthquake Risk Management Strategies for Post-Soviet Central Asian Republics, Almaty, Kazakhstan, 1996. Kluwer Academic Publishers, Dordrecht, Netherlands.
+
+  * Uranova, S.K., and Imanbekov, S.T. (1996). Building and Construction Design in Seismic Regions- Handbook.Kyrgyz NIIP Stroitelstva, Building Ministry Kyrgyz Republic, Bishkek, Kyrgyz Republic.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Uranova | Dr., Head of the Laboratory | KRSU | Kievskai 44, Bishkek 720000 Kyrgyz Republic | uransv@yahoo.com | 
+| Ulugbek T. Begaliev | Head of Department | KNIIPC | Vost Prom Zone Cholponatisky 2, Bishkek 720571 Kyrgyz Republic | utbegaliev@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, Canada | sbrzev@bcit.ca | 

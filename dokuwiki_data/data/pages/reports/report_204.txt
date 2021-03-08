@@ -1,0 +1,319 @@
+======  Reinforced Masonry (Series 1A-450), Armenia ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_204:rp204_general_info.jpg?nolink&300*300 | }}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 204
+
+**Building Type:** Reinforced Masonry (Series 1A-450)
+
+**Country:** Armenia
+
+**Author(s):** 
+
+**Last Updated:**
+
+**Regions Where Found:** This building typology can be found in all major in Armenia. Roughly estimated, around 15% of the multi-apartment building stock of the country consist of this typology.
+
+**Summary:** Stone buildings, mydis type wall. Thickness is 50cm with cement mortat, Precast concrete void slab. Seismic pands are provided around the floor slabs. Vertical reinforcement of RC members were provided for the walls. Multi-apartment buildings with 4-5 storeys, constructed at the beginning of the 1970s until 1988.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Off
+
+**In practice as of:**
+
+**Building Occupancy:** Residential, 20-49 unitsResidential, 50+ units
+
+**Typical number of stories:** Off
+
+**Terrain-Flat:** Off
+
+**Terrain-Sloped:** 4-5
+
+**Comments:** Construction type typically on both flat and sloped (hilly) terrains.
+
+{{gallery> :reports:report_204?rp204_general_info_*.jpg&200x200&lightbox&crop | }}
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 11
+
+**Typical plan length (meters):** 2.7
+
+**Typical plan width (meters):** 35-50
+
+**Typical story height (meters):** 
+
+**Type of Structural System:** Masonry: Reinforced Masonry: Stone masonry in cement mortarMasonry: Reinforced Masonry: Concrete block masonry in cement mortar
+
+**Additional comments on structural system:** >20%
+
+**Gravity load-bearing & lateral load-resisting systems:** The typical wall density usually exceeds 20% (total wall area / plan area). Usually, this type of construction does not have common walls with adjacent buildings.
+
+**Typical wall densities in direction 1:** 
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?** Off
+
+**Modifications of buildings:** 
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** Belt foundation
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floorPrecast concrete floor with reinforced concrete topping
+
+**Additional comments on floor system:** 	
+
+**Type of Roof System**	Cast-in-place beamless reinforced concrete roofPrecast concrete roof with reinforced concrete toppingRoof system, other
+
+**Additional comments on roof system:**	
+
+**Additional comments section 2:**
+
+**Infill wall material:**
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | | |
+| Foundations | | |
+| Floors | | |
+| Roof | | |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineers are involved in the design process.
+
+**Roles of those involved in the design process:** Engineer
+
+**Expertise of those involved in the design:**
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Builder
+
+**Roles of those involved in the building process:**
+
+**Expertise of those involved in building process:** The construction is carried out by builders. Code Provisions had been followed in the construction process.
+
+**Construction process and phasing:** 
+
+**Construction issues:** Off
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** The current standard is the Seismic Code of the Republic of Armenia CHPA II-2.02-94, which includes updates on SNIP 62, used for construction in all former Soviet Union countries.
+
+**Applicable codes or standards:**
+
+**Process for building code enforcement:**
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Off
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Off 
+
+**Additional comments on building permits and development control rules:**
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Construction is typically formal (with permits, plans, etc.) and authorized as per development control rules.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:**
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The owner, if interested, is the one who maintains the building.
+
+**Labor requirements:** 
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** >20
+
+**Number of inhabitants in a typical building of this construction type during the day:** 
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 
+
+**Additional comments on number of inhabitants:** >20
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Other
+
+**Typical Source of Financing:** 
+
+**Additional comments on financing:** Other
+
+**Type of Ownership:** Off
+
+**Additional comments on ownership**	
+
+**Is earthquake insurance for this construction type typically available?** 
+
+**What does earthquake insurance typically cover/cost:**
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** Off
+
+**Additional comments on premium discounts:**	
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1988 | Spitak, Armenia | Mw 6.9 | |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**  
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | N/A |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | N/A |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | N/A |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | N/A |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | N/A |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | N/A |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | o | |  |  |
+
+**Additonal comments on vulnerability rating:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+----
+
+^ Structural Deficiency	^ Seismic Strengthening ^
+|  |  |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?:** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** 
+
+**Was the construction inspected in the same manner as new construction?:** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+|  |  |  |  | |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+|  |  | |  | |

@@ -1,0 +1,325 @@
+====== Adobe / Earthen House : Adobe block walls, Nicaragua ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 137
+
+**Building Type:** Adobe / Earthen House : Adobe block walls
+
+**Country:** Nicaragua
+
+**Author(s):** Matthew A. French
+ 
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Nicaragua, predominantly used near the Honduras border. Towns close to Costa Rica and the Mosquito Coast area have few adobe dwellings due to their geographic location. This type of housing construction is commonly found in rural areas. Sometimes, adobe is used in urban centres, but not extensively.
+
+**Summary:** The plan of this adobe building is a simple rectangle with three rooms. Adobe as a material is very weak under seismic loads, which is the main issue which concerns this building type. Also, the roof does not have sufficient eaves to protect the adobe walls, which has resulted in the dislodging of the exterior plaster. This has eroded the walls, further reducing their structural strength. Adobe is commonly used in Nicaragua, as it is both affordable and accessible, but it is being replaced by more 'modern' materials, such as concrete block and red fired brick.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Currently, this type of construction is being built. Influence from its overdeveloped far northern neighbors has led to a wider
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The building is a rectangle, composed of three rooms; two are 'weather-proof' spaces, and the third a semi indoor-outdoor kitchen.
+
+**Typical plan length (meters):** 4-9
+
+**Typical plan width (meters):** 2.8-4
+
+**Typical story height (meters):** 2.2
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** Lateral load-resisting system: Adobe walls are relied on to resist lateral loads. The blocks measure 250mm wide, 300mm long and 100mm deep. Mortar joints average 40mm. It is unlikely the roof will work as a diaphragm due to its flexible nature and lack of connection to the walls. Gravity load-bearing system: The adobe walls resist gravity loads and rest on stone rubble foundations.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is unknown.
+
+**Wall Openings:** The building has only one door opening on the road elevation due to the need to screen off the dust and noise. The opposing wall has one doorway and one larger break in the wall to allow access to the cooking area. The internal wall to the bedroom has one door opening. There are no windows.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** A work area has been added at the rear of the building, but this plays no structural part in the main dwelling being reported on here. This area is merely a roof with one wall on the road side.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Compacted earth.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles
+
+**Additional comments section 2:** Typical separation distance between buildings: 4 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe | Characteristic Strength- 3-4 MPa standard block strength. Stabilized blocks up to 8 MPa. Final block strength depends on mixture consistency when pouring blocks. Mix Proportion/Dimensions- Clay 10%-30%, Silt 0%-20%, Sand 50%-70%, Straw to bind The mix changes with site conditions, material availability and builder preference. | 
+| Foundations | Stone and mortar | Mix Proportion/Dimensions: Field stones and mud Foundation types vary widely. | 
+| Floors | Compacted earth | Mix Proportion/Dimensions: 5-10% chopped straw to bind earth Relaid/ relevelled as required | 
+| Roof | Timber with iron sheeting | Mix Proportion/Dimensions: 100mm X 40mm sawn timber rafters laid on unsawn timber top plate | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Only local traditional knowledge is used in these constructions. The role of architects is minimal to none.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The site is cleared. The mud block ingredients are mixed and placed in a wet mold. This is compacted and turned out to dry. While the blocks are drying, the site is further prepared. After four weeks, and several rotations of the drying block, the block is ready for final placement. The wall is constructed by simply laying one block on another with mud mortar between until the desired height is reached. The timber roof framing is laid and the corrugated iron material nailed in place. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)No one
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** US $ 20/m2.
+
+**Labor requirements:** Typically, adobe dwellings of this size take between 1-3 months to construct. The bricks alone must be left to dry for 3-4 weeks in the sun. As there several people on site - family, friends, and community helpers - adobe is a relatively quick and informal construction method for Nicaragua.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The house is occupied by one family. It is used as a base from which the mother and daughter make food to sell on local buses as their source of income. During the evening, the whole family is present.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio) 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1972 | 12.400N | 6.2 | 6 (MMI) | 
+| 1985 | 11.725N | 6 | 6 (MMI) | 
+| 2004 | 11.424N | 6.9 | 6 (MMI) | 
+| 2005 | 11.198N | 6.6 | 6 (MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Wall: The walls will crack in shear from lateral in-plane loads, or will fall in or out due to face-loads. In both cases, roof collapse may follow due to loss of wall support. Roof: The roof collapses due to lack of wall support and poor connections.
+
+**Additional comments on earthquake damage patterns:**	
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** The adobe walls have limited tension resistance under seismic loads.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The roof is poorly connected to the walls, and these poor connections ensure that it can not be counted on to act as a rigid diaphragm for the transfer of loads.
+
+**Earthquake resilient features in roof and floors:** The roofing material is lightweight, so the risk of injury from roof collapse is minimized.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls | 1. Bamboo: Several researchers have been involved with using internal horizontal and vertical bamboo, in a fashion similar to reinforced concrete masonry walls. 2. Timber ring beam: This helps to hold the walls together and facilitate transfer of loads from the roof to the walls. 3. 'Improved Adobe' has long been promoted to make adobe buildings more robust under seismic activity. The 'system' does not utilise another material, but focuses on the design and planning of adobe buildings by limiting opening sizes, plan dimensions, wall lengths and heights, and roof weight | 
+| Roof | Adequate connections to a top timber or concrete ring beam and stronger connections in the framing itself will help the roof act as a diaphragm. Galvanized sheet metal is now common and helps reduces high loads. For thermal and aesthetic reasons, how ever, clay tile continues to be used. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The bamboo strengthening scheme is not used in Nicaragua, but is presented here as an option for making Nicaragua buildings safer.
+
+**Has seismic strengthening described in the above table been performed?** Bamboo: Yes, it has been implemented in Peru with successful structural results, but unsuccessful local adoption of the concept. The system has not been used in Nicaragua. Timber ring beam: These are common now but often limited finances ensure they are out of reach for many in Nicaragua. 'Improved Adobe': Some principles are used, such as small openings and walls, but others are not evident, such as buttresses.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** All work done was only as part of the mitigation efforts.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Technical assistance was used in the Bamboo implementation. Timber ring beams are often incorporated in new constructions by the occupants.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The bamboo system and timber ring beams have proven structurally successful in earthquakes.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Guidelines for earthquake resistant non-engineered construction IAEE National Information Center of Earthquake Engineering, IIT Kanpur, India 2004
+
+  * An improved means of reinforcing adobe walls- external vertical reinforcement Dowling,D. & Samali,B. & Jianchun,L. Sismo Adobe, Lima, Peru 2005
+
+  * Adobe and rammed earth buildings: design and construction McHenry,P. John Wiley and Sons, Canada 1984
+
+  * Building with earth: a handbook Norton,J. Intermediate Technology Group, Warwickshire, UK 1986
+
+  * Earthquake database search, www.ngdc.noaa.gov National Geophysical Data Centre, Date accessed: 15/3/2006
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Matthew A. French |  | Architecture, Victoria University of Wellington | 15 Landcross Street, Wellington 4001, NEW ZEALAND | emailformatthew @hotmail.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz | 

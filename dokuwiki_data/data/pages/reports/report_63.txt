@@ -1,0 +1,315 @@
+====== Highrise reinforced concrete buildings with open space at the ground floor, Taiwan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 63
+
+**Building Type:** Highrise reinforced concrete buildings with open space at the ground floor
+
+**Country:** Taiwan
+
+**Author(s):** Su, Chi Tung, Yao, George C.
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in in both rural and urban areas. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is an urban housing construction. Typically, these are 12-story high apartment buildings with a basement used for parking. The first and second floor are classified as Open Space (OS) and the ground floor is used as gardening area and for leisure and social gathering of the residents. In 1984, the Taiwanese government enacted a law to encourage building owners to construct OS buildings which demanded first floor height be at least 5 meters. The owners in return were awarded with extra floor area. As a result, many buildings were built with the OS at the ground floor. The common features in these buildings are: 1. The bottom two floors were designed for the OS with a net height approximately 7.6 meters. 2. There are a lot of walls above the third floor in both horizontal directions but very few walls at the OS except the elevator shaft and the stair cases. If the elevator is located on the edge of the building plan, torsional effect may be present. 3. Architects tend to design zig-zag floor plans for these buildings in order to maximize view angle and natural lighting. 4. Very few columns were designed into these buildings in order to maximize parking area at the basement. The primary load resisting system is reinforced concrete moment resisting frame on a mat foundation. Partition walls are dense at the 3rd floor and above, which leads to a soft-story configuration in the lateral load-resisting system. Many buildings of this type collapsed in the 1999 Chi-Chi earthquake due to the soft story effect caused by the OS design.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 12-20
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** As a rule there are 10-30 housing units in the one building
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** Floor plan boundaries in this type of building are usually lined up in parallel or zig-zagged to obtain largest space for lighting.
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 7
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete structural walls (with frame). At the first floor and the basement levels, columns are usually the sole structural members to transfer vertical loads. In many cases, only four columns are present on the first floor. As a result, columns are designed with high percentage of reinforced, high-strength concrete; however, the construction quality may not meet the designer's original intent. Columns are usually 70 X 70 cm and beams are 50 X 70 cm. Slabs are 12 cm thick. In design the compressive strength of concrete is usually taken as 2800 N/cm#; however, the actual strength may be even less than 2100 N/cm#. The lateral load-resisting system is reinforced concrete moment resisting frame. The primary load-resisting system is RC moment-resisting frame on a mat foundation. There are usually no walls in the OS and basement, whereas partition walls are dense at the third floor and above, which leads to a soft-story configuration in the lateral load-resisting system.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** At the ground floor: 0.9%. Upper stories : 6%
+
+**Wall Openings:** Most of the buildings are designed to be moment resisting RC frames. This is because of the architectural needs for sun light and ventilation. Usually, an elevator shaft surrounded by a stair case is the only area where a structural wall was designed into a building. Nonstructural exterior/interior walls less than 12 cm thick may be present, but their contribution to strength and stiffness was neglected in the structural design.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Interior walls in individual apartments may be removed and rearranged to satisfy diverse needs of residents. Sometimes the open first storey area may be altered to suit different usage requirements legally or illegally.
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: cast in place solid slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: cast in place solid slabs
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | RC | Characteristic Strength-10-20Comp.Mix Proportion/Dimensions- 1:2:3(Cement:sand:gravel)Cored samplescan sometimesexhibit poorerstrength. | 
+| Foundations | RC | Characteristic Strength-10-20Comp.Mix Proportion/Dimensions- 1:2:3(Cement:sand:gravel)Cored samplescan sometimesexhibit poorerstrength. | 
+| Floors | RC | Characteristic Strength-10-20Comp.Mix Proportion/Dimensions- 1:2:3(Cement:sand:gravel)Cored samplescan sometimesexhibit poorerstrength. | 
+| Roof | RC | Characteristic Strength-10-20Comp.Mix Proportion/Dimensions- 1:2:3(Cement:sand:gravel)Cored samplescan sometimesexhibit poorerstrength. | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Structural designers usually rely on computer softwares for the analysis. The designer must be government certified for which they clear a national exam. He/she is expected to use the latest technology to perform structural design. Architects hired by developers usually have little to do with the overall building geometry because developers have already decided the most profitable building layout based on their market survey. As a result, the OS soft-story structural systems are developed early in the planning stage before an architect is hired.
+
+**Expertise of those involved in the design process:** In theory, all contractors must hire at least a licensed Civil Engineer, Structural Engineer, or Architect to ensure the quality of construction. However, a few contractors may be willing to hire a professional on paper only and do not consult their expert advice in construction work. It was found that some designers may use a 2D instead of a 3D analysis. Driven by the free market competition, some designers even deliberately choose to reduce design load estimates to have a less expensive structure. As a result, many of these buildings collapsed in the 1999 Chi-Chi earthquake and erring designers were prosecuted.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is mostly built by developers who do not necessarily live in the building.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** A contractor is usually hired to do the construction work. Concrete is mostly purchased from premix plants and steel reinforcement cage is assembled on the site. Columns, beams, walls, and slab are usually poured together. Infill walls inside an apartment unit can be brick masonry which is laid after the structure is completed. RC partition walls are cast together with the structure itself. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Building Construction Technical Code of the Republic of China. The first code/standard addressing this type of construction was issued 1974; the most recent code/standard addressing this construction was issued 1999.
+
+**Process for building code enforcement:** Architects design a building and submit the drawings to the concerned government agency which verifies for the compliance of all safety rules required in the design. A construction permit is issued after the government agency is satisfied that all rules are met. A contractor can then start construction work under the supervision of the design architect. Contractors by law should hire licensed engineers to guarantee construction quality but some of them follow the law only on paper and have a poor construction quality. Architects always have difficulty checking all construction details which often leads to a large number of disputes. After the construction work is completed, a government official will inspect the new building to check the overall appearance of the building and make sure the application forms for building permits are stamped by both the architect and the contractor's engineer. If all items are satisfactory, a building permit will be issued to the building owner.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** A developer may have his own construction company, which can construct the new building. In this case, a developer- hired supervising architect will have difficulty in maintaining the quality of the construction work. If the contractor is different from the developer's firm, the architect may not come to the construction site as often as needed. This also has a serious effect on the construction quality.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 500 US$/m2
+
+**Labor requirements:** 450 days for a 12-story building.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Usually two to four family occupy a typical floor. Each building typically has 10-30 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** 10-20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** The price of housing is much higher in the capital Taipei. Economic Level: For Middle Class the Housing Price Unit is 240000 and the Annual Income is 30000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1999 | Chi-Chi, Taiwan | 7.3 | 11 | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Failure of columns in open storey leads to a total collapse. Columns usually are designed with large percentage of longitudinal reinforcement. At the construction site, if mechanical fasteners were not instead of splicing bars, the congested bars usually are not adequately bonded to surrounding concrete. Another construction deficiency commonly found was the negligence of the 135 degree hook for stirrups. As a result, no appreciable ductility in columns was observed in the 1999 Chi-Chi earthquake.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Discontinuous at the ground floor.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Inadequate strength and redundancy.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Soft and weak first open story | Steel or RC brace or RC shear walls may be added to strengthen the ground story. Beams and horizontal bracing may be added on the column mid- height of the OS buildings at the first floor. | 
+| Weak columns | FRP, CRP, or steel plates may be added to strengthen column capacity | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Some measures have been undertaken in a few buildings undergoing seismic strengthening.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** In most cases as a part of the repair work. In some undamaged buildings the above technique is also used as a mitigation measure.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Usually a licensed structural engineer will be involved in the design and a contractor will do the construction.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not yet tested in real earthquakes. Analytical model studies on added beams or diagonal bracing in the OS area were performed [1]. Reference 1 indicates that adding diagonal bracing at the OS will be the best solution to solve the soft-story effect.
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * Su, C.T., Cheng, J.S., and Lu, J.T(2001)Comparison of Seismic Capacity in Different Structural Systems During the 1999 Chi-Chi Earthquake, The Final Report to the Structural Dynamic Course, NCKU Professional Advancement Class.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Su, Chi Tung | Architect |  | #413 Chien Kuo I Rd., Kaohsiung 80703 Taiwan | aaronsu@ms45.hinet.net | 
+| Yao, George C. | Professor | Dept. of Architecture | #1 University Rd. NCKU, Tainan 701 Taiwan | gcyao@mail.ncku.edu.tw | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Durgesh C. Rai | Professor | Civil Engineering, Indian Institute of Technology | Kanpur 208016, INDIA | dcrai@iitk.ac.in | 

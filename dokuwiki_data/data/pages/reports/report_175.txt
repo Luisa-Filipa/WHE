@@ -1,0 +1,343 @@
+====== Reinforced Masonry Building: Clay brick masonry in cement mortar, Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 175
+
+**Building Type:** Reinforced Masonry Building: Clay brick masonry in cement mortar
+
+**Country:** Colombia
+
+**Author(s):** Luis Carlos Hackmayer, Lars Abrahamczyk, Jochen Schwarz
+
+**Last Updated:** 
+
+**Regions Where Found:** This type of single-story buildings can be found easily in urban areas throughout the country (see Figure 1). The construction of small houses using this structural system is increasing in the last years because of its use as affordable housing (economically supported by the government for low income level families). In big cities like Bogot# and Medell#n, these types of buildings can be found as multistory buildings up to 10 stories (see Figure 2). The relevant type in this report will be single-story buildings. This type of housing construction is commonly found in both rural and sub-urban areas.
+
+**Summary:** This type of single-story housing is typically built in urban areas around the country. Nowadays, multistory buildings up to 10 stories can also be found with the same structural system and is generally used for residential purposes; however, this report focuses on single-story buildings. This type of structure is, in general, earthquake resistant but the construction process should be somehow improved in terms of controls and checks. The vertical and horizontal loads are supported by the reinforced masonry walls. The vertical reinforcement bars are placed in the hollow cores of the clay masonry units and the horizontal reinforcement bars in between the horizontal bed joints of the units (the separation depends on the selected energy dissipation capacity).
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The main function of this building typology is a multi/single-family housing depending on the income level.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 6-9
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Reinforced Masonry: Clay brick masonry in cement mortar
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is reinforced masonry walls. The horizontal actions are supported by masonry walls reinforced with vertical and horizontal steel rebar. The amount of vertical and horizontal reinforcement and the quantity of mortar-filled cores of the masonry walls depend on the selected energy dissipation capacity (R-factor). The criteria to select the energy dissipation capacity of the building is the responsibility of the structural engineer and should be based on experience, available materials at the construction site, location of the structure (closely related to the earthquake prone areas) since low energy dissipation structures are not allowed on high seismic areas, etc. The R-factor represents the structural response modification factor (behavior factor in the Eurocodes) and the basic values are tabulated in the Colombian seismic code for different structure types and energy dissipation capacities [3]. The building type under study corresponds to masonry walls with intermediate energy dissipation capacity (Ro=2.5 acc. to [3]). For this type of building, only the cores that contain vertical reinforcement are filled with mortar. The maximum distance between vertical reinforcement is 1.20 meters and there should be at least one bar of 12mm diameter located at the end of the walls and next to the openings. The horizontal reinforcement is placed each 0.6 meters in between the horizontal bed joints and is a bar of 4 mm diameter, in the openings two bars of 10 mm diameter are placed at the top and bottom with an extension of 0.6 meters into the wall (see Figure 5). At wall ends, where the horizontal and vertical reinforcement meet each other, the horizontal reinforcement is connected to the vertical through a standard loop with a length depending on the steel type and rebar diameter. Splices in the horizontal reinforcement should be generally avoided. In order to fulfill this requirement, in places where it is not possible to use a continuous rebar (i.e. walls longer than the maximum length of the rebar) a hook will be inserted in the filled cores (where a vertical reinforcement is placed). Gravity load-bearing system: The vertical load-resisting system is reinforced-masonry walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** The walls are made of clay or concrete block masonry. Clay hollow units are most commonly used (cf. Figure 7, 8 and 9).
+
+**Typical wall densities in direction 1:** 3-4%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical total wall area/plan area is between 3.0 % and 5.5 % in each direction.
+
+**Wall Openings:** The openings are often located in the facade and there may be one or two openings of 1.2 to 1.5 meters width equally spaced (see Figure 3 and Figure 4).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typical patterns of modifications observed are vertical expansions (adding new stories) and in some cases adding division walls for new rooms.
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** The foundation is often a concrete slab, with longitudinal reinforcement for bending. The vertical reinforcement for the walls is placed before casting the slab, so the correct location is important since this will define the final wall location.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place), Waffle slabs (cast-in-place)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roof system consists of corrugate sheets supported on steel trusses (normally tube sections of 2#x1#x1/4# (Figure 6).
+
+**Additional comments section 2:** These buildings do not share walls with adjacent buildings and are normally located conforming lines of housing (separated from each other) called #conjuntos#. They represent several buildings of the same type with small gardens inside and public areas for each #conjunto#. They are normally separated several meters from other structures.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Clay bricks Concrete blocks. (Vertical hollow cores) | Wall: Characteristic Strength- 18 MPa 8-13 MPa. |
+| Foundations | Concrete, Steel. | Characteristic Strength: Concrete f'c = 21MPa Steel fy=420 MPa |
+| Floors | Reinforced concrete.	| Characteristic Strength: Concrete f'c=21MPa |
+| Roof | Corrugated sheets | |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineer
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** The Colombian code allows structural designs only to those civil engineers with a master in structural engineering or have at least 5 years of specific experience in the area.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** ContractorOther
+
+**Roles of those involved in the building process:** Private contractors or construction companies, and in some cases they are contracted by the government.
+
+**Expertise of those involved in building process:** The constructor has to be civil engineer or architect with more than 3 years of experience, and there is a compulsory inspection during the construction and has to be done by a civil engineer or architect with more than 5 years of experience.
+
+**Construction process and phasing:** Depending on the size of the project, many or few builders are involved in the construction process. The mat foundation is cast in situ and the vertical reinforcement is placed before the cast, then the masonry units are assembled and the horizontal reinforcement is placed in between the horizontal bed joints of the units. Normally at the top of the wall, a concrete beam is built and supports for the roof are placed in the casting process, then the truss system for the roof is installed and the corrugated sheets are placed. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The current code is from 2011 (NSR-10) [3] #Norma Sismoresistente Colombiana# and all of chapter #D# is about masonry structures. The first code (in 1984) established the first parameters and guided the design and construction, each chapter provides the minimum requirements of the materials and tests that have to be done during the construction. The earthquake requirements are defined in chapter #A# of the code, chapter #I# is about technical supervision and chapter #K# is about complementary requirements depending on the occupancy and importance of the buildings. Law 400 of 1997 [9], defines the minimum requirements of professionals for designing, constructing and supervising.
+
+**Process for building code enforcement:** A specific governmental organization authorizes the construction after a complete set of architectural, structural and technical (i.e. hydraulic, electric) design memories and blueprints are submitted and signed by the each responsible professional.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The building cost is approximately $120-$200 per square meter.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** The first Colombian code was developed in 1984 defining the design and construction requirements for reinforced masonry buildings and other types of structural systems. The code was updated in 1998 and the last version was in 2011, being more strict and specific. For reinforced masonry buildings, the code defines the minimum requirements for design, construction and maintenance but although the code is considered as law, the controls during the construction are not enough and often the requirements are not completely followed.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically one family occupies a house. Sometimes the house owner may rent out rooms to others, and in many cases (low economic groups) two families may share the house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44474
+
+**Additional comments on number of inhabitants:** The number of inhabitants during the evening and night is more than 4 and up to 6.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** The Colombian social strata is divided into 5 different stratums called #estratos#, from 1 to 5, being 1 the lowest income, 2 the low middle class, 3 the middle class, 4 the upper middle class, 5 the upper class and 6 the wealthy. Formal reports talk about 35% of poverty and 17% of extreme poverty [8]. House Price/Annual Income (Ratio): 4:1, 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsSmall lending institutions/microfinance institutionsCommercial banks/mortgagesOther
+
+**Additional comments on financing:** Employers
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1875 | C#cuta, N.de S. |  |  | 
+| 1970 | Northern part of Colombia | 7.3 |  | 
+| 1974 | Panama | 8 |  | 
+| 1987 | Southern Part of Colombia | 7.3 |  | 
+| 1999 | #Eje Cafetero# Andes region (Quind#o) | 7.3 |  | 
+| 2004 | West coast | 6.2 |  | 
+| 2007 | North coast | 7.2 |  | 
+| 2008 | North coast | 7.3 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** After the Popayan earthquake in 1984, most of the structures were considerably damaged and many of them collapsed. Many of the buildings were unreinforced/reinforced masonry and moment resistant reinforced concrete frames, but the first seismic code was still not developed. Figure 10 shows the historical earthquakes with a Magnitude > 5 since 1875 in Colombia according to [5] and [6].
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | N/A |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE |
+| Wall Openings |  | FALSE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 1) Due to the light roof system it can#t be considered as rigid, but it should maintain its integrity. 2) In general there are no floor construction in the relevant building type of this report.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The openings on the walls are in general too big (bigger than # the distance between the adjacent cross walls). In these cases the walls cannot be considered part of the structural system and the remaining walls should be able to support the horizontal actions.
+
+**Earthquake-resilient features in walls:** The walls are reinforced and designed to support lateral loads and in general the mass of the structures is low (only one or two stories)
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% |  |
+
+**Additional comments section 5:** The first Colombian code was developed in 1984 defining the design and construction requirements for reinforced masonry buildings and other types of structural systems. The code was updated in 1998 and the last version was in 2011, being more strict and specific. For reinforced masonry buildings, the code defines the minimum requirements for design, construction and maintenance but although the code is considered as law, the controls during the construction are not enough and often the requirements are not completely followed.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Wall openings bigger than recommended. | No strengthening techniques are adopted. On the design stage, spandrel beams are used around the openings. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** If new constructions follow the design code, no strengthening scheme is needed.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work should be done as a mitigation effort on an undamaged building
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The seismic retrofit is controlled by the contractor and the inspector, both have to be engineers or architects.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There was no opportunity to observe the performance of retrofitted buildings.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Ing. Luis Carlos Hackmayer Saracino (2011). Pictures of reinforced masonry buildings during construction, Arauca, Colombia.
+
+  * Ing. Luis Enrique Gil (2011). Pictures of reinforced masonry buildings during construction, Bogota, Colombia.
+
+  * NSR-10 (2011). Norma sismoresistente Colombiana, Colombian seismic building code, Colombia.
+
+  * Angelica Maria Herrera and Germ#n Guillermo Madrid (1999). Manual de construccion de mamposteria de concreto, Construction handbook of reinforced masonry.
+
+  * Ingeominas. Earthquake catalogue of Colombian Institute of Geology and Mining.
+
+  * U.S. Geological Survey. Strongest Earthquakes in Colombia. (last access: July 2013) URL: http://earthquake.usgs.gov/earthquakes/world/historical_country.php
+
+  * Grunthal, G. (ed.), Musson, R., Schwarz, J., Stucchi, M. (1998). European Macroseismic Scale 1998, Cahiers de Centre Europ#en de G#odynamique et de Seismologie, Volume 15, Luxembourg.
+
+  * Sarmiento Anzola, Libardo (1999). Exclusion, Conflicto y Desarrollo Social. Ed. Desde Abajo. Datos de Desplazamiento Forzado: Codees Informa No. 26. p.3. Exclusion, Conflict and Social Development.
+
+  * Ley 400 de 1997: Por la cual se adoptan normas sobre Construcciones Sismo Resistentes, Diario Oficial No. 43.113, del 25 de agosto de 1997.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Luis Carlos Hackmayer | Alumni #Natural Hazards and Risks in Structural Engineering# | Bauhaus-Universitat Weimar |  | luis.carlos.hackmayer@uni-weimar.de | 
+| Lars Abrahamczyk |  | Earthquake Damage Analysis Center (EDAC) | Bauhaus-Universitat Weimar | lars.abrahamczyk@uni-weimar.de | 
+| Jochen Schwarz | Earthquake Damage Analysis Center (EDAC) | Bauhaus-Universitat Weimar | schwarz@uni-weimar.de |  | 
+
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dina D Ayala |  | | University College London CEGE Department	| fra2dina@gmail.com |

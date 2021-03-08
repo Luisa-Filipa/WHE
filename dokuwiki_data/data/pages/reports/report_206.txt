@@ -286,6 +286,8 @@ The total width of door and window openings in a wall is: For brick masonry cons
 
 === Seismic Vulnerability Rating ===
 
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |
 | Seismic vulnerability class   | o |  |    |  |  |  |

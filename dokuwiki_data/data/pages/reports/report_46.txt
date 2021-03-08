@@ -1,0 +1,336 @@
+====== Unburnt brick wall building with pitched roof (nyumba ya zidina ), Malawi ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 46
+
+**Building Type:** Unburnt brick wall building with pitched roof (nyumba ya zidina )
+
+**Country:** Malawi
+
+**Author(s):** Sassu, M., Ngoma,I
+
+**Last Updated:** 
+
+**Regions Where Found:** This type of construction is practiced in all three regions of Malawi and in neighbouring countries i.e. Zambia and Tanzania. The percentage of this type of housing is estimated at over 45 %.
+
+**Summary:** This type of building is found both in urban and rural areas throughout Malawi. It is a construction type that is gaining popularity at the moment; it is estimated that it constitutes 45% of the country's housing stock. The thatched roof is supported by unburnt mud brick walls built in mud mortar. The walls are built on a stone platform raised above ground for the purpose of protection from floods. These buildings are built without any horizontal and vertical reinforcement. The strength of the building is very low. This type of construction is considered to be very vulnerable to earthquake effects. In the 1989 Salima earthquake (magnitude 6), 9 people died and over 50,000 people were left homeless. Many buildings of this type suffered extensive damage or collapsed.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Never
+
+**Comments:** This type of housing is also used for commercial rental housing--many people having multiple rooms, but it is not built as highr
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 6
+
+**Typical plan width (meters):** 4
+
+**Typical story height (meters):** 2.4
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block wallsOther
+
+**Additional comments on structural system:** Lateral load-resisting system: The wall takes the load from the roof and wall elements. The walls are placed on a raised platform as a way of keeping above ground/surface water levels during the rainy season. This platform may be considered as a foundation because it projects outside the wall thickness and is generally constructed of stone. However, the connection between the wall and the raised platform is not structural, so there is no transfer of lateral forces at this point. The connection between the roof and the wall does not provide lateral transfer of forces.Gravity load-bearing system: The roof loads are supported on the timber members which are supported on walls. Generally gable walls are used both internally as room partitions and at the extreme ends of the building.
+
+**Gravity load-bearing & lateral load-resisting systems:** Other: unreinforced unburnt clay bricks (zidina) in mud mortar
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** About 20 %.
+
+**Wall Openings:** The number of openings is more than one i.e. could be two doors and two to three windows depending on the size of the building. 8% estimated as overall window and door areas as a fraction of the overall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Some extensions have been made. In some cases the roofing material has been changed.
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** Other:Stone raised wall is built to support wall and for rainwater clearance i.e. to avoid water touching the walls.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor is made up of rammed earth with mud smear finish or cement floor screed.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Other: Timber, thatched roof supported on wood purlins; sometimes iron sheets are used.
+
+**Additional comments section 2:** Typical separation distance between buildings: 2-3 m
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | wall: unburnt soil blockframe: timber | Mix: mud mortar | 
+| Foundations | (no foundation, but wall is rested/placed on a raised platform of stones) | This works to level the start of the wall construction in sloping ground | 
+| Floors | 1. rammed earth2. cement screed | No structural strength is provided but adds floor resistance to wear and provides easy care. | 
+| Roof | timber | No calculations are made to determine member size or spacing. | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** Owner decides what type of building to build.Masons/bricklayers set out the building plan on the ground marking corners and door openings.No engineers or architects are involved in the design/construction of this housing type. The practice is looked down upon hence less attractive to the professionals.
+
+**Expertise of those involved in the design process:** Generally the masons/bricklayers are not trained at any school but learn on the job although some may have been trained at trade school. The level of skill is reasonably good. These masons/bricklayers are not covered by design standards which makes it very difficult to talk of expertise.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerMason
+
+**Roles of those involved in the building process:** The mason/bricklayer lives in this type of construction. First the owner hires brick moulders to mould the bricks. The bricks are dried as a curing process. the mason then marks the ground to peg corners and openings. Mud mortar pit is selected and then building starts. The mason/bricklayer lays the bricks with others bring the mortar until roof level.The carpenter comes in at this stage to make the roof and fix doors and windows to complete the construction.No engineers or architects are involved in the design/construction of this housing type. The practice is looked down upon hence less attractive to the professionals.
+
+**Expertise of those involved in building process:** Generally the masons/bricklayers are not trained at any school but learn on the job although some may have been trained at trade school. The level of skill is reasonably good. These buildings are not covered by design standards which makes it very difficult to talk of expertise.
+
+**Construction process and phasing:** The house is constructed by masons/bricklayers. General knowledge is used during construction.FOUNDATION: The ground is levelled. Stone wall 0.4m wide is built along the wall perimeter from ground level in mud mortar to a height of 0.4m. WALL CONSTRUCTION: The dry clay/mud blocks form the masonry units with mud mortar as the joining medium. The procedure is like any masonry wall construction. The mortar thickness is 10mm - 15 mm. At the roofing level of the wall, a wall plate is introduced which is generally of timber poles.ROOFING: Grass thatch or iron sheets supported by timber purlins (generally poles) which run over the gable walls. Truss construction is also used. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** The building is not built to resist seismic forces and so is not specifically strengthened.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** N/A
+
+**Process for building code enforcement:** N/A
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** Malawi does not have National Building Regulations. Building Regulations are generally applicable in cities. Moves are underway to enact National Building Regulations.Guidelines for building in disaster prone areas were developed and are currently being reviewed.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** There is no materials quality control and not even construction inspection. There are no written plans for such buildings. There are no permit application procedures. People can occupy buildings before completion. There is a lot of waste of materials. A lot of pits can be seen which affects the environment as people dig into the soil next to the building.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Owner here means that person to move the process of maintenance upon assessing condition of the building. The actual work is done by masons/bricklayers.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** There are no established/fixed ways of building so that it is difficult to arrive at the unit construction cost.The unit cost is estimated as K1,000.00/m2 (US$2.23/m2).
+
+**Labor requirements:** Labour requirements vary considerably from one-man operation to group work. The construction requires a minimum of 3 and 1/2 weeks to complete building the walls for a 6m by 4m plan with internal partitions for a single bricklayers with 3 helpers.
+
+**Additional comments section 3:** There is no organized arrangement for building these structures as a result the period for construction and building rates are not standardized.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Generally single family occupies one house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** These buildings are not built for day activities and so during the day people spend time outdoors on verandars/khonde or under the trees.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Very poor: no rate, no salary (subsistence farmings). Poor: less than 30 US$ salary.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** Financing is sometimes from relatives with higher income.
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** In urban areas, these type of houses are rented out by owners.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** N/A
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** N/A
+
+**Additional comments section 4:** Housing units can be many if made for commercial purposes. In this case the house is built as a block i.e. single units.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1957 | Champira | 5 | MMI VIII | 
+| 1966 | Mwanza | 5.3 |  | 
+| 1967 | Thambani in Mwanza | 5.4 |  | 
+| 1989 | Salima | 6 | MMI VIII | 
+| 2009 | Karonga | 6.2 | MMI VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 1973 another earthquake hit Livingstonia measuring 5.1 on the Richter scale. The 1989 Salima earthquake was the worst in Malawi. It is reported that 9 people died and over 50,000 people were left homeless. These types of buildings suffered a lot of damage, including collapse. Geologists forecast more intense earthquakes could occur in Malawi.The 2009 earthquake resulted in 4 people dead, 300 people injured and 2000 households affected.
+
+**Additional comments on earthquake damage patterns:** The mud mortar did not provide any resistance and so the line of crack followed the mortar line from ground level to top.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The structural resistance is poor because the building is not designed to resist seismic forces.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor lateral resistance of adobe bricksMortar does not provide lateral continuityWeak timber lintels.Simple connection between roof members and walls
+
+**Earthquake-resilient features in walls:** Gable construction. Use of light roofing materials can reduce weight on the walls.
+
+**Seismic deficiency in frames:** N/A
+
+**Earthquake-resilient features in frame:** N/A
+
+**Seismic deficiency in roof and floors:** Roofing timber embedded in wall.Floors are structurally built and so are passive.
+
+**Earthquake resilient features in roof and floors:** Light roof structural system
+
+**Seismic deficiency in foundation:** The building has no foundation as it founded on ground level.
+
+**Earthquake-resilient features in foundation:** N/A
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | | | | |
+
+**Additional comments section 5:** The wall construction does not include continuous construction. The roof has capacity to have load sharing system.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low level of connection between base of wall and foundation | Use timber members at specified spacing to connect to roof members through a wallplate type arrangement. | 
+| (New Construction):Weak connections between roof and walls | Rebuilding of roof | 
+| (New Construction):Weak level of shear strength of mortar | Rebuilding of damaged wall | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The practice is generally to build a new building when one shows weaknesses. The only lesson taken into account is that of strengthening weak areas in new construction. These are at truss-wall connection at ground-wall contact.
+
+**Has seismic strengthening described in the above table been performed?** N/A
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Mainly the owner. Architects and engineers are not involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** The 2009 Karonga earthquake provided opportunity to do retrofit but could not assess performance since no other earthquake took place thereafter.
+
+----
+
+==== 7. References ====
+
+  * Seismicity and Source Mechanisms of the Malawi Rift and Adjacent Areas, from 1900 to 1990Chapola,L.S.for the course of seismology 1990-1991 at International Institute of Seismology and Earthquake Engineering, Building Research Institute,Tsukuba, Japan 1991
+
+  * The Malawi Earthquake of March 10, 1989: A Report of Macroseismic SurveyGupta,H.K.Tectonophysics 209, No. 1-4, 165-166 1992
+
+  * An Estimation of Earthquake Hazards and Risks in MalawiChapola,L.S.Geological Surveys Department, P.O. Box 27, Zomba 1993
+
+  * Seismicity and Tectonics of MalawiChapola,L.S.For National Atlas of Malawi, Geological Surveys Department, P.O. Box 27, Zomba 1994
+
+  * State of Stress in East and Southern Africa and Seismic Hazard Analysis of MalawiChapola,L.S.M.Sc. Thesis, Institute of Solid Earth Physics, University of Bergen, Norway 1997
+
+  * Rural Cement Roofing in Malawi: A Pre-feasibility studyStanley,R. and Kamanga,S.prepared for Africare, Blantyre, Malawi 1986
+
+  * Low Cost Building Materials in MalawiKamwanja,G.A.Ph.D. Thesis, University of Malawi 1988
+
+  * National Housing PolicyMalawi Government 1999
+
+  * Malawi's Approach to Problems of Human Settlements - a document outlining the Malawi Government'saction in relation to the Habitat Plan of ActionMalawi Housing Corporation, adopted in Vancouver in 1976 1981
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sassu, M. | Associate Professor | University of Pisa | Department of Structural Engineering, Via Diotisalvi 2 56126 PISA Italy | m.sassu@ing.unipi.it | 
+| Ngoma,I | Senior Lecturer | University of Malawi | The Polytechnic, P/B 303, Blantyre 3.Malawi | ingoma@poly.sdnp.org.mw | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Manuel A. Lopez M. | Engineer | Escuela de Ingenier, Universidad de El Salvador | San Salvador , EL SALVADOR | manuel.lopez@unipv.it | 

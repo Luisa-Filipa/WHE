@@ -105,7 +105,7 @@ The main reference publication used in developing the statements used in this ta
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |

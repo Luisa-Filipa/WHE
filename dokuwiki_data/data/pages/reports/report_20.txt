@@ -1,0 +1,329 @@
+====== Unreinforced brick masonry with flat roof, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 20
+
+**Building Type:** Unreinforced brick masonry with flat roof
+
+**Country:** India
+
+**Author(s):** Amir Ali Khan, Dr. Khalid Moin
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Northern India and particularly in western part of the Uttar Pardesh (U.P.) State. According to the 1991 Census of India, buildings of this type constitute around 17% of the total national housing stock and 31% of the housing stock in U.P. This type of housing construction is commonly found in both rural and urban areas. This type of building is found in both urban and rural areas. The only difference is in the use of mortar. Mud is used as mortar and overlaid on the roofs in rural areas while cement mortar is used instead of mud in urban areas.
+
+**Summary:** This is a traditional construction practice prevalent both in the urban and rural areas of northern India, particularly in the western part of the Uttar Pardesh state. According to the 1991 Indian census, this construction constitutes about 17% of the total national housing stock and about 31% of the U.P. housing stock. Typically, this is a single-story construction. The main load-bearing elements are unreinforced brick masonry walls in mud mortar built without any seismic provisions. The roof structure consists of timber beams supported by the walls. Clay tiles or bricks are laid atop the beams; finally, mud overlay is placed on top of the tiles for the thermal protection and to prevent leakage. The main seismic deficiencies are heavy roofs and low-strength masonry walls, which render the building rather vulnerable to seismic effects.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** Traditionally a compound has two or more units of this type. The joint families do stay in this type of buildings. As the family
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shape
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 12-18
+
+**Typical plan width (meters):** 7-10
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortar
+
+**Additional comments on structural system:** The gravity loads are transferred from the roof through the timber beams to the walls and then to the ground (there are typically no foundations in buildings of this type). There is no special provision for the lateral load transfer; in general, these buildings are very weak against the earthquake loads. Mud mortar is often used as mortar; cement mortar is used much less often. Lime mortar was used in some older construction (more than 50 years old). The roof is laid over the wooden beams fixed in the slots in the walls (Fig. 4); bricks or tiles or redstones are laid over the beams. To seal the leakage and improve bonding, a 1 ft. thick mud overlay is placed atop the tiles; thickness of this overlay increases with time (as the owner add more and more mud each year before the rainy season).
+
+**Gravity load-bearing & lateral load-resisting systems:** Mud mortar is mainly used in rural areas and cement mortar is used in urban areas.
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 12 - 20%.
+
+**Wall Openings:** This type of buildings have very less openings, generally there are no openings except doors. The buildings are usually comprised of two rooms. The inner rooms do have only one door in the middle while outer rooms have 3 doors. There are usually no other openings. In some cases small opening are made in the outer room over the doors. These houses usually constructed in form of the cluster with wall to wall attachment and as such there are no opening spaces except front portion of the buildings. In general, the opening are found above the middle door in the shape of small ventilators with some traditional shapes such as.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** As such there are no modifications in this type of buildings. The only modifications take place in terms if providing extensions by constructing one room in the over the terrace of the housing unit.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Wooden beams or trusses with heavy roof covering
+
+**Additional comments on roof system:** In this type of buildings timber beams are put over the walls. Clay tiles cover these beams and overlaid by mud. The mud layer may be of about 1 feet thick, which is laid over the clay tiles/bricks. This type of buildings are single - storey units in general. In few of the buildings one room is built over the roof. As such no flooring is done. The roofs are flexible in nature. To avoid leakage of rain water, mud is overlaid upon the roof year after year and thus the thickness of mud keep on increasing over the roof.
+
+**Additional comments section 2:** Houses may be located closely without chink or with the distance 5-10 m.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick Mud, Mortar Cement, Mortar (urban) | Characteristic strength: 3.5 N/sq mm, N/A, 7.5 N/sq mm Mix Proportion/Dimensions: 228 X 114 X 76 sq mm, N/A, 1:4 (cement:sand) Standard size | 
+| Foundations | Mud Mortar |  | 
+| Floors | Timber (good quality),Clay Tiles | Characteristic strength: N/A 3.5 N/m#. Mix Proportion/Dimensions: 150 X 150 X L mm# NA | 
+| Roof | Timber (good quality),Clay Tiles | Characteristic strength: N/A 3.5 N/sq m. Mix Proportion/Dimensions: 150 X 150 X L cub m NA | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Engineers and architects do not play any role in construction of this type. In the rural parts of India the professionally trained architects and engineers do not play any role in the construction of the private buildings. The same practice prevails in the construction of this housing type even if built in semi-urban areas.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Mason
+
+**Roles of those involved in the building process:** Local mason do the construction of this type of buildings. He may also built his house in the similar fashion.
+
+**Expertise of those involved in building process:** There is no formal training for the masons. The person constructing the house learnt the art of construction over a period of time. The person starts working with the local mason as labourer and learn the art of construction just by observing the head mason. After a period of time he himself starts working as the assistant mason and later on take over as the head mason.
+
+**Construction process and phasing:** To erect the wall, a trench is excavated 1-1.5 m deep. The first layer (~150 mm thick) is laid using broken brick aggregate and the wall is constructed over it. After the completion of the walls the timber beams are placed over the wall slots and tiles are placed over them. The top tiles surface is covered using thatch / plastic sheets etc. and mud is overlaid. Openings are made during the walls construction process. The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size. In certain cases construction of single room over the roof may take place on a later date to adjust the extended joint family.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** IS 4326-1993 Indian Standard Code of Practice for Earthquake Resistant Design and Construction of Buildings IS 1893-1984 Indian Standard Recommendations for Earthquake Resistant Design of Structures 1. Improving Earthquake Resistance of Low Strength Masonry Buildings # Guidelines - IS 13828:1993 by Bureau of Indian Standards. 2. A Manual of Earthquake Resistant Non # Engineered Construction by Indian society for Earthquake Technology.
+
+**Process for building code enforcement:** There is no enforcement of building codes in India for the rural / semi urban construction.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** There are no building control and/ or guidelines in the rural parts of India. Even no approval of any authority is required prior to construction of houses / buildings.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** # No technical know-how about earthquake resistant construction practices. # Poor brick quality. # Poor workmanship if a less experienced masons is employed. # Number of buildings do develop the cracks due to different reasons (such as back to back joints with different types of construction). # The occupants of the building have no knowledge and usually do not worry for the repair etc
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** The owners do the maintenance themselves. It is customary to lay mud / mud plaster over the roof prior to the rainy season. The whitewashing etc. are done on regular basis on the occasion of festivals and other special occasions.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** The unit cost of construction of this type of houses is about Rs. 2000/-(US$ 42) per sq. m. This cost may increase depending upon the quantity of cement used for mortar, flooring and plastering etc. The overall cost may also reduced based on the contribution of the household towards labour.
+
+**Labor requirements:** The labour requirement for a typical house of about 80-100 sq. meters are about 60-80 man days.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** As the joint family tradition is very strong in the rural parts of India, an extended family occupy the housing unit. Typically, the families comprise of a father and 3-4 sons, staying together in this type of house in the beginning. As the family further expands, the families of sons separate out and occupy the independent units.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44105
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The Rich people do good quality finishing and good interiors. They usually do the cement plastering on the outer face of the wall and put cement plaster over the roof as well. This type of houses have brick paved surface for the courtyards and cement flooring in the rooms. The middle income household have no flooring and they use cement pitching on the outer face of the wall. They have the mud roofs. This type of houses do have mud flooring for the courtyards as well as in the rooms. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1956 | Bulandshahar (Uttar Pradesh) | 6.7 | VIII (MSK) | 
+| 1993 | Killari (Maharashtra) | 6.4 | VIII (MSK) | 
+| 1997 | Jabalpur (MP) | 6.1 | VII (MSK) | 
+| 2001 | Bhuj (Gujarat) | 7.6 | X (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** In terms of wall openings - this condition is true in case of inner rooms, where opening are in the middle of the wall; it is not true in case of outer rooms, where three doors are provided.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Very weak from earthquake point of view#Usage of mud mortar in rural areas#The RC bands at various levels are not provided#No measures to strengthening the corners#Internal cupboards openings#Loft erected from the wall in the inner rooms. (It can cause asymmetric displacement)
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** ##No proper connection between the wall and roof#Heavy load of mud over the roof.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Heavy roof due to extensive mud overlay | Removal of mud from the roof top will help in overall weight reduction of the building | 
+| Inadequate wall resistance due to the absence of seismic provisions | i) Covering the wall with seismic belt (iron wire mesh and cement mortar) at lintel level on both (inner as well outer) sides of the wall ( -1 ft to +1 ft at lintel level) (Seismic belt at +1 ft. above slab level covering parapets is proposed to enhance the box action / integrity of the roof and wall) | 
+| Roof (New Construction) | #NAME? | 
+| Foundation (New Construction) | Provision of strip foundation (currently, many buildings of this type do not have foundations at all) | 
+| Wall (New Construction) | - Provision of RC ring beams are plinth, lintel and roof levels - Provision of vertical steel reinforcement bars at the wall corners and intersections | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No, very rarely if so.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. Improving Earthquake Resistance of Low Strength Masonry Buildings # Guidelines IS:13828-1993
+
+  * 2. Repair and Seismic Strengthening of Buildings # Guidelines IS: 13935-1993
+
+  * 3. Vulnerability Atlas of India; BMTPC, New Delhi
+
+  * 4. A Manual of Earthquake Resistant Non- Engineered Construction; ISET, Roorkee
+
+  * 5. Improving Earthquake Resistance of Housing- Guidelines; BMTPC, New Delhi.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Amir Ali Khan | Research Officer | National Centre for Disaster Management, New Delhi | IIPA, IP Estate, Ring Road, New Delhi | Khanamirali@usa.net & khanamirali@hotmail.com | 
+| Dr. Khalid Moin | Reader | Jamia Millia Islamia, New Delhi | Department of Civil Engg, F/O Engg. & Tech., Jamia Millia Islamia, Jamia Nagar, New Delhi | Kmoin_ci@hotmail.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400076, INDIA | rsinha@civil.iitb.ac.in | 

@@ -1,0 +1,339 @@
+====== Mud House of Bangladesh, Bandladesh ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 143
+
+**Building Type:** Mud House of Bangladesh
+
+**Country:** Bandladesh 
+
+**Author(s):** Amrita Das, Mohammad Shariful Islam, Dr. Md. Jahangir Alam, Nusrat Hoque
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in villages and suburban areas of the country. Generally, areas of lessrainfall dry climate, lateritic soil (rich in minerals, typically red in color) and where the lands are normally above theflood level, are more suitable for the construction of mud houses. This type of housing construction is commonlyfound in both rural and urban areas. Nowadays in rural and suburban areas, economically stable people try to build semipacca (more permanent) houses.Despite of this, the percentage of mud houses is higher in these areas. Locally this type of housing is called a Kutcha. About 74% of thetotal houses of Bangladesh are Kutcha houses, most of which might be considered as Mud houses. The percentage ofKutcha houses is 46% and 83% for urban and rural areas, respectively. Among mud houses, those of rammed earthtype are most common but also mud block wall systems are being used. This type of construction is still beingpracticed in developing countries like Bangladesh.
+
+**Summary:** In Bangladesh, a mud house is one of the traditional housing types that are used by poorfamilies mainly in rural areas as well as in the outskirts of small cities. This building type istypically one or two stories and preferably used for single-family housing. It is morepredominant in less flood-prone areas, i.e. in the highlands or in mountainous regions. Themasses of these buildings are generally high and their walls are characterized by insignificant strength, particularly against forces that act out-of-plane. This type of building is highlyvulnerable to both seismic forces and high pressures due to flood flow. The main load bearingsystem consists of mud walls of 1.5 to 3.0 ft thickness, which carry the roof load. Clay tiles,thatch or CI sheets are used as roofing materials. The application of these materials dependson their local availability and the ability of the house owners. There is no monolithic jointbetween the wall and the roof. For this reason, these buildings behave poorly under any typeof lateral load (e.g. earthquake, wind).
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** In villages this type of construction can be usedas go down or storage house. Though most of the mud houses are used as single-f
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The plan shape of this type of construction is generally rectangular with lengths between 20-30 ft and widths between10-15 ft. The main structural elements are mud walls which carry the load of the roofing.
+
+**Typical plan length (meters):** 5-10
+
+**Typical plan width (meters):** 3-5
+
+**Typical story height (meters):** 1.6-2.5
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls
+
+**Additional comments on structural system:** The vertical load-resisting system is earthen walls. Mud walls carry gravity loads due to the roof weight and transmitthem to the ground. Rarely, wooden or concrete block lintels assist in resisting the gravity loads at wall openings. Mudwalls are mostly susceptible to excessive rainfall, which frequently causes the washing away of mud from the wall. The lateral load-resisting system is earthen walls. The dimensions of the mud walls are typically: height 3.0 m, width4.0 m, thickness 0.50 m. The walls do not have any additional system (such as crown beam or pilasters) to restraintheir out-of-plane movement which is one reason why the buildings are so vulnerable during earthquakes. If the wallsfail in out-of-plane direction, the roof generally looses its support and collapses. The wall corners (junctions) are veryvulnerable parts of the structure. The typical wall thickness varies from 0.3 to 0.6 m.
+
+**Gravity load-bearing & lateral load-resisting systems:** Mud walls are the main structural elements of this type of construction. They carry both lateral and vertical loads.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. Generallywall density varies with the thickness of the wall. For the house of the same dimension mentioned above, wall densitywill be different if the wall thickness is different.
+
+**Wall Openings:** Many houses have openverandas at the front with roof supported by posts. The opening area is about 30 percent of the total wall area. Theconstruction of doors can be done in two ways. Either by providing doors with heights equal to the wall height, or by a discontinuous construction of the wall at the location of the opening according to their dimension. The door framesare provided afterwards. In case that doors are provided with height less than the wall height, a wooden plank isprovided over the opening with support of 6" on both sides. Afterwards the construction of the wall is continuedleaving the opening. In case of the construction of windows, the walls are raised up to window sill level and then thewalls are discontinued at the location of the opening. When the walls are raised up to the top level of the window,wooden planks are again placed over the openings with support of 6" on both sides. The remaining wall isconstructed as described before.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** A typical modification of these buildings consists in the lateral extension. Vertical extension is not very common.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: No foundation
+
+**Additional comments on foundation:** In the construction of mud houses no proper foundation is provided. Only the ground is excavated with a widthequal to the wall thickness and the wall is then constructed. Generally the wall is embedded to the ground, withoutfooting. The general depth of the embedment is about 0.3-0.5m. As a result no firm connection exists between thebuilding and the ground. Thus the building may fail easily due to severe lateral loading.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor generally consists of compacted earthen materials.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Thatched roof supported on wood purlins; thatched roofs are very commonly seen, but corrugatedsheets or tiles supported by wooden purlins can also be used as roofing materials. The roofs are usually inclined tofacilitate the drainage of water. Sometimes flat roofs with wood joists are also used. In Bangladesh, bamboo joists aremore common. The roofs (and walls) typically have a 10 cm (4 inch) layer of straw. The compacted ground that is usedas floor is generally raised 0.5-0.6 m above the existing ground level.
+
+**Additional comments section 2:** When separated fromadjacent buildings, the typical distance from a neighboring building is 2-4 meters. It is noteasy to specify the actual length and width of the house. Generally, this depends on the requirements as well as on theeconomic situation of the inhabitants. Roughly, the ratio of the length and width of the house can be expressed as 3:2or 2:1. The span width also depends on the number of members that would occupy a single room.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Mud (i.e.molded soil)is used fortheconstructionof the walls.Bamboo Frames | In unreinforcedmud walls thecompressivestrength of mud isabout 120--140 kPa(Islam andKanungo, 2006).The mix proportion of materials is notspecific. After mixing with water the mud iskept in place for a few days so that thedispersion of clay particles can take place.Afterwards it is used for construction. Theminimum thickness of the walls is 1.5 ft.Among the lower income class, owners construct theirhouses themselves. In general, no testing of thematerial strength is done during construction. This issolely based on experience. Irrespective of this, testingfacilities are not available in those areas where thesetypes of constructions are available. | 
+| Foundations | Mud (moldedsoil) is usedfor theconstructionof foundation. | The mix proportion of materials is notspecific | 
+| Floors | Straw , C.G.ISheet,Bamboo,Golpata (akind of leaffound inMangroveforest). |  | 
+| Roof | Straw , C.G.ISheet,Bamboo,Golpata (akind of leaffound inMangroveforest). |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** These buildings are typically built by the owners, whereas the owner is directly involved in the construction process andmay also contribute his own labor.
+
+**Expertise of those involved in building process:** Local unskilled persons and villagers without any technical knowledge construct these buildings. Generally thebuilders construct their own houses and sometimes they employ skilled labor. Generally, the craftsmanship is poor.There is no special expertise and no formal training of labor. Their seniors trained them.
+
+**Construction process and phasing:** Soil is excavated about 1.5--2 ft all around the building. In a first step, the wall base up to a height of 2--3 ft is erectedout of compacted mud before it is left for one day for hardening. The same procedure is repeated several times inorder to raise the wall up to the desired height. Roofing: The roof truss consists either of bamboo or wood. For theconstruction of the roof, first wooden beams are provided on top of the walls. The longitudinal beams are providedwith grooves in equidistant intervals. Then the cross beams are placed at the positions of the grooves. Afterwards, theroof trusses are provided onto the longitudinal beams and fixed to them by nails. It has been observed that the rooftrusses are not always provided directly over the cross beams. On top of the roof truss a roof frame is applied and fixed to the trusses by ropes. At the end, cover materials such as CI sheets or straw are provided. The construction ofthis type of housing takes place incrementally over time. Typically, the building is originally not designed for its finalconstructed size.
+
+**Construction issues:** 
+ess for building code enforcement:** This type of construction is very common in rural areas where no strict development authorities are present to observethe construction process of this type of construction.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** No
+
+**Applicable codes or standards:** This type of construction is aninformal construction. There are no guidelines for this type of housing. No prior approval is required.
+
+**Process for building code enforcement:** This type of construction is very common in rural areas where no strict development authorities are present to observethe construction process of this type of construction.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This type of construction is very common in rural areas where no strict development authorities are present to observethe construction process of this type of construction.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** BDTK 50 per square feet.
+
+**Labor requirements:** It takes about 60 days for 2-3 persons (120-180 person days) to complete theconstruction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family possibly with a married son and his wife typically occupies one house. In rural areas, one family has at least5--8 members. Each building typically has 1 housing unit(s). There might be two units if a combined family live in the house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** All family members return from their work back home at night.Consequently the number of occupants during night will be more than 5 people.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Most of the middle class families that were originally coming from the villages but that have moved into the cities,still stay in their mud houses when they come to their villages. They even renovate it at least once a year. Generally, thevery poor people who live from hand to mouth, cannot engage themselves in any meaningful income generating laborand so they sometimes must live in houses with leaky roofs (even in winter and heavy monsoon). The gross nationalincome of Bangladeshi people is 394 US-$/year. The construction costs of such mud buildings is about 1000--1500US-$ for a building of 1000 square feet. Ratio of housing unit price to annual income: 3:1
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** Nowadays, Grameen Bank is the world renowned micro-finance institution, which lends money to the people as pertheir requirements under some easier terms and conditions. They help the poor people to become independent byloaning money for their development.
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** Generally the occupants are the owner of the house. Renting a house is not very common.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Even today, people in Bangladesh are not aware about earthquake risk.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1997 | N-E-N of Chittagong | 6.1 | VIII(MMI) | 
+| 2003 | SW of Daluchari, Rangamati, Chittagong | 5.7 | VII(MMI) | 
+| 2003 | Barkal | 5.6 | n.a. | 
+| 1997 | Jaintapur | 5.6 | n.a. | 
+| 1997 | Bangladesh-Myanmar border | 6 | n.a. | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Bangladesh has a long history of devastating earthquakes that have affected earthen buildings. Fortunately, the numberof casualties caused by these earthquakes are not so significant. Recently, on July 26, 2003 (local time 5:18 am), amoderate earthquake occurred in the Chittagong hill tracts near the Bangladesh-India border causing minor structuraldamage, 3 fatalities and 25 injuries. The earthquake had a magnitude of 5.6 and was felt at many places in southeasternBangladesh. Two women were killed when a mud house collapsed in the town of Rangamati. Five of the injuredpersons came from Rangamati district where the roof of the Aymyachhara Health complex collapsed in the town ofBarkol. The Union Parishad building collapsed in Barkol. Several buildings including a school were damaged in thetown of Rangamati. Five acres of land near the school reportedly caved in. Throughout the region nearly 500 buildingswere damaged. In the earthquake in 1997, a five storied building at Hamzarbag was seriously damaged and manypeople died. Cracks also formed in many weak structures.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 1. Very poor lateral resistance. 2. No seismic bands at lintel level provided. 3.The proportions of openings are not favorable. Openings are arranged too closeto wall corners. Distances between wall corners and openings are not accordingto code specifications. Earthquake Damage Patterns: Partially or completecollapse of walls.
+
+**Earthquake-resilient features in walls:** The provisions of bamboo postsat the inner and outer sides of thewalls at regular intervals.
+
+**Seismic deficiency in frames:** Improper connection between longitudinal and transversal beams. Earthquake Damage Patterns: Separation of the transversal beamsfrom the longitudinalbeams.
+
+**Earthquake-resilient features in frame:** Wooden bracings should be provided at each corner wherelongitudinal and transversal beamsare joined together.
+
+**Seismic deficiency in roof and floors:** 1. The single roofing elements are not interconnected. 2. The roofing truss is notfully anchored to the walls. 3. Poor maintenance makes the roof truss morevulnerable to damage. 4. Roof does not provide rigid diaphragm action. Earthquake Damage Patterns: Collapse of roof.Again cracks areformed in the wallsabove openings.
+
+**Earthquake resilient features in roof and floors:** Roof rafters should be placed overthe solid wall not over openings.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%%  | %%-|%%  | | | | |
+
+**Additional comments section 5:** Though people in the hilly areas have been building this type of mud house for many centuries, itrepeatedly suffers serious damage during earthquake shaking due to its heavy roof construction.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls are not strong enoughbecause of low compactionand absence of horizontalforce resisting element. | 1. In order to increase the horizontal load-resisting capacity of the walls, bamboo can be used as a bracing material at theinner and outer sides of the walls. 2. A mesh of bamboo can reinforce the walls. Tying the vertical bamboo splints withthe horizontal splints using w ire would create a bamboo mesh that would be tied to the collar beam. 3. Jute mat coverwith the help of bamboo slices can be used to resist the horizontal load. | 
+| Walls are not strong enough because of lowcompaction and absence of horizontal force-resisting element. | New Construction: 1. In order to increase the horizontal load-resisting capacity of the walls, bamboo can be used as abracing material at the inner and outer sides of the walls. 2. A mesh of bamboo can reinforce the walls.Tying the vertical bamboo splints with the horizontal splints using wire would create a bamboo meshthat would be tied to the collar beam. 3. Jute mat cover with the help of bamboo slices can be used toresist the horizontal load. | 
+| Lack of preventive measures against flooddamage at plinths and walls. Consequently,during rain and flood soil particles of thewall can absorb water easily and becomeweak over time. | New Construction: In order to increase horizontal load-carrying capacity of the walls bamboo can be used as a bracingmaterials at the inner and outer sides of the walls. | 
+| Large openings | New Construction: Lintels must be provided above the openings. The length of the windows should not be more than 3 ftand not more than 1/3 of the total length of the wall. | 
+| Poor connection between the roofingmaterials and the walls. The rafters are nottightly connected to the wall tops so thatthey easily loose support during earthquakeaction. | New Construction: To reduce the movements at the longitudinal direction of the walls bracing can be provided between theupper and the lower longitudinal pair. The movement at the cross (transverse) direction can be reducedby providing bracings between two upper longitudinal pairs and the cross pair (see Figure 28). | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The suggested retrofit provisions are not complex and can be done by local masons and available laborers.
+
+**Has seismic strengthening described in the above table been performed?** This has not yet started in Bangladesh in real practice. Strengthening is applied in experimental studies at BUET.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Even smaller earthquake shaking may damage mud buildings to a greater extent. Dilapidated dwellings are generallyreplaced by houses made of straw (jhupri) or brick (unreinforced masonry). Consequently, the techniques previously described may be implemented on undamaged buildings in the near future. However, the application of thesetechniques in order to repair existing earthquake-damaged buildings will be impractical.
+
+**Was the construction inspected in the same manner as new construction?** Not applicable.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** Owner. Neither architects nor engineers were involved in the strengthening process.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Not applicable.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Rural Houses at Earthquake Risk in BangladeshAsraful AlamBachelor Thesis 2006
+
+  * Guidelines for Earthquake-Resistant Non-Engineered Building ConstructionFiroza Akter and Rebeka AhsanBachelor Thesis 2007
+
+  * Rural Mud Houses with Pitched Roof of IndiaAmit KumarWorld Housing Encyclopedia 2002 (Report no. 23)
+
+  * Vivienda de Adobe (Adobe House) of EI SalvadorManuel A. Lopez M., Julian Bommer, and Gilda BenavidezWorld Housing Encyclopedia 2002 (Report no. 14)
+
+  * Earthquake Resistant Construction of Adobe Buildings: A TutorialMarcial Blondet, Gladys Villa Garcia M., and Svetlana BrzevEERI/IAEE World Housing Encyclopedia 2003 (Tutorial)
+
+  * Use of Waste Materials to Improve the Seismic Resistance of AdobeM.S. Islam and M. KanungoProceedings of the Pan American Conference on Soil Mechanics and Geotechnical Engineering, Venezuela 2007 (Paper no. 248)
+
+  * Bangladesh Bureau of StatisticsGovernment of Bangladesh(http://www.bbs.gov.bd/) 2003
+
+  * World Bank Statistics on BangladeshThe World Bank(http://www.worldbank.org/bangladesh) 2004
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Amrita Das | Lecturer | Civil Engineering Department, Southern University, Chittagong | Chittagong 4349, BANGLADESH | amrita_cuet@yahoo.com | 
+| Mohammad Shariful Islam | Associate Professor | Department of Civil Engineering, Bangladesh University of Engineering & Technology | Dhaka 1000, BANGLADESH | mshariful@yahoo.com | 
+| Dr. Md. Jahangir Alam | Professor | Earthquake Engineering Research Center, Chittagong University of Engineering & Technology | Chittagong 4349, BANGLADESH | amrita_cuet@yahoo.com | 
+| Nusrat Hoque | Lecturer | Civil Engineering Department (CUET) | Chittagong University of Engineering & Technology, Chittagong 4349, BANGLADESH | nusrat_hoque@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dominik Lang | Dr./Researcher | NORSAR | Kjeller 2027, NORWAY | dominik@norsar.no | 

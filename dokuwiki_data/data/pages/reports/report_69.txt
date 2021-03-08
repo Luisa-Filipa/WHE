@@ -1,0 +1,329 @@
+====== Confined Masonry Building : Clay brick masonry, with concrete tie-columns and beams, Serbia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 69
+
+**Building Type:** Confined Masonry Building : Clay brick masonry, with concrete tie-columns and beams
+
+**Country:** Serbia
+
+**Author(s):** Nikola Muravljov
+
+**** Radovan Dimitrijevic
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in urban and rural areas of Yugoslavia.
+
+**Summary:** This type of construction has been used for single-family and medium-rise residential buildings throughout urban and rural Yugoslavia during the past 30 years. The structure consists of load-bearing masonry (brick, stone, concrete block) walls confined with reinforced-concrete posts and tie-beams. The walls are typically made of hollow clay tiles. Floor slabs are composed of prefabricated joists infilled with brick elements and topped with a reinforced-concrete slab in-situ.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 10-19 unitsResidential, 50+ units
+
+**Typical number of stories:** 2-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Buildings of this type are single family houses frequent, but there are a lot of multiple housing units and mixed too.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** Usually regular shape.
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.8,3.0
+
+**Type of Structural System:** Masonry: Confined Masonry: Clay brick masonry with concrete posts/tie columns and beams
+
+**Additional comments on structural system:** Masonry walls transfer all gravity loads from the roof and floor slabs to the foundations. Minimum thickness for bearing masonry walls is 190 mm (as prescribed by the code). The Yugoslav National Building Code classifies masonry buildings into three categories, depending on the wall layout: - buildings with walls in transverse direction; - buildings with walls in longitudinal direction, and - buildings with walls in both directions. The main lateral load-resisting system for this housing type is a wall structure in with brick walls laid in both directions (transverse and longitudinal) carry lateral seismic forces and transfer them to the foundations. Reinforced concrete posts and tie-beams are effective in increasing the stiffness and ductility in this construction type and providing an improved level of seismic safety for this type of construction. Details of concrete posts and tie-beams are shown in Figure 9. A possible failure mechanism for confined masonry walls is illustrated in Figure 13.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density varies from 6% to 12%.
+
+**Wall Openings:** According to the Yugoslav National Building Code, size of the openings should not exceed 2.5 to 3.5 meters (depending on the seismic zone). The size can be increased up to 30% if the openings are confined with reinforced concrete posts and tie beams.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The most common pattern of modification in residential houses is complete removal or displacement of interior walls and columns. House owners usually perform modifications without seeking an advice of a competent technician (engineer/architect).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Foundation details are illustrated in Figure 10.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: waffle slabs (cast-in-place) According to the National Building code, floor/roof must act as rigid diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: waffle slabs (cast-in-place) According to the National Building code, floor/roof must act as rigid diaphragm.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters. Typical Plan Dimensions: Plan dimensions (i.e. length and width) of this building type should not exceed 40 to 50 meters. Length to width ratio is usually on the order of 3-4. In case the plan dimensions exceed these values, the walls need to be divided into sections by means of control joints. Typical Story Height: Typical floor height for residential buildings is 2.8 m, and 3.0 m for public buildings. Total height for buildings of this type should not exceed 20 meters (according to the code). Typical Span: Typical span (between the adjacent concrete posts) ranges from 3 to 6 m. The National Building Code prescribes the maximum span of 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Bricks/hollow clay tiles mortar Frame:Concrete posts and tie-beams: - Concrete -Steel reinforcement | Wall: Characteristic Strength- Bricks : from 7.5-20 MPa Hollow clay tiles: from 5.0 to 20.0 MPa Mortar: from 5-15 MPa) Frame: Characteristic Strength- Concrete posts and tie-beams: Concrete minimum strength 20 MPa Steel: minimum yield stress 240 MPa Mix Proportion/Dimensions- Concrete posts and tie-beams: Minimum 3 fractions of gravel and 250 kg/sq. m of cement | 
+| Foundations | Concrete and steel reinforcement | Characteristic Strength: Concrete: minimum compressive strength 15 MPa Steel: minimum yield stress 240 MPa Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 200 kg/sq. m of cement Foundation details are illustrated in Figure 10. | 
+| Floors | Concrete -Steel reinforcement | Characteristic Strength: Concrete strength 15-30 MPa steel yield stress min. 240 MPa Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 300 kg/sq. m of cement Details of prefabricated floor-slab construction are shown in Figure 11. | 
+| Roof | Concrete -Steel reinforcement | Characteristic Strength: Concrete strength 15-30 MPa steel yield stress min. 240 MPa Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 300 kg/sq. m of cement | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Architects and engineers design buildings of this type. If certified engineers are not involved in the building design (i.e. non-engineered construction), National Building Code allows the construction of a building up to max. two-storey high. Engineers and architects work jointly on developing project for buildings of this construction type.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** Typically, builders (developers) build the housing of this type. In some cases, builders live in the houses of this type, too.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** In this construction system, brick elements must be built and tied together in a specific way. Thickness of reinforced concrete vertical posts must be equal to the wall thickness. Minimum reinforcement to be provided in vertical posts consists of 4 -14 mm diameter steel bars tied with 6 mm diameter stirrups spaced at 250 mm on centre. Tie beams are constructed after the bricklaying is completed. Minimum reinforcement required in the tie beams consists of 4 - 12 mm diameter bars tied with 6 mm stirrups at 250 mm on centre spacing. In seismic areas lime/cement mortar has to be used. The construction of this type of housing takes place incrementally over time. Typically, the building is originally designed for its final constructed size. In some cases there are changes and differences between the designed and the constructed building. In such case, National Building Code prescribes the development of technical documentation describing the "as constructed" condition. Modifications (especially vertical expansion) for the buildings of this type are common, especially in case of single-family houses.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The year the first code/standard addressing this type of construction issued was 1987. Technical regulations for construction in seismically prone areas, Title of the code or standard: Technical regulations for masonry construction. For all newly constructed buildings, building permits confirming that the construction has been done in conformance with the National Building Code must be issued; the code also prescribes the seismic zone the buildings are located in. Yugoslavia (and Serbia) are the part of the Balkan Peninsula, which is known to be one of the most seismically prone regions of Europe. However, until the catastrophic 1963 Skopje (Macedonia) earthquake, there were no seismic codes or regulations in the country. In 1964, the Preliminary National Building Code (including the seismic provisions) was issued. The latest edition of the National Building Code was issued in 1987. In addition to the National Code, Euro Codes have been used in the country as well.
+
+**Process for building code enforcement:** For all newly constructed buildings, building permits confirming that the construction has been done in conformance with the National Building Code must be issued; the code also prescribes the seismic zone the buildings are located in. Yugoslavia (and Serbia) are the part of the Balkan Peninsula, which is known to be one of the most seismically prone regions of Europe. However, until the catastrophic 1963 Skopje (Macedonia) earthquake, there were no seismic codes or regulations in the country. In 1964, the Preliminary National Building Code (including the seismic provisions) was issued. The latest edition of the National Building Code was issued in 1987. In addition to the National Code, Euro Codes have been used in the country as well.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** In the urban areas, public companies take care of maintenance for the housing stock.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Construction cost is about 100 to 150 $US/m# of built-up area (structure only), whereas the price of the finished building is on the order of 200 to 300 $US/m# of built-up area.
+
+**Labor requirements:** Construction of a typical building of this type (built-up area of 120-200 m#) takes approximately 6 months, depending on the finances. It should be also noted that this type of construction requires a limited number of trained labor and technical personnel. Majority of the other construction labor involved in this type of construction are generally unskilled.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Usually one family occupies one housing unit. Each building typically has 10-20 housing unit(s). It varies from one unit per building (single-family house) to 50 units in condominiums.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** In the last 10 years, the economic situation in Yugoslavia has been very bad. The average net salary is less than 50 $ US per month. Economic Level: For Poor Class the ratio of the Housing Price Unit to their Annual Income is 50:1. For Middle Class the ratio of the Housing Price Unit to their Annual Income is 30:1.
+
+**Typical Source of Financing:** Owner financedCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The annual insurance rate is 0.45% of the building value increased by 15% to account for earthquake risk.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1969 | Banja Luka |  |  | 
+| 1980 | Kopaonik | 6.4 |  | 
+| 1980 | Banja Luka | 5.7 |  | 
+| 1987 | Kraljevo | 6.2 |  | 
+| 1998 | Mionica | 4.9 |  | 
+| 1999 | Trstenik | 5.7 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Damage to confined masonry buildings in these earthquakes was not extensive. Figure 14 shows damage to masonry buildings in the 1998 Mionica earthquake (magnitude 5.7). A number of older unreinforced masonry buildings were damaged in the earthquake however confined masonry buildings performed well and did not suffer any significant damage, as illustrated in the figure.
+
+**Additional comments on earthquake damage patterns:** Typical Earthquake Damage Patterns (Wall): Diagonal tension cracks
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Low shear strength and diagonal tension cracking as a result of brittle seismic response of unreinforced masonry walls subjected to seismic shear forces and gravity loads; brittle behavior.
+
+**Earthquake-resilient features in walls:** Typical brick strength is more than 20 MPa.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** In some cases inadequate rigidity of roof and floor slabs
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | o | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls: Low shear strength and diagonal tension cracking as a result of brittle seismic response of unreinforced masonry walls subjected to shear forces and gravity loads; brittle behavior | Reconstruction of damaged walls; New reinforced concrete w all overlay; Injection grouting of cracks; Application of carbon fiber laminates bonded diagonally to the walls | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Yes, all strengthening methods were used in design practice. Structural engineers provide design specifications for the seismic strengthening design.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** In most of the cases, seismic strengthening has been performed as a part of post-earthquake rehabilitation (e.g. after the 1979 Montenegro earthquake or 1998 Mionica earthquake).
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Usually it was owner/user who performed the construction, with competent participation of an architect and engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The buildings that were seismically upgraded were generally not subjected to another major earthquake. However, it is expected that the strengthened buildings would show improved seismic performance if subjected to an earthquake.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Collection of Yugoslav Codes and Standards : Lateral Forces - Masonry Belgrade, Yugoslavia 1995
+
+  * Selected Chapters of Earthquake-Resistant Construction Petrovic,B. Structural Book, Belgrade, Yugodslavia 1985
+
+  * The Earthquake Influence on Buildings in the Region of Mionica Acimovic,B. Proceedings, Institute for Testing Materials IMS, Belgrade, Yugoslavia 1998
+
+  * Masonry and Wooden Construction Muravljov,M. and Stevanovic,B. Faculty for Structural Engineering, Belgrade, Yugoslavia 1999
+
+  * Effects of Concrete Posts in Block and Brick Walls Muravljov,M., Muravljov,N. and Denic,D. Congress SIG, Vrnjacka Banja 1999
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Nikola Muravljov | Senior Structural Engineer | Structural Engineering Department, IMS Institute | Bul. Vojvode Misica 43, Belgrade 11 000, SERBIA | koljaka@eunet.yu | 
+| Radovan Dimitrijevic | Consultant Advisor | Duros Company | Ace Joksimovica 102 Zarkovo, Belgrade 11 000, SERBIA | rakadim@eunet.yu | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

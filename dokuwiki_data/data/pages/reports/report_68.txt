@@ -1,0 +1,353 @@
+====== Precast, prestressed concrete frame structure with concrete shear walls, Radovan Dimitrijevic ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 68
+
+**Building Type:** Precast, prestressed concrete frame structure with concrete shear walls
+
+**Country:** Serbia
+
+**Author(s):** Radovan Dimitrijevic
+ 
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in The technology has been used throughout the former Yugoslavia for building the Post-World War II urban settlements. Over 50% of the apartments in New Belgrade (a part of the country's capital built after the World War II) were built using the IMS technology. It can be also found in the cities of Novi Sad, Nis, Banja Luka, Sarajevo, Tuzla etc. (currently a part of Bosnia and Herzegovina) and in other countries e.g. Cuba, Russia, Georgia, China (where this technology was used for building the sustainable housing). Recent design applications were reported in the Philippines and Egypt. This type of housing construction is commonly found in urban areas. This technology has been mainly used for medium to high-rise buildings; however, some design applications include single-family row housing units (such as townhouses), as well as schools, hospitals, offices, shopping malls, multi-story garages, etc.
+
+**Summary:** This housing type is a prefabricated frame structure, consisting of precast concrete columns and other structural elements, e.g., waffle floor slabs, edge girders, stairs, and wall panels. The frame structure carries the gravity load, while shear walls are the main lateral load-resisting elements. The main feature of this technology is that the key structural elements are joined together by prestressing in two orthogonal horizontal directions. The technology has been used in Yugoslavia during the last 40 years under the proprietary name, IMS Building System, and it can be found in all major Yugoslav cities, including Belgrade, Novi Sad, Nis, etc., and also in other countries, such as Cuba, the Philippines, and Egypt. To date, around 400,000 housing units (approximately 2.5 million/m# of the built area) have been constructed using this technology. Design applications include both residential housing and public buildings (e.g., hospitals). Seismic performance of the main IMS structural elements has undergone extensive experimental laboratory tests, and has also been tested in a few major earthquakes. Several buildings of this type sustained the effects of the 1968 Banja Luka earthquake without any damage.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 5-10
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** In general, a regular shape. In some cases shear walls are perforated with door or window openings.
+
+**Typical plan length (meters):** 40-60
+
+**Typical plan width (meters):** 10-15
+
+**Typical story height (meters):** 2.8 residential, 3.2 public
+
+**Type of Structural System:** Structural Concrete: Structural Wall: Moment frame with precast shear walls
+
+**Additional comments on structural system:** The structure consists of the following gravity load-bearing elements: - Columns, continuous for up to three stories; - Floor slabs, supported on 4 columns, and cantilever (balcony) slabs, supported on 2-3 columns; both floor slabs and balcony slabs are waffle slabs; - Edge girders to carry facade loads and different types of stairs. Main structural elements are shown in FIGURE 4. The gravity load transfer from the floor slabs to the columns is achieved by friction in the joints induced by axial forces developed in the prestressing cables; the joint shear capacity is proportional to the force developed in the cable and to the friction coefficient value. The prestressed cables play a very important role in this type of construction, and therefore it is very important to protect the cables from the corrosion by grouting the cement emulsion into the holes provided in the columns. The elements of the gravity load-bearing structure, i.e., columns, floor slabs, cantilevers and edge girders are joined together by prestressing in two orthogonal directions. Shear walls are the main structural elements providing lateral resistance in this system. The walls consist of reinforced concrete panels (typically 15 cm thick) enclosed with the two adjacent columns. The columns are provided throughout the building height. As elements of the shear wall, columns carry additional axial load (tension/compression) due to the bending moment. The concrete wall panels are subjected to shear effects. It is very important to ensure the continuity of shear walls in both directions throughout the height of the building. The concrete wall panels are usually cast in-situ. However, in some cases precast panels have been used. Generally, the concrete frame itself is able to sustain the lateral force effects. However, because the structure is too flexible, excessive lateral movements would have detrimental effects on the performance of nonstructural elements, e.g., the facade, partitions, installations. The shear walls therefore have a role in increasing the lateral stiffness of the structure and in limiting lateral deflections to the acceptable level. The main feature of this building type of space frame is the high load-bearing capacity of the prestressed floor-column joints. This capacity is based on the friction developed between these two concrete elements after the prestressing is completed. A number of tests were performed, in which column-slab joint models were subjected to static or quasi-dynamic loading. The tests have revealed that failure occurs in the connected elements (i.e., in the slab) and not in the joint itself. Typical floor-column joints are illustrated in FIGURE 4A.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. Information on a typical wall density is not available.
+
+**Wall Openings:** In some cases shear walls are perforated with door or window openings.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** It is easy to perform modifications on buildings of this type, considering that the main gravity load bearing system is a concrete frame and majority of the walls are non-load bearing structures (except for the shear walls).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Precast columns and waffle slabs joined by prestressing cables The floor slabs are considered to be rigid diaphragms and are able to transfer lateral loads to the shear walls.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Precast columns and waffle slabs joint by prestressing cables.
+
+**Additional comments section 2:** Typical separation distance between buildings: 0.5 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Concrete, Reinforcing stee | Characteristic Strength- Concrete- minimum C 40 (40 MPa cube compressive strength) Steel- minimum A 40 (400 MPa yield strength) C 40 (concrete) and A 40 (steel) is based on the Eurocode. Quality control is mandatory. Mix Proportion/Dimensions- Minimum 3 fractions of gravel and 400 kg/sq. m of cement | 
+| Foundations | Concrete and reinforcing steel | Characteristic Strength: Minimum C 40 Minimum A 40 Quality control is mandatory. Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 400 kg/sq. m of cement | 
+| Floors | Concrete and reinforcing steel | Characteristic Strength: Minimum C 40 Minimum A 40 Quality control is mandatory. Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 400 kg/sq. m of cement | 
+| Roof | Concrete and reinforcing steel | Characteristic Strength: Minimum C 40 Minimum A 40 Quality control is mandatory. Mix Proportion/Dimensions: Minimum 3 fractions of gravel and 400 kg/sq. m of cement | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Architects and engineers have a role in preparing a design for each building of this construction type. There is no typical (generic) building design, and therefore it is necessary to prepare a separate design for each new building. Cooperation between the architects and engineers is very important and leads to more cost-effective design.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** In a typical situation, developers build this type of construction. In some cases, developers also live in the buildings of this construction type. Note that, until few years ago, developers were generally government-owned construction companies.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** All structural elements are prefabricated in the plant using steel templates. For smaller size projects, the prefabrication can be carried out at the construction site. The erection is simple and fast, and it is carried out using erection equipment (cranes, etc.). Temporary support to the structural elements needs to be provided before permanent connection by prestressing is achieved. Before the prestressing is carried out, the space between the columns and horizontal elements (floor slabs, cantilever and edge girders) is filled with cement mortar (in order to enable transfer of axial forces). After the prestressing is completed, the holes in the columns are grouted with cement grout and the space between the adjacent floor slabs, cantilevers, or edge girders, is filled with concrete. In this way, the cables are protected from corrosion. Erection of concrete columns is shown in FIGURE 13.Examples of buildings of this type under construction are shown in FIGURE 5 , FIGURE 10, FIGURE 11 and FIGURE 12. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** The buildings of this construction type are designed in compliance with the Yugoslav National Building Code and related standards. The year the first code/standard addressing this type of construction issued was 1964. Yugoslav National Building Code1987 (based mainly on the Euro Code). The most recent code/standard addressing this construction type issued was 1987. Yugoslavia is located in the Balkan Peninsula, an area considered among the most seismically prone regions in Europe. However, until the catastrophic 1963 Skopje (Macedonia) earthquake, there were no seismic codes or regulations in the country. In 1964, the Preliminary National Building Code (including the seismic provisions) was issued. Since then, several editions of the building code have been issued and the code is generally being enforced. National building code, material codes and seismic codes/standards: Yugoslav National Building Code1987 (based mainly on the Euro Code)
+
+**Process for building code enforcement:** All new buildings need to get a building permit, which is issued if the design has been done properly and is based on the National Building Code. Building permits are required to build this housing type.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Owner(s). In the cities, government companies are in charge of the maintenance for the buildings of this type.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit cost depends on the building function. In general, for the apartment buildings of this type the unit cost of structure only is on the order of US$ 50-60 per m#. However, as this is a prefabricated construction, there needs to be a certain level of annual production (around 20,000-30,000 m#) is needed in order to achieve cost-effective construction.
+
+**Labor requirements:** A table summarizing material and labor requirements per hour is shown on FIGURE 15. Note that the requirements are a function of floor-slab dimensions (first column to the left). A small number of trained staff is required for the fabrication and assembly of this construction type. The majority of labor can be local, without any special training.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, a single family occupies one housing unit. Each building typically has 51-100 housing unit(s). Up to 100 units in each building. It varies from one housing unit per building (case of a family house) to 40 or even 200 units in the condominium buildings.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** The average number of inhabitants depends on the building function (i.e. is it a single- or multi-family housing).
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** In the last 10 years, the economic situation in Yugoslavia has been very bad. The average net salary is less than 50 $ US per month. However in spite of the extremely poor economic situation new construction is carried out per the latest Euro Code requirements. Economic Level: For Middle Class the ratio of Housing Price Unit to their Annual Income is 30:1 For Poor Class the ratio of Housing Price Unit to their Annual Income is 50:1.
+
+**Typical Source of Financing:** Personal savingsCommercial banks/mortgagesInvestment poolsGovernment-owned housing
+
+**Additional comments on financing:** At the present time, it is not possible to obtain a mortgage due to the current socio-political-economic situation in Yugoslavia.
+
+**Type of Ownership:** Units owned individually (condominium)Owned by group or pool
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is available. The annual insurance rate is 0.45% of the building's value, increased by 15% for earthquake risk.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1969 | Banja Luka, Bosnia | 6.4 | VIII (MMI) | 
+| 1977 | Vrancea, Romania | 7.2 |  | 
+| 1979 | Montenegro | 7.2 | IX (MCS) | 
+| 1980 | Kopaonik | 5.7 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** There was no reported damage to the buildings in the past earthquakes in Yugoslavia. In other countries, where this technology has been used, e.g. Cuba, Georgia and the Philippines, buildings of this type were subjected to strong earthquakes also without any reported damage.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Shear walls may be under-reinforced and might suffer damage in a major earthquake; however, the damage can be repaired by injecting the cracks with cement or with an epoxy emulsion.
+
+**Earthquake-resilient features in walls:** Shear walls do not have any function in the gravity load-carrying system and therefore any damage to these elements would not affect the gravity load-bearing capacity of the structure in an earthquake.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** During an earthquake, columns adjacent to the shear walls are subjected to axial tension and to compression forces induced by the bending effects in the shear walls.
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Roof and floor elements are reinforced concrete waffle slab designed to carry gravity loads. However, these elements also act as rigid diaphragms in the seismic load transfer.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | |  %%|-%% | o |
+
+**Additional comments section 5:** A reinforced concrete frame without shear walls is capable of sustaining lateral force effects without failure, however very large lateral deformations (drift) would be expected in such case.s The role of shear walls is to add rigidity to a system and control lateral deformations. Buildings of this type are usually located in urban centers and pounding effects are also a concern. For that reason, design of shear walls, including their number and distribution, needs to be carefully performed.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** The prestressed prefabricated concrete frame structure is an inherently earthquake-resistant system and hence seismic strengthening is not required.
+
+**Has seismic strengthening described in the above table been performed?** There are no reports of seismic strengthening performed on buildings of this construction type
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?** Not applicable.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not applicable.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not applicable.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Certificate on the Testing of the Standardized Floor Slabs made of Prestressed Concrete, System IMS-Zezelj Institute IMS, Belgrade
+
+  * Certificate of IMS Structural System of Fire Resistance IMS Institute, Belgrade
+
+  * Certificato d`Idonentia delle Structure Realizzate Secondo il Sistema IMS Ministerro del Lavori Publici, Servicio Tecnico Centrale, Rome
+
+  * Comparative Flexural, Tensile and Test on Selected Prefabricated Elements of the IMS Universita degli Studi di Roma, Instituto di Sciencia e Tecnica delle Construzioni Laboratorio Sperimentale
+
+  * Report on Expert Commission on Testing and Bearing Control of Floor-Slab Module in the Plant of Allami Epitoipari Vallalat Baranya, EMI Budapest
+
+  * Report on the Scientific-Technical Testing and Testing Results of three-story Segment of the Sixteen-Story Experimental Building in Tashkent CNIISK "Kucerenko" Tashkent and KazNIISA Alma Ata
+
+  * Static Testing of the IMS System - Column and Slab, Load Bearing Characteristics Building Research Institute, Beijing
+
+  * The Testing of two-story Structure in the IMS System Building Research Institute, Beijing
+
+  * Testing full-scale Models of Joints Between Floor-Slab and Shear Wall Done by Prestressing under Cyclic Load Petrovic,B. and Petrovic,S. Technical Contribution, FIP Congers London, p 9 1978
+
+  * Testing Models of Some IMS elements and their Joints, Closing Symposium on Research on the Field of Earthquake Resistant Design of Structure Petrovic,B. Dubrovnik-Caftat, PP 43-76 1978
+
+  * Forced Vibration full-scale Tests On Five Buildings Constructed by Industrialized Methods Jurkovski,D., Petrovski,J. and Bouwkamp,J. Closing Symposium on Research on the Field of Earthquake Resistant
+
+  * The Model Test of Two Directions Prestressed Joint between Column and Slab under Cyclic Load Dimitrijevic,R. VIII ECEE Lisbon, pp 7.4/81-87 1986
+
+  * Behavior of Prestressed Joint under Cyclic Load Petrovic,B. and Dimitrijevic,R. International Symposium of Fundamental Theory of Reinforced and Prestressed Concrete, Nanjing, pp 704-711 1986
+
+  * Prefabricated Prestressed Skeleton System as Seismic Structure in Housing Dimitrijevic,R. Catastrophes y Sociedad, Madrid, PP 387-406 1989
+
+  * Behavior of Semi-Rigid Prestressed Connections of Concrete Structural Elements Dimitrijevic,R. X WCEE Madrid, pp 3127-3130 1992
+
+  * Quality Control and Corrosion and their Influences as regard Prestressed Skeletons Dimitrijevic,R. FIP Symposium Budapest, pp 255-262 1992
+
+  * Prestressing Technology in Housing- Yugoslav Experience Dimitrijevic,R. Yugoslav National Report, XII FIP Congress, Washington, pp 83-92 1994
+
+  * Behavior of Precast Shear Walls under Quasi-Dynamic Loading. Model tests Results Dimitrijevic,R. XI WCEE, Acapulco, p 457 1996
+
+  * Prestressed Precast Skeleton Structure-Practice of today Dimitrijevic,R. Yugoslav National Report, XIII FIP Congress, Amsterdam, pp 43-51 1998
+
+  * Testing Report on Bearing Characteristics of Joints for Duna-Tesit (IMS) Structures and the Possibilities for their strengthening EMI Budapest
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Radovan Dimitrijevic | Consultant Advisor | Duros Company | Ace Joksimovica 102 Zarkovo, Belgrade 11 000, SERBIA | rakadim@eunet.yu | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

@@ -1,0 +1,358 @@
+====== Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 150
+
+**Building Type:** Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India
+
+**Country:** India
+
+**Author(s):** Piyoosh Rautela, Girish Chandra Joshi, Yogendra Singh, Dominik Lang
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in in the northern part of the state Uttarakhand and the southern part of the state Himachal Pradesh in Northern India. The most magnificent examples of the Koti Banal architecture are observed in the valley of the river Yamuna in Rajgarhi area where many villages have a fair number of these houses. Similar structures are however also present in the valleys of the rivers Sutlej and Tons (Figure 2). However, buildings of comparable type denoted as 'cribbage' or 'timber reinforced stone masonry' are known over the whole northern part of the Indian subcontinent including Afghanistan, Pakistan, India, and perhaps Nepal and Bhutan. This type of housing construction is commonly found in rural areas. Though this kind of construction is presently observed only in rural areas there might have been similar structures located also in urban areas which might have been replaced by more modern structures due to the compulsions of growing economy and business. Evidentially, lack of maintenance has led to the deterioration and the complete destruction of many of these structures.
+
+**Summary:** Despite being located in a high seismic risk area, a region in the Himalayan states of Uttarakhand and Himachal Pradesh (Northern India) exhibits an elaborate tradition of constructing multistoried houses. In the Rajgarhi area of Uttarkashi district (Uttarakhand) a large number of intact buildings of the distinct construction type known as Koti Banal can be found. Koti Banal is the name of a village in the Yamuna Valley which represents the traditional knowledge and understanding of earthquake effects on buildings and their earthquake resistant design. Investigations suggest that the region had evolved this elaborate and magnificent earthquake-safe construction style as early as 1,000 years before present. This architectural style further demonstrates the existence of elaborate construction procedures based on principles somewhat akin to that of blockhouse construction. Many features of these buildings are considered as the basics of modern earthquake-resistant design. Generally, ornate multistoried houses with abundant use of wooden beams are characteristic of Rajgarhi area. For buildings of the Koti Banal architecture, locally available building materials such as long thick wooden logs, stones and slates were judiciously used. The height of these structures varies between 7 and 12 m above the base platform which consists of dry stones. These structures are observed to have four (Chaukhat) to five (Panchapura) stories. It is reported that especially buildings of the Koti Banal architecture withstood and performed well during many past damaging earthquakes in the region. In a report on the effects of the 1905 Kangra earthquake (M 7.8), Middlemiss (1910) already describes the well performance of these ?(..) top-heavy constructions? located along steep slopes of the Kangra-Kulu epicentral area, which differed ?entirely from the sun-dried brick-built structures of the Kangra Valley. The performance of these structures has also been corroborated by eye-witness accounts during the 1991 Uttarkashi earthquake which had
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Investigations suggest that the region had evolved this distinct construction style as early as 1,000 years before present. Simi
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Koti Banal buildings are characterized by very simple rectangular plan configurations while the lengths and widths are varying between 4 and 8 meters. The ratio between both dimensions varies between 1.1 and 1.4. Figures 4 and 5 illustrate typical plan shapes of a single- and a two-unit construction, respectively.
+
+**Typical plan length (meters):** 4-8
+
+**Typical plan width (meters):** 4-5
+
+**Typical story height (meters):** 2.2-2.5
+
+**Type of Structural System:** Other
+
+**Additional comments on structural system:** Gravity loads from the floor construction (dead loads) or from live loads on the roof (e.g., snow) are transferred to the massive wall system which basically consists of a hybrid timber-reinforced stone masonry system. In the lower parts of the walls the timber logs are interconnected establishing a very solid cribbage while the timber elements on the upper parts are mainly of a reinforcing purpose. The walls further transfer the loads to a stone-filled base platform which is the continuation of the stone foundation. The system of horizontally pairs of wooden logs which are connected to each other by wooden shear pins/tenons (Figure 18) act like a wooden frame which is braced by well-dressed flat stones in between the logs increasing the bearing and lateral capacity of the construction. This especially in the lower parts of the walls where the wooden frame is continuous in three dimensions and the stones do not carry any loads. The stones between the logs are mostly assembled without any grout or mortar thus enabling a certain level of flexibility and allowing lateral deflections of the building without damage effects. The bottommost wooden logs are embedded within the base platform. Outer walls parallel to the floor beams are supported in out-of plane action by vertical shear keys over several storeys (Figure 13).
+
+**Gravity load-bearing & lateral load-resisting systems:** Timber-reinforced stone masonry.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. Precisely, the structural wall density ranges between 40 and 45 %.
+
+**Wall Openings:** Koti Banal structures in general have a single small entry and relatively small openings which are surrounded by strong wooden elements to compensate for the loss of strength (Figure 14). In general, no windows are provided at ground floor level.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** It is assumed that buildings of the Koti Banal architecture were designed and constructed under the influence of one particular architectural school that put less priority on the comfort of inhabitants. In order to improve the comfort of the buildings a number of variations and modifications to the original construction style had started to creep in as early as 728 +/- 60 years before present. In some cases larger doors and windows have been provided for better ventilation and comfort. Externally arranged verandas made of timber and resting on massive columns have also been added in order to gain additional living space (Figure 16). A modified type of Koti Banal architecture can be found in Gona village where the principles of Koti banal architecture were not strictly followed. The roofs of these structures are observed to be comfortably high while the internal wall layouts vary on every floor. Detailed observations reveal that the basic elements of seismic safety have been compromised within these buildings. The Gona type may well represent earlier stages of the evolution of the Koti Banal architecture. The use of horizontal wooden logs in the vertical walls is similar to the concept of seismic bends (ring beams) in modern masonry buildings. Somehow, the practice of the Koti Banal constructions was slowly abandoned such that modifications of the original construction principle can be observed in the region. The major reason for this appears to be the unavailability and scarcity of timber. A gradual shift from the closely spaced timber logs to increasing heights between them filled with stones is visible in the local construction (Figure 17). For contemporary constructions in the region, no such logs (ring beams) are used anymore. Recently, many Koti Banal structures face serious adverse effects being caused by the surrounding building development. Unplanned construction directly taking place next to Koti Banal buildings and encroaching upon these old structures as well as the partly demolition in order to use the disassembled building materials for new buildings seriously affect the dynamic behavior of these traditional structures during earthquake shaking. In addition, these negative effects are accelerated by the structural deterioration due to the lack of maintenance and preservation.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Foundation trench filled with rubble and field stones. In case of outcropping rock at the surface, the platform out of dry stone masonry is directly erected onto ground without any embedded foundation (Figure 7).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks resting on wooden joists supported by beams or walls: The floors consist of wooden beams and planks (Figure 12). Since no cross/inclined planks are used, it is expected to act as flexible diaphragm. The floor beams are shear pinned with the wall logs and thus provide support to the walls orthogonal to the beams, in out-of-plane action.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks or beams that support slate tiles: The roof construction consists of a wooden frame which is expected to act as a flexible diaphragm. It is further furnished with large slate tiles (Figure 19).
+
+**Additional comments section 2:** In most cases, Koti Banal structures were erected separately without any buildings in the immediate vicinity. Especially those located in the villages may also be built close to each other or to other building types (Figure 3) When separated from adjacent buildings, the typical distance from a neighboring building is 2.0 - 4.0 meters. Internal walls only exist in the 2-unit buildings separating the main living area on each floor at the buildings rear side from a vestibule at the front. The upper two floors additionally have external balconies (wooden verandah) which are constructed with a wooden railing running around the whole building. The balconies are supported by cantilevering wooden logs of the flooring system (Figure 6). According to Middlemiss (1910) it is this projecting balcony which gives the house the false appearance of being top-heavy and unstable. Generally the buildings rest upon a raised and elaborated stone-filled platform out of dry stone masonry which is the continuation of the foundation trench made of field and rubble stones. The height of the platform varies between 2 and 4 m above the ground (Figure 7). Figure 8 exemplarily shows the elevation of a five story structure with interstory heights ranging between 2.20 and 2.50 m. In the lower part, the walls consist of a wooden cribbage configuration with orthogonally arranged wooden logs interconnected at the junctions by wooden pins/tenons (Gujja Khoonta). For the two bottommost layers single wooden logs while for the upper layers double wooden logs are used (Figure 9). The open spaces (height ~ 30 cm) between the horizontal logs are furnished with well-dressed flat stones which are dry-packed or by using a paste of pulses (lentils) as mortar (Figure 10, Figure 11). This wooden cribbage structure is not used for the upper parts of the wall where the dressed stones have a load-bearing function (Figure 9). The thickness of the walls is determined by the thickness of the two parallel arranged wooden logs which is mostly between 50 and 60 cm. The structure is further reinforced by wooden beams which are perpendicular attached to the wooden logs at the middle of the walls connecting two parallel outer walls. These beams provide the joists supporting the floorboards of each story (Figure 12). The walls parallel to the floor beams are supported in out-of plane action by providing a large timber log, longer than the building dimension and having holes at the two ends. A vertical member (shear key) having length equal to several storey heights, is inserted into the hole which provides support to the walls in out-of-plane direction (Figure 13).
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: wooden logs, dressed stones Frame: Devdar (cedar) timber | The timber is of very high quality, strength and resilience. In most cases, wooden logs which were even exposed to all kinds of weathering are intact even after several hundred years, without any special maintenance | 
+| Foundations | field and rubble stones |  | 
+| Floors | Devdar (cedar) timber |  | 
+| Roof | Devdar (cedar) timber |  | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** The practice in the area is to construct the buildings by traditional masons who inherited their skills from their fathers. The concept of modern architecture and engineering is not prevalent in the region, even today.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Due to the high age of these buildings, this question cannot be answered. However, it is supposed that the builders themselves had lived in the buildings and that these real estates had not been erected for speculation purposes. Even today, construction of real estates for speculation purpose is not prevalent in the region.
+
+**Expertise of those involved in building process:** The main construction expertise was brought in by local artisans. Architects or engineers did not participate in the planning or construction process.
+
+**Construction process and phasing:** It is reported that the construction process of Koti Banal buildings basically consisted of two steps. First the wooden construction was erected before filling up the intervening voids with dressed stones. However, this may only be true for the lower part where the stones were only used to fill up the voids. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** In India no development rules exist for this building type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Owner(s)No one
+
+**Additional comments on maintenance and building condition:** Prolonged non-maintenance and neglect of many Koti Banal buildings has taken its toll and many have turned too weak to be put to human use. However, even the better maintained buildings are not being used either. Poverty (18 %), scarcity of wood (42 %), lack of skilled artisans and inconvenience in regular maintenance (18 %), structural weakness due to prolonged non-maintenance (18 %) and general living inconvenience (2 %) were cited as reasons for abandoning these multistoried houses.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Today the construction of these buildings would be too inefficient due to the high timber prices and the necessary construction technology.
+
+**Labor requirements:** It is supposed that several tens of workers had been required to build these structures. Obviously the erection of these structures had been a community effort.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Generally the buildings have a single room on every floor with a vertically distributed usage. While the ground floor is used for cattle or grain storage, the upper floors are used as living and bed rooms. The kitchen is generally on the top floor. In some buildings, dry toilets are located at the cantilevering parts of the balcony at forth story (Figure 20). While the original occupancy was pure residential, nowadays these buildings are mainly used for storage purposes. Reasons for this lie mainly in the buildings' inconvenience caused by low ceiling heights, small openings and the kitchen at the top.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** Normally one family occupies one building. In those buildings which are vertically separated two living units (of the same family) are present. Due to successive division of the property, nowadays different storeys are owned by different people but having the same family roots.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Nowadays, the economic level of the few inhabitants ranges between poor and middle class. At the time of construction, the builder definitely belong to the rich social class. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Other
+
+**Additional comments on financing:** Due to missing records, no statement can be made here.
+
+**Type of Ownership:** Owned by group or pool
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1720 | Kumaun earthquake | M > 8.0 |  | 
+| 1803 | Garwhal earthquake | Mw 8.09 |  | 
+| 1897 | Shillong Plateau earthquake (Assam) | Mw 8.1 |  | 
+| 1905 | Kangra earthquake | M 7.8 | I = VIII | 
+| 1934 | Bihar/Nepal earthquake | Ms 8.1 |  | 
+| 1950 | Assam earthquake | M 8.6 | I = XI | 
+| 1991 | Chamoli earthquake (Gharwal region) | mb 6.1 (IMD), Ms 7.1 (USGS) | I (MMI) = VIII | 
+| 1999 |  | Ms 6.6, ml 6.8 (IMD), mb 6.3 (USGS) | I (MMI) = VIII | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** The entire Himalayan terrain is recognized as being highly vulnerable to earthquakes (Bilham et al., 2001; Feldl and Bilham, 2006) and in the past the region has been jolted by four great earthquakes (with local magnitudes > 7.5): 1897 Shillong Plateau earthquake, 1905 Kangara earthquake, 1934 Bihar/Nepal earthquake and 1950 Assam earthquake apart from Kumaun earthquake of 1720 and Garhwal earthquake of 1803 (Thakur, 2006). Regions between the rupture zones of the great earthquakes are recognized as seismic gaps that are interpreted to have accumulated potential slip for generating future great earthquakes. The entire state of Uttarakhand falls in the seismic gap of the 1934 Bihar/Nepal earthquake and the 1905 Kangara earthquake and is categorized into Zone IV and V of the earthquake zoning map of India (IS 1893 - Part 1: 2002). The region has also witnessed seismic events of lesser magnitude (e.g., 1991 Garhwal earthquake, 1999 Chamoli earthquake). Figure 21 illustrates the recent seismicity of the respective Himalayan region with the investigation area shown in Figure 2. Notes on vulnerability rating: The Koti Banal architecture is a mixed construction of timber and dressed stones which are according to EMS-98 denoted as simple stones. Since the primary load-bearing capacity is provided by the system of timber logs, the vulnerability class of the entire structure will be mainly determined by this material. Pure timber structures in general are classified into vulnerability class D with a probable range between C and E (and a less probable range B). Accounting for the wall fillings out of dressed stones and the additional masses a reduction of the vulnerability class into C (D) may be suitable.
+
+**Additional comments on earthquake damage patterns:** no damage patterns caused by earthquakes have ever been reported
+ 
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** wall thicknesses up to 1.5 ft leading to high dead loads
+
+**Earthquake-resilient features in walls:** 1) flexibility during dynamic shaking since no rigid mortar is used between the stones 2) bearing capacity to high vertical loads 3) prevention of out-of-plane failure through vertical (shear) keys at the outside ranging over several storeys
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 1) spatial load bearing structure 2) bearing of shear forces through shear pin (tenon) connections between the wooden logs 3) flexibility and weather resistance due to the use of Devdar timber (native cedar) 4) beams are mostly rectangular in shape with a width/height ratio of 2:3 and a cross-section area larger than needed for adequate safety 5) openings are surrounded by wooden elements which are part of the frame
+
+**Seismic deficiency in roof and floors:** Roof: 1) high dead loads due to heavy roofing material (slate tiles) 2) inverted pendulum effect due to concentrated mass at the buildings top (larger dimensions of the upper stories) 3) flexible diaphragm effect Floor: flexible diaphragm effect
+
+**Earthquake resilient features in roof and floors:** Roof: larger dimension of the upper stories thus leading to higher story masses is compensated by the use of less stones and more wooden elements Floor: floor beams that run from the middle of one wall to the opposite wall provide additional stability to the walls
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | %%|-%% | | | %%-|%% |  |
+
+**Additional comments section 5:** The building configuration provides adequate safety against lateral shear, but there is no apparent safety measure against overturning. These buildings which are up to five storeys tall have survived the overturning effects even of strong earthquakes due to two reasons: (i) good aspect ratio of the buildings, and (ii) the use of lighter timber construction in the upper two storeys. Both mass and stiffness are uniformly distributed in elevation and in plan. Thus allowing pure lateral deflection during dynamic shaking while avoiding torsional effects. The primary structural system mainly consists of wooden elements. If designed and used properly, wood assemblies offer a high strength-to-weight ratio compared with other modern work materials. This results in low inertia forces during an earthquake. Siting of these buildings is another important aspect for their safety against earthquakes. These buildings are generally situated at firm ridge or plane ground having rock outcrop.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** The majority of existing buildings had been observed in the region. However, no strengthening or retrofitting measures could be observed. The reason for this may lie in the fact that this construction typology evolved over centuries accounting for the experienced performance during earthquake action and thus had been optimized. All modifications observed at the buildings rather reduced their seismic behavior than can be seen as a strengthening or retrofitting measure.
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Himalayan Seismic Hazard R. Bilham, V.K. Gaur, and P. Molnar (2001) Science 293 : 1442-1444
+
+  * FEMA 310, Handbook for seismic evaluation of buildings American Society of Civil Engineers (1998)
+
+  * Great Himalayan earthquakes and the Tibetan plateau N. Feldl and R. Bilham (2006) Nature 444(9) : 165-170
+
+  * IS 875 - Part 1 (1987). Code of practice for design loads for buildings and structures Bureau of Indian Standards
+
+  * IS 1893 - Part 1 (2002). Criteria for earthquake resistant design of structures Bureau of Indian Standards
+
+  * IS 4326 (1993). Indian standard code of practice for earthquake resistant design and construction of buildings, Bureau of Indian Standards
+
+  * Seismic performance of wooden buildings in Japan M. Koshihara and I. Sakamoto (2005) Japan-Taiwan International Workshop on Urban Regeneration 2005, Maintenance and Green Material, Taipei, Taiwan : 73-74
+
+  * The seismic design handbook R.L. Mayes and F. Naiem (2001) In: Naiem, F. (ed.), Kluwer Academic Publishers, 735 pp.
+
+  * Earthquake Safe Koti Banal Architecture of Uttarakhand (India) P. Rautela and G.Ch. Joshi (2007) Disaster Mitigation and Management Centre, Department of Disaster Management, Dehradun, 28 pp.
+
+  * Impact of Earthquake Safety Initiatives in Uttarakhand (India) P. Rautela, S. Kumar, M. Pande, and K.C. Pande (2007) Disaster Mitigation and Management Centre, Department of Disaster Management, Dehradun, 50 pp.
+
+  * Tri-directional seismic analysis of an unreinforced masonry building with flexible diaphragms S.C. Sweemey, M.A. Horney, and S.L. Orton (2004) US Army Corps of Engineers, Engineering Research and Development Centre (ERDC/CERL TR-04-06)
+
+  * Seismotectonics and earthquake geology aspects of Northwestern Himalaya V.C. Thakur (2006) Geological Survey of India Special Publication 85 : 61-71.
+
+  * Earthquakes in India and the Himalaya: tectonics, geodesy and history R. Bilham Annals of Geophysics 2004 47(2): 839-858
+
+  * Some engineering aspects of Chamoli earthquake K. Rajendran and C.P. Rajendran http://www.gisdevelopment.net/application/natural_hazards/earthquakes/nheq0001.htm
+
+  * Magnitude calibration of North Indian earthquakes N. Ambraseys and J. Douglas Geophys. J. Int. 2004 159(1): 165-206
+
+  * Earthquake-safe Koti Banal architecture of Uttarakhand (India) P. Rautela and G.Ch. Joshi (2008) Current Science 95 (4), 475-481
+
+  * Preliminary account of the Kangra earthquake of 4 April 1905 Middlemiss, C.S. (1905) Mem. Geol. Soc. India 32, 258-294.
+
+  * The Kangra earthquake of 4 April 2005 Middlemiss, C.S. (1910) Mem. Geol. Surv. India 38, 405
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Piyoosh Rautela | Executive Director | Disaster Mitigation & Management Centre, Dept. of Disaster Management, Govt. of Uttarakhand | Uttarakhand Secretariat, Rajpur Road, Dehradun 248001, INDIA | piyooshrautela@gmail.com | 
+| Girish Chandra Joshi | Senior Executive | Disaster Mitigation & Management Centre, Dept. of Disaster Management, Govt. of Uttarakhand | Uttarakhand Secretariat, Rajpur Road, Dehradun 248001, INDIA | algirish@gmail.com | 
+| Yogendra Singh | Associate Professor | Dept. of Earthquake Engineering, Indian Institute of Technology Roorkee | Roorkee 247 667, INDIA | yogenfeq@iitr.ernet.in | 
+| Dominik Lang | Dr.-Ing | NORSAR | Gunnar Randers vei 15, Postboks 53, Kjeller 2027, NORWAY | dominik@norsar.no | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Tom Schacher | | | SWITZERLAND | tom.schacher@adhoc.ch |

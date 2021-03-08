@@ -1,0 +1,336 @@
+====== Galvanized steel truss buildings (Titan Steel), Cuba ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 196
+
+**Building Type:** Galvanized steel truss buildings (Titan Steel)
+
+**Country:** Cuba
+
+**Author(s):** Grisel Morejon Blanco, Kenia Leyva Chang, Dario Candebat Sanchez, Zulima Rivera Alvarez, Yelena Berenguer Heredia, Madelin Villalon Semanat, Dominik H. Lang, Abdelghani Meslem
+
+**Last Updated:** 01/26/2016
+
+**Regions Where Found:** Santiago de Cuba
+
+**Summary:** Galvanized steel truss
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 2013 until today
+
+**Building Occupancy:** Residential, 10-19 units
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** 
+
+**Terrain-Sloped:** 
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 
+
+**Type of Structural System:** Steel: Moment Resisting Frame: With lightweight partitions
+
+**Additional comments on structural system:** Gravity: The floor system transferring the gravity loads to the galvanized steel truss walls covered by sandwich panelsLateral: Galvanized steel-truss walls covered by sandwich panels
+
+**Gravity load-bearing & lateral load-resisting systems:** Galvanized steel truss walls covered by sandwich panels
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** 
+
+**Modifications of buildings:** 
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Composite steel deck and concrete slab
+
+**Additional comments on floor system:** RC slabs cast-in-situ, i.e. RC slabs are casted using steel pieces like a formwork
+
+**Type of Roof System:** Metal beams or trusses supporting light roofing
+
+**Additional comments on roof system:** Zinc plates
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | | |
+| Foundations | | |
+| Floors | | |
+| Roof | | |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** 
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** NC 46:1999 "Construcciones sismorresistentes. Requisitos para el diseno y construccion"
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** 
+
+**Is this typically informal construction?** 
+
+**Is this construction typically authorized as per development control rules?** 
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Other
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 18 CUC/m2
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** 
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** 
+
+**Typical Source of Financing:** Other
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Other
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** 
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Unknown damage
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. |  |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) |  |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) |  |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. |  |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. |  |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. |  |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. |  |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); |  |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. |  |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. |  |
+| Wall Openings |  |  |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). |  |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). |  |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). |  |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The joints between the panels and the foundation are made with screws, which weakens the system..
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** Unknown deficiencies
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | o |  |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * Brzev, S., Scawthorn, C., Charleson, A.W., and Jaiswal, K. (2012). GEM basic building taxonomy, Report produced in the context of the GEM Ontology and Taxonomy Global Component project, 45 pp.
+
+  * Cuban National Bureau of Standards (2013). Norma Cubana NC46: 2013, Construcciones sismoresistentes - Requisitos basicos para el diseno y construccon, 1. Edicion, January 2013, Officina Nacional de Normalizacion (NC), Habana, Cuba.
+
+  * Jaiswal, K.S., and Wald, D.J. (2008). Creating a global building inventory for earthquake loss assessment and risk management, U.S. Geological Survey Open-file report 2008-1160, 106 pp.
+
+  * Lang D.H., Meslem, A., Lindholm C., Blanco, G.M., Chang, K.L., Sanchez, D.C., and Alvarez, Z.R. (2015). Earthquake Loss Evaluation (ELE) for the City of Santiago de Cuba (Cuba), Report no. 15-015, Kjeller - Santiago de Cuba, October 2015, 90pp.
+
+  * Medina A., Escobar E., Ortiz G. Ramirez M., Duiaz L., Mondelo F., Montejo N., Rodriguez H., Guevara T. and Acosta J. (1999). Reconocimiento geologo-geofisico de la cuenca de Santiago de Cuba, con fines de Riesgo Sismico. Empresa Geominera de Oriente, Santiago de Cuba. 32 pp.
+
+  * Mendez I., Ortiz G., Aguller M., Rodriguez E., Llull E., Guevara T., Lopez T., Guilart M., Mustelier M., Gentoiu M. and Lay M. (2001). Base de datos digital de los levantamientos regionales de Cuba Oriental. Empresa Geologo-Minera de Oriente (E.G.M.O.) y Oficina Nacional de Recursos Minerales (O.N.R.M).
+
+  * Morejon Blanco, G., Leyva Chang, K., Candebat Sanchez, D., Rivera Alvarez, Z., Berenguer Heredia, Y., Villalon Semanat, M., Lang, D.H., and Meslem, A. (2015). Building Classification Scheme for the City of Santiago de Cuba (Cuba), Report no. 15-010, Kjeller - Santiago de Cuba, August 2015, 30 pp.
+
+  * SNIP (1963). Construction in Seismic Regions: Norms of Designing, SNIP II-A. 12-62, Moscow, 1963.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Grisel Morejon Blanco | Vice Director | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Kenia Leyva Chang | Specialist for Science, Technology and Environment | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Dario Candebat Sanchez | Investigador Agregado | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Zulima Rivera Alvarez | Assistant Researcher | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Yelena Berenguer Heredia | Aspirante a Investigador | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Madelin Villalon Semanat | Investigador Agregado | Centro Nacional de Investigaciones Sismologicas (CENAIS) | Santiago de Cuba, Cuba | |
+| Dominik H. Lang | Head of Department, Earthquake Hazard and Risk | NORSAR | Kjeller, Norway | |
+| Abdelghani Meslem | Structural and Earthquake Engineer | NORSAR | Kjeller, Norway | |
+
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Jaiswal, Kishor | Research Structural Engineer | U.S. Geological Survey (contracted through Synergetics Incorporated) | Golden CO, USA | kjaiswal@usgs.gov |
+

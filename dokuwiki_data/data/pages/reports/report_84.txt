@@ -1,0 +1,337 @@
+====== A single-family, two-storey house with brick walls and timber floors, Romania ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 84
+
+**Building Type:** A single-family, two-storey house with brick walls and timber floors
+
+**Country:** Romania
+
+**Author(s):** Maria D. Bostenaru, Ilie Sandu
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in major urban areas of the country: in the cities of Zimnicea, Craiova,Ploiesti, Buzau, Iasi and, of course, Bucharest, also in smaller townships in these counties, and in the Prahova county.After the 1977 earthquake, single-family housing accounted for only about one-third of the new housing units.Information related to the total number of load-bearing masonry buildings is not available; however, statistics relatedto the multi-storey buildings indicate that only 13% of all buildings have load-bearing masonry walls. This type ofhousing construction is commonly found in both rural and urban areas. Buildings of this type are typical for urban areas; only very old buildings of this type exist in rural areas.
+
+**Summary:** This type of urban housing was constructed in Romania in the 1930s as single-family housingfor the middle class. Typical buildings described in this report are one- or two-story buildingswith load-bearing masonry walls. These buildings called "vila" in Romania are characterizedby a rectangular plan and are usually semidetached; they share a common wall with theadjacent building. A great variety of buildings exist of this structural type. The building typedescribed in this report has load-bearing brick masonry walls constructed of mud mortar. Thefloor structure consists of timber planks and joists. These buildings are located in an area wellknownto be earthquake-prone. The epicenter is located close to Vrancea and earthquakesexceeding magnitude 7.0 on the Richter scale recur every 30 to 35 years. The latest earthquakeof this severity was the March 1977 Vrancea earthquake (M 7.2). However, the building typedescribed in this report is located in the Bucharest area and although affected by theNovember 1940 Naruja (Vrancea) earthquake (M 7.4), it usually performed well during the1940 and 1977 earthquakes. The most common type of damage was in the form of cracks andfalling chimneys. Some of the older buildings of this type have been affected by other pastearthquakes. Because this construction is common for many Romanian buildings of the"Brncovenesc" architectural style, new retrofit techniques have been developed in recentyears (in addition to the techniques used after the 1977 earthquake).
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1940
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Never
+
+**Comments:** Buildings of this construction type can be found in major urban areas of the country: in the cities of Zimnicea, Craiova,Ploiest
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** This building type is characterized also by the "honeycomb" ("fagure" in Romanian)building plan characteristic for Romanian housing design. The system has been described in reports #78 and #83 forreinforced concrete structures. This system has been applied for masonry structures as well. It consists of box-typeunits creating rooms of up to 30-35 meters square.
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 5-7
+
+**Typical story height (meters):** 2.6
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortar
+
+**Additional comments on structural system:** The vertical load-resisting system is un-reinforced masonry walls. The gravity load-bearing system is the same as thelateral load-resisting system in this case. Due to the "honeycomb" ("fagure" in Romanian) building configuration, the walls are well connected and carry the loads uniformly. Typically, all walls in a building areload-bearing walls (there are very few partitions).The lateral load-resisting system is un-reinforced masonry walls. The lateral load-resisting system consists ofunreinforced brick masonry walls in mud mortar. The wall thickness varies between floors. In the building describedin this report, wall thickness ranges from 420 mm at ground floor to 280 mm at the first floor. The brick headers usedto connect orthogonal walls are of full-size bricks, and the same mortar is used in the rest of the wall. The thickness ofmortar bed joints is about 12 mm, while vertical joint thickness is on the order of 10 mm and the joints are well-filled.Walls are rather stiff and the stiffness is evenly distributed between the walls. Due to the regular building plan("fagure" plan), there is no chance for torsional effects. The horizontal structure is made oftimber joists spaced at a distance of 600 mm and overlaid by timber planks and a suspended ceiling made out of mudmortar on slat and cane. The girders are supported by the longitudinal walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** There are variations of this structural type. In some cases, there is a 3- storey hybrid system, in which the top storey isbuilt in timber and the intermediate storey is built in reinforced brickwork or even reinforced concrete; the bottomstorey is of original unreinforced brick masonry construction.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. 8% - 15% The abovefigures refer to the upper storey wall density in the transverse and longitudinal direction respectively. Wall density at thelower storey is more uniform: it varies between 14% in the transverse direction and 13% in the longitudinaldirection.
+
+**Wall Openings:** There are about five windows per floor, usually one for eachroom. Window dimensions (width x depth) are 0.60 m x 1.20 m or 1.40 m x 1.20 m. There are between 5 and 10doors per building, with dimensions (width x depth) of either 0.60 m x 2.10 m or 0.80 m x 2.10 m. In some cases,these are double doors; in other cases these are balcony doors, etc. The total door and window area is equal to onethird of the total wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** No structural modifications have been reported to the author's knowledge.
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** Unreinforced concrete strip footing.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood plank, plywood or manufactured woodpanels on joists supported by beams or walls
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** A typicalseparation distance between the adjacent buildings ranges from 1.9 m to 3.0 m (there is usually a 1.9 m distance to thelot limit).Usually, these houses were designed as semidetached, although in some cases the adjacent unit was not builtat the same time. "Semidetached" in this instance indicates that there is a wall without any windows---referred to inthis report as a "party wall"--- separating the buildings. Semidetached houses divided by a party wall may have differentheights. To the author's knowledge, party walls were introduced as a mandatory measure to protect adjacent buildingsafter the big fire, which devastated the capital city of Bucharest some 200 years ago.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Bricks 6.25cmx12.5cmx25cm | Quality of brick,mortar, andworkmanship verydifferent but verystrongly influencingthe seismic behaviour | 
+| Foundations | Unreinforced concrete | N/A (build in 1930) | 
+| Floors | timber joists spaced at 600 mm overlaid by timber boards and asuspended ceiling of mud mortar on slat and cane. |  | 
+| Roof | wood framework cladding: zinc plated sheet |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** ArchitectOther
+
+**Roles of those involved in the design process:** In general, these buildings were built by artisans (contractors) without involvement ofengineers and architects. Some buildings of this type were designed by architects.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** ContractorOther
+
+**Roles of those involved in the building process:** These buildings were built by artisans (small contractors) and the construction was funded by the owners.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The construction of this type of housing takes place in a single phase. Typically, thebuilding is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This construction practice is no longer followed.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Information not available.
+
+**Labor requirements:** Information not available.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, a family of 4 occupies one building. However, patterns of occupancy changed after World War II during thecommunist (Ceausescu) regime as compared to the earlier, pre-war situation. During the process of nationalizingprivately owned residences, many buildings of this kind were appropriated by the government, demolished, andreplaced by blocks of apartments. In some cases, several families lived in a single house; for example, a one-roomapartment was created for a student on the upper floor or for an older person on the lower floor.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1940 | Naruja, Vrancea | 7.4 | 7 (MMI) | 
+| 1977 | Vrancea | 7.2 | 8 (MMI) | 
+| 1986 | Vrancea | 7 | 8 (MMI) | 
+| 1990 | Vrancea | 6.7 | 7 (MMI) |
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The most common earthquake damage was in the form of cracks and fallen chimneys. The following general damagepatterns were observed after the 1977 earthquake: 1) heavily damaged buildings typically had inclined (45 or X-shaped)cracks; such cracks (even if they did not lead to immediate collapse) reduced the strength and stiffness of the walls sothat there was imminent danger of collapse from aftershocks; 2) partial collapse if wooden floors were insufficientlyanchored into the masonry, and the bricks were of poor quality, affecting mainly buildings from XIXth century; 3)collapse of chimneys (more severe in the case of tiled roofs).
+
+**Additional comments on earthquake damage patterns:** Some plastercracks.Collapse ofchimneys;envelope gotdamaged.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | N/A | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** Good quality and strength of mortar (past earthquakes have confirmed that the structuralintegrity and stability of masonry walls depend on the quality of both the bricks and themortar); evenly distributed stiffness; wall thickness decreases with height (except for theparty wall common with the adjacent building): adequate connection between the orthogonalwalls.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Chimneys insufficientlyanchored; - Absence oftransverse connections at theperimeter of the floors withtimber or metal joists (suchconnections transfer loads inone direction)
+
+**Earthquake resilient features in roof and floors:** Timber floors ensure uniform load distribution (floors are simply supported by the wallsinasmuch as these are thick enough); timber floors with joists each measuring 600 mmensure the uniform distribution of the in-plane rigidities such that torsional effects areavoided. Timber joists are supported by longitudinal walls (the main direction in the building).Support of the floor with joists which are orthogonal on the longitudinal walls is consideredby the authors to have had a certain damping effect during the 1977 earthquake.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** Because of the great variety found in this structural type, the damage patterns also vary. The above description refers tothe building described in this report.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Diagonal "X"cracks in thewalls | Strengthening using the TENSAR system (Fig. 24), which consists of the following steps: 1. cleaning up plaster 2. cleaning up betweenbricks 3. making holes for nails 4. fixing nails 5. fixing distancing units 6. rolling out the net 7. bordering windows 8. plastering on bothfaces of the net | 
+| Miscellaneouswall cracks | Crack injection with cement paste (Fig. 25 and 26). The crack injection procedure is as follows: 1. The cracks are cleaned with air andwater jet. 2. The cracks are closed with plastering with 1:3 cement mortar on both sides of the masonry, letting injecting holes of 13mm diametre each 30 to 60 cm along the cracks. 3. Before injecting, the plastering is wetted and the continuity of the injection paths isverified with water. 4. Bottom-top injecting, successively closing the openings and control holes. This method cannot be used if brickshave moved or fallen out. | 
+| Rebuilding ofcollapsedwalls | Replace collapsed portions of old walls with new masonry walls built in cement mortar. Ensure the connections with the remainingmasonry walls. Epoxy resins may be used. | 
+| Largediagonalcracks in thewalls or walldislocations | Use of shotcrete ("torcretare" in Romanian) method (Fig. 27, 28, and 29) as follow s: 1. Attach the wire net to the masonry wall. 2.Apply a 30 mm thick torcrete overlay (only on the damaged zones). The remaining portion of the wall is plastered to obtain an evensurface. Jacketing is an alternative to the "torcrete" method. The jacketing method consists of applying a 50 mm thick reinforcedconcrete overlay cast on both sides of the surface of a masonry wall. The reinforcement consists of "sudat" wire nets anchored withclasps into the masonry. | 
+| Correction ofconceptualdesign errors | Replace heavy walls with light walls or connect them to the rigid walls of the load-bearing system (this can be also used in constructionof new buildings). | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** All the above-listed provisions are repair methods (except for the TENSAR strengthening). The TENSARstrengthening method is a rather new method which can be used for the repair of damaged buildings or for thestrengthening of undamaged buildings at risk of future earthquakes. The method has been recommended for theretrofit of historic buildings in Romania according to article 7.3.4.4. (GOR 1998-2000). GOR does not recommend theuse of "TENSAR," because it is a specific commercial product, but rather recommends the use of generic polymergrids. GOR (1998-2000) suggested performing repair with the polymer grids compatible with the mud mortar used inthe existing construction; however, mud mortar it is no longer made. Therefore, the application of TENSAR systemimplies mixing the new cement mortar with the mud mortar and clay bricks in the existing construction. This is adrawback to the TENSAR method (and other similar methods), as it leads to the deterioration of the original materialover time and a loss in the effectiveness of the structural strengthening in the event of an earthquake (reviewer'saddition). The authors' opinion is that the long-term and short-term time effects of the TENSAR system are notadequately researched at this time. For example, Romanian cities are exposed to significant annual temperaturevariations (which may range from -30 to +40 in Iasi and other cities). Such significant temperature variationsdeteriorate the bond between materials with different characteristics. Therefore, systems like TENSAR should be usedwith caution. The authors believe that the GOR decision to propose this type of system in the above-mentioneddocument might have been influenced by the limited choices. Reinforced concrete jacketing is an alternative to the useof the TENSAR (or similar alternative) system; however, the jacketing might affect the shape of monuments in a morenegative way as compared to the TENSAR strengthening.
+
+**Has seismic strengthening described in the above table been performed?** Strengthening was not required for the building described in this report. In past earthquakes, buildings of this typesuffered only minor damages, such as the collapse of chimneys which damaged the roof cladding, and some superficialwall (plaster) cracks. These damages were repaired by qualified workers and the repair was managed by the owner. Allabove-mentioned strengthening techniques (except the TENSAR strengthening) were used after the 1977 earthquake.Out of these, crack injection was most widely used. After the 1977 earthquake, a crack injection methodologydeveloped by INCERC was used (manual pump was used for minor repairs and mechanised procedures have beendeveloped for larger efforts). There are no reported examples of housing applications for this method; however,several public buildings, including the Architecture Institute, were repaired using this method. The torcrete methodwas used for repairing diagonal large cracks or dislocations.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The work was done as repair after the 1977 earthquake. However, some methods, like TENSAR strengthening, can beused for the retrofit of undamaged buildings to protect them against future earthquakes.
+
+**Was the construction inspected in the same manner as new construction?** Information not available.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** In general, engineers are involved in the design of the repair and strengthening provisions. Also, architects are involvedin aproving the use of certain repair methods for a particular building.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** After the 1977 earthquake, there were no earthquakes of similar intensity. The building described in this report, whichrequired only minor repairs (mainly crack injection) in 1940, was not significantly damaged in the 1977 earthquake.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Cutremurul de PamBalan,S., Cristescu,V., and Cornea,I.The Academy of the Socialist Republic of Romania, Bucharest, Romania 1982
+
+  * Recommendations over the retrofit of buildings after an earthquake (in Greek)TEEEdited by the Association of Greek Engineers (TEE), Rectorat of the National Technical University of Athens, Athens, Greece 1988
+
+  * Sto Ges.m.b.H., Austria http://www.sto.at/htmger/servi_f.htmSTO
+
+  * ConstructionsSmighielschi,M.Course Notes (in Romanian), Institute of Architecture Ion Mincu, Bucharest, Romania
+
+  * Stan. FinishingsCourse Notes (in Romanian), Institute of Architecture Ion Mincu, Bucharest, Romania
+
+  * Methodology for the Risk Evaluation and Required Restoration Interventions for the Historical MonumentStructuresGORIntermediary Manuscript, Phase 4 (1998-2000), the Romanian Ministry for Public Works and Regional Planing, Government of Romania,Bucharest, Romania 2000
+
+  * Strengthening and/or rehabilitation of clay brick masonry buildings with polymer grids with integrated stiffnodesAGIRCourse proceedings, The Romanian Engineering Association (AGIR), Bucharest, Romania 2002
+
+  * RichterGard. http://www.richtergard.com/home2.html
+
+  * ConstructionCourse notes-an addendum (in German). Institute of Architecture "Ion Mincu"; Bucharest, Romania
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria D. Bostenaru | researcher | Urban and Landscape Department, Ion Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | Maria.Bostenaru-Dan@alumni.uni-karlsruhe.de | 
+| Ilie Sandu | Sos. Oltenitei 34 Bl. 5C et. V ap. 23, Bucharest 7000, ROMANIA |  |  |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dina D'Ayala | Director of Postgraduate Studies | Department of Architecture & Civil Engineering, University of Bath | Bath BA2 7AY, UNITED KINGDOM | D.F.D'Ayala@bath.ac.uk | 

@@ -1,0 +1,322 @@
+====== ,  ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 30
+
+**Building Type:** Single-family reinforced concrete frame with masonry infill walls house
+
+**Country:** Italy
+
+**Author(s):** Maurizio Leggeri, Giuseppe Lacava, Eugenio Viola
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in many cities throughout Italy. This type of housing construction is commonly found in urban areas. This type of construction is also present in suburban areas.
+
+**Summary:** This building type is commonly used for multifamily housing in urban areas of Italy and is particularly common in the region of Potenza (Basilicata). Prior to 1981, this region was not included in the official seismic zonation map of Italy, in spite of the historical evidence. However, after the major earthquake of November 1980, the entire Potenza province was recognized as a seismically prone area. Consequently, seismic considerations were not taken into account for in the building design projects predating the 1980 earthquake. The main load-bearing structure is reinforced concrete frame with masonry infill walls. Many buildings of this type were strengthened using the financial assistance provided by the government. The upgrade typically consists of installing new shear walls and L-shaped columns, and strengthening the foundation.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 4-10
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is not being built. This building type was common in the cities when the area wasnot offic
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Typical shape of the building plan is rectangular.
+
+**Typical plan length (meters):** 20-50
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3.5-4
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** Gravity: Reinforced concrete frame. Lateral: Originally, the buildings were designed for gravity loads only. Unreinforced masonry infill walls exist as partitions (nonloadbearing elements). The strengthening was carried out after the November 1980 earthquake, in order to incorporate elements of lateral load-resisting system. The upgrade consists of installing new RC shear walls, L-shaped concrete columns and strengthening the foundation (using internal micropiles and external macropiles).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5 %. Approximately 0.05 (i.e. 5%).
+
+**Wall Openings:** The size of door opening is 0.80 m width and 2.00 m height. In the new RC shear walls installed as a part of the upgrade, there is only 1 door opening per apartment. The ratio of door area/shear wall area is approximately 9%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The structural upgrade did not modify the building function (the same housing features were preserved after the upgrade).
+
+**Type of Foundation:** Deep Foundation: Reinforced concrete bearing piles
+
+**Additional comments on foundation:** For all the buildings built before the 1980 earthquake, without any seismic features, the reinforcement of piles was limited to the first 2.50-3.00 m, for the anchorage to the plinths.Fortunately, foundation collapse was not reported due to very good soil conditions (overconsolidated clay) with resetting of bending moment.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor is considered to act as a rigid diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The floor is considered to act as a rigid diaphragm.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 8-10 meters. Currently, this type of construction is not being built. This building type was common in the cities when the area was not officially in the seismic zone (pre-1980).
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced Concrete Steel | 300 Kg/cm.sq. 4400 Kg/cm.sq. | 
+| Foundations | Reinforced Concrete Steel | 300 Kg/cm.sq. 4400 Kg/cm.sq. | 
+| Floors | Reinforced Concrete Steel | 300 Kg/cm.sq. 4400 Kg/cm.sq. | 
+| Roof | Reinforced Concrete Steel | 300 Kg/cm.sq. 4400 Kg/cm.sq. | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+ 
+**Who is involved with the design process?** Engineer
+
+**Roles of those involved in the design process:** Design for building of this type: by a graduate technician (a college graduate). Structural design: by a Civil Engineer. The structural design of this construction was completely done by a civil engineer. The architects usually design buildings with better aesthetic features (and functionality).
+
+**Expertise of those involved in the design process:** Graduate technician.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerBuilderContractorOther
+
+**Roles of those involved in the building process:** This construction type is built by contractors. The builder typically lives in a building of this construction type.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** This construction type is built by contractors. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Italian Code 1971 National ByLaw #1086, November 5,1971 National ByLaw #64, February 2,1974 Ministerial Order January 16,1996
+
+**Process for building code enforcement:** Building permit is issued if the design documents have been approved by the Building Committee of Town Municipality (Planning and Building Departments) and by the Regional Committee (named #Genio Civile#) for Structural Project.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** 500 $US/m.sq.
+
+**Labor requirements:** The construction of a typical load-bearing structure of this type (5-story high) would take from 126 to 180 days for a team of 8-10 persons.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per apartment (housing unit). Each building typically has 10-30 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Very Poor: lowest 10%, Poor: lowest 30%, Middle Class: lowest 30% to top 20%, Rich: top 20%. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Personal savingsOther
+
+**Additional comments on financing:** At present time, the Government does not support any new construction of this type.
+
+**Type of Ownership:** Own outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1980 | Irpinia-Basilicata | 6.8 | 8.7 (MMI) | 
+| 1990 | Potenza | 5.4 | 6.6 (MMI) | 
+| 1991 | Potenza | 5 | 6.0 (MMI) | 
+| 1998 | Pollino-Lauria | 5.5 | 6.75 (MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The list includes the significant earthquakes in the Basilicata region after this construction practice has started.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Unreinforced hollow clay tile infill walls Earthquake Damage Patterns: Diagonal ("X"-cracking) and failure see Figure 11 and 12.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Designed for gravity loads only
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Designed for gravity loads only
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Pile Foundations | Strengthening | 
+| RC Columns | Strengthening | 
+| Deficient Lateral Load-Resisting Capacity | Installation of new RC shear walls | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The initial phase of the seismic upgrade design included the evaluation of the existing building in order to identify seismic deficiencies. Dynamic analysis was performed using the Super ETABS software, and the natural periods of the structure for six different modes. After the strengthening design was performed, the new periods have been calculated, showing that the strengthened building is characterized with a significantly higher stiffness as compared to the original building. A chart showing the the variation of natural vibration periods for the same five-story building before and after the retrofit is illustrated in Figure 20 (corresponding to the building shown in Figures 1, 5 and 7). A similar chart is presented on Figure 21, corresponding to a four-story building shown in Figures 2 and 8.
+
+**Has seismic strengthening described in the above table been performed?** Yes. The strengthening has been performed in practice. This type of strengthening assures the protection of the building from seismic effects and improved dynamic response.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Repair and retrofit after the earthquake.
+
+**Was the construction inspected in the same manner as new construction?** No.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Contractor performed the construction and an engineer was involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The performance of retrofitted building was excellent in the earthquakes of 1990/1991.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Censimento ISTAT Popolazione ed Abitazioni Italian Seismic Code (in Italian) 1990
+
+  * I Terremoti Della Basilicata Leggeri,M. Edizioni Ermes, Potenza, Italy (in Italian)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maurizio Leggeri | Eng.(Expert in EQ Engineering) | ARCHSTUDIO-GEOCART | Via F. Baracca 175, Potenza 85100, ITALY | maurileg@tin.it | 
+| Giuseppe Lacava | Engineer (cooperating) | GEOCART | Via Ligure 8, Potenza 85100, ITALY | geocart@geocart.net | 
+| Eugenio Viola | Engineer (cooperating) | GEOCART | Via Ligure 8, Potenza 85100, ITALY | geocart@geocart.net | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Craig D. Comartin | President | C.D. Comartin Associates | Stockton CA 95207-1705, USA | ccomartin@comartin.net | 

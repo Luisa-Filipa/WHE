@@ -1,0 +1,321 @@
+====== Reinforced concrete multistory buildings, Mexico ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 115
+
+**Building Type:** Reinforced concrete multistory buildings
+
+**Country:** Mexico
+
+**Author(s):** Mario Rodriguez, Francisco G. Jarque
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in four important regions in Mexico: 1.- Mexico City and metropolitan area, capital city of Mexico, with 30% of the total housing stock in the country. 2.- Guadalajara, Capital City of the State of Jalisco, high seismicity 3.- Monterrey, Capital City of the State of Nuevo Leon, low seismicity. 4.- Cities at resort areas of the Pacific coast, such as Acapulco, Ixtapa, Huatulco. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This report describes Reinforced Concrete (RC) multistory residential buildings in Mexico. This type of construction is found mostly in large cities where space limitations lead to this type of solution. Typically buildings of this type have eight or more stories. Members of the middle and upper classes are the target market for this type of construction. In areas of low seismic risk, waffle slab floor systems without structural RC walls are preferred by developers primarily due to their speed of construction. In areas of medium to high seismic risk, it is typical for this type of building to have a dual system, which combines RC moment frames and RC structural walls as the main lateral load resisting elements. The RC floor systems are constructed of waffle slabs or solid slabs. RC buildings account for about 80% of the entire housing stock in Mexico. Buildings constructed after 1985 are expected to perform well under seismic forces, especially in Mexico City, where the building construction code has been substantially updated to incorporate lessons learned during the 1985 earthquake.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 10-25
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 40
+
+**Typical plan width (meters):** 25
+
+**Typical story height (meters):** 3.2
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Dual system Frame with shear wall
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. Columns, beams and solid or waffle slabs. The lateral load-resisting system is reinforced concrete structural walls (with frame). Moment resisting frames are used in low seismic areas and dual systems (combination of frames and RC walls) are used in medium and high seismic areas. In dual systems, shear walls are usually located at the building core and moment frames are located at the building perimeter.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 1-2%
+
+**Typical wall densities in direction 2:** 1-2%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Mostly 2 openings are constructed at floor levels, leaving space for elevators and stairs. These openings are commonly located at the center of floor systems and are surrounded by concrete walls, which are part of the lateral load resisting system. Their sizes vary but typical dimensions are 2 x 5 m for stair ways and 2.5 x 2.5 m for elevators. Openings for doors are also located in RC walls. These walls are usually located at the building core and is unusual to locate RC walls at the building perimeter. Partitions in RC buildings for residential construction are usually constructed with clay/concrete blocks.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** A typical pattern for the modification of RC buildings is the demolition of partitions, which are not part of the lateral load system for the building.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundationDeep Foundation: Reinforced concrete bearing pilesDeep Foundation: Reinforced concrete skin friction pilesDeep Foundation: Cast-in-place concrete piersDeep Foundation: Caissons
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place); Waffle slabs (cast-in-place); Flat slabs (cast-in-place); Solid slabs (precast) In most design of RC buildings for residential construction, all diaphragms are considered rigid.
+
+**Type of Roof System:** 
+
+**Additional comments on roof system:** In most design of RC buildings for residential construction, all diaphragms are considered rigid.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 0.20 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Concrete | f'c= 30 MPa | 
+| Foundations | Concrete | f'c= 25 MPa | 
+| Floors | Concrete | f'c= 25 MPa | 
+| Roof | Concrete | f'c= 25 MPa | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Local building codes require that a project be designed by a registered engineer. Architects are in charge of the building space distribution and of fulfilling the owner's requirements. Usually architects hire structural engineers for the design and construction of buildings.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Typically this construction type is built by developers.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** RC buildings for residential construction in Mexico is mostly constructed by developers. Depending on the type of soil, excavations for foundations is carried out with several types of excavator machineries. Ready-mix concrete is usually supplied for construction of these buildings. The construction of this type of housing takes place incrementally over time. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** There is not a national building code and only few local codes are available; therefore, a number of regions in Mexico do not have building codes. In those cases some adaptations of the Mexico City building code are used. This code covers RC design and in most parts is based on the ACI 318 code. In some regions of the country where there is no local building code, the ACI 318 code is mostly followed. In Mexico City, the title of the current building code is "Reglamento de Construcciones del Distrito Federal" (Federal District Building Code). The year the first code/standard addressing this type of construction issued was In Mexico City the first code provisions were issued in 1920 and the 1942 building code for Mexico City was the first that had seismic provisions. The most recent building code for Mexico City was released in 2004.
+
+**Process for building code enforcement:** Building has to be designed by code requirements and plans need to be approved by a registered engineer. Plans are submitted to a code enforcement agency. However, usually the structural design is not reviewed by these agencies. It is assumed that the structural design is a responsibility only of the registered engineer. Building permits in Mexico City are granted by the local agency. In other parts of the country where there are local building codes these permits are granted by the corresponding local code enforcement agency. After the permit is granted, the code enforcement agency usually does not send inspectors to the construction site.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Owner(s) and Tenant(s).
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The construction cost for RC buildings ranges from 1,300 $US/m2 to 2,200 $US/m2 depending on the type of apartments and location of the building.
+
+**Labor requirements:** Usually 3 weeks are required for the construction of each floor level in a building. However, this construction time could increase due to rain or shortage of developer's money during construction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically in RC buildings, each apartment is occupied by a single family. The number of apartments in a building varies from building to building. Each building typically has 30 housing unit(s). Minimum 10 - Maximum 48
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** In the evening/night the inhabitants number greater than 50.
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Economic Level: The ratio of price of each housing unit to the annual income can be 6:1 for middle class family and 5:1 for rich class family.
+
+**Typical Source of Financing:** Personal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentUnits owned individually (condominium)Long-term lease
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Building insurance for residential construction is not a common practice in Mexico. One reason for this practice appears to be the high premium costs for covering seismic damage of buildings. Premium discounts are not available in Mexico for seismically strengthened buildings or new buildings built to incorporate seismically resistant features.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Earthquake insurance for this construction type is typically unavailable. For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is unavailable. Building insurance for residential construction is not a common practice in Mexico. One reason for this practice appears to be the high premium costs for covering seismic damage of buildings. Premium discounts are not available in Mexico for seismically strengthened buildings or new buildings built to incorporate seismically resistant features
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1985 | Michoacan Coast | 8.1 |  | 
+| 1995 | Colima | 8 |  | 
+| 2003 | Colima | 7.6 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The 1985 Michoacan earthquake has been the strongest earthquake in the Richter magnitude scale since a period starting in the 1940's. This earthquake had its epicenter in the Pacific coast, not really near urban areas. This feature has been typical in most earthquakes affecting Mexico since the 1940's. It follows that in the last few decades the RC system evaluated in this report has only been subjected to strong ground shaking in Mexico City.
+
+**Additional comments on earthquake damage patterns:** Collapse or severe damage in waffle-slab frame buildings was evident in the 1985 earthquake in Mexico City.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistanceVertical irregularities typically found in this construction typeOtherHorizontal irregularities typically found in this construction typeOtherSeismic deficiency in wallsEarthquake-resilient features in wallsThe use of walls provides a reduction in the expected seismic damage.Seismic deficiency in framesIn general, frames are very sensitive to reinforcement detailing.Earthquake-resilient features in frameSeismic deficiency in roof and floorsThey are not designed for specific seismic load paths, that is they are designed only for gravity loading. The current Mexico City building code is not clear in this aspect of floor system design. New detailing provisions enacted since the 1985 earthquake mostly addresses beam, columns and w alls, and not much on floor systems.Earthquake resilient features in roof and floorsSeismic deficiency in foundationEarthquake-resilient features in foundation:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** --Mud mortar --No sufficient bearing for opening --The openings are at different levels (Figure-12).
+
+**Earthquake-resilient features in walls:** --Wall as partition wall (Figure-6) --Comparatively light in weight than conventional load bearing brick walls (Thickness ranges from 0.35 to 0.45 m
+
+**Seismic deficiency in frames:** --Connection with wall is not sufficient --Column and beam bracings are not adequate (Figure-5) --Lack of proper linkage between columns and beams --Loose connection.
+
+**Earthquake-resilient features in frame:** --Ductile beam and column thus better resistance to earthquake forces --Sometimes braces which link column and beams are present (Figure-7).
+
+**Seismic deficiency in roof and floors:** --Heavy roofing elements(Figure-19) --No proper joints between rafters and purlins (Figure-20) -- Poor linkage between roofing elements and wall.
+
+**Earthquake resilient features in roof and floors:** --Many houses are covered with galvanized iron sheet, which is light in weight, thus reducing seismic forces on building (Figure-21).
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** The overall rating of the seismic vulnerability of the housing type is E: LOW VULNERABILITY (i.e., very good seismic performance), the lower bound (i.e., the worst possible) is D: MEDIUM-LOW VULNERABILITY (i.e., good seismic performance), and the upper bound (i.e., the best possible) is F: VERY LOW VULNERABILITY (i.e., excellent seismic performance).
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low lateral stiffness especially in waffle-slab buildings | Several techniques for seismic rehabilitation have been used in Mexico. Among them the following can be mentioned: Column retrofit with RC or steel jackets, steel bracing of frames, use of new structural RC walls and even demolition of upper floors. However, current building code for Mexico City has no specific provisions for seismic strengthening of buildings. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** After the 1985 Mexico City earthquake several hundreds of RC buildings in Mexico City went through several of the seismic strengthening techniques here mentioned.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Retrofit work is done in both cases but it is most common after earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Typically a contractor constructs a building under the instruction of an engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Since the 1985 Mexico City earthquake a large number of residential RC buildings have been retrofitted; however, the effectiveness of these retrofits has not been tested by another strong earthquake yet. An evaluation of building damage during the earthquake in Mexico City showed that previous repair and/or strengthening interventions in RC buildings were not sufficient and in general showed a poor seismic performance.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * NORMAS T DEPARTAMENTO DEL DISTRITO FEDERAL M 2004
+
+  * REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL DEPARTAMENTO DEL DISTRITO FEDERAL M 2004
+
+  * NORMAS T DEPARTAMENTO DEL DISTRITO FEDERAL GACETA OFICIAL DEL DEPARTAMENTO DEL DISTRITO FEDERAL, M 2004
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mario Rodriguez | Professor | Institute de Ingenieria Research & Education, Universidad Nacional Autonoma de Mexico | Mexico City CP 4510, MEXICO | Email:mrod@servidor.unam.mx | 
+| Francisco G. Jarque | Engineer | Garc | Av. R, Col. Gral. Anaya DF 03340, MEXICO | Email:garciajarque@garciajarque.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 
+| Walterio Lopez | | | Oakland CA 94612, USA | wlopez@ruthchek.com | 

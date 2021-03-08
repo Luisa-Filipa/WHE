@@ -1,0 +1,325 @@
+====== Confined Masonry Building with Concrete blocks, tie-columns and beams, Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 27
+
+**Building Type:** Confined Masonry Building with Concrete blocks, tie-columns and beams
+
+**Country:** Iran
+
+**Author(s):** Behrokh Hosseini Hashemi, Faramarz Alemi, Mohsen Ghafory Ashtiany
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in rural areas of Iran. The percentage of this housing type in those regions is almost 10%. This type of housing construction is commonly found in rural areas.
+
+**Summary:** This is a typical confined brick masonry housing construction common in rural areas of Iran. This building type is often used as a single-family house. Brick masonry shear walls confined with concrete tie columns and beams provide earthquake resistance in both directions. This building type is expected to have good seismic performance.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** These buildings are typically found in flat, sloped and hilly terrain. They do not share common walls with adjacent buildings. T
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The typical shape of a building plan for this housing type is rectangular. To view outside the building, typically a window opening is built in external walls. These windows almost take 40% of the external walls areas. The other wall has one or two doors. The door sizes are typically 90 X 210 (cm). The overall window and door areas are about 25% of the overall wall surface area.
+
+**Typical plan length (meters):** 5
+
+**Typical plan width (meters):** 9
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Confined Masonry: Concrete blocks, tie columns and beams
+
+**Additional comments on structural system:** The vertical load-resisting system is confined masonry wall system. Gravity loads sustain by bearing masonry brick walls. The lateral load-resisting system is confined masonry wall system. In both directions of the buildings lateral load-resisting system are provided by masonry brick shear walls which are confined with concrete tie column and beams.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. Total wall area/plan area (for each floor) 0.2.
+
+**Wall Openings:** To view outside the building, typically a window opening is built in external walls. These windows almost take 40% of the external walls areas. The other wall has one or two doors. The door sizes are typically 90 X 210 (cm). The overall window and door areas are about 25% of the overall wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** This type of construction does not have many modifications.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor/ and roof are considered to be a rigid diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The floor/ and roof are considered to be a rigid diaphragm.
+
+**Additional comments section 2:** The main function of this building typology is single-family house. In a typical building of this type, there are no elevators and 1-2 fire-protected exit staircases. Building of this type can have as the one main entry so the two doors. Buildings of this type in some places are located close together and in other places are scattered When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Clay brick masonry. / Steel bars. | Clay brick masonry: 150 Kg/sq cm 10 Kg/sq cm characteristic strength, 1:6 / 55 X 110 X 220 (mm) mix proportions/dimensions Steel bars: 3000 Kg/sq cm characteristic strength | 
+| Foundations | Concrete. | 210 Kg/sq cm characteristic strength, 1:2:4 mix proportions | 
+| Floors | Wood |  | 
+| Roof | Wood |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** For design of building, engineers and architectures are both involved. However, during the construction process they do not spend any time to visit the site.
+
+**Expertise of those involved in the design process:** As far as the design concern, engineers do their job properly. But the main problem is the construction of this type of buildings in rural areas, due to lack of skilled worker.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** It is typically built by developers and the builders does not necessary live in this building type.
+
+**Expertise of those involved in building process:** The main problem is the construction of this type of buildings in rural areas, due to lack of skilled worker.
+
+**Construction process and phasing:** Typically developers build these types of constructions. Process starts with the foundations and then bearing walls. Process continues by adding the concrete tie columns and then tie beams then placing of wood beams and finally putting the finishing on the hole building. The construction of this type of housing takes place incrementally over time. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The first official issue about this type of building was in 1987. The Iranian Code of Practice for Seismic Resistant Design of Buildings (Standard 2800) addressed this type of construction. Iranian Code of Practice for Seismic Resistant Design of Building, 1st Edition- 1987 and 2nd Edition-1999 Iranian National Building Code, Part: 8, Reinforced and unreinforced masonry buildings. The year the first code/standard addressing this type of construction issued was 1987. Iranian Code of Practice for Seismic Resistant Design of Building, 1st Edition- 1987 and 2nd Edition-1999.
+
+**Process for building code enforcement:** The building department of municipalities approves the design and holds the designer responsible for the projects. For those constructions, which are supported by government's fund, there is a proper control during construction. But for the others, there is not any control.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** A unit construction may cost 500,000 Rials/sq m ( 250 $US/sq m).
+
+**Labor requirements:** For a typical one story building needs about 30 to 40 days to complete the load bearing structure.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family usually occupies each house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Roughly an Iranian family has 4~6 members.
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** For Poor Class the Housing Price Unit is 5000 and the Annual Income is 1000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1990 | Manjil | 7.6 | IX |
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | N/A | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Unequal stiffness distribution.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Poor quality of workmanship and materials.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Lack of proper connection between roof and masonry shear walls They are not perfectly rigid diaphragm.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Shear wall | Add new shear wall | 
+| Tie beams | Increasing the size of the existing tie beams and adding new tie beams for added new walls | 
+| Roof | Proper connections of the wood beams to the tie beams (existing and new construction). | 
+| New Construction | Roof: Proper connections of the wood beams to the tie beams. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** No
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * A Simple Pictorial Guideline for Constructing Earthquake Resistant Adobe Building In Different Rural Areas Hosseini Hashemi,B. and Alemi,F. to be published in Farsi
+
+  * Manjil-Rudbar Earthquake of June 20,90 Reconnaissance Report IIEES Publication No. 70-91-1, Tehran, Iran 1991
+
+  * Iranian Code of Practice for Seismic Resistant Design of Building, 1st Edition- 1987 and 2nd Edition-1999 Building and Housing Research Center, BHRC-PN S 253, Tehran, Iran
+
+  * Iranian National Building Code - Part 8: Reinforced and unreinforced masonry buildings Ministry of Housing and Urban Development, Tehran, Iran
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Behrokh Hosseini Hashemi | Assistant professor | IIEES | No. 27, Arghavan St., Dibaji, Farmanieh, Tehran, Iran | behrokh@iiees.ac.ir | 
+| Faramarz Alemi | Professor | IIEES | No. 27, Arghavan St., Dibaji, Farmanieh, Tehran, Iran | alemi@dena.iiees.ac.ir | 
+| Mohsen Ghafory Ashtiany | Professor | President of IIEES | No. 27, Arghavan St., Dibaji, Farmanieh, Tehran, Iran | ashtiany@dena.iiees.ac.ir | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Farzad Naeim | Vice President | John A. Martin & Associates | Los Angeles CA 90015, USA | farzad@johnmartin.com | 

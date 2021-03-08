@@ -1,0 +1,345 @@
+====== Dry stone construction in Himachal Pradesh, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 172
+
+**Building Type:** Dry stone construction in Himachal Pradesh
+
+**Country:** India
+
+**Author(s):** Ankita Sood, Aditya Rahul, Yogendra Singh, Dominik H. Lang
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the North Indian state Himachal Pradesh, more specifically in the villages of the districts Chamba, Shimla, Kullu and Kinnaur of (Figure 2). This type of housing construction is commonly found in both rural and sub-urban areas.
+
+**Summary:** The addressed building type has been identified in Himachal Pradesh, a northern state in India. It is a relatively recent construction typology, which can be seen prevalent in the areas where people have been forced to leave their traditional construction practices due to scarcity of wood. Thus, this construction style is nothing but the traditional housing style omitting the wooden elements, be it Kath-Kunni style of the Kullu, Shimla or Kinnaur districts or Thathara style of Chamba district. Due to the region#s heavy precipitation both in terms of rainfall (June to July) as well as snowfall (October to March), rubble stones are preferred over the alternative locally available construction material, i.e. mud. However, these buildings possess high seismic vulnerability due to low in-plane and out-of-plane strength of their dry stone walls. This report identifies the main sources of seismic vulnerability of dry stone buildings and also suggests a retrofitting scheme to reduce the seismic vulnerability of such buildings.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Off
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This construction typology is the result of the vast availability of river stones and the scarcity of wood, which has forced pe
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shape
+
+**Additional comments on plan shape:** The houses are generally rectangular or L-shaped in plan with a verandah in the front. Upper floors also have verandahs.
+
+**Typical plan length (meters):** 8-12
+
+**Typical plan width (meters):** 5-8
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is stone masonry walls. The buildings mostly consist of flat RC roof and floors, sometimes with beams. Sloping wooden roofs with stone slates or galvanized iron (G.I.) sheets are the other common type. The floors and roof transfer the gravity load to 500 mm thick walls made of undressed river stones without mortar. In some cases RC columns are also added to support longer span beams (Figure 7). However, these supporting RC columns are non-engineered elements, and their dimensions as well as reinforcement detailing vary ad hoc, depending on the judgment of the mason. Since masons are empirically familiar with the high axial loads and the carrying capacity of RC columns, very slender columns (with e.g. cross-sections dimension 200-250 mm) are common. Due to high slenderness, low reinforcement, and poor joint detailing, these columns are equally vulnerable to earthquake loads, as the dry stone walls are. The lateral load-resisting system is stone masonry walls. The building#s total lateral load resistance is provided by the same dry stone walls (up to 500 mm thick) made of undressed river stones without mortar, whose initial purpose was to support the gravity loads. The reinforced-concrete slabs provided for roof and floors provide some lateral restraint to the walls in out-of-plane action. However, due to random rubble dry stone construction, the walls have very little in-plane and out-of-plane resistance.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 % (i.e. ratio of total area of walls in both directions to the floor area).
+
+**Wall Openings:** Large-size openings are usually provided in walls (Figure 4) for ventilation. Sometimes, in order to have cupboards in the walls, small niches are left at place and bricks are used in that portion (Figure 5 and Figure 6) to create a space within the wall as the thickness of the single wythe brick wall is much smaller than the thickness of the dry stone wall. Horizontal partitions are made within the so created niche, using wooden planks or RC slabs. The cupboard is usually kept open, but may be covered sometimes, using a wooden frame and panels.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Buildings of the addressed type are usually constructed with original plans, and no significant modifications to the existing structures have been observed during the survey. However, in some cases, the construction is done in stages, i.e. the ground storey is constructed first and another storey is added later when funds are available.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** The foundations consist of hand packing of stones of different shapes and sizes without any mortar. The foundation depth ranges from 900 mm for loose soil to 200 mm for hard strata up to the ground level. The foundation is usually of the same width as the wall above (i.e. 500 mm). The plinth level of the house is about 300 mm above the ground level (Figure 8 and Figure 9). Sometimes, dry stone retaining walls are used to support the backfill or create a flat platform to support the building (Figure 3).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: Solid slabs (cast-in-place). The buildings mostly have solid RC slabs (115 to 150 mm thick) that are manually cast in-situ without any compaction equipment. The concrete mix is also prepared manually with poor control on mix proportions and water content. The RC slabs are usually bearing on the full thickness of the walls, but no additional reinforcement is provided along the walls.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roofs are generally sloping with timber rafters and GI sheeting or wood shingles for cladding. Depending on the local availability, stone slates are also used for roof cladding. The sloping roofs are generally without cross-bracing and ties, making them prone to damage during earthquake. Due to dry stone construction of walls, anchorage of roofs to the walls is generally not observed. Flat RC roofs have also been observed in some buildings, which are expected to slightly improve the seismic behavior of buildings due to their in-plane rigidity and good bearing on the walls.
+
+**Additional comments section 2:** The land available is contoured in almost all the cases. Therefore, depending upon the slope of the site, a flat base platform is prepared in the following two ways: (a) in case of sites with steep slope, usable flat land is created by constructing a dry stone gravity retaining wall over which the building is erected; (b) in case of a site with a comparatively gentle slope, cut-and-fill technique is used, which enables a small usable piece of land in the lower level (which is usually used as shelter for cattle or as storage space) and a larger usable space at the upper level (Figure 3). When separated from adjacent buildings, the typical distance from a neighboring building is 3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Local masons are involved in the construction of these buildings, inheriting their skills from their fathers. Architects and engineers are not involved in the design or construction of this housing type. | Wall: Characteristic Strength-Not possible to measure or estimate No experimental means have been developed yet to quantify strength of such materials. |
+| Foundations | River stones | Characteristic Strength-Not possible to measure or estimate No experimental means have been developed yet to quantify strength of such materials. |
+| Floors | RC for floor and Wooden (locally available cedar) | Characteristic Strength: Concrete 15 MPa Reinforcement 415 MPa Structural Steel 250 MPa Mix Proportion/Dimensions: Typical Concrete Mix # 1:2:4 The concrete is prepared manually without any mechanical mixer or vibrating (compacting) equipment. Hence, the expected quality is poor. |
+| Roof | steel trusses for roof | Characteristic Strength: Concrete 15 MPa Reinforcement 415 MPa Structural Steel 250 MPa Mix Proportion/Dimensions: Typical Concrete Mix # 1:2:4 The concrete is prepared manually without any mechanical mixer or vibrating (compacting) equipment. Hence, the expected quality is poor. |
+| Other |  |  |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** Dry stone houses are constructed by local masons who generally possess little engineering knowledge but who are able to master the work. They generally hail from families of traditional masons who used to construct vernacular houses.
+
+**Expertise of those involved in the design process:** They (local masons) generally hail from families of traditional masons who used to construct vernacular houses. Architects and engineers have no role in the design or construction of this housing type.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Construction is carried out by local artisans under the surveillance of the owner himself. Sometimes the building owner and family members also work for construction, with or without hiring the services of a local artisan.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Wall system: The stone walls are load bearing with a thickness of 500 mm and a height of 2.5 m. Both external and internal walls are of the same thickness. Construction material: Walls are made of locally available undressed stones of varying sizes, packed together without any mortar (Figure 10). Sometimes the size of a single stone is large enough to cover the entire opening as a lintel beam, otherwise RC or timber members are used. Kail or deodar wood is used for frames and panels of doors and windows. Construction methodology of walls: Step 1. Stones of an average size of 300x150x150 mm are laid in courses over the plinth level up to a 2.5 m height creating a 500 mm wide wall. These stones are packed tightly together using small stone chips. Longer (through) stones covering the entire thickness of wall and connecting the withes are used at regular intervals. Step 2. A wooden or concrete beam is placed horizontally at lintel level, i.e. at 2.5 m height (which is also the roof level) to support the roof or floor above (Figure 11). In case of a wooden beam, it is directly placed over the wall without any connection to the wall. Step 3. Walls are plastered with mud on the inner side and finished with mud and cow dung slurry. The exterior side of walls is generally left exposed (Figure 12). Floor system: Materials used for the floors and ceilings are stones, mud and timber. All materials are locally available. Construction methodology: Ground floor: In order to construct the ground floor, stones are laid onto the ground up to a height which is little lesser than the plinth level. Earthen material is added over these stones and rammed until it attains a thickness of 50 mm. The final finish is of mud and cow dung slurry. Other floors: For constructing the other floors, secondary wooden beams of 100x150 mm are placed at a distance of 450 mm centre to centre onto the main wooden beams (Figure 13). Wooden planks of 20x250 mm are then nailed to these members, which are later plastered with mud. In the recent construction, RC flat slabs are more common for upper floors. Roof system: As the area receives rain in monsoon and heavy snow in winters, the houses have sloping roofs, i.e. gable or hipped roofs where the gradient of the slope is slightly reduced over the verandah so as to create sufficient head room (Figure 14). Roofs are covered with slate stones which are locally available while deodar or kail wood is used for beams, rafters and purlins. In some recent constructions, steel trusses are also being used. Construction methodology: (1) Hipped roofs: Step 1. A wooden beam of cross section 200x150 mm is placed over the wall without any connection. Step 2. A-type frames are nailed on top of this wooden beam in order to have a hipped roof profile (Figure 15). These A-type frames support a number of purlins of the size 90x120 mm which are nailed to them. The gap between two adjacent purlins is equivalent to the size of the slates above. The slates are nailed as roof covering material on top of the purlins. Sizes of slates are generally 6x12", 7x14", 8x16", 9x18", and 10x20#. (2) Gable-end roofs: In case of gable roof, a ridge beam is directly placed over the stone masonry gable ends (Figure 16). This ridge beam can either be a tree stem or a hewn member of cross section 200x150 mm. Rafters of the size 120x150 mm run over and nailed to the ridge beam at one end and wall plate (a wooden plank with generally no anchorage/connection with the wall) at the other end. Purlins of the size 90x120 mm are nailed to these rafters where the distance between two adjacent purlins is equal to the size of the slates. Slates are nailed as roof covering material on top of the purlins (Figure 17). Sizes of slates are generally 6x12", 7x14", 8x16", 9x18", or 10x20". The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** 2
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Since the building materials (stones, and to some extent wood) are highly durable against the effects of weather, the structure is innately durable and thus requires little maintenance. The walls from inside are finished with a coat of mud and cow dung slurry, which is repeated once per year. No other significant maintenance is required.
+
+----
+
+=== Construction Economics ===
+ 
+**Unit construction cost:** It is difficult to determine the exact cost of construction as the price of construction material is highly varying at different locations, depending on the distance from the source. For instance, the price of stones varies from Rs 1 to Rs 14 per stone; cost of sand, which is used for preparing the RC slabs, varies from Rs 10 to Rs 80 per cubic meter.
+
+**Labor requirements:** 
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** These houses have generally one verandah in the front, one living room, two bed rooms, a kitchen and a toilet. The arrangement of spaces varies from house to house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Patterns of occupancy:** These houses have generally one verandah in the front, one living room, two bed rooms, a kitchen and a toilet. The arrangement of spaces varies from house to house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44474
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1555 | Kashmir | > Mw 7.0 |  | 
+| 1720 | Kumaun | > M 8.0 |  | 
+| 1803 | Garwhal | Mw 8.09 |  | 
+| 1855 | Shrinigar (Kashmir) | Mw 6.3 |  | 
+| 1905 | Kangra (Himachal Pradesh) | Mw 7.8 | IX | 
+| 1974 | Pattan | Mw 6.2 |  | 
+| 1981 | Karakoram, Darel, Tangir, Khanbari valleys | M 6.2 |  | 
+| 1991 | Uttarkashi (Uttarakhand) | Mw 6.8, mb 6.1 (IMD), Ms 7.1 (USGS) | I (MMI) = VIII | 
+| 1999 | Chamoli (Gharwal region) | Mw 6.4, Ms 6.6, ml 6.8 (IMD), mb 6.3 (USGS) | I (MMI) = VIII | 
+| 2005 | Muzzafarabad (Kashmir) | Mw 7.6 | X to XII |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+	
+**Additional comments on earthquake damage patterns:** No record of performance during past earthquakes is available, but the walls are expected to collapse due to out-of-plane bending. Different members of the sloping roof are expected to undergo large relative movement, eventually causing collapse of the roof. The foundation is not able to provide resistance to the walls against sliding and out-of-plane bending. The walls are expected to collapse in out-of-plane action.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The buildings may appear to have good seismic features from the above table, as the walls are thick and regularly placed in both the directions of the building. But due to the dry stone construction feature, the walls have very poor resistance in both in-plane as well as out-of-plane direction. This makes the building highly vulnerable for lateral forces.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Very low in-plane and out-of-plane capacity to resist lateral loads. Integrity with cross-walls and roof/floor diaphragms is also poor.
+
+**Earthquake-resilient features in walls:** Longer stones integrating the two wythes are provided at regular interval acting as through (connecting) stones avoiding splitting of the walls under shaking
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The roofs are generally sloping timber constructions, without any bracing and anchorage with the walls, rendering it to act as a flexible and extremely vulnerable component.
+
+**Earthquake resilient features in roof and floors:** The floors are generally solid RC slabs, acting as rigid diaphragms.
+
+**Seismic deficiency in foundation:** The foundation also consists of dry stones, hand packed into a trench. This renders a poor support to the walls at foundation.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | |  |  |  |
+
+**Additional comments section 5:** The main cause of high seismic vulnerability of these buildings is the poor shear and bending strength of the wall construction materials. The vulnerability is further increased due to sloping roof without any bracing, no anchorage of the walls at floor and roof level, and inadequate support by the foundations. The dry stone walls are expected to split and collapse in out-of-plane action, even under nominal seismic shaking.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low in-plane and out-of-plane strength of dry stone walls | The walls can be strengthened using ferro-cement (a layer of welded wire mesh grid sandwiched between two layers of cement-sand mortar or micro-concrete), applied on both faces of the dry stone walls, properly interconnected with the wall. The composite action of the stone wall and ferro-cement is expected to provide adequate in-plane as well as out-of-plane strength. The steel connectors provided at regular intervals to interconnect the two layers of reinforcement on opposite faces of the wall will prevent the splitting of the dry stone walls. NEW CONSTRUCTION: The main vulnerability issue in this type of construction is the low shear and bending strength of dry stone walls. This construction has evolved from the traditional Kath-Kunni (Rautela et al., 2009) construction in which extensive use of wooden members is made in the dry stone walls, to provide shear and bending strength. As the timber has become scarce in these areas, it is not possible to return the past construction practices. An alternative to the same can be using cement-sand mortar and providing horizontal layers of reinforcement (preferable in the form of galvanized welded wire mesh to avoid corrosion) at a vertical gap of about 600 mm. These horizontal layers of reinforcement will serve four purposes: (i) the shear strength of the wall will increase enhancing their in-plane capacity against lateral loads, (ii) the out-of-plane strength of walls will be enhanced due to composite action of the wire mesh with the stone walls, (iii) splitting of the walls under shaking will be avoided, and (iv) overlapping wire mesh at corners and junctions will enhance the integrity with cross walls. |
+| Flexible roof/floor system | The flexible roof and floor can be strengthened using diagonal bracings, properly nailed/bolted to the roof/floor members (Figure 18 and Figure 19). The diagonal bracing is expected to enhance the integrity of the roof/floor system, and at the same time to provide lateral restraint to the walls. NEW CONSTRUCTION: The flexible roof and floor are to be provided with diagonal bracings (IS 13827: 1993). |
+| Lack of lateral support to walls | External band (ties) can be provided at roof level (and also at floor level in case of flexible floor diaphragms) to provide out-of-plane support to the walls. The bands may be provided in timber, steel or RC and have to be continuous on all internal and external walls. NEW CONSTRUCTION: RC bands are to be provided at roof and floor levels to provide lateral support to walls. In case of RC floors, there is no need to provide a band at floor level. |
+| Lack of anchorage of roof beam and rafters with walls	| For the existing construction, the ridge beam and rafters are simply placed on the walls without any positive anchorage. This will cause relative movement of these elements with respect to the walls, leading to the collapse of the roof. Therefore, these elements should be properly anchored to the walls. In the proposed strengthening scheme this can be achieved by using metallic connectors nailed with the wooden members and anchored into the ferro-cement layer or the roof/floor band. NEW CONSTRUCTION: The roof members are to be anchored into the RC roof band using steel plates/bolts. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No case of strengthening of such buildings was observed during an extensive survey of the study area.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** The strengthening measures suggested above are own ideas of the authors, originated from the retrofitting measures used in case of other low-strength building constructions (IS 13828 : 1993, IS 13935 : 2009). The same (or any other strengthening measures) have not been observed in practice and therefore information about their performance during an actual earthquake is not available.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Indian Standard, Improving Earthquake Resistance of Earthen Buildings - Guidelines. IS 13827 : 1993. Bureau of Indian Standards (BIS), New Delhi, October 1993 (reaffirmed 1998), 20 pp.
+
+  * Dhajji Dewari. Hicyilmaz, K., Bothara, J., and Stephenson, M. (2012). Report no. 146, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+  * Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India. Rautela, P., Girish, J., Singh, Y., and Lang, D.H. (2009). Report no. 150, World Housing Encyclopedia, Earthquake Engineering Research Institute, United States.
+
+  * Indian Standard, Repair and Strengthening of Masonry Building - Guidelines. IS 13935 : 2009. Bureau of Indian Standards (BIS), New Delhi.
+
+  * Indian Standard, Improving Earthquake Resistance of Low strength masonry buildings - Guidelines. IS 13828 : 1993.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Ankita Sood | MURP student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR), Roorkee | 247667, INDIA | ankita.sood87@gmail.com | 
+| Aditya Rahul | M.Arch. student | Department of Architecture and Planning, Indian Institute of Technology Roorkee (IITR), Roorkee | 247667, INDIA | aditrahul@gmail.com | 
+| Yogendra Singh | Professor | Dept. of Earthquake Engineering, Indian Institute of Technology Roorkee | Roorkee 247 667, INDIA | yogenfeq@iitr.ernet.in | 
+| Dominik H. Lang | Senior Research Engineer | NORSAR | Kjeller 2027, NORWAY | dominik@norsar.no | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marjana Lutman | Head | Department for Structures, Slovenian National Building and Civil Engineering Institute | Ljubljana, SLOVENIA | marjana.lutman@zag.si |

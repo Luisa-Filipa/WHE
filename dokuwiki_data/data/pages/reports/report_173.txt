@@ -1,0 +1,336 @@
+====== Brick masonry construction in Pakistan, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 173
+
+**Building Type:** Brick masonry construction in Pakistan
+
+**Country:** Pakistan
+
+**Author(s):** Sarosh Hashmat Lodi, Abdul Jabbar Sangi, Adam Abdullah
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this type are common in rural, sub-urban and urban areas and together they represent 62.38% of all construction in Pakistan [1].
+
+**Summary:** This report provides an overview of brick masonry housing construction, which constitutes 62.38% of the total built environment of Pakistan. Brick masonry construction ranges from typical one-storey houses which are common in rural areas up to three-storey buildings (common in urban areas). Buildings of this type are generally constructed without seeking any formal engineering input. Due to inherent weaknesses in the structural load carrying system and also to the usage of poor quality construction materials, this construction type has performed extremely poorly during recent earthquakes in Pakistan. Due to the lack of specific construction guidelines and the applicable building permit laws to regulate such construction techniques, an overwhelming percentage of existing as well as newer building stock is now under an increased seismic threat.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercial
+
+**Typical number of stories:** 1-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The construction technique has been in practice for about 100 years and it still remains popular for construction of newer build
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Unreinforced brick construction gives few planning options because of its limited strength and stability. Buildings must be configured in a careful manner to avoid susceptibility to damage over time. Brick houses are mostly rectangular in shape, with a length typically not exceeding three times the width. The main entrance is located centrally on the exterior wall. Off the main entrance is a foyer that connects to one or more rooms on either side.
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 5-3
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortarMasonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** The vertical load-resisting system is unreinforced masonry walls. The loads from the roof are transferred to the walls and to the foundations. Generally, there is no proper connection between the walls. No reinforcement or bands are used. The lateral load-resisting system is unreinforced masonry walls. The walls have very low resistance to out-of-plane forces. In most cases, there is no proper connection between the roof and the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** It may also contain lime/cement mortar.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** There is no typical structural wall density.
+
+**Wall Openings:** Openings on the exterior walls are kept to a minimum number and size, and are located at least 1-1.5 feet away from corners. Ideally, they should be at least 2 feet away from each corner.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Smaller, individual brick buildings in villages are often built with materials taken on credit from local thallas or through loans acquired from relatives, and are therefore open to incremental modification as more funds become available. Additions to the buildings, generally carried out using the same materials, include an additional room or outhouse, a rudimentary boundary wall, or a storage shed. Larger units, like those in the city, can be subjected to additional rooms, horizontally as well as vertically. This depends on the expansion of the family size, or the decision by the homeowner to rent out some space to tenants as an additional source of income.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingOther Foundation
+
+**Additional comments on foundation:** The foundations are brick masonry wall footings laid in cement sand mortar, 1.5 to 2.5 feet deep, and 1.5 to 2.5 feet wide.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** -Structural concrete: Solid slabs (cast-in-place) -Timber: Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** -Structural concrete: Solid slabs (cast-in-place) -Timber: Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles Single story brick houses generally have a lighter roof made of timber, steel girders, bamboo/straw with a layer of mud, or corrugated galvanized iron (CGI) sheets. For brick masonry buildings with 2 to 3 storeys, reinforced concrete (RC) slabs are commonly used.
+
+**Additional comments section 2:** Typical separation distance between buildings: 2-5 meters. Brick construction is widespread throughout cities as well as the larger towns in Pakistan, with the exception of Karachi, where reinforced concrete slab (RCC) frame structures are more dominant. In villages where the population is more economically stable, structures are commonly built with fired brick rather than adobe. In lower income villages adobe is more common, but is more vulnerable to natural forces like wind and precipitation. Majority of these buildings comprise of single storey residential units and are generally distributed in clusters (mohalla). The main function of this building typology is mixed use (both commercial and residential). Unreinforced brick masonry is commonly employed for residential construction, or as storage sheds for animals, fodder, or precious belongings. In a typical family residence, there is a communal/public space marked as the main entrance lobby/foyer, to which other rooms constituting the private spaces are connected. This entrance lobby is commonly used as a socializing/dining space for the family. Inhabitants retreat to the more intimate private space at night. Planning is a bit different in two-storied houses, which are usually built on larger plots. Half of the plot area would be built upon, while the other half is left open as a sehen (courtyard). A main gate on one corner of the exterior wall grants entry to the sehen, from which one or more doors open into the interior spaces. A separate latrine or outhouse may be located in the sehen some distance away from the living space. An outdoor kitchenette may also be present for more efficient ventilation. From the sehen, a staircase (most often a wooden or steel ladder with a steep slope) leads to the upper story, which may have one or two rooms with the same footprint as the ground floor. Figures 3 to 7 show views of various brick masonry buildings. In a typical building of this type, there are no elevators and no fire-protected exit staircases. Though there was some variety, these are general observed characteristics found amongst homes in the region.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | The building materials used are bricks with mud mortar or cement sand mortar. | Wall: Characteristic Strength-There is a large variation of the strength of the walls ranging from 2 to 6 MPa. Mix Proportion/Dimensions- The mix proportions are 1:10:1 (Sand, Clay, Straw) or 1:8 cement sand and a brick size of 225 x 113 x 75 mm On average, load-bearing walls are 13.5 inches thick. Load-bearing walls may also be thinner, around 9 inches, especially if a light roof is employed. Cement sand mortar is commonly used to bond the bricks together. The height of walls varies from around 9 to 12 feet - generally higher in warmer climatic zones with ventilators at the top to ease ventilation, and lower in colder zones to keep the internal heat trapped. For houses that have an additional story, walls must be thicker to support the load of the roof (usually RCC slab) as well as other loads from the upper floor. Perpendicular walls should meet with appropriately joined teething. RCC or steel lintels are common above door and window openings on brick walls. Figure 11 shows a typical building with view of masonry walls. |
+| Foundations | The foundation is typically made of brick masonry with cement sand mortar. | Characteristic Strength: The strength of the foundation is 2 to 6 MPa. Mix Proportion/Dimensions: The mix proportions are 1:10:1 (Sand, Clay, Straw) or 1:8 cement sand and a brick size of 225 x 113 x 75 mm. Foundations for brick houses are usually 1.5 to 2.5 feet deep, and 2 to 2.5 feet wide. They may be deeper and wider for buildings with more stories. It is common to provide a continuous strip foundation beneath the load-bearing walls to enhance the load transfer path. The plinth is kept at least 2 feet from the ground level, to prevent against rising dampness or stagnant water after a downpour or flood. |
+| Floors | The roof and floors are timber or bamboo with a layer of mud, steel girder with clay tiles and mud, and RCC slab. | Characteristic Strength: The strength of the RC slab is between 10 to 17 MPa. Mix Proportion/Dimensions: For the RC slab the mix ratio is 1:2:4 Single story brick houses have a lighter roof made of locally available material such as wood-soil, steel purlins, bamboo/straw coated with a 6 inches layer of mud, or corrugated galvanized iron (CGI) sheets held down by weights. CGI sheets are preferred in areas that receive high annual precipitation. For buildings with lighter roofs such as these, the walls may be constructed less thick than for a building with multiple stories. Also, mud mortar could be employed in the walls of buildings that have light roofs. For brick buildings that vertically exceed the ground floor, an RCC slab is commonly used to act as the load-bearing horizontal member for the first floor, and a comparatively lighter roof is used on the topmost floor. |
+| Roof | The roof and floors are timber or bamboo with a layer of mud, steel girder with clay tiles and mud, and RCC slab. | Characteristic Strength: The strength of the RC slab is between 10 to 17 MPa. Mix Proportion/Dimensions: For the RC slab the mix ratio is 1:2:4 Single story brick houses have a lighter roof made of locally available material such as wood-soil, steel purlins, bamboo/straw coated with a 6 inches layer of mud, or corrugated galvanized iron (CGI) sheets held down by weights. CGI sheets are preferred in areas that receive high annual precipitation. For buildings with lighter roofs such as these, the walls may be constructed less thick than for a building with multiple stories. Also, mud mortar could be employed in the walls of buildings that have light roofs. For brick buildings that vertically exceed the ground floor, an RCC slab is commonly used to act as the load-bearing horizontal member for the first floor, and a comparatively lighter roof is used on the topmost floor. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** There are no design or construction guidelines available for this type of construction. Local masons rely on their past experience and the engineers or architects are not generally involved.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** Builders are usually the owners of the plot of land, and they employ local masons they know by reference in the community.
+
+**Expertise of those involved in building process:** Professional guilds may exist in larger villages and small towns that provide a somewhat standardized 'version' of craftsmen for daily wages.
+
+**Construction process and phasing:** Brick masonry construction is usually carried out by local masons and laborers who rely on their experience. The foundations are generally constructed using brick masonry with cement sand mortar and are wider than the walls. From plinth level, the walls are constructed either of mud mortar or cement sand mortar. Various types of roofing materials are used and are directly resting on the walls without any connections. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Building repairs are periodically carried out on the external surfaces of walls when plaster or mortar cracks and falls off due to weather effects. In severe cases roofs may be heavily damaged, especially those made of lighter materials, and would need to be replaced. Stagnant water is also known to damage building foundations, so proper waterproofing must be applied to the foundation prior to construction. Depending on the quality of the original construction, the level of maintenance varies. If poorly constructed, the level of maintenance is generally very low.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The cost of construction is roughly Rs. 7,500 to Rs. 10,000 per m2.
+
+**Labor requirements:** The construction of a typical housing unit takes approximately 4 to 6 months to complete
+
+**Additional comments section 3:** The structural system is mainly gravity load-bearing brick masonry walls constructed using either sun-dried or fired bricks with mud or cement mortar. Due to the abundance of good quality clay within the plains of Punjab and interior Sindh. It is convenient to use brick as the primary building material. Local labor is quite skilled in the crafting of individual bricks with a variety of sizes available (average size 4.5 x 9" x 3") depending on the scale of construction. Manufacturing and transportation costs for towns within Punjab and interior Sindh which are closer to the alluvial plains are much less compared to a more arid urban center like Karachi where brick is seldom used. This prompt supply of cheap building material means that brick is the material of choice for a range of economic classes within these towns. On the one hand there are those who choose to pay for prefabricated molded and fired bricks; and on the other those that cast their own adobe blocks which cost virtually nothing. Brick is also a natural selection for most people as it is a good insulator. In areas where temperatures can often soar above 38-40 degree C with harsh dry gusts of air the interiors of brick homes stay relatively cool and well-ventilated. Bricks trap heat during the daytime and this heat they slowly dissipate at night as temperatures fall. Similarly they also protect against extreme cold in areas where temperatures are lower. Figure 1 shows a brick kiln in Punjab. Once erected brick masonry buildings can be finished off with a number of external treatment options. It is not uncommon in villages or among economically less privileged users to leave the external wall surface unfinished exposing the brick layers and mortar. This may make the joinery susceptible to natural agents like rainfall and wind. Where treatment does happen it could be plaster paint or ornamental tile work. Brick houses are also found in parts of Baluchistan and Khyber Pakhtunkhwa (KPK) but with less frequency than in Punjab. KPK contains more stone masonry buildings due to the abundance of stone in the mountainous north and north-west. Figure 2 illustrates the spatial distribution of brick masonry buildings in Pakistan."
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The house caters to one family, or two if the house contains another story. This is often the case in urban areas where space is limited and more expensive, and thus shared. Men generally leave the house for work and children for school, so homes are usually occupied by seniors, women and toddlers until mid-afternoon. In the evening, men return home for meals, after which they may go to other part-time jobs in the neighborhood. The house is fully occupied at night when the family goes to sleep. It is common in smaller towns for the brick house to be used for a home-based business or a cottage industry. This means the number of occupants during the day may increase, which leads to problems of adequate ventilation and limited space for interaction or work.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of inhabitants in a building depends on the size of the family. As these buildings cater to rural households, the number of family members can be more than 6 - including at least one married couple, an elder grandparent or two, and a few children.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** Brick houses are usually owned by the people who build them. Owners may decide to let one or two tenant families move in which provides an additional source of income for the owner. This also helps cover the costs of periodic maintenance and repairs on the house.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Brick houses can range from small, one-unit, single-family residences in villages to substantially sized buildings in relatively urbanized towns. Residential buildings contain 1 or more units of housing for 1-2 families, or a larger extended family.
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1668 | Samawani Sindh | 7.6 | VIII to IX | 
+| 1931 | Sharigh Valley Balochistan | 7 | VIII to IX | 
+| 1931 | Muchh Balochistan | 7.4 | VII | 
+| 1935 | Quetta Balochistan | 7.5 | VIII | 
+| 1945 | Pasni Makran | 8.3 | VII to VIII | 
+| 1974 | Pattan Swat | 6.2 | VII | 
+| 2001 | Bhuj Gujarat | 7.6 | VII | 
+| 2005 | Kashmir | 7.6 | X | 
+| 2008 | Ziarat Balochistan | 6.4 | VIII | 
+| 2011 | Dalbandin Balochistan | 7.2 | IV to V | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Pakistan, India and Nepal lie on the Indian plate, which is continuously moving northward and sub-ducting under the Eurasian plate, thus triggering earthquakes in the process of forming the Himalayan mountains. Within the Suleiman, Hindu Kush and Karakoram mountain ranges, the Northern Areas and Chitral district in NWFP, in Kashmir (including Muzaffarabad, Quetta, Chaman, Sibi, Zhob, Khuzdar, Dalbandin) and the Makran coast (including Gwadar and Pasni in Balochistan), are located in high or very high risk areas. The ciities of Islamabad, Karachi and Peshawar are located on the edges of high risk areas. Figure 8 shows the seismic zone map of Pakistan, which was developed after the 2005 Kashmir earthquake [2]. A large number of major earthquakes have hit Pakistan in 20th century including the 1935 Quetta earthquake, the 1945 Makran coast earthquake, the 2001 Bhuj earthquake and the 2005 Kashmir earthquake [3]. Figures 9 and 10 show the damage to masonry houses in the 2005 Kashmir earthquake.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included: Collapse of wall due to out-of-plane and in-plane effects. Collapse of roof due to out-of- plane failure of walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | False |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | False |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | False |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | False |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | True |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | True |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | False |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | False |
+| Wall Openings |  | False |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | False |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | False |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor lateral resistance, weak in out of plane direction, no lintel band, Improper opening proportions, poor quality of construction
+
+**Earthquake-resilient features in walls:** There are no earthquake resistant features
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Heavy dead loads, no connection between roof elements and walls, lack of diaphragm action
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismic Vulnerability Assessment of Existing Buildings of Pakistan, Earthquake Model for Middle East Region (EMME) Lodi, S.H., N. Alam, and M. Ahmed (2012) Department of Civil Engineering, NED University of Engineering & Technology, Karachi, Pakistan
+
+  * Building Code of Pakistan - Seismic Provisions Ministry of Housing & Works, Government of Pakistan
+
+  * Seismic Hazard Analysis for the Cities of Islamabad and Rawalpindi Lindholm, C., et al. (2006) NORSAR and Pakistan Meteorological Department
+
+  * Unreinforced Brick Masonry Residential Building Ali Qaisar (2006) World Housing Encyclopedia
+
+  * First Report on the Kashmir Earthquake of October 8, 2005 Naeem, A., et al. (2005) EERI
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Sarosh Hashmat Lodi | Professor and Dean | Faculty of Civil Engineering and Architecture, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | sarosh.lodi@neduet.edu.pk | 
+| Abdul Jabbar Sangi | Professor | Department of Civil Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | ajsangi@neduet.edu.pk | 
+| Adam Abdullah | Research Assistant | Department of Earthquake Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | adam@neduet.edu.pk | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dina D'Ayala |  | University College London, CEGE Department | London, UNITED KINGDOM | fra2dina@gmail.com |
+

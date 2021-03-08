@@ -1,0 +1,319 @@
+====== Single-family brick masonry house, Kyrgyzstan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 36
+
+**Building Type:** Single-family brick masonry house
+
+**Country:** Kyrgyzstan
+
+**Author(s):** Ulugbek T. Begaliev, Svetlana Uranova
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Kyrgyzstan. This type of housing construction is commonly found in both rural and urban areas
+
+**Summary:** This housing type represents a very popular single-family housing construction practice followed in Kyrgyzstan in the recent past. Approximately 80% of the buildings of this type, mostly those constructed after 1990, do not comply with the Building Code requirements. These are low-rise (1- to 2-story high) buildings with a complex plan and wall layout. The main load-bearing system consists of brick masonry walls in cement mortar partially confined with reinforced concrete posts and beams; columns are provided only at some wall corners and intersections. Rigid brick masonry walls have low load-carrying capacity. Wall thickness is either 380 mm or 510 mm. SNiP (Building Code) includes provisions for the horizontal wall reinforcement (welded wire mesh at the wall corners) and the provision of reinforced concrete columns at the wall corners. The floor system consists of precast reinforced concrete hollow-core slabs with typical slab panel dimensions of 5.86 m length x 1.2 m width. Reinforced concrete bond beam (belt) is constructed at the building perimeter at the floor level to provide the confinement and diaphragm action for seismic load effects. Complex building geometry and irregular wall distribution results in significant torsional effects during earthquakes due to the eccentricity between the centre of mass and centre of stiffness. These buildings are located in regions of high seismic hazard, which have experienced earthquakes of intensity VIII, IX or higher (per the MSK scale) in the past. This type of construction is expected to demonstrate poor seismic performance due to poor quality of masonry walls and the complex layout resulting in torsional effects.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 4
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Irregular plan shape
+
+**Additional comments on plan shape:** Building plan for this housing type usually has complex plan and geometry.
+
+**Typical plan length (meters):** 15
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Confined Masonry: Concrete blocks, tie columns and beams
+
+**Additional comments on structural system:** Lateral load-resisting system: The main lateral load-resisting system generally consists of brick masonry walls in cement mortar and reinforced concrete posts and beams provided at some locations. According to SNiP (Building Code) it is required to provide columns at the wall ends; column reinforcement is illustrated in Figure 6. SNiP requirements also include the provision of horizontal reinforcement (wire mesh) in mortar bedding joints at each 7th layer. Rigid brick masonry walls have low load-carrying capacity. Poor quality of brick masonry results in low earthquake resistance of the walls even when reinforced with welded wire mesh and steel reinforcement bars. Wall thickness is either 380 mm or 510 mm. The floor system consists of precast reinforced concrete hollow-core slabs with typical slab panel dimensions of 5.86m length x 1.2m width (see Figure 2). Reinforced concrete bond beam (belt) is constructed at the building perimeter at the floor level to provide confinement and diaphragm action for seismic load effects; belt reinforcement details are presented in Figure 5. Roof structures are made of wood or steel. Gravity load-bearing system: Gravity load-bearing structure consists of brick masonry walls, few reinforced concrete columns and beams, and floor concrete panels.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** Total wall density is 10% - 15% in each direction.
+
+**Wall Openings:** It is impossible to indicate the typical size of openings since it depends on the architectural requirements. Window size is around 1.2m x 1.5m and doors size is approximately 0.9m x 1.9m. Window and door areas constitute 10 to 15% of the overall wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Buildings of this type are usually of recent construction and no modifications have been observed so far. However, some buildings have been modified by providing additional doors and windows, expanding the building size (adding new rooms) or by moving the walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Many buildings have precast concrete strip footing made up of concrete blocks.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Precast hollow core slab system is most commonly used.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Precast hollow core slab system is most commonly used.
+
+**Additional comments section 2:** Typical separation distance between buildings: 10 meters or more
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall:Brick masonry Frame: Reinforced Concrete | Wall: Characteristic Strength-Tension resistance of mortar less 6.0 MPa Mix Proportion/Dimensions- Variable, from 1:8 to 1:20 cement/sand ratio Brick masonry units-dimensions 250x120x70mm Frame: Characteristic Strength- 20 MPa (cube compressive strength) 390 MPa (steel yield stress) Mix Proportion/Dimensions- various Steel - Elasticity Modulus (200,000 MPa) | 
+| Foundations | Concrete | Characteristic Strength: 5 MPa (cube compressive strength) Mix Proportion/Dimensions: various | 
+| Floors | Reinforced Concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) 390 MPa (steel yield stress) Mix Proportion/Dimensions: variable Steel - Elasticity Modulus (200,000 MPa) | 
+| Roof | Reinforced Concrete | Characteristic Strength: 30-35 MPa (cube compressive strength) 390 MPa (steel yield stress) Mix Proportion/Dimensions: variable Steel - Elasticity Modulus (200,000 MPa) | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** These constructions are built by developers and sold in the market.
+
+**Expertise of those involved in the design process:** This building type is not designed or constructed with the required expertise.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** These constructions are built by developers and sold in the market.
+
+**Expertise of those involved in building process:** This building type is not designed or constructed with the required expertise.
+
+**Construction process and phasing:** This building type may be erected by builders or by owners. Usually only mobile crane is used for the erection and construction process. This building is not typically constructed incrementally and is designed for its final constructed size.
+
+**Construction issues:** The construction quality is generally very poor, and the structural design has flaws. This type of construction is expected to display poor behaviour during earthquakes.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Some of buildings correspond to SNiP II-7-81 Design Code: Building in Seismic Regions. The code/standard addressing this type of construction was issued 1981.
+
+**Process for building code enforcement:** N/A
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** For load-bearing structures about 150$/m.sq.
+
+**Labor requirements:** The construction of a single-family house can be completed in a period of 10-12 months.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family typically occupies one house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** 
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1992 | Suusamir | 7.4 | VII | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Maximum intensity of the Suusamir earthquake was 9, however buildings of this type were located in the regions with intensity 6-7 on the MSK scale. Buildings of this type had experienced the following wall damage patterns: diagonal "X" cracks in the piers, cracks at the wall corners, and partial destruction of the walls.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Poor quality of brick masonry; - Different wall rigidity; -The complex building geometry, including the nonsymmetrical wall layout, results in significant torsional effects during earthquakes due to the eccentricity between the centre of mass and centre
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Poor seismic resistance of walls | #NAME? |
+| Non- symmetrical location of walls with different rigidity | #NAME? |
+
+----
+
+**Additional comments on seismic strengthening provisions:** Seismic strengthening provisions presented in the above table are recommendations of the authors of this contribution.
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismic Hazard and Buildings Vulnerability in Post-Soviet Central Asia Republics. Edited by Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker. Kluwer Academic Publishers, P.O. Box 17, 3300 AA Dordrecht, The Netherlands. (Proceeding of the NATO Advanced Research Workshop on Earthquake Risk Management Strategies for Post-Soviet Central Asian Republics. Almaty, Kazakhstan, 22-25 October 1996)
+
+  * Building and Construction Design in Seismic Regions. Handbook. Uranova S.K., Imanbekov S.T#KyrgyzNIIPStroitelstva, Building Ministry Kyrgyz Republic.Bishkek.1996.
+
+  * SNiP II-7-81* Building in seismic regions. (Building Code). Moscow, 1981.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ulugbek T. Begaliev | Head of Department | KNIIPC | Vost Prom Zone Cholponatisky 2, Bishkek 720571 Kyrgyz Republic | utbegaliev@yahoo.com | 
+| Svetlana Uranova | Dr., Head of the Laboratory | KRSU | Kievskai 44, Bishkek 720000 Kyrgyz Republic | uransv@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, India | rsinha@civil.iitb.ac.in | 

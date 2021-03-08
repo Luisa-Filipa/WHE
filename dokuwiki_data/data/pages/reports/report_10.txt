@@ -1,0 +1,324 @@
+====== Non-engineered unreinforced brick masonry building, Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 10
+
+**Building Type:** Non-engineered unreinforced brick masonry building
+
+**Country:** Colombia
+
+**Author(s):** Luis Gonzalo Mejia
+
+**Last Updated:** 
+
+**Regions Where Found:** This type of construction is found especially in the following provinces of the Andean region of Colombia: Antioquia, Caldas, Risaralda, Quindio, Tolima and Valle, where it is used in approximately 60% of the housing stock.
+
+**Summary:** This type of housing is typically constructed in urban and rural areas in the interior of Colombia.This type of construction is especially widespread in the following provinces of the Andean region of Colombia: Antioquia, Caldas, Risaralda, Quindio, Tolima and Valle, where it constitutes approximately 60% of the housing stock. It is used exclusively as residential housing. This construction is very vulnerable to earthquake effects due to its brittle behavior. It has demonstrated poor seismic performance in several Colombian earthquakes.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 3-4 units
+
+**Typical number of stories:** 2
+
+**Terrain-Flat:** Never
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Traditional construction practice for low-rise buildings (1- to 4- story high) followed in the last 50 years.
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 15
+
+**Typical plan width (meters):** 6
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** The vertical load-resisting system is un-reinforced masonry walls. Besides carrying the lateral load, these walls also carry all the gravity loads down to the foundation, which is made of plain concrete and rubble stone. The lateral load-resisting system is un-reinforced masonry walls. This is a bearing wall system. The walls and partitions supply in-plane, lateral stiffness and stability to resist lateral loads (wind and seismic). The slabs are generally made of tile block floor construction. The roof is composed either from rafters, with sheathing, roofing felt and Spanish tile, or RC slab. Often, additional stories are added subsequently, leading to buildings that are eventually 3 or 4 stories high. The RC slab behaves as a rigid diaphragm, however the wood roof behaves as a flexible diaphragm. A continuous R.C. beam over the walls is quite often missing.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. 0.1.
+
+**Wall Openings:** Information about the openings in a typical 2-story house with an average plan area of 35.0 sq m is summarized below: [Number of openings, Size (sq m), Opening area/wall area, Position of opening] - Doors Windows: Median 3 2.0 1.50 30% Between 0.5 and 1.0 m from corners building 8 1.8 1.0 25% Corner 6 2.0 1.50 40% building 8 1.8 1.0 25%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typical modification is vertical expansion (construction of new stories).
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** Unreinforced #ciclopeus# concrete. This is a type of strip footing
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor can be considered as a rigid diaphragm and the roof as a flexible one.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The floor can be considered as a rigid diaphragm and the roof as a flexible one.
+
+**Additional comments section 2:** This construction is normally found on the sloped terrain in the Andean region, and in the areas of transition to flat terrain. When separated from adjacent buildings, the typical distance from a neighboring building is several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick with cement mortar | 3.0 MPa , 9.0 MPa Characteristic strength w /h/l : 150x200x400mm 100x200x400mmm Cement: Sand 1:8 Typical dimensions: variable compression determined based on the gross area. Compression strength determined using 50 mm cubes | 
+| Foundations | Plain rubble stone | f'c = 10.0-15.0 MPa The concrete by itself (without stones) has f'c #15.0 Mpa. | 
+| Floors | Concrete (Hollow tile floor) | f'c= 10.0-15.0 MPa 1:2:4->1:3:5 Cement/sand/aggregates | 
+| Roof | Concrete (Hollow tile floor) | f'c= 10.0-15.0 MPa 1:2:4->1:3:5 Cement/sand/aggregates | 
+| Other |  |  | 
+
+----
+
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+=== Design Process === 
+
+**Who is involved with the design process?** Builder
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Engineers and architects do not participate in this type of building construction.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** The construction labour is semi-skilled.
+
+**Construction process and phasing:** The construction process begins by clearing the site, followed by the construction of the foundations, basement (retaining) walls, masonry walls at the first floor level, first storey floor-slab, etc. The masons are semi-skilled and the concrete is prepared and mixed directly at the site. Simple tools are used for the construction (no special equipment). The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. No concern is given to structural aspects.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** 1984: Colombian code for earthquake resistant buildings CCCSR-84. 1998: Colombian code for earthquake resistant design and construction of buildings NSR-98 Prior to 1984, the ACI and UBC codes were widely used.
+
+**Process for building code enforcement:** So far, there are no established procedures related to the building code enforcement for this type of construction.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** At the present time there are strict building regulations for the construction of new buildings. Nevertheless, poor people, who build this informal construction, ignore the building regulations, thus making worse the general earthquake hazard situation in Colombia.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** This construction shows a sudden, brittle and catastrophic failure in earthquakes. The main causes of such behaviour are: the cracks in the walls grow rapidly due to the absence of wall reinforcement, the weak materials, the openings, the interaction with other buildings, and the adverse soil amplification in the hilly areas.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Due to the difficult economic situation of inhabitants of this construction type, these buildings are seldom maintained.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Although the labour costs in rural areas are less than in urban areas, the materials are more expensive because they have been transported from the urban areas. The average construction cost is 250,000 Col.pesos/m.sq. (125 $US /m.sq.)
+
+**Labor requirements:** Typically, it takes two months per storey for a team of 20 people; this includes structural part only -rough brick work. Additional time is required to complete the finishings etc.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per dwelling, with the exception of the houses of poor people in urban areas, where there are 3 or 4 families per dwelling.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** In rural areas, one housing unit/building; in urban environments, two or three housing units in a building.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse The economic distribution of the population in Colombia is as follows: [Economic Status % Annual Income (US Dollars)] Very Poor: 35 <1000, Poor: 35 1000-2000, Middle Class: 25 2000-10000, High Middle Class: 4 10000-40000, Rich: 1 >40000 Economic Status is as follows: For Poor Class the Housing Price Unit is 7500 and the Annual Income is 1400. For Middle Class the Housing Price Unit is 30000 and the Annual Income is 6000.
+
+**Typical Source of Financing:** Combination
+
+**Additional comments on financing:** The main source of financing for the poor people is informal network (friends and relatives) and (sometimes) small lending institutions. For the middle class population, the main sources of financing are personal savings and commercial banks.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1979 | 4.8N, 76.2W, depth: 108 km (Mistrato) | 6.7 | VIII MMI (MANIZALES) | 
+| 1983 | 2.46N, 76.69W, depth: 22 km (Popayan) | 5.5 | IX MMI (Popayan) | 
+| 1985 | 4.1N, 76.62W, depth: 73 km(Pereira) | 6.4 | VIII MMI (PEREIRA) | 
+| 1999 | 4.46N, 75.72W, depth: 17 km (Armenia) | 6 | IX MMI (ARMENIA) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Majority of buildings of this type suddenly collapsed, killing inhabitants, particularly in the areas with pronounced soil amplification effects.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| WALLS: -Unreinforced walls - No clear earthquake load path (discontinuous path); -Unequal stiffness distribution; - Sometimes very slender (drift and instability problems); -Stepped construction | See Additional Comments |
+| ROOFS AND FLOORS: -Absence of continuous boundary members (chords and collectors); -weak roof-wall and floor-wall connections | See Additional Comments | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Although improbable for economic reasons, this construction could be strengthened as follows: 1. New boundary members (chords and collectors) are added to floor and roof to ensure the integrity and diaphragm action. Roof and slabs are anchored to the walls to ensure the inertia force transfer to the walls, as illustrated in Figure 14. 2. Whenever possible, end elements (columns-posts) are added in the selected earthquake resistant walls, as illustrated in Figures 13 and 17. Wall cracks are stitched with reinforcement and grouted with mortar to restore the wall integrity. 3. A continuous RC beam is built atop the strengthened walls in order to improve the diaphragm action at the floor level, as illustrated in Figures 12, 13, and 16. It is considered that the implementation of the above described techniques would result a significant enhancement of seismic stability in buildings of this type.
+
+**Has seismic strengthening described in the above table been performed?** Yes. Seismic strengthening has been used in practice by the author of this contribution, as illustrated in Figures 13 through 18.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a mitigation effort.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The work was performed by a contractor and an engineer was involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There were no major earthquake after the strengthening was performed, however the performance in moderate earthquakes was very good.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. Colombian Code for Earthquake-Resistant Design and Construction of Buildings (CCCSR-84 and NSR-98).
+
+  * 2. Mejia, Luis Gonzalo #Basic Aspects for the Design and Construction of Earthquake-Resistant 1- or 2-story Buildings# (in Spanish)
+
+  * 3. Mejia, Luis Gonzalo #Specifications for the Earthquake-Resistant Design of 1- or 2-story Houses Per the Colombian Code NSR-98# (in Spanish)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Luis Gonzalo Mejia | Consulting Structural Engineer | L.G.M y Cia. | Calle 49b #79b - 12 Medellin Colombia | lgm@epm.net.co | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

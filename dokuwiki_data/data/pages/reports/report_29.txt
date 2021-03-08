@@ -1,0 +1,337 @@
+====== Single-family historic brick masonry house (Casa unifamiliare in centro storico, Centro Italia), Italy ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 29
+
+**Building Type:** Single-family historic brick masonry house (Casa unifamiliare in centro storico, Centro Italia)
+
+**Country:** Italy
+
+**Author(s):** Dina DAyala, Elena Speranza, Francesco D'Ercole
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Centro Italia, Marche, Emilia Romagna, and (with some modifications) in other parts of Italy as well. The specific example discussed in this contribution and the photographic and seismic documentation refer to the small town of Offida, in the Marche region. This type of housing construction is commonly found in urban areas. This construction type is found most frequently in medieval hill towns.
+
+**Summary:** This single-family housing type, found throughout the Central Italy (Centro Italia) mainly in hill towns and small cities, is typically built on sloped terrain. A typical house is 3-stories high, built between two adjacent buildings with which it shares common walls. The main facade of the house faces a narrow road. The ground floor level (perforated with openings on one side only) is used for storage, while the other two stories are used for residential purposes. Typical buildings of this type are approximately 3 m wide and 9 m long. The building height on the front side is on the order of 4.5 m, whereas the height on the rear side is larger (close to 5 m). All the walls are made of unreinforced brick masonry in lime mortar, while the floor structures are vaults at the ground floor level, and timber floor structures at the higher levels. The roof is made of timber and it is double pitched, sloping down towards the front and rear walls. Buildings of this type are expected to demonstrate rather good seismic performance, mostly due to their modest height. Problems related to seismic performance might be caused by the adjacent buildings (typically one storey higher). Seismic strengthening techniques for the buildings of this type are well established and strengthening of some buildings has been done after the recent earthquake.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Never
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Traditional construction practice followed in the last 200 years with updates and modifications during the last 100 years. The
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Rectangular plan, usually part of arrays or terraces, however alterations and joining of cadastral units may occur. In such case, rectangular shape still remains the most common shape. The most common #alteration# to the typical housing plan is joining of the two adjacent cadastral units.
+
+**Typical plan length (meters):** 3-4
+
+**Typical plan width (meters):** 8-9
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls
+
+**Additional comments on structural system:** Gravity Load-Resisting System: Depending on the thickness, the walls are built either entirely in brick masonry or, in the case of walls of larger thickness, as multi-wythe walls with rubble infill in the middle portion. Lateral Load-Resisting System: Brick masonry walls with or without metal ties. Typical brick dimensions are : 160x60x320 mm. In the case of very old masonry the depth of brick units can reach 80 mm. The lime mortar joints are 3-5 mm thick.
+
+**Gravity load-bearing & lateral load-resisting systems:** The building is of unreinforced masonry walls, except that lime mortar has been used instead of mud mortar.
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. 0.10 to 0.20.
+
+**Wall Openings:** Opening layout is frequently being modified over time, due to the changes in the living requirements. A very common change is made to the ground floor entrance door which is widened in order to allow for car passage. The openings account for approximately 25% -30% of the wall surface area. There are no openings in the side walls.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Alteration of door and window openings is most typical pattern of modification observed.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Shallow Foundation: Brickwork foundation
+
+**Type of Floor System:** Vaulted masonry floorOther floor system
+
+**Additional comments on floor system:** Other: wood planks or beams with ballast and concrete or plaster finishing
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Other: wood planks or beams with ballast and concrete or plaster finishing
+
+**Additional comments section 2:** On plan dimensions: Length varies from 3 - 4 m and the width varies from 8 - 9 m. Story height varies from 2.5 to 3 m. Span varies from 3 - 4 m.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick masonry Mortar | 18 KN/m.cu. (unit weight density) Characteristic Strength: 0.22 MPa (tension), 4 MPa (compression). Mix proportions: 1/3 lime/sand mortar. | 
+| Foundations |  |  | 
+| Floors | Wooden beams | 1.5 kN/m.sq. (floor weight ) Characteristic Strength: 50MPa (tension-beams) 30 MPa (compression-beams) | 
+| Roof | Wooden beams | Characteristic Strength: 50MPa (tension-beams) 30 MPa (compression-beams) | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** Engineers and architects did not have a role in the design or construction, because the construction process was entirely carried out by masons and/or owners themselves.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** MasonOther
+
+**Roles of those involved in the building process:** Buildings of this type were usually inhabited by the poor and middle class population, and they were built by local craftsmen for the residential purpose only.
+
+**Expertise of those involved in building process:** The construction was based on the mason's experience. For this reason , the structural elements were generally oversized in order to achieve high safety
+
+**Construction process and phasing:** The construction process was generally influenced by the owner's attempt to do the construction at the minimum cost. In the urban layout, an empty space between two existing buildings offered an opportunity to build a new house using the two existing side walls; only the front and rear walls would need to be built. The construction tools were simple (trowel, etc.). The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. In some cases one storey has been added as a part of the refurbishment.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Normativa per le riparazioni ed il rafforzamento degli edifici dannegiati dal sisma (in Italian). Note that this standard addresses only repair and strengthening of existing buildings, and not the new construction. (1981) National Building Code, Materials Code, and Seismic Codes/Standards: The first code was issued after the 1981Campania earthquake. Decreto Ministeriale 2-7-1981: Normativa per le riparazioni ed il rafforzamento degli edifici dannegiati dal sisma. (Revised in 1986 and 1996). New brick masonry structures are addessed in a different standard. The most recent code/standard addressing this construction type issued was 1996.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** At present all these constructions are registered and subjected to national/urban codes, which was not the case at the time of their original construction.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** A need for strengthening the buildings of this type.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Unit construction cost cannot be expressed for this type of historic building, because its construction technique and process are no longer practiced. When built up today, these building types are usually constructed with concrete slabs in place of wooden roofs and floors, and very often lintel and staircase are made of reinforced concrete too. In these case the cost unit construction cost can range between 1,000 EURO and 2,000 EURO/sq m, but it greatly depends upon the quality of materials used.
+
+**Labor requirements:** Around 20 days per building.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** In case when a house consists of only one cadastral unit, it can provide shelter for very few people. In the case of two adjacent cadastral units joined together, a larger number of inhabitants (5-7, a typical family) can be accomodated.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** The house price can vary considerably, depending on the state of conservation and the level of modern comfort introduced. The houses of this type are usually inhabited by retirees with modest income. Some houses of this type are used as holiday homes (mainly by relatives living in other parts of the country). Economic Level: For Poor Class the ratio of Housing Unit Price to their Annual Income is 5:1. For Middle Class the ratio of Housing Unit Price to their Annual Income is 4:1.
+
+**Typical Source of Financing:** Owner financedInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1943 | Castorano (AP) |  | VII-IX (MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The most common earthquake damage was the collapse of interior floors. The original timber floors were replaced by concrete floors in the recent past and these concrete floors caused the damage. At present there are very few original timber floors; concrete floors are much more common. It was observed that the strengthening with concrete structures tends to substantially alter the stiffness ratio of wall-to-floor structures and if not implemented properly can cause serious damage to load-bearing walls. Also, earthquake damage in buildings of this type often occurs in the vertical addition to the building (a portion of more recent construction). Earthquake damage patterns include the flexural wall failure and the horizontal arch effect (see Figure 10).
+
+**Additional comments on earthquake damage patterns:** Walls: -Damage to the vertical addition of the building due to the out-of-plane wall failure. -Vertical cracks associated with horizontal arch effects. Interior Partitions: -Collapse of internal timber staircase replaced by self-supported concrete staircase. Roofs/Floors: -Partial or total collapse of timber floors later replaced by concrete structures
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** #NAME?
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof and floors are both spanning between the front and the rear wall. In some cases, no ties or other wall-floor connections are present. This results in a weak connection between the front/rear walls and the side walls.
+
+**Earthquake resilient features in roof and floors:** Occasionally floor and roof joists are anchored to the wall by ties.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Roofs/Floors: | Reinforced concrete overlay; the effectiveness of strengthening depends on the roof -to-wall connections/ | 
+| Roof/floors- Lack of Integrity | Installation of new RC ring beam at the roof level. A procedure for the installation of a RC ring beam is presented in Figure 12. Figure 13 shows a building strengthened with new RC ring beam at the roof level. It is very important to achieve the connection between the new RC ring beam and the existing masonry, otherwise the earthquake damage may be caused. | 
+| Wall-Floor Connection | Installation of metallic ties. Figures 12 and 13 show two different details of ties with anchor plates at the exterior face of the wall. A building strengthened with the ties (similar to detail shown on Fig. 15) is shown on Figure 11. It is very important to accomplish a regular distribution of ties - irregular tie distribution may be a cause of earthquake damage. | 
+| Inadequate seismic resistance of masonry walls | Shotcreting- strengthening walls with shotcrete jackets. Figure 16 shows a masonry wall with shotcreting applied at both faces. the strengthening consists of installing new steel wire mesh and attaching it to the existing wall with through-wall ties or strips spaced at 500 mm on centre both horizontally and vertically. In case shotcreting is not properly applied, the wall can experience earthquake damage as illustrated in Figure 17. | 
+| Inadequate seismic resistance of masonry walls | Stitching and grouting - consists of drilling holes through the walls and installing steel bars; subsequently, the holes are grouted with cement grout, as illustrated in Figure 18. A building strengthened using this technique is shown on Figure 19. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Typical seismic repair costs are summarized in Figure 20.
+
+**Has seismic strengthening described in the above table been performed?** Yes, to various extent depending on location and buildings.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** In Offida mainly as repair following earthquake damage, but it is expected that some mitigation work should be implemented in conjunction with other architectural or functional alterations to existing un-strengthened buildings.
+
+**Was the construction inspected in the same manner as new construction?** Project plans need to be presented to local authority, but it is expected that there is no formal site inspection.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An engineer is usually involved, but work might be carried out either by a contractor or by the user.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The performance varies highly depending on the quality of construction. Buildings retrofitted with anchors, which are less sensitive to workmanship usually perform well in preventing the out-of plane failures. Ring beams and other strengthening with concrete structures tends to substantially alter the stiffness ratio of wall-to-floor structures and if not implemented properly can cause serious damage to load-bearing walls.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. D Ayala, D., Spence, R. 1995, Vulnerability of Buildings in historic town centres# in Proceedings of the VII National Conference LIngegneria Sismica in Italia, Siena. pp.363-372.
+
+  * 2. D'Ayala, D., Spence, R., Oliveira, C., & Pomonis, A. (1997). Earthquake Loss Estimation for Europe's istoric Town Centres. Earthquake Spectra Special Issue on Earthquake Loss Estimation, (November), pp. 773-793.
+
+  * 3. R. Spence, D. D Ayala, (1999) The Umbria-Marche Earthquake of September 1997. Preliminary Structural Assessment. The Structural Engineering International, Journal of the IABSE. Vol . 9 n.3 pp. 229-233 (also available on line at http://www.iabse.ethz.ch/sei/sei_f.html).
+
+  * 4. D'Ayala, D. (1999). #Correlation of seismic damage between classes of buildings: churches and houses#. Seismic damage to masonry buildings, pp. 41-58. Balkema Press, Rotterdam.
+
+  * 5. D Ayala, D., Speranza, E. 1999, Identificazione dei Meccanismi di Collasso per la stima della Vulnerabilita Sismica di Edifici nei Centri Storici in: Proceedings of the IX National Congress LIngegneria Sismica in Italia, Torino 20-23 settembre.
+
+  * 6. D'Ayala D. (2000) Establishing Correlation Between Vulnerability And Damage Survey For Churches Proceedings of 12th World Conference On Earthquake Engineering, paper 2237/10/a
+
+  * 7. D Ayala, D, Speranza, E. 2000, Confronto di misure di vulnerabilita ottenute con metodi statistici per edifici in centri storici, research carried out in collaboration with the GNDT U.R. of Padova (Italy), internal report of Dept. of. Costruzioni e Trasporti of University of Padova, (It).
+
+  * 8.Ayala, D, Speranza, E. 2001, Seismic vulnerability of historic centres: the case study of Nocera Umbra, Italy Proceedings of the UNESCO Congress More than two thousand years in the history of architecture.
+
+  * 9. D Ayala, D, Speranza, E. 2001, #A procedure for evaluating the seismic vulnerability of historic buildings at urban scale based on mechanical parameters#. In: Proceedings of the 2nd International Congress #Studies in Ancient Structures, Yildiz, Instanbul Turkey, July.
+
+  * 10. D'Ayala, D., Speranza, E. (2001). Unreinforced Brick-Block Masonry - Traditional Housing in Central Italy. Workshop on the EERI/IAEE Housing Encyclopedia Project, Pavia, Italy (also available online at www.world-housing.net)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dina DAyala | Director of Postgraduate Studies | Dept. of Architecture and Civil Engineering | University of Bath BA2 7AY UK | D.F. D Ayala@bath.ac.uk | 
+| Elena Speranza | Architect | Dept. of Architecture and Civil Engineering | University of Bath BA2 7AY UK | abpes@bath.ac.uk | 
+| Francesco D'Ercole | Architect | Practitioner Architect | Via A.Petronelli 18 73100 Lecce ITALY | archfra@libero.it | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

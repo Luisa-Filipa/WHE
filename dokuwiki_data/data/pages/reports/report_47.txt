@@ -1,0 +1,320 @@
+====== Traditional oval-shaped rural stone house, Nepal ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 47
+
+**Building Type:** Traditional oval-shaped rural stone house
+
+**Country:** Nepal
+
+**Author(s):** Yogeshwar Krishna Parajuli, Jitendra Kumar Bothara, Bijay Kumar Upadhyay
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in in Kaski, Syangja, Parbat, and Baglung districts of Central Mid Mountains of the Western Development Region of Nepal (Nepal is divided into five development regions and seventy five districts which are further subdivided into small political units (56 municipalities and some 4000 Village Development Committees). The percentage of this building type in the total stock as well as total population inhibiting this building type is unknown. This type of housing construction is commonly found in rural areas. These buildings are being gradually replaced by more modern building types even in rural areas.
+
+**Summary:** This is a typical rural construction concentrated in the central mid-mountain region, particularly in the Kaski, Syangja, Parbat, and Baglung districts. (The country is divided into 75 administrative districts.) These primarily residential buildings are basically loose-fitting, load-bearing structures, constructed of uncoursed rubble stone masonry walls and a timber structure for the floor and roof. Village artisans play a pivotal role in these owner-builtbuildings. Because of the loss of integrity during an event, they are expected to be extremely vulnerable from the effects of an earthquake.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** Building plan is oval in shape.
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 8
+
+**Typical story height (meters):** 2.2
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is stone masonry walls. The gravity loads of the main building are carried by load bearing walls. Floor and roof are constructed of timber, which transfers their loads to the walls (typical thickness 450 mm - 600 mm), which carries the load to the foundation. These walls are carried by a strip foundation of uncoursed rubble stone masonry. The veranda (annex to the main building) is a lean-to structure to main building, which is supported by timber posts at one end. These posts are generally supported by an above-ground stone pedestal (no anchorage between stone and post). No rigid connection is made between column and beam being supported. The lateral load-resisting system is stone masonry walls. The load bearing walls carry the lateral loads. The masonry walls thus act as shear walls. The building has only a perimeter wall, which encloses the building space and also carries the loads. The roof and floor are loose fit timber structures, which act as flexible diaphragm and are not able to transfer the lateral load to wall piers according to their stiffness.
+
+**Gravity load-bearing & lateral load-resisting systems:** Length varies from 8 to 10 meters. Width varies from 6 to 8 meters. Typical story height is 2 - 2.2 meters. Span between the supports of floor and walls ranges from 1.5 to 2 meters usually. The building is oval shaped and there does not exist any internal walls for separating internal space, so the concept of span is not applicable.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** Total wall density (total plan area of wall/ total plinth area) is around 25%.
+
+**Wall Openings:** Typically three to four openings are provided in each story, one for door and rest for windows in main building. Front facade has more openings than the back. Openings are limited in size. Openings constitute some 15-20% of total wall length. Spacing between openings is generally more than twice the length of opening.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** There aren't modifications of bearing structures in these buildings usually.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks (or fire wood) and joists covered with thick mud overlay. Floor and roof structures are loose-fit elements, as if one component is stacked over the other (without any nailing). These therefore behave as flexible diaphragm. In past earthquakes such floors were just scattered due to shaking.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: thatched roof supported on wood purlins; wood shingle roof Floor and roof structures are loose-fit elements, as if one component is stacked over the other (without any nailing). These therefore behave as flexible diaphragm. In past earthquakes such floors were just scattered due to shaking.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Rubble stone | Characteristic Strength: Not known/ Not relevant for strength Mix Proportion/Dimensions: Irregular boulders (size 200-300mm or less) Slates, lime stone, quartzite | 
+| Foundations | Mud | Characteristic Strength: Very low compressive strength and no tensile strength Used for mortar | 
+| Floors | Timber/ bamboo | Characteristic Strength: Not known Difficult to define because of selected use of multiple species. | 
+| Roof | Timber/ bamboo | Characteristic Strength: Not known Difficult to define because of selected use of multiple species. | 
+| Other | Soft and hard wood | Characteristic Strength: Not known Mix proportions/dimensions: Depending on structural value of the member Hard wood used for members of high structural value (e.g. Columns, principal beams) where as softwood used for members with relatively low structural value (e.g.. Joists, purlins) | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Engineers /architects / technicians are not involved in this construction type.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** Builders/ owners live in this construction type (house owner himself is part of construction team).
+
+**Expertise of those involved in building process:** The artisans are without any formal training. The construction know-how is transferred from generation to generation or the people learn the process on site in a very informal way. The head mason s skilled but the level of know-how varies from person to person. No standard or minimum requirement exists for head or any other mason. The rest of the working team is composed of semi or unskilled personnel.
+
+**Construction process and phasing:** The walls are constructed in a random uncoursed manner by using irregular stones bound with mud mortar. The stones are collected from quarries, riverbed or field, sometimes partially dressed. Space between interior and exterior wythes is filled with small stones and mud. The joists and rafters are just placed on walls without any anchorage or connection. These buildings are owner-built where village artisans play pivotal role. Simple tools such as chisels, hammers, saw etc are used for construction. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** NBC203 : Guidelines for Earthquake Resistant Building Construction: Low Strength Masonry (Draft)
+
+**Process for building code enforcement:** There is no process for Building Code enforcement in rural areas (Village Development Committee areas) of Nepal.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** The building by-laws, building permit process and building construction controlling monitoring mechanisms only exists in municipalities and not in Village Development Committee (local authority at village level- rural areas). This is basically a rural house type where the building permit process does not exist. If this type of housing were to be constructed in a municipality, it would have to pass through the formal process (but the process does not require approval of structural drawings for this size of building). Present bylaws or regulation do not prohibit the construction of this type of building in municipal areas.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Cash flow in such construction is very minimal so it is difficult to price the building cost.
+
+**Labor requirements:** 120 # 150 man-days (excluding effort required for collection of construction materials).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Single/multiple families both live in a single house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** A pricing system does not exist because of informal housing production mechanism. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No medium or major earthquakes observed in the area to date in known history (oral or written) so the performance of these buildings in a real earthquake is largely unknown. But buildings with similar construction materials and technology (but with different plan shape) have performed extremely poorly in past earthquakes.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** #NAME?
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** -Flexible. -No interconnection between different structural elements. -No connection between walls and floor/ roof (in general). - Heavy floor
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%% | | | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Roof/ floor | Enhancement of integrity, anchorage with walls, bracing | 
+| Walls | Insertion of bond stones, bandages at different levels, splint at critical sections | 
+| Timber Frame | Bracing of frame (knee bracing, diagonal bracing) to strengthen beam-column connection, anchorage of column to foundation | 
+| (New Construction): Walls | Use of cement mortar, use of bond stones, bands at different levels , vertical bars at critical sections | 
+| (New Construction):Timber Frame | Knee or diagonal bracing of beam-column joints, connection of column to foundation |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Appendix-A: Prototype Building inventory; the Development of Alternative Building Materials and Technologies for Nepal UNDP/UNCHS (Habitat) Sub-project Nep 88/054/21.03, His Majesty's Government of Nepal, Ministry of House and Physical Planning 1994
+
+  * NBC 203 Guidelines for Earthquake Resistant Building Construction: Low Strength Masonry UNDP/UNCHS (Habitat) Sub-project Nep 88/054/21.03, His Majesty's Government of Nepal, Ministry of House and Physical Planning 1994
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Yogeshwar Krishna Parajuli | Architect | National Team Leader, Nepal National Building Code Development Project; C/O TAEC Consult P. Ltd. | Shankhamul, Kathmandu Nepal | taec@mos.com.np | 
+| Jitendra Kumar Bothara | Structural Engineer | Team Member, Nepal National Building Code Development Project; C/O TAEC Consult P. Ltd. | Shankhamul, Kathmandu Nepal | taec@mos.com.np | 
+| Bijay Kumar Upadhyay | Building Technologist | Team Member, Nepal National Building Code Development Project; C/O TAEC Consult P. Ltd. | Shankhamul, Kathmandu Nepal | taec@mos.com.np | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Richard D. Sharpe | Director of Earthquake Engineering | Beca International Consultants Ltd. | Wellington , NEW ZEALAND | rsharpe@beca.co.nz | 

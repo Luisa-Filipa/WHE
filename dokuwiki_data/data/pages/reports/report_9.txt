@@ -1,0 +1,348 @@
+====== (Building Type), (País) ======
+=== From World Housing Encyclopedia ===
+
+{{ :reports:report_1:rp1_general_info_1.jpg?nolink&1398*935 |}}
+
+----
+
+==== 1. General Information ====
+
+**Report:** 9
+
+**Building Type:** Multistory base-isolated brick masonry building with reinforced concrete floors and roof
+
+**Country:** China
+
+**Author(s):** Fu L. Zhou, Zhong G. Xu, Wen G. Liu
+
+**Last Updated:**
+
+**Regions Where Found:** Buildings of this construction type can be found in the urban areas of western, eastern, northern, southern and central China. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This is typically a 5- to 8-story building with commercial enterprises on the ground floor andresidences above. Brick masonry buildings have been used in China for thousands of years.This construction practice possesses the advantage of easy manufacture and low cost;however, the brittleness of the brick masonry material combined with weak seismic resistanceinduces severe damage or collapse of buildings and causes thousands of deaths during anearthquake. Since 1990, base-isolated brick masonry buildings with reinforced concretefloors/roof have been used more widely in China. The base-isolated building consists of anisolation system (laminated rubber isolation devices) superstructure and substructure. Thebase-isolation system is located on top of the walls or columns in the basement or at theground floor level of a building without a basement. The superstructure consists ofconventional multi-story brick masonry walls and reinforced concrete floors/roof. Thesubstructure is part of the building beneath the isolation system and consists of the basementand the foundation structure. The base-isolated masonry structure results in an increase inseismic safety by a factor of 4-12 times as compared to that of a non-isolation masonrystructure. The high seismic resistance of the base isolation structure house has been proven byshake table tests and in many actual earthquake events in China and other countries. The wideusage of base isolation technology indicates that the era of strong earthquake-proof buildingsis coming in China. 
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 unitsOther
+
+**Typical number of stories:** 6
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Never
+
+**Comments:** The main function of this building typology is mixed use (both commercial and residential use).According to China code, the limi
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 48
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Other: Seismic Protection Systems: Building protected with base-isolation
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced masonry walls. Gravity load is carried by the masonry load-bearingwalls, which transfer them to the foundation through the isolation pads. The lateral load-resisting system is reinforced masonry walls. System of structure: The base isolation house structuresystem consists of isolation layer (laminated rubber bearing isolators), superstructure and substructure. The isolationlayer is located on the top of walls or columns in basement or in the first story of house without basement. Thesuperstructure consists of common multi-stories brick masonry wall with reinforced concrete floors/roof, which issame as the general house structure supported on the rubber bearing isolators. The substructure consists of acommon basement and base, which is same as the general building structure. The laminated rubber bearing isolatorsare the key lateral load resisting elements of seismic resistance. Their features are: Size: diameter 350 mm - 600 mm,height 160 mm -200 mm. Component: thickness 3-8mm rubber layers bond with thickness 1-3 mm steel sheetsinterval each other. Characteristics of isolation pads: High vertical stiffness and high vertical compression capacity forsupporting superstructure. Low horizontal stiffness, large horizontal deformation capacity for isolating groundmotion.Suitable value of damping ratio for dissipating ground motion energy. Adequate initial horizontal stiffnessfor resisting wind loads. Seismic performance: During earthquake, the isolation structure will work as follows: 1. Allhorizontal deformations of superstructure elements will concentrate on the isolation layer, the structure will be keptwithin the elastic limit, so that no damages will occur in the structure. 2. The natural period of isolation structure willbecome very long due to the low horizontal stiffness of isolation layer, so that the isolation structural seismic responsewill be reduced to 1/4 - 1/8 of the non-isolation structural seismic response, protecting the structure from any damageand becoming very safe in strong earthquake. 3. The horizontal deformation of rubber bearing isolators will be limitedby enough damping ratio. 
+
+**Gravity load-bearing & lateral load-resisting systems:** Isolators consist of laminated rubber bearings. Superstructures are unreinforced brick masonry buildings withreinforced concrete floor/roof slabs. 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** For a typical floor, one window with 1,800 mm width and 1,500mm height in each 3,100 mm length of outside wall. One or two doors each with 900 mm width and 2,100 mm height in each 3,300 mm length of inside wall. The overall windows and doors areas are about 26% of the overall wallsurface area. 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?** 
+
+**Modifications of buildings:** No modifications could be observed.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:**
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: cast-in-place and precast solid slabs The floor is considered to be a rigid diaphragm. 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: cast-in-place and precast solid slabs The roof is considered to be a rigid diaphragm. 
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 6 meters. 
+
+{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop |}}
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brickmasonry | Compression fc = 4.2 MPa, shearfv = 0.2 MPamortar 1:6 cement/sand, brick size240 x 115 x 53 mm |
+| Foundations | RC | Compression fc = 10 MPa, steelyield fy= 235 MPa Low strength concrete and mild-steel is used for foundation. |
+| Floors | RC | Compression fc = 17 MPa, Steelyield fy = 335 MPa |
+| Roof | RC | Compression fc = 17 MPa, Steelyield fy = 335 MPa |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The design of superstructure and substructure of buildings can be done by the general structural engineers.Thestructural engineers who have enough knowledge and experience in designing the base-isolation buildings can do thedesign of base-isolation system. Engineers design the base-isolator, superstructure and substructure. Architectsdesign the building plan, and details of architectural treatment for isolation layer. 
+
+**Expertise of those involved in the design:**
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Other
+
+**Roles of those involved in the building process:** It is typically built by developers for sale
+
+**Expertise of those involved in building process:**	
+
+**Construction process and phasing:** The entire process of building construction is as follows: 1. Developer buys the land and then entrusts the designer fordesigning the building with base isolation. 2. Developer selects the construction company for constructing thedesigned building. 3. Developer buys the rubber bearing isolators from special factory. 4. Developer entrusts thetesting center to test and check the characteristics of rubber bearing isolators that will be used in the construction. 5.Contractor constructs the foundation and basement. 6. Contractor fixes the rubber bearing isolators on top of thebasement. This process may be manually done. 7. Contractor constructs the superstructure on rubber bearingisolators. 8. Contractor constructs the non-structural elements and finishing of the building. 9. The quality ofconstruction is checked to ensure that it is acceptable. The superstructure is checked to ensure that it has free space tomove in horizontal and vertical directions during earthquake. The horizontal space should be greater than 200 mm,and the vertical space should be greater than 20 mm. 10. Developer sells the house. The construction of this type ofhousing takes place in a single phase. Typically, the building is originally designed for its final constructed size. 
+
+**Construction issues:**
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** 1. Building design code for seismicresistance (GB50011-2001). 2. Technical rule for seismic isolation with laminated rubber bearing isolators (CECS 126- 2001). 3. Standard of rubber bearing isolators (JG 118-2000). The year the first code/standard addressing this type of construction issued was 2000. Same as above. The most recent code/standard addressing this construction type issued was 2000. 
+
+**Process for building code enforcement:** Building code is enforced through quality control procedures during construction. Separate quality certification is notrequired. 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** No
+
+**Is this construction typically authorized as per development control rules?:** Yes
+
+**Additional comments on building permits and development control rules:**
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:**	
+
+**Who typically maintains buildings of this type?** Builder
+
+**Additional comments on maintenance and building condition:**
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** RMB 1200 / m2 (US$ 145 / m2). 
+
+**Labor requirements:** 20 days are required for the construction of foundation and basement, duringwhich labor with only general technical level is required 3 days are required for fixing the rubber bearing isolators,during which labor with only general technical level is required 60 days are required for constructing the superstructure(around 10 days each storey), during which labor with only general technical level is required. 
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each building typically has 21-50 housing unit(s). One family typically occupies one housing unit.10 - 32 families typically occupy one house. (2 - 4 families typically occupy each floor and there are usually 5 - 8 floors ina house.). Onaverage, Chinese families consist of 4 persons.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** Night time occupancy is more than 40 persons. 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Economic Level: For Middle Class the Housing Price Unit is 200,000 and the Annual Income is 30,000.Ratio of housing unit price to annual income: 5:1 or worse. 
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:**
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:**
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:**
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1994 | Taiwan Straits, China  | 7.3 | VIII ( 220 GAL) ) |
+| 1995 | Yunan Province | 6.5 | VIII ( 220 GAL) |
+| 1996 | Yunan Province  | 7 | VIII ( 220 GAL) |
+| 2000 | Xinjian Autonomous | 6.2 | VII (110 GAL) |
+| 2006 | Yunan Province | 6.4 | VIII ( 220 GAL) |
+| 2008 | Shichuan Province | 8 | VIII ( 220 GAL) |
+| 2010 | Shangdong Province | 7.1 | VIII ( 220 GAL) |
+| 2013 | Shichuan Province | 7 | VIII ( 220 GAL) |
+| 2014 | Xinjiang Province | 7.3 | VIII ( 220 GAL) |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No damage.
+
+**Additional comments on earthquake damage patterns:** 1. The natural period of isolation structure is very long due to the low horizontal stiffness of isolation layer. Thiscauses the isolation structural seismic response to reduce to 1/4 - 1/8 of the response of similar non-isolationstructure. This protects the structure from any damage and makes it very safe in strong earthquake 2. No damage hasbeen observed for base-isolation buildings in many strong earthquakes in China so far. 
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall. 
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. |  |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) |  |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) |  |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. |  |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. |  |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. |  |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. |  |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); |  |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. |  |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. |  |
+| Wall Openings |  |  |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). |  |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). |  |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). |  |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The superstructure and foundation is individually connected to the rubber bearing isolators with bolts which possess adequate seismicresistant to transfer the seismic forces (vertical loads, shear loads and moments) between the foundation and superstructure. 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** During earthquake, the isolation structure will work as follows: 1. All horizontal deformations of superstructure (columns,beams)elements will concentrate on the isolation layer, the structure will be kept within the elastic limit, so that nodamages will occur in the structure. 2. The natural period of isolation structure will become very long due to thelow horizontal stiffness of isolation layer, so that the isolation structural seismic response will be reduced to 1/4- 1/8 of the non-isolation structural seismic response, protecting the structure from any damage and becomingvery safe in strong earthquake. 3. The horizontal deformation of rubber bearing isolators will be limited byenough damping ratio. 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+-----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |  | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5	**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls | 1. Bamboo: Several researchers have been involved with using internal horizontal and vertical bamboo, in a fashion similar to reinforced concrete masonry walls. 2. Timber ring beam: This helps to hold the walls together and facilitate transfer of loads from the roof to the walls. 3. 'Improved Adobe' has long been promoted to make adobe buildings more robust under seismic activity. The 'system' does not utilise another material, but focuses on the design and planning of adobe buildings by limiting opening sizes, plan dimensions, wall lengths and heights, and roof weight |
+| Roof | Adequate connections to a top timber or concrete ring beam and stronger connections in the framing itself will help the roof act as a diaphragm. Galvanized sheet metal is now common and helps reduces high loads. For thermal and aesthetic reasons, how ever, clay tile continues to be used. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** No damages have been experienced for this type of buildings during past earthquakes in China. So far, there has beenno necessity to strengthen the isolation buildings. 
+
+**Has seismic strengthening described in the above table been performed?:** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** 
+
+**Was the construction inspected in the same manner as new construction?:** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  *  Seismic Control of StructuresZhou F. L.China Seismic Publishing House 1997
+
+  *  Design Method of Isolating And Energy Dissipating System for Earthquake Resistant StructuresZhou F. L., Stiemer S. F. and Cherry S.Proc. of 9th World Conference on Earthquake Engineering, Tokyo-Kyoto. Aug. 1988. Vol. VIII 1998
+
+  * A New Isolation and Energy Dissipating System for Earthquake Resistant StructuresZhou F. L., Stiemer S.F. and Cherry S.Proc. of 9th European Conference on Earthquake Engineering. Moscow, Sept. 1990 1990
+
+  * The Technical Report on Mission As Consultant of UNIDOZhou, F.L.Summary of the International Post-SMiRT conference Seminar on Seismic Isolation, Passive Energy Dissipation and Active Control ofVibrations and Structures, Santiago, Chile. August 1995 1995
+
+  * Progress of Application and Development in Base Isolation and Passive Energy dissipation for civil andIndustrial StructuresZhou, F.L.Proc of International Post-SMiRT Conference Seminar. Cheju, Korea, August 1999 1999
+
+  * Progress of Application, New Projects, R and D and Development of Design Rules for Seismic Isolation andPassive Energy Dissipation of Civil Buildings, Bridges and Nuclear and Non- Nuclear Plants in P R ChinaZhou, F.L.Proc.of International Post-SMiRT Conference Seminar on Seismic Isolation, Passive Energy Dissipation and Active Control of SeismicVibration of Structures. Taormina, Italy, August 1997 1997
+
+  * 7. New System of Earthquake Resistant Structures in Seismic ZoneZhou, FL.Computational Mechanics in Structural Engineering. Elsevier Applied Science Publishers Ltd., London and New York 1991
+
+  * Recent Research Development and Application on Seismic Isolation of Buildings in P R ChinaZhou,F.L., Kelly,J.M., Fuller,K.N.G., and Pan,T.C.Proc. of International Workshop IWADBI, Shantou, China, May 1994 1994
+
+  * Design control of structural response for seismic isolation systemZhou, F.L.Earthquake Engineering and Engineering Vibrations, No.1, 1993 1993
+
+  * Technical rule for seismic isolation with laminated rubber bearing isolatorsZhou,F.L. and Zhou,X.Y.Chinese Engineering Construction Standard, CECS 126:2001, Beijing, China 2000 
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Fu L. Zhou  | Professor, | Guangzhou University | No. 248 Guang Yuan Zhong Road, Guangzhou 510405, CHINA  | zhoufl@cae.cn |
+| Zhong G. Xu | Associate Professor, | Guangzhou University | No. 248 Guang Yuan Zhong Road, Guangzhou 510405, CHINA | xuzhonggen@263.net |
+| Wen G. Liu | Associate Professor, Guangzhou University | No. 248 Guang Yuan Zhong Road, Guangzhou 510405, CHINA  | iweng@sina.com F |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, INDIA | rsinha@civil.iitb.ac.in |

@@ -1,0 +1,325 @@
+====== Adobe house, Peru ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 52
+
+**Building Type:** Adobe house
+
+**Country:** Peru
+
+**Author(s):** Cesar Loaiza, Marcial Blondet, Gianfranco Ottazzi
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the Peruvian coastal and highland regions. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is a traditional construction practice followed for over 200 years. Houses of this type can be found both in urban and rural areas in the coastal and highlands regions of Peru. Walls are made of adobe blocks laid in mud mortar. The roof structure is made of wood; it usually consists of timber beams with timber planks covered with a mud mortar overlay or with clay tiles or metal sheets. Houses of this type are mainly occupied by poor people. Thisconstruction is considered to be very vulnerable to earthquake effects.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 9
+
+**Typical plan width (meters):** 8
+
+**Typical story height (meters):** 4
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls with horizontal wood elements
+
+**Additional comments on structural system:** Adobe block walls carry gravity loads due to roof self-weight and transmit them to the foundations. Wood lintels assist in resisting the gravity loads at wall openings. Adobe block walls provide resistance to lateral loads. The wood roof structure is considered to be a flexible diaphragm in the analysis. Wall corners (junctions) are very vulnerable parts of the structure. Typical wall thickness varies from 300 to 800 mm.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20%. 20% - 40%.
+
+**Wall Openings:** Typically one door or window opening per wall. It is estimated that the window and door widths constitute approximately 30 # 40% of the total wall length.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In the coastal region it is common that owners build an additional floor with quincha. This material consists of wood planks filled with bamboo and covered with mud or gypsum.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Floor is not considered to be a rigid diaphragm in the analysis.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks or beams supporting natural stones slates; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles Roof is not considered to be a rigid diaphragm in the analysis.
+
+**Additional comments section 2:** Typical Plan Dimensions: Length varies from 8 to 10 m. Width varies from 5 to 10 m. Typical Story Height: In the coastal region, the typical story height is 4.0 m; in the highland region the height is 3.0 m. Typical Span: Span varies from 3 to 6 m. The typical storey height in such buildings is 4.0 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe piles | -Compression 1.20 MPa -Shear 25 kPa Masonry mortar mix 1:5 cement/sand mortar Masonry brick dimensions: 400mm x 18mm x 10 mm Mortar mix proportion changes significantly the resistance of a pile of adobe blocks | 
+| Foundations | Adobe piles | -Compression 1.20 MPa -Shear 25 kPa Masonry mortar mix 1:5 cement/sand mortar Masonry brick dimensions 400mm x 18mm x 10 mm | 
+| Floors | Wood | -Tension (parallel with the grain): 41 MPa -Compression (perpendicular to the grain): 4 MPa -Shear: 1.5 MPa | 
+| Roof | Wood | -Tension (parallel with the grain): 41 MPa -Compression (perpendicular to the grain): 4 MPa -Shear: 1.5 MPa | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** It is not common that engineers and architects participate in the construction process, as this is typically an informal construction. However in big projects financed by the Peruvian Government or other institutions, engineers would be in charge of the construction process and the structural design, and architects would be in charge of the architectural design.
+
+**Expertise of those involved in the design process:** Professional engineers do not have too much design experience related to this housing type. It is typically built by village artisans.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Mason
+
+**Roles of those involved in the building process:** Builders typically live in these houses, however there are few houses built by professional construction companies.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Typically constructed by village artisans. Process starts with the selection of a good soil to make the adobe blocks. The soil needs to have an adequate proportion of clay. Subsequently, adobe blocks are prepared using wood molds and left to dry for minimum 15 days. A rubble stone strip footing is made, with a minimum depth of 0.40 m. After the wall height is reached, a wood beam is laid atop the adobe block wall with transverse timber planks laid over them. Finally, walls are covered with a cape of mud mortar. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Peruvian Adobe Structures Code. The year the first code/standard addressing this type of construction issued was 1977. The most recent code/standard addressing this construction type issued was 1998.
+
+**Process for building code enforcement:** There is no process for building code enforcement in rural areas. However, for construction in urban areas and for big projects it is necessary to obtain the approval of municipal authorities.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?:** Yes
+
+**Additional comments on building permits and development control rules:** In urban areas, building permits are required for this construction type, however in rural areas this construction is typically informal and consequently building permits are not required.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** A typical problem is related to drying the adobe blocks on rainy days. These blocks are made using local soils, which is not good in some areas. Adobe blocks need to dry for at least 15 days, and during rainy weather the bricks take longer to dry and a special cover is required to protect the adobe blocks.
+
+**Who typically maintains buildings of this type?** Owner(s)No one
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** This cost is variable, but an average value could be around $US 20/sq m. The unit cost can be lower than the value provided if the owners contribute with their own labor.
+
+**Labor requirements:** It will take approximately 1 month to complete the construction of a typical one-storey house.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically occupied by extended families.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Economic Level: For Very Poor Class the Housing Unit Price is 1,500 and the Annual Income is 700. For Poor Class the Housing Unit Price is 5,000 and the Annual Income is 1,000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1970 | Chimbote | 7.8 | VI (MMI) | 
+| 1974 | Lima | 7.7 | VIII (MMI | 
+| 1996 | Nazca | 7.3 | VII (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** Wall shear cracking
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** #NAME?
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof behaves as a flexible diaphragm.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%% | | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Adobe walls- Lack of confinement | Adobe walls are confined with reinforced concrete tie columns and beams. Concrete columns are cast against the serrated endings of adobe walls. This is a very good seismic strengthening system, however it could be expensive for owners. |  
+| Lack of integrity- adobe walls | A wood beam is cast atop the walls, keeping them united during an earthquake. It is an inexpensive system. (see Figure 10) | 
+| Adobe walls-poor in-plane and out-of-plane resistance | A steel mesh fixed with metal plates is installed to strengthen the adobe walls. The mesh is applied on both wall surfaces and at the wall corners. This is a very effective and inexpensive strengthening system, developed at the Catholic University of Lima. | 
+| (New Construction): Improved integrity of adobe walls | A wooden beam is cast atop the walls, keeping them united during an earthquake. Rectangular wood beams are used as lintels. (see Figure 10) | 
+| (New Construction):Reinforcing of walls with bamboo cane reinforcement | Bamboo cane is used in adobe walls to provide ductility and improve tensile resistance. This is a very effective and inexpensive strengthening system. Cane does not increase significantly the lateral resistance, however lateral drifts are reduced. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Yes, all of them had been performed.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done in both cases.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Owners perform the construction, supervised by a structural engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Very good performance; house collapse was avoided.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. Sismorresistente de Construcciones de Adobe, 1998, Capitulo Peruano del ACI..
+
+  * 2. Adobe Masonry Seismic Resistance, 1978, Vargas Neuman, Bariola Bernales and Marcial Blondet.
+
+  * 3. Quiun, San Bartolome, Torrealva, Zegarra, 1997, El Terremoto de Nasca del 12 de Noviembre de 1996,Pontificia Universidad Catolica del Peru.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Cesar Loaiza | Professor | Civil Engineering Department | Av. Universitaria cdra. 18 Peru | cloaiza@pucp.edu.pe | 
+| Marcial Blondet | Professor | Civil Engineering Department | Av. Universitaria cdra. 18 Peru | mblondet@pucp.edu.pe | 
+| Gianfranco Ottazzi | Professor | Civil Engineering Department | Av. Universitaria cdra. 18 Peru | gotazzi@pucp.edu.pe | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

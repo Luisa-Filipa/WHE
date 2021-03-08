@@ -1,0 +1,328 @@
+====== Moment resisting frame designed for gravity loads only, Syria ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 60
+
+**Building Type:** Moment resisting frame designed for gravity loads only
+
+**Country:** Syria
+
+**Author(s):** Adel Awad, Hwaija Bassam, Isreb Talal
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the main cities of Syria like Damascus, Aleppo, Latakia, Homs, Hama, Deir-ez zor, Idleb, Al-Haskeh, Al-Raka, Al-Sweida, Dara, Tartus, Jableh, Qunitera etc. This type of housing construction is commonly found in urban areas.
+
+**Summary:** These buildings are found in the main cities of Syria and represent modern construction practice followed in the last 50 years. The floor system is a two-way reinforced concrete slab, which spans between orthogonal sets of beams that transfer the load to the columns. The frames are designed to carry gravity loads only.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 10-19 units
+
+**Typical number of stories:** 3-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** Modern construction followed in the last 50 years. There are from 6 to 12 units in each building.
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 20
+
+**Typical plan width (meters):** 16
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** Frames (columns, beams) carry gravity loading. We can assume that the frames (columns + beams) provide a partial strength and stiffness to control lateral displacements due to moderate earthquakes.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. Total wall area/plan area (for each floor) 10% to 15%.
+
+**Wall Openings:** Area of openings /walls surface area = 20% for inner walls and 40% for outer walls.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** There aren't a lot of modifications in this buildings yet.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: cast in place solid slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: cast in place solid slabs
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is several meters. Typical Plan Dimensions: Length varies from 12 to 20 meters, width varies from 12 to 16 meters. Typical Story Height: Story height ranges from 2.85 to 3.1 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Frame: Steel | Frame: Characteristic Strength- 360-420 Deformed bars | 
+| Foundations | Concrete | Mix Proportion: 1:2:4 | 
+| Floors | Steel | Characteristic Strength: 360-420 Deformed bars | 
+| Roof | Steel | Characteristic Strength: 360-420 Deformed bars | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The owner of the land will hire an architect and a structural engineer to design the building.
+
+**Expertise of those involved in the design process:** A structural engineer will have 5 years of education and more 5-10 years of experience. A construction engineer may have 5 years of education and less experience than the structural engineer. The designer may visit the construction site, at request.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is built by developers and sold to the people who live in this construction type.
+
+**Expertise of those involved in building process:** A structural engineer will have 5 years of education and more 5-10 years of experience. A construction engineer may have 5 years of education and less experience than the structural engineer. The designer may visit the construction site, at request.
+
+**Construction process and phasing:** For construction, they will use modern equipment. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Starting from 1997, the seismic design for buildings is mandatory as a law: Syrian code for earthquake resistant building (1995). Prior to 1997, seismic design was not applicable but the normal Syrian building code is used from 1972.
+
+**Process for building code enforcement:** The building design must follow the 1995 Syrian code. In case of damage arbitration process may take place at the court of justice.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** The main problems are associated with the construction process e.g. mixing and transportation of concrete, and construction joints.
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A unit construction may cost 100-200 USD/m# (USD =50 Syrian pound (SP), on market rate).
+
+**Labor requirements:** One floor per month.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family typically occupies one apartment. Each building typically has 10-20 housing unit(s). 12 units in each building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44105
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** GNP per capita, in 1997, was $1120 ; GDP per capita, in 1996, was $1288. Economic Level: For Poor Class the Housing Price Unit is 10000 and the Annual Income is 2500. For Middle Class the Housing Price Unit is 15000 and the Annual Income is 6000. Ratio of housing unit price to annual income: 4:1
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Long-term leaseOther
+
+**Additional comments on ownership:** Ownership by heritage is also found.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1719 | Aleppo | 5.5 | (MMI) VII | 
+| 1759 | Damascus | 7.6 | (MMI) X | 
+| 1759 | Damascus/Lattakia | 7.5 | (MMI) X | 
+| 1796 | Lattakia | 6 | (MMI) VIII | 
+| 1822 | Aleppo/Al-jaziereh | 7 | (MMI) IX-X | 
+| 1822 | Harem/ Aleppo | 6 | (MMI) VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Data about the earthquakes, starting from 18th century up to date, were taken from Ambraseys (1983). However, we have developed the estimate of the magnitude (M) and the maximum MMI intensity based on our findings and experience. Most of the buildings destroyed in the past earthquakes were of adobe and stone masonry, particularly in the urban areas.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Weak connections between the secondary and primary beams. No special transverse reinforcement at the critical region (joints).
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** Reinforced concrete isolated footing without compression/tension ties.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%%  | o | %%-|%%  | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** Seismic strengthening has generally not been performed in Syria.
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Central Bureau of Statistics (1999), # Statistical Abstract 1999# , Damascus, 1999.
+
+  * Ambraseys, N. N. (1993) #Earthquake Damage in the Arabic Region#, In : Assessment And Mitigation, UNESCO Publication , pp. 11-15.
+
+  * United Nations Development Program (UNDP) (1999), # Urban Development Report 1999#, Oxford University Press, Ny.
+
+  * Paulay, T and Priestley, M.J.N. (1992), # Seismic Design of Reinforced Concrete and Masonry Buildings #, John Wiley & Sons.
+
+  * Syrian Engineers Order (1995), #Syrian Code for Earthquake Resistant Design and Construction of Buildings#.
+
+  * Grunthal, G.et al .(1998), #European Macroseismic Scale 1998 , EMS-98#, European Seismological Commission (ESC), Luxembourg.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Adel Awad | Civil Engineer/Professor | University of Tishreen | Latakia P.O.Box: 1385 Syria | tuniv-lat@net.sy | 
+| Hwaija Bassam | Civil Engineer Assistant Professor | University of Tishreen | Latakia Syria | tuniv-lat@net.sy | 
+| Isreb Talal | Civil Engineer | University of Tishreen | Latakia Syria | tuniv-lat@net.sy | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, INDIA | rsinha@civil.iitb.ac.in | 

@@ -1,0 +1,335 @@
+====== Reinforced concrete buildings with masonry infills, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 167
+
+**Building Type:** Reinforced concrete buildings with masonry infills
+
+**Country:** Pakistan
+
+**Author(s):** Sarosh Hashmat Lodi, Abdul Jabbar Sangi, Adam Abdullah
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the urban regions of Pakistan [1, 2], namely Karachi, Lahore and Islamabad. This is because of the limited availability of concrete and the technical expertise required for construction, and the availability of alternate building materials like adobe and timber in rural settlements. RC construction has increased over the years, and RC buildings are now being constructed in some rural areas as well. Still, the RC building stock covers only 7.64% of the total built environment of Pakistan [2]. Figure 1 shows the spatial distribution of RC buildings in Pakistan [2]. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This report provides an overview of reinforced concrete buildings in Pakistan, which are mainly limited to urban regions of the country. Reinforced Concrete buildings cover only 7.64% of the total built environment of Pakistan. Majority of RC buildings comprise of moment resisting frames with infill wall using brick or block masonry. The technical expertise required for the design of reinforced concrete buildings are available in major cities, however, the implementation and regulation mechanisms have been difficult to enforce. Therefore, the overall quality of RCC built stock of Pakistan can be categorized from average to poor.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 10-19 unitsMixed residential/commercial
+
+**Typical number of stories:** 1-20
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** RC buildings consist of a basic load-bearing, moment-resisting frame of horizontal and vertical members, i.e. beams and columns
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** Reinforced concrete gives a variety of options for building layouts and planning. Though this variety is restricted somehow in smaller plot sizes because of the need to cover the entire rectangular plot, it becomes more eminent in plots that have a considerable amount of compulsory open space (COS) on their plot. On smaller parcels of land (200 sq yards or less), a rectangular constructed mass may comprise of three or more floors, with 4 rooms or more on each floor. Each floor may be an individual, modular, vertically repeated unit that houses one family each. Figure 8 shows some instances of rectangular plans for bungalows and apartments. Apartment blocks, a typology that has come to represent the quintessential middle income residential settlements in Karachi, show an interesting deviation from the rigid, rectangular plan form, Figure 9. Floor plans can be modified via appendages such as projections and balconies that extrude outwards on higher levels. There is, however, a fixed maximum projection that is legally allowed for each floor, extending beyond which might cause the windows or terraces of apartment blocks to become structural or security liabilities. Rooftops of the apartment blocks are usually inaccessible for residents as they are seen as a major security issue. They contain one or more water tanks, depending on the number of apartment blocks present within the plot boundary. For larger (240 sq yards and above) single-unit homes, the plans can be roughly U, C, L, or T shaped, or a modification of these rudimentary forms. This would include courtyards, porch/open-air lounge, or a lawn/garden space within the plot area not covered by the plinth. Since there is an open offset from each side of the plot, the exterior boundary walls of plots are 8-12 feet high. This barrier is often accentuated by spiked wires or glass shards cemented on top of the wall to discourage burglars. Commercial and other non-residential RC buildings might have very rigid, functional plans (such as hospitals and school buildings), or highly abstract and organic ones (museums, recreational buildings, new shopping malls). Infill walls in RC buildings are generally constructed using brick or concrete block masonry.
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. The structural system to resist the vertical loads is moment resisting frame with or without masonry infill walls. The lateral load-resisting system is reinforced concrete moment resisting frame. The building designed using seismic provisions are typically moment resisting frames with different detailing requirements depending on many factors. Low to mid-rise buildings are designed as IMRF or OMRF, whereas high-rise buildings are designed as IMRF or SMRF. The contribution of masonry infill is generally not included in the design. The structural engineers possess the knowledge required for the seismic design and detailing of structures, however, the implementation of the design with the required details is often not carried out to the required standards.
+
+**Gravity load-bearing & lateral load-resisting systems:** Majority of RC buildings in smaller towns are non-engineered built by contractors with little engineering input. However, the structural system is typical moment resisting frame with masonry walls. In big cities, where multistoried buildings are common, the design is often carried out by qualified engineers using seismic provisions. The typical framing system implemented in these buildings is either Ordinary Moment Resisting frame (OMRF) or Intermediate Moment Resisting Frame (IMRF). In tall buildings, which are very few, Special Moment Resisting frames (SMRF) with Shear walls are also implemented.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** The number of openings in the infill walls may depend upon the size and layout of the rooms. Typically, in each room one door (3 sq.m.) and 1 to 2 windows (2.5 sq.m.) are provided.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** RC construction allows for flexible post-construction alterations to buildings. For residential units, it is not uncommon for a house to have unfinished half-columns with protruding steel dowels at the rooftop level, an indication that the home owner intends to build vertically upon the roof slab as funds become available. The newest topmost rooms are then covered by corrugated galvanized iron sheeting or prefabricated ceiling slabs on steel girders, rather than a finished, poured concrete roof slab. It is a while before, if at all, the new construction gets an adequate exterior finish of plaster or paint. Often, but not always, this practice puts the inhabitants in risk of structural collapse, as it is carried out without technical expertise, even without legal permission at times. This kind of incremental appendages are typical of low and low-middle income settlements, Figure 13, and may cater to an increasing family size # sons getting married and settling on the topmost floor, for example. Modifications to larger structures, such as public buildings, usually comprise the addition of a further wing, Figure 14 or secondary annex away from the main building but within the same plot boundary, rather than building upon an already existing construction like in the case of residential units.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundationDeep Foundation: Reinforced concrete skin friction piles
+
+**Additional comments on foundation:** It consists of reinforced concrete skin-friction piles. Typical reinforced concrete foundation systems used for majority of buildings are isolated footings and/or combined footings. Depending upon the column loads and configuration, strip footings are also provided. In multistoried buildings, the raft or mat foundation are used. If the bearing capacity of the soil is not adequate, pile foundation systems are also used.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The majority of buildings are designed with reinforced concrete floor/roof which is cast monolithically with the frame. In smaller residential buildings, beam-slab floor system is commonly used. In commercial multistoried buildings, flat slab system is preferred. In structures with large spans, other floor systems e. g. waffle slab, precast beams etc. are also used. The majority of buildings are designed with reinforced concrete floor/roof which is cast monolithically with the frame. In smaller residential buildings, beam-slab floor system is commonly used. In commercial multistoried buildings, flat slab system is preferred. In structures with large spans, other floor systems e.g. waffle slab, precast beams etc. are also used.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The majority of buildings are designed with reinforced concrete floor/roof which is cast monolithically with the frame. In smaller residential buildings, beam-slab floor system is commonly used. In commercial multistoried buildings, flat slab system is preferred. In structures with large spans, other floor systems e. g. waffle slab, precast beams etc. are also used. The majority of buildings are designed with reinforced concrete floor/roof which is cast monolithically with the frame. In smaller residential buildings, beam-slab floor system is commonly used. In commercial multistoried buildings, flat slab system is preferred. In structures with large spans, other floor systems e.g. waffle slab, precast beams etc. are also used.
+
+**Additional comments section 2:** Reinforced concrete buildings can be located on any kind of terrain, as the foundation type can be adapted according to the terrain type. Where the bearing capacity of the soil is sufficient, isolated column foundations are used in the substructure. Where the bearing capacity is low, piles or raft foundations may be employed. This also helps anchor the RC structure on rocky surfaces, like buildings in Gulistan e Johar, Figure 7, and North Nazimabad. A relatively low number of RC buildings are also found in other hilly regions like Mansehra and Abbottabad, usually built by expatriates returning from abroad to their home towns and in pursuit of a more #modern# type of residence. Buildings in low and middle income settlements are normally built adjacent to one another, depending on the bye-laws that apply to individual plot sizes. Plots up to 200 sq yards are usually allowed 100% built space. For larger plots, like 240 and 400 sq yards and above, it is required to leave offsets from each boundary wall before starting construction. Therefore, for plots 200 sq yards or smaller, adjacent houses may share walls. Even though some of the plot area might remain open or semi-covered as a verandah or balcony, the wall from a neighboring house may rise adjacent to that open space, marking each plot as a distinct, complete module. The number of stories is also determined by plot size. Smaller plots (40 # 240 sq yards) are allowed construction up to G+2 or G+3 depending on the locality, but in practice this is hardly the case. Home owners commonly extend their building heights beyond this contract, often illegally, to create more floor area that could be leased out, sold, or rented to other parties. This is especially the case in low-income areas with mixed land use, and is also one of the major factors that lead to continuously hazardous living conditions. When separated from adjacent buildings, the typical distance from a neighboring building is 2-10 meters. The typical plan dimensions of these buildings depend on the overall building extension and size. The building has 3 to 20 storey(s). The typical span of the roofing/flooring system is 3-8 meters. Reinforced concrete buildings are built in variety of sizes and stories. They range from single story housing units to multistoried residential or commercial buildings. The typical spans are 3 to 8 meters with a typical story height of 3 meters. The number of stories depends upon the type and location of the buildings. For example, in smaller cities the number of stories ranges from 3 to 5 stories, whereas in big cities like Karachi the number of stories could be 10 to 20 stories. The typical storey height in such buildings is 3.0 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Brick or block masonry wall laid in cement sand mortar Frame: Reinforced Concrete | Wall: C.C block # 3.5 to 6 MPa Bricks # 2 to 7 MPa 1:6:8 cement, sand and coarse sand blocks available in various sizes and thicknesses. Fired-clay bricks with typical brick size of 230 mm x 115 mm x 65 mm Frame: Concrete compressive strength ranges from 17 to 21 MPa. Steel has a yield strength up to 450 MPa and tensile strength up to 650 MPa. Typical mix proportions of 1:2:4 (Cement, Sand, Aggregate by volume). Sometimes a stronger mix is used for columns. |
+| Foundations | Reinforced concrete | Concrete compressive strength ranges from 17 to 21 MPa. Steel has a yield strength up to 450 MPa and tensile strength up to 650 MPa. Typical mix proportions of 1:2:4 (Cement, Sand, Aggregate by volume) |
+| Floors | Reinforced concrete | Concrete compressive strength ranges from 17 to 21 MPa. Steel has a yield strength up to 450 MPa and tensile strength up to 650 MPa. Typical mix proportions of 1:2:4 (Cement, Sand, Aggregate by volume) with an average slab thickness of about 150 mm. |
+| Roof | Reinforced concrete | Concrete compressive strength ranges from 17 to 21 MPa. Steel has a yield strength up to 450 MPa and tensile strength up to 650 MPa. Typical mix proportions of 1:2:4 (Cement, Sand, Aggregate by volume) with an average slab thickness of about 150 mm. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The design and construction of reinforced concrete buildings requires a well-trained manpower i.e. structural engineers, architects, site engineers, masons, steel fixers etc.
+
+**Expertise of those involved in the design process:** The expertise is generally available in the major town and cities. The structural engineers are capable of designing structures using seismic provisions. However, the problems arise at the implementation of the design at construction level. Small residential buildings are rarely designed and the owners rely solely on the experience of the contractor and laborers who are seldom trained professionally.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** ContractorOther
+
+**Roles of those involved in the building process:** Low income residential RC construction shown in Figure 19 is often carried out through informal peer networks. Manual labor is hired based on word-of-mouth as the only credible way of authenticating their skills. Middle income home owners often directly consult contractors to supervise the construction of their houses. The contractor is responsible for the procurement and storage of materials, hiring of skilled and unskilled staff, and dealing with other on-site issues.
+
+**Expertise of those involved in building process:** Higher income individuals commonly refer to architects for specific plans that meet the needs of their families, and for details ranging from external finishes to internal tile work, fixtures, and color schemes for individual rooms. For non-residential RC construction, especially large scale projects, Figure 20, it is common to appoint one or more renowned firms, each specializing in one or more aspects of construction, for example, HVAC and MEP experts, structural engineers, landscape architects, and interior designers.
+
+**Construction process and phasing:** The processes involved in the construction of reinforced concrete buildings vary greatly depending on many factors. Ownership of the buildings, for example private or public, affects not only the process of the construction but the quality as well. Small residential buildings are typically built by contractors usually not involving any architect or engineer. The owners directly negotiate with the contractors on the type of contract. Typically, the labor is provided by the contractor, whereas the material is responsibility of the owner. For medium to large private construction projects, services of architects and structural engineers are hired to carry out the architectural and structural design. The construction is carried out by the contractors. Figure 21 shows a middle income RC construction. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. However, some interventions are commonly found in the final construction typically to increase the living space by covering compulsory open spaces.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Reinforced concrete buildings are designed generally using British and American Codes. After the Kashmir earthquake in 2005, Building Code of Pakistan-Seismic Provisions was issued in 2007 by the Ministry of Housing. This document is essentially based on Uniform Building Code 1997 with changes for seismic zonation [3] and ACI 318 # 05. The material specifications generally followed are ASTM specifications. However, the Provisions were adopted by the different building control agencies in the Country; hence the implementation mechanism for codes and specifications is non-existent.
+
+**Process for building code enforcement:** In major cities, local building control authorities maintain local building by-laws. The design has to be submitted to the local building control authority, which will arrange for the vetting of the structural design as per local by-laws. This practice is only limited to major cities for selected projects. Construction in public buildings is monitored by hired consultants or in-house departments. In private buildings, the construction is not usually monitored for adherence to the local by-laws.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** In major cities, local building control authorities issue building permits as per local by-laws. In small towns and rural areas, local municipal committees usually govern the permits and development. However, in majority of cases, these permits are obtained on paper, whereas the actual design may quite differ from the original approved design. Building permits are required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** Maintenance is carried out by the inhabitants, whether owners or tenants. Some mutual agreement may exist between the landlord and occupants as to the annual upkeep and repairs on the house, including monsoon repairs, drainage problems, plaster cracking, and other minor issues.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The cost of construction depends upon a number of factors including type, location of the building, availability of the material, transportation cost, availability of labor etc. Steel used for reinforcement is manufactured in Karachi and Lahore and generally is very expensive to transport to other towns and cities. Availability of aggregate is wider.
+
+**Labor requirements:** Since Pakistan is a major agricultural country, the availability of the construction labor is also affected by the crop season.
+
+**Additional comments section 3:** RC buildings consist of a basic load-bearing, moment-resisting frame of horizontal and vertical members, i.e. beams and columns, with infill for wall and floor planes. Shear walls are generally included in the multi-story buildings to increase the resistance against lateral loads. Roof infill usually comprises of cast-in concrete slabs monolithic with the concrete frame beams. The wall infill may be any kind of masonry # brick or concrete block, depending on the geographical region of the RC building and hence the availability of infill material. For example, in the river plains of Punjab, where clay of appropriate strength and low porosity is available, fired brick may be used as the infill material. On the other hand, where sand, gravel, and aggregate are available, such as in urban centers like Karachi, it is often concrete blocks that serve as the infill material in a RC frame. Figures 2 and 3 show a RC residential building and a hospital building in Karachi, respectively. RC buildings that have been designed according to seismic codes have also shown considerable seismic resistance compared to other forms of construction techniques. In itself, concrete has a very low tensile strength. This would make concrete frames quite vulnerable to elastic deformations. When reinforced with steel, Reinforced Concrete performs considerably well under tensile loads. For additional strength against lateral loading, shear walls are sometimes included in RC frames. These can be placed as either external or internal walls. Shear walls are commonly placed around elevator cores, to strengthen the building from within. Some low-rise RC structures also have thin shear walls built of masonry. A number of external finishes can be applied to a RC structure once its construction is completed. Such finishes include plastering, whitewashing (paint), or smoothing the concrete surface to give it a simple, fair face look, Figure 4. Ornamental finishes may include sand blasting (Figure 5) or raking on the surface. The external surfaces may also be covered in a variety of ceramic tile work, metal cladding (Figure 6), or stone veneers.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Residential buildings typically house 1-3 members during a working day, and this number goes up to 5-8 towards the late evening and night time. Non-residential reinforced concrete buildings can be commercial or public. Commercial buildings such as malls, office towers, and restaurants usually contain a higher number of occupants during the working hours. Parking plazas, although very large in floor size as well as number of floors, may contain as little as a dozen occupants at any time during the day except at rush hours. Other commercial buildings like offices and malls can house from 10-80 or more individual habitable units, each containing 2-8 workers per unit. Public buildings include religious or community centers, civic or administration buildings, hospitals, and educational facilities. These may have between 20-50 units, with users arriving and departing at fixed times (e.g. times of worship, ceremonial gatherings, and office hours). The number of inhabitants in an educational institute during the day or business hours can be up to 30-60 people per habitable unit (room, studio, or lab). The number of inhabitants during the evening can drop down to less than 5, but towards the late evening or night time the whole facility is vacated except a few watchmen. The number of individual housing units within a reinforced concrete construction depends largely on the function for which it has been designed. Functionally, RC buildings can be categorized broadly into two # Residential and Non-Residential. The subcategories within each then determine their patterns of user habitation. The plot sizes for single-unit residential buildings range from 40 square yards to over 2000. Larger plots are often completely built upon, but it is required to leave an unconstructed area (compulsory open space, COS) on either side of the constructed building on larger plots. The COS bye-laws vary under the several authorities that control construction in larger cities like Karachi, for example the Defense Housing Authority, Cantonment Boards, and Sindh Building Control Authority. Similarly, they also vary from city to city # they are different in Lahore, for example. Generally, plots up to 240 square yards are exempt from the COS requirement, but larger plots must include a defined proportion of area that is open to sky.
+
+**Number of inhabitants in a typical building of this construction type during the day:** Other
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** Other
+
+**Additional comments on number of inhabitants:** The number of inhabitants in a building during the day or business hours varies with the function of the building. A single-unit residential building usually has 1 housing unit, with 3-8 members. Shared residences can have from 2-8 housing units within the same building, giving a total of 30-60 occupants. Apartment blocks may contain dozens of habitable units, and a total occupancy count in the hundreds. Commercial buildings can contain 10-80 habitable units depending on their scale and catchment area. Office buildings may contain anywhere from 5-50 units or more, each housing 5-20 workers.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Reinforced concrete buildings are widely constructed in urban areas, and have also penetrated into the suburbs. Since these vary in plot size from 40 to 2000 square yards, they are owned by users with varying economic capacities. Smaller single-unit family houses and apartments are owned by low income users, usually towards the suburbs of the town, and higher income groups dominate exclusive residential schemes in the city center or posh localities. Family houses customarily have an attached bathroom with every bedroom, so that the minimum number of toilets in each house is 1. For commercial or office buildings, shared toilets might be present on each floor, or for a particular group of users. Generally, reinforced concrete in Karachi is the definitive material of construction across all income groups. Figures 15 and 16 show some examples of middle income and low income RC construction. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Long-term lease
+
+**Additional comments on ownership:** As they are so diverse in their functions, reinforced concrete buildings have a varying nature of ownership for each property. Residences and small commercial facilities are usually under individual ownership or renting. Larger commercial facilities and offices may be owned by a group or pool of persons, some with long term lease. Public buildings and educational facilities are usually owned and maintained by the state.
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1819 | Allahbund, Sindh | 7.2 | IX to X | 
+| 1852 | Kahan, Balochistan | 8 | IX | 
+| 1892 | Qilla Abdullah, Balochistan | 6.8 | VIII to IX | 
+| 1909 | Sibi, Balochistan | 7 | VIII to IX | 
+| 1929 | Sibi, Balochistan | 7 | VIII to IX | 
+| 1931 | Sharigh Valley, Balochistan | 7 | VIII to IX | 
+| 1935 | Quetta, Balochistan | 7.5 | VIII | 
+| 1945 | Pasni, Makran | 8.3 | VII to VIII | 
+| 2001 | Bhuj, Gujarat | 7.6 | VII | 
+| 2005 | Kashmir | 7.6 | X | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Indian plate upon which Pakistan, India and Nepal lie, is continuously moving northward and sub-ducting under the Eurasian plate, thus triggering earthquakes in the process and forming Himalayan mountains. Within the Suleiman, Hindu Kush and Karakoram mountain ranges, the Northern Areas and Chitral district in NWFP, Kashmir including Muzaffarabad, and Quetta, Chaman, Sibi, Zhob, Khuzdar, Dalbandin, the Makran coast including Gwadar and Pasni in Balochistan are located in high or very high risk areas. Cities of Islamabad, Karachi and Peshawar are located on the edges of high risk areas. Figure 17 shows the seismic zoning map of Pakistan, which was developed after 2005 Kashmir earthquake [3]. A large number of major earthquakes have hit Pakistan in 20th Century including: 1935 Quetta earthquake, 1945 Makran coast earthquake, 2001 Bhuj earthquake and 2005 Kashmir earthquake [4]. Figure 18 shows the damage to RC buildings in lower Sindh in 2001 Bhuj Earthquake. cc. Vulnerability: In most of the country, non-engineered structures have been constructed and the construction of such structures is still being experienced. The Seismic Provisions of Pakistan were developed in 2007 but have not been implemented or made building regulations so far in any part of the Country. In big cities like Karachi, Lahore and Islamabad, structural design code is part of building regulations and is followed to a much larger extent especially after the October 2005 Kashmir Earthquake. Based on this reality, the buildings constructed before October 2005 will be considered to have very little seismic resistance because no engineers were involved in most of the cases. The attitude of the people towards construction after October 2005 has been changed hence the year 2005 can be used as a year to segregate buildings constructed under low code and moderate/high code provisions. At the same time, the construction techniques in certain parts of the country have not been changed. One reason might be that certain areas do not come in the high seismic zone and others have not experienced a high intensity earthquake in the recent past. The overall seismic vulnerability rating for the RC housing types ranges from B: Medium-high to D: Medium-low vulnerability.
+
+**Additional comments on earthquake damage patterns:** Strong beam-weak column failure
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Lack of seismic design, lack of seismic detailing even if designed, beam-column joint, poor implementation of design, poor constructions quality
+
+**Earthquake-resilient features in frame:** Multiple load paths; Contribution of masonry infill panels
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Large in plane stiffness and rigid diaphragm action
+
+**Seismic deficiency in foundation:** Lack of seismic design
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%%  | o | %%-|%%  |  |  |
+
+**Additional comments section 5:** The majority of the reinforced concrete buildings damaged during the past earthquakes suffered from inadequate seismic design, detailing and poor quality of construction.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** There are no specific set of provisions available for seismic strengthening and retrofitting of RC buildings in Pakistan.
+
+**Has seismic strengthening described in the above table been performed?** The seismic strengthening and retrofitting of buildings has generally not been carried out in Pakistan. After Kashmir earthquake of 2005, some small scale projects to retrofit schools and hospitals were implemented, however, there is no data available for the seismic strengthening and retrofitting of multistoried buildings. Recently, Department of Civil Engineering, NED University of Engineering and Technology, Karachi completed a research project in collaboration with Geo-Hazard International, USA to build capacity in Pakistan to seismically retrofit essential structures [5]. The academic endeavor aimed to improve Pakistan#s capacity for reducing earthquake risk by building the capacity of universities to teach and conduct research in earthquake engineering and to transfer the knowledge needed to seismically retrofit buildings to both new graduates and practitioners. The project team from NED University and Geo-Hazards International (GHI) used case studies of existing buildings typical of the local building stock as a vehicle for building understanding of building seismic behavior, advanced structural analysis and seismic retrofit techniques [6]. Figure 22 shows a case study building in Karachi. Experienced researchers and practitioners mentored small groups of young Pakistani faculty members, professionals and students as they assessed, analyzed, and designed retrofit solutions for common yet vulnerable buildings. Figures 23 and 24 show the results of the nonlinear analysis of the building.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** 
+
+**Was the construction inspected in the same manner as new construction?** A number of retrofit schemes were proposed and implemented in the numerical models of the case study buildings to assess the seismic vulnerability of retrofit-models. These schemes included concepts like rocking spine of reinforced infill panels, adding new shear walls, column jacketing, using external steel reinforcement etc. The retrofit-models were analyzed non-linearly and required performance level was achieved.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Reinforced concrete buildings in Pakistan Badrashi, Y.I., Q. Ali, and M. Ashraf (2010) World Housing Encyclopedia, Housing Report No. 159.
+
+  * Seismic Vulnerability Assessment of Existing Buildings of Pakistan Lodi, S.H., N. Alam, and M. Ahmed (2012) Earthquake Model for Middle East Region (EMME) - Work Package 4, 2012, Department of Civil Engineering, NED University of Engineering & Technology, Karachi, Pakistan (Unpublished).
+
+  * Building Code of Pakistan - Seismic Provisions Ministry of Housing & Works, Government of Pakistan (2007).
+
+  * Seismic Hazard Analysis for the Cities of Islamabad and Rawalpindi Lindholm, C., et al. (2006) NORSAR and Pakistan Meteorological Department.
+
+  * Building Capacity in Pakistan to Seismically Retrofit Essential Structures Rafeeqi, S.F.A. and B. Tucker (2011) NED University of Engineering & Technology, Karachi, Pakistan & GeoHazards International, California, USA (Report submitted to Higher Education Commission, April 2012).
+
+  * 8-Storey Mixed Use Building in Karachi - A Case Study of Seismic Assessment and Retrofit Design Khan, R.A. and J. Rodgers (2011) NED University of Engineering & Technology, Karachi, Pakistan & GeoHazards International, USA.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Sarosh Hashmat Lodi | Professor and Dean | Faculty of Civil Engineering and Architecture, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | sarosh.lodi@neduet.edu.pk | 
+| Abdul Jabbar Sangi | Professor | Department of Civil Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | ajsangi@neduet.edu.pk | 
+| Adam Abdullah | Research Assistant Department of Earth | Department of Civil Engineering, NED University of Engineering & Technology | Karachi 75270, PAKISTAN | adam@neduet.edu.pk | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ahmet Yakut | Professor | Department of Civil Engineering, Middle East Technical University | Ankara 06800, TURKEY | ayakut@metu.edu.tr |

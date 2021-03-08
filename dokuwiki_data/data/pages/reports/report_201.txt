@@ -1,0 +1,343 @@
+====== Ductile RC Moment Frame Building, Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 201
+
+**Building Type:** Ductile RC Moment Frame Building
+
+**Country:** Colombia
+
+**Author(s):** Ana Beatriz Acevedo, Juan Diego Jaramillo, Fernando Alexis Osorio
+
+**Last Updated:** 6/26/2016
+
+**Regions Where Found:** Ductile RC frames can be mainly found in the urban area of Colombia, primarily in the big cities. The percentage of this typology of the existing housing stock is small.
+
+**Summary:** Ductile reinforced concrete frames (RC) have been mainly designed after the release of the first Colombian code (1984). Only few important buildings built before that date already included seismic design principles and thus can be considered as ductile structures.Although seismic design is mandatory since the year 1984, many RC frame structures built after that date do not fully comply with the seismic design code provisions and hence cannot be considered as ductile structures. As a consequence, the percentage of ductile RC frames in the existing housing stock is still small.The work of Salgado et al. (2013) states that only 4% of the building stock of Bogota and 11% of the building stock of Manizales are RC moment resisting frames (without differentiation between ductile and non-ductile frames). The microzonation study for Medellin and its metropolitan area (Consorcio Microzonificacion, 2006) reports that 13% of the building stock of Medellin consists of RC moment resisting frames, though again
+not differentiating their ductility level. RC frames are more common in middle-to-high socioeconomic level; Figure 1 shows the distribution of this type of buildings according to the socioeconomic level based on data from the microzonation study of Medellin. According to the microzonation study, the other municipalities of the metropolitan area (i.e., Barbosa, Bello, Caldas, Copacabana, Envigado, Girardota, Itagui, La Estrella, and Sabaneta) have a percentage of RC frames between 5% and 23%. Recent exposure models of the cities of Bogota, Medellin and Cali state percentages of ductile RC frames of the residential building stock of those cities as 8%, 6% and 4%, respectively (https://sara.openquake.org/risk).The maximum drift allowed in the seismic code of 1998 (1.0%) is smaller than the maximum drift from the 1984 code (1.5%). As RC frames are relatively flexible structures, the maximum allowed drift of 1.0% limits the maximum number of stories of this type of buildings to about 15 stories. Figure 2 shows a ductile RC fra
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** less than 15
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This type of building can be found in flat, sloped and hilly terrain. The building is usually separated from adjacent structures
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The typical shape of this building type is rectangular. Nevertheless, modern buildings may have an irregular shape as can be seen in Figure 4.
+
+**Typical plan length (meters):** 20m
+
+**Typical plan width (meters):** 10-15m
+
+**Typical story height (meters):** 2.6m
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** The gravity load-resisting system consists of reinforced-concrete moment-resisting frames. The lateral load-resisting system consists of moment-resisting frames. Three levels of energy dissipation capacity are defined for the structure (i.e., minimum, moderate, and special), accordingly to the seismic detailing of the frame elements. For a given seismic hazard (low, medium and high), the structure must comply several prescribed structural and detailing conditions which will classify the structures in one of the three levels of energy dissipation. The energy dissipation capacity is indicated by behavior factor R (or q as defined in the Eurocode provisions), a factor that reduces the elastic earthquake actions to design level forces as the structure will sustain inelastic deformations under seismic loading. The R factor for RC ductile moment-resisting frames has the value of 7.0 for special energy dissipation capacity, 5.0 for moderate energy dissipation capacity, 
+nd 2.5 for minimum dissipation capacity. Although the use of large behavior factors such as 7.0 is permitted in the Colombian Code, experienced structural engineers usually use significantly lower values.
+
+**Gravity load-bearing & lateral load-resisting systems:** The majority of buildings have unreinforced masonry infill walls (see Figures 2 and 3). Infill walls are considered as dead load and rarely considered in the seismic design, i. e., the interaction between the masonry infill and the frames is not considered in the structural analysis. The current seismic code prescribes two alternatives for non-structural elements: to separate them from the frame or to provide them with enough flexibility so they can deform along with the frame without any separation. As masonry infill walls are not flexible enough, the only alternative is to separate them from the frame elements. This alternative, although prescribed since the code of 1998, is not always fulfilled.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** As this type of building is more common in high socioeconomic levels, the main modification is the removal or change of the position of internal unreinforced masonry walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingDeep Foundation: Reinforced concrete bearing pilesDeep Foundation: Reinforced concrete skin friction pilesDeep Foundation: Cast-in-place concrete piers
+
+**Additional comments on foundation:** Foundations (either shallow or deep) are tied together by grade beams. Figure 5 shows the foundations of the 17-story building presented in Figure 4. Deep foundations were required.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Waffle slabs (cast-in-place)
+
+**Type of Roof System:** Concrete roof, unknown
+
+**Additional comments on roof system:** Solid slabs (cast-in-place)
+
+**Additional comments section 2:** 
+
+----
+
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Frame:Reinforced concreteWall: Masonry infill | R/C: f'c = 21 to 28 MPa; fy = 420 MPa. Frames: Mostly pre-mixed concrete |
+| Foundations | Reinforced concrete | f'c = 21 MPa; fy = 420 MPa. Cement/sand/aggregates.The majority of resent ductile RC building use pre-mixed concrete. |
+| Floors | Reinforced concrete or wood | RC: f'c = 21 to 28 MPa; fy = 420 MPaWood: 9.0 MPa (Abarco - Cariniana Pyriforms Miers) |
+| Roof | Reinforced concrete or wood | RC: f'c = 21 to 28 MPa; fy = 420 MPaWood: 9.0 MPa (Abarco - Cariniana Pyriforms Miers) |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineer
+
+**Roles of those involved in the design process:** Structures built under the regulations of the 1984 code needed to be designed by a civil engineer; the code did not have requirements for the constructor, the geotechnical engineer nor the architect. Technical supervision by an architect or a civil engineer was required for buildings with more than 25 units or with an area of more than 2,000 square meters.
+
+**Expertise of those involved in the design:** Structures built under the regulations of the 1998 and 2010 code need to be designed by civil engineers with graduated studies in structural engineering or a minimum of 5 years of experience in structural engineering. The geotechnical engineer has the same requirements as the structural engineer but with respect to expertise or experience in geotechnical engineering.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Other
+
+**Roles of those involved in the building process:** The constructor should be either a civil engineer or an architect with a minimum of 3 years of experience.
+
+**Expertise of those involved in building process:** The constructor should be either a civil engineer or an architect with a minimum of 3 years of experience. Technical supervision is mandatory for buildings with more than 3,000 square meters or essential facilities, and must be performed by a civil engineer or an architect with more than 5 years of experience.
+
+**Construction process and phasing:** 
+
+**Construction issues:**
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The first seismic code of Colombia dates back to 1984. Previous to this date the majority of structures were built without seismic design considerations; few engineers did seismic design mostly based on SEAOC (1966), ACI or the UBC codes.The first update of the 1984 code was done in 1998; an important change of the code of 1998 consists in more demanding drift requirements. The second and latest update of the code was done in 2010, with main changes on soil profile classification, the definition of the design response spectrum, and more demanding requirements for quality, testing and design of RC structures. Drift requirements remain invariant at the 2010 code with respect to the previous code.Reinforced-concrete frames have been commonly used in Colombia. When the first seismic code was released in 1984, a small amount of RC frames built previously to that date included seismic design. Structures designed by the criteria of the different seismic codes of Colombia should be ductile structures. Nevertheless, it must be kept in mind that in some occasions the criteria of the code are not completely followed.
+
+**Process for building code enforcement:** This housing type requires building permits. Design memories and blueprints are submitted and signed by each responsible professional (architect, structural engineer, hydraulic engineer, etc.) to the governmental organization that authorizes the construction.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes 
+
+**Additional comments on building permits and development control rules:**
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:**	In some occasions the criteria of the code are not completely followed.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:**
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The building cost is approximately US$ 1,750 per square meter (Colombian pesos 3'500,000/square meter). Building cost varies according to the socio-economic level, mainly on the cost of the non-structural elements such as facades and interior finishes such as floor material. In addition, the type of soil plays an important role on the building costs as in many occasions buildings must be supported by deep foundations.
+
+**Labor requirements:** 
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** A housing unit of this type of building is usually occupied by a single family.
+
+**Number of inhabitants in a typical building of this construction type during the day:** Other
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** Other
+
+**Additional comments on number of inhabitants:** Each building typically has between 4 to 6 housing units per floor. The average number of units for each building is 50 units. The number of inhabitants in a building during the day or business hours is approximately 80 as the majority of adult people work outside the house and children attend school during the day. At night, the number of inhabitants increases to about 200.
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** 
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgages
+
+**Additional comments on financing:** The main source of financing for the middle-income class is personal savings and commercial banks. Mortgages vary from seven to fifteen years.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Long-term lease
+
+**Additional comments on ownership:** When the owner is from the middle-income class, he/she usually lives in the unit. Many upper-income class owners buy this type of unit as a mean of investment; therefore, there are many inhabitants from the middle-income class that rent this type of housing unit.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Insurance of this type of building is available. If the owner has a mortgage on the housing unit, the mortgage will include earthquake and fire insurance. Although insurance is available, it is not common for an owner without mortgage to acquire it, mainly in low and middle-income class. In the particular case of the Pizarro earthquake of 2004, for the 45 building units "Vientos de Guadalupe" which had to be retrofitted, only half of the owners had insurance as reported in http://historico.elpais.com.co/paisonline/calionline/notas/Noviembre142005/B114N1.html.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Off
+
+**Additional comments on premium discounts:**	
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 13/8/2013 (1) | 5.75N, 78.25E. Pacific ocean, west coast. | M 6.5 | |
+| 09/02/2013(1)	| 1.11N, 77.56E. Narino, South-west region. | M 7.0| |
+| 30/09/2012(1)	| 1.97N, 76.55E. Cauca, South-west region. | M 7.1 | |
+| 10/09/2007(1)	| 2.93N, 78.21E. Pacific ocean, west coast. | M 6.8 | |
+| 15/11/2004(1)	| 4.81N, 77.70E. Pizarro. Pacific region, west coast. | M 7.2 | |
+| 25/01/1999(2)	| 4.41N, 75.72 E. Eje Cafetero, Andean region. | M 6.0 | |
+| 08/02/1995(3)	| 4.13N, 76.74 E. Valle del Cauca, South-west region. | M 6.8 | IX |
+| 18/10/1992(3)	| 7.15N, 76.84 E. Murindo(Antioquia). Andean region. | M 7.3 | |
+| 31/01/1906(2)	| 1.00N, 81.50 E. Tumaco. Pacific region, west coast. | M 8.2 | X |
+| 18/05/1875(2) | Near Cucuta, north-west region. | M 7.7 | |
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The main event that has affected ductile RC frames has been the Armenia earthquake of 1999. An overall good behavior was observed for the structural elements. In general, non-structural elements have a poor behavior in moderate earthquakes, as was the case of the earthquake of Murindo (1992) where an important economic loss took place in the city of Medellin, even though acceleration values were small (Martinez et al., 1994). The earthquake of Pizarro (2004) caused damage to several buildings in the city of Cali. Most of the damage was limited to wall cracking or wall collapses. Although structural elements sustained no damage, families needed to be evacuated in order to retrofit some buildings (http://historico.elpais.com.co/paisonline/calionline/notas/Noviembre142005/B114N1.html). A similar situation took place in the city of Bogota where the earthquake of Quetame (2008) caused damage to non-structural elements.
+
+**Additional comments on earthquake damage patterns:** (1) Red Sismologica Nacional de Colombia - RSNC(2) INGEOMINAS (1999)(3) Espinosa (2003)(4) Engdahl et al. (1998)
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | True |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | True |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | True |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | True |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | True |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | True |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | False |
+| Wall Openings |  | True |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | True |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | True |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | True |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The seismic performance of this type of building mainly depends on the seismic code used for its design (code of 1984 or codes of 1998 and 2010). There is a significant improvement on the seismic provisions of the code of 1998 with respect to the 1984; mainly in the treatment of non-structural elements and the maximum allowed drift. Regardless the existence of a seismic code, some structures are built without fully complying with the seismic regulations as there is not a proper design review by the authorities. In addition, informal construction (non-engineered structures) is common in marginal areas of the cities.The majority of ductile RC buildings include infill walls which are not considered in the design. It is common to find fragile partitions walls and their interaction with the structure may affect its seismic behavior as was observed in the Armenia earthquake of 1999 (Pujol et al., 1999). In addition, the presence of captive columns due to the masonry walls is quite common; mainly in the RC frames built prior 1998 (see Figure 6).
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Irregularities in plan and elevation may become visible in recently constructed buildings.Many of these buildings are founded in sloped and hilly terrain, which generate elevation irregularities.In some occasions the first level of this type of buildings is used as parking, which also generates an elevation irregularity.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Generally, slabs have a good performance as a diaphragm floor system.
+
+**Seismic deficiency in foundation:** If the building is located on soil with a low bearing capacity and/or in hilly terrain, sometimes piles are not long enough to reach a good type of soil.
+
+**Earthquake-resilient features in foundation:** Moderate earthquakes have shown a general good foundation performance.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |  | o |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Presence of captive columns | If the column is damaged after an earthquake, the wall is detached from the column and the column is fixed. External carbon fibers may be used to improve the column shear capacity. |
+| Strengthening of non-structural unreinforced walls | If walls are severely damaged after an earthquake, they are demolished and replaced by a reinforced wall. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?:** Yes. The Colombian seismic codes of 1998 and 2010 require vulnerability analysis and strengthening measures, if necessary, to buildings that represent a substantial hazard to human life in the event of failure (hospitals, schools, etc.). As a consequence, the described seismic strengthening provisions had been mostly performed to those types of structures and rarely to residential buildings.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Both.
+
+**Was the construction inspected in the same manner as new construction?:** The repair is usually done by an expert in retrofitting. Sometimes the owner hires a company to inspect the repair work.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** The seismic retrofit measures are usually performed by a contractor. An engineer working for the contractor or the owner is involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** There has not been an important seismic event that has tested the retrofitted buildings yet.
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * Asociacion Colombiana de Ingenieria Sismica, AIS (1984). Codigo Colombiano de Construccion Sismo Resistente CCCSR-84. Bogota: AIS.
+
+  * Asociacion Colombiana de Ingenieria Sismica, AIS (1998). Reglamento Colombiano de Construccion Sismo Resistente NSR-98, Bogota: AIS.
+
+  * Asociacion Colombiana de Ingenieria Sismica, AIS (2010). Reglamento Colombiano de Construccion Sismo Resistente NSR-10, Bogota: AIS.
+
+  * Consorcio Microzonificacion 2006 (2007). Microzonificacion y Evaluacion del Riesgo Sismico del Valle de Aburra. Area Metropolitana del Valle de Aburra.
+
+  * Engdahl, E., R. van der Hilst and R. Bulland (1998). "Global teleseismic earthquake relocation with improved travel times and procedures for depth determination". Bulletin of the Seismological Society of America, 88, 722-743.
+
+  * Espinosa A. (2003). "Historia sismica de Colombia, 1550-1830". Academia Colombiana de Ciencias Exactas, Fisicas y Naturales, Universidad del Quindio, CD-ROM.
+
+  * INGEOMINAS (1999). "Actualizacion catalogo de sismos de Colombia para estudios de amenaza sismica 1566-1998, datos de hipocentros e intensidades". Proyecto Estudio de Amenaza Sismica de Colombia, C. Alvarado (Bogota).
+
+  * Martinez, J., Parra, E., Paris, G., Forero, C., Bustamante, N., Cardona, O., y Jaramillo, J. (1994). "Los Sismos del Atrato Medio 17 y 18 de Octubre de 1992". Revista Ingeominas (2): 35-76.
+
+  * http://nisee.berkeley.edu/lessons/colombia.pdf \\ Pujol, S., Ramirez, J., y Sarria, A. (1999). "Coffee Zone, Colombia, January 25 Earthquake. Observations on the Behavior of Low-Rise Reinforced Concrete Buildings". En linea.
+
+  * http://seisan.sgc.gov.co/RNAC/ \\ Red Nacional Acelerografos de Colombia, RNAC. En linea.
+
+  * Salgado, M. A., Zuloaga, D. y Cardona, O. D. (2013). Evaluacion probabilista del riesgo sismico de Bogota y Manizales con y sin la influencia de la Calda Tear. Revista de Ingenieria. Enero-Junio: 6-13. Universidad de los Andes, Bogota D. C.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ana Beatriz Acevedo | Associate Professor | Department of Civil Engineering | Universidad EAFIT | aaceved14@eafit.edu.co |
+| Juan Diego Jaramillo | Research Professor | Department of Civil Engineering | Universidad EAFIT | jjarami@eafit.edu.co |
+| Fernando Alexis Osorio | Graduate Student | Department of Civil Engineering | Universidad EAFIT | fosorio@eafit.edu.co |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Luis Gonzalo Mejia C. |  | |  | lgm@une.net.co |
+

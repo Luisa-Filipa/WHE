@@ -1,0 +1,325 @@
+====== Prefabricated timber frame building, Slovenia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 178
+
+**Building Type:** Prefabricated timber frame building
+
+**Country:** Slovenia
+
+**Author(s):** Miha Kramar, Tomaz Pazlar
+
+**Last Updated:** 10/06/2015
+
+**Regions Where Found:** Slovenia - all regions. The buildings account for approximately 4 % of the entire housing stock in Slovenia.
+
+**Summary:** This is a typical single-family house commonly found in all Slovenian regions. They are usually low-rise with 1-2 stories. The basic building block is a prefabricated composite wall element - panel which may be of different size (large-panels were used in the past; nowadays only small-panels are produced). The wall panel consists of framing members and sheathing panels (e.g. chipboard, OSB, gypsum board, Betonyp, etc) connected with fasteners (staples or nails). The empty space between the framing is filled with insulation (e.g. mineral wool). The panels are extending through a single story and are connected at the top with a joist floor framing. A framed roof is mainly double-pitched or multi-pitched. The horizontal loading is resisted by a series of walls in both directions and roof/floor diaphragms. If properly designed, the seismic risk of such structures is relatively low due to small mass (mass is approx. a quarter of the mass of the masonry building). This was confirmed by recent earthquakes, which have not caused major damage to such buildings.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingResidential, 2 units
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Prefabricated timber frame structures are most often used for single- or two-family residences. To a lesser extent these buildin
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solid; Rectangular, solid; L-shape; Irregular plan shape
+
+**Additional comments on plan shape:** At the beginning (1960s-1970s) the geometry of the houses was very simple. Nowadays, houses are constructed of practically any shape (if necessary, steel elements are added).
+
+**Typical plan length (meters):** 12
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Stud wall frame with plywood/gypsum board sheathing
+
+**Additional comments on structural system:** The gravity load-resisting system consists of roof and floor system and panel walls. The roof system is double-pitched or multi-pitched timber roof framing made of joists, beams and rafters. The floors are also made of joists which are usually oriented in a single direction. The vertical loading is transferred from the roof and the floors to the wall panels. Within the wall panels the vertical loading is resisted by the framing, whereas the sheathing panels provide the stability in the horizontal direction. The lateral forces are resisted by a system of shear walls and floor/roof diaphragms. Horizontal forces are transferred from the roof and floors through diaphragm action to the supporting walls and eventually into the foundation. The shear walls can carry horizontal forces only in the in-plane direction while the out of plane resistance is negligible. The wood shear walls consist of framing and sheathing panels which are connected using fasteners. The fasteners deform and yield during the horizontal loading, thus allowing the ductile behaviour and energy dissipation. In Slovenia, different combinations of sheathing and fasteners have been used so far. In the past, the most frequently used sheathing was chipboard and gypsum-cardboard which was attached to the farming with staples at the distance of 15 cm. This system is considered to be less safe. More recently, oriented strand boards (OSB), gypsum fibre boards (GFB), and plywood boards have been used for the sheathing wherein the distance between the fasteners (nails or staples) has been reduced to 7.5 cm at the exterior edges.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** The average area of a window opening in the exterior walls is 1.4 sqm. The door opening area in exterior and interior bearing walls is of the order of 1.8 sqm. The windows are evenly distributed over the entire surface of the walls. The estimated overall opening area expressed as a fraction of the overall wall surface area is equal to 25 % on the sunny side of the house and approximately 10 % on the shaded side of the house. If steel elements are included in structural design, structures can have larger openings.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Due to the pre-set installations the intervention in the structural system is more difficult than in the case of the masonry buildings. Therefore, such modifications are rarely made (the number of such interventions in not known since there is no statistical data available).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** The type of foundation depends on the type of soil. Strip footing is usually used in case of stable and strong soils while mat foundation is used in other cases. Sometimes the houses are built on top of the reinforced-concrete basement slab. In general there are no differences between the building with and without basement.
+
+**Type of Floor System:** Wood-based sheets on joists or beams
+
+**Additional comments on floor system:** The rigidity of the floor diaphragm depends on the type of the sheathing. In most cases the floor is covered with panels that provide large in-plane rigidity. In rare cases, the floor is covered with planks making the floor diaphragm more flexible.
+
+**Type of Roof System:** Wooden structure with light roof covering; Wooden beams or trusses with heavy roof covering
+
+**Additional comments on roof system:** The roof diaphragm is rigid when properly braced (most cases).
+
+**Additional comments section 2:** Typical section of the prefabricated timber frame house and the composition of structural elements is shown in Figure 3.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Timber | Studs and rails: structural timber C24 (fm,k = 24 MPa); GL24 (fm,k = 24 MPa) OSB sheathing: Gmean = 1100 MPa; GFB sheathing: Gmean = 1600 MPa; Staples: fu = 900 MPa Nails: fu = 600 MPa |
+| Foundations | Reinforced concrete | Concrete: C30 (fck = 30 MPa); Steel: fy/fu = 400/500 MPa |
+| Floors | Timber | C24 (fm,k = 24 MPa) GL24 (fm,k = 24 MPa) OSB sheathing: Gmean = 1100 MPa; |
+| Roof | Timber	| C24 (fm,k = 24 MPa) GL24 (fm,k = 24 MPa) |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineer; Architect; Builder; Owner
+
+**Roles of those involved in the design process:** There are two ways to design the prefabricated timber frame building. The owner can either choose from an existing standard design or decides to build a custom house. In the first case the house has already been designed by the architect and an engineer in advance. Additional planning is usually not needed. In case of the custom design the owner tells his wishes to the engineer (sometimes the architect is also involved), then they coordinate all the details of the house until the desired layout of the house is defined. In any case, the foundations are designed by structural engineer on the basis of geological data and applied loads. The design can be made by the builder (house manufacturer) or by a separate contracter.
+
+**Expertise of those involved in the design process:** Engineer - B.Sc. in civil or structural engineering, professional license required Architect - B.Sc. in architecture, professional license required
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner; Builder; Contractor
+
+**Roles of those involved in the building process:** Houses of this type are usually built (assembled) by the manufacturer of prefabricated houses and/or their contractors. The basement, basement slab or the foundation slab (made of monolithic reinforced concrete) are usually prepared in advance by the owner who hires a mason.
+
+**Expertise of those involved in building process:** Builder and contractor - specialized expertise in various fields (assembly, electrical, mechanical installations, roofing, plastering, etc). Contractors are usually chosen by their expertise and references. In some cases the subcontractors are certified by building products manufacturers (roof, tiles, facade, joinery, etc).
+
+**Construction process and phasing:** The construction of a prefabricated timber building is technically divided into four phases: 1.) The first phase includes excavation, forming and stabilization of the ground, construction of concrete foundations. 2.) In the second phase the structure is built to the ground level (only relevant to structures with the basement). The reinforced concrete (RC) basement walls and RC basement slab is constructed. 3.) The third phase refers to the construction works on all floors including the roof. This involves erection of timber frame walls, construction of floors, installation of the roof structure and roofing. Walls and floors are prefabricated while roof structure is built on site. 4.) The fourth phase includes all the final works inside and outside the building, i.e. plastering, pavements, locksmith works, plumbing and electrical installations, carpentry (installation of windows and doors), etc. The process of building a timber frame structure begins in the factory where the workshop drawings are first elaborated. The wall panels are then constructed along with all the installation, openings and an external finish (usually without the final layer and without the building furniture). The ready-to-use panels are transported to the building site with the concrete-slab foundation prepared in advance. The assembly of a building is conducted in the following order (Figure 4): First, the external walls are placed in the position and anchored to the slab using different steel devices (threaded rods had been used in the past while more recently the hold-downs are applied on the inner side of the wall). At the corners, the walls are joined together by screws. The same procedure is repeated for the internal (partition) walls. Once the walls are erected, the joists are installed and fixed to the walls with screws. The joists are covered at the top with sheathing panels (OSB panels are mostly used). In some cases the floor structure is prefabricated. The floor structure is the basis for the next floor which is usually an attic containing only a small number of trapezoidal walls. These walls are also prefabricated and erected in the same manner as the lower floor walls. When the attic walls are set, the roof beams (wall ties) are screwed to the walls. This is followed by the installation of rafters, planks and roofing. In some cases these elements are assembled in advance in the form of prefabricated roof elements.
+
+**Construction issues:** Sometimes there are problems with assembling of prefabricated elements. If this issues are related to tolerances they are usually solved at the construction site. However, if there is a manufacturing error the prefabricated elements are replaced. Other problems encountered during construction typically relate to strong winds, fire or rainfall.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** In 2004, Slovenia adopted the Eurocode standards which replaced the former Yugoslavian standards. Since then, prefabricated timber frame structures have been designed according to Eurocode standards, in particular: Eurocode 5: Design of timber structures - Part 1-1: Common rules and rules for buildings; Eurocode 1: Actions on structures - Part 1-1: General actions - Densities, self-weight, imposed loads for buildings Eurocode 8: Design of structures for earthquake resistance - Part 1: General rules, seismic actions and rules for buildings According to the Construction Product Regulation (EU 305/2011) Timber Building Kits (including timber frame kits) are also considered as construction products. Consequently, the manufacturers have to mark their products with CE marking and issue a Declaration of Performance (DOP), based on European Technical Assessment (ETA). Currently, ETA (e.g. ETA, 2010) are prepared on the basis of Guideline for European Technical Approval ETAG 007 used as European Assessment Document (EAD).
+
+**Process for building code enforcement:** Before 2004 Yugoslav standards (JUS) were used which basically conformed to European standards.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Durability issues in case of long-term leaking/condensation.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Usually, the buildings of this type are sold to the client as a partially completed or fully completed product (i.e. turnkey house). The price of such an object depends on the finished stage of the construction, build-in materials, and complexity of the architecture. The price ranges from 500 Euro/sqm (unfinished interior, basic design) to 1,200 Euro/sqm (fully completed building, prestigious design), including VAT.
+
+**Labor requirements:** On average, the single-family house is erected in 30-40 working days depending on the size and complexity of the house. The occupation of prefabricated house is possible within 2 to 6 months, depending on the complexity of the building and the materials used.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The pattern of occupancy is determined by the family lifestyle. Family houses are usually empty during daily working hours and occupied during the afternoon, evening and night time.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** 
+
+**Typical Source of Financing:** Personal savings; Commercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright; Own with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** The insurance rate depends on the quality of the construction and on the probability of an earthquake. The quality of the construction is determined by the age of the construction while other seismically resistant features are generally not considered. The residential buildings are divided into two categories: older buildings, built before or during 1965, and newer buildings, built in 1966 or later. With regard to the probability of an earthquake, Slovenia is divided into two "seismic insurance zones". For the higher seismic zone, the annual insurance rate is 0.105 % of the building value for older buildings and 0.07 % for the newer buildings. For the lower seismic zone, the annual insurance rate is 0.07 % for older buildings and 0.045 % for newer buildings
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** Premium discount is available for new buildings in general. Seismically resistant features are generally not addressed.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | Friuly, Italy | 6.5 | IX-X | 			
+| 1998 | Bovec, Slovenia | 5.5 | VII-VIII | 			
+| 2004 | Bovec, Slovenia | 4.9 | VI-VII | 			
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No noticeable damage was observed in the past earthquakes for this construction type.
+
+**Additional comments on earthquake damage patterns:** In the north-western region of Slovenia (the area affected by the latest earthquakes), the most common form of construction are massive buildings with mainly stone walls, wooden floors and heavy roofs (because of heavy winds they use very heavy covering material). Due to this, there is very little evidence of the behavior of timber frame buildings during earthquakes. However, following the Friuli earthquake (1976) around 500 prefabricated timber frame buildings were constructed to replace the demolished houses (Vidrih, 2008). The most famous is a complex of prefabricated houses in a village called Breginj (Figure 5). The region was hit again by earthquakes in 1998 and 2004 but these earthquakes were considerably weaker and they had the epicentre in Bovec (around 15 km of air distance from Breginj) so the area of Breginj and the surrounding villages (where the prefabricated timber frame houses were erected) were not severely affected. Nevertheless, no damage was reported for these houses, which demonstrates a good seismic resistance of this type of structures (Srpcic, 2000).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Due to the relatively small mass and moderate seismicity the earthquake loading in not always the largest horizontal loading. Often the horizontal action induced by wind is dominant (Srpcic et al, 2009). Figure 6 shows a house that was damaged by the strong wind in north-western part of Slovenia.
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Insufficient anchoring of walls; Poorly implemented connections (e.g. in old houses curved metal sheets were used instead of the reinforced hold-downs or brackets); Brittle sheathing material (cardboards, plasterboards); Poor quality and small number of sheathing-to-framing connections;
+
+**Earthquake-resilient features in walls:** Low weight; Capacity design of connections and anchoring; Ductile behavior of sheathing-to-framing connections;
+
+**Seismic deficiency in frames:** N/A
+
+**Earthquake-resilient features in frame:** N/A
+
+**Seismic deficiency in roof and floors:** Insufficient in-plane rigidity of the roof or floors (joists are connected with single layer of planks)
+
+**Earthquake resilient features in roof and floors:** Large in-plane rigidity of the floors (joists are connected with multiple layers of planks or strong boards)
+
+**Seismic deficiency in foundation:** No seismic deficiencies.
+
+**Earthquake-resilient features in foundation:** N/A
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |    |  %%|-%% | o | %%-|%%  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Inadequate lateral load resistance of walls | In theory, lateral resistance of the structure can be increased with: - construction of additional walls - applying additional sheathing and/or additional fasteners However, there are no information of practical implementation of such systems. |
+| Inadequate lateral load resistance of roof | The roof structures can be restrained against lateral loading with additional bracing beams between the rafters |
+| Insufficient in-plane rigidity of the floor | The in-plane rigidity of the floor is increased by gluing/screwing additional planks and/or boards on the top, in different orientation if possible (planks at an angle of 45 degrees with respect to the existing boards) |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Since such structures are built in Slovenia only in the last 40 years and no significant earthquake damage has been reported during this period, no data is available of such intervention.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Yes - the work was done mainly as a mitigation effort.
+
+**Was the construction inspected in the same manner as new construction?** Yes - the construction was inspected in the same manner as the new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Information is not available.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Information is not available.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * SRPCIC, Jelena. Timber buildings in seismic regions past experience, present status and future development The Slovenian experience. In: Timber frame building systems : Seismic behaviour of timber buildings : Timber construction in the new millennium: preliminary proceedings : one and a half-day workshop, September 28-29, 2000, Venezia. Venezia: Management Committee, 2000
+
+  * SRPCIC, Jelena, PAZLAR, Tomaz, KNEZ, Friderik, KOPAR, Tinkara, GRKMAN, Milan. Damage caused by storms - analysis of the situation after the recent storms and proposals for short-term or long-term measures: final report: (Sept 2008 - March 2009) (in Slovene). Ljubljana: Slovenian National Building and Civil Engineering Institute, 2009
+
+  * European Technical Approval ETA-10/0310: Prefabricated building JELOVICA (Timber frame building kit), Slovenian National Building and Civil Engineering Institute, October 2010
+
+  * VIDRIH, Renato. Seismic activity of the Upper Posocje Area. Ljubljana: Ministry of Environment and Spatial Planning - Agency of the Republic of Slovenia for the Environment, Bureau of Seismology and Geology, 2008
+
+  * Final report on the implementation of post-earthquake reconstruction of infrastructure in Posocje damaged in an earthquake in 1998, Ministry of Environment and Spatial Planning, National Technical Office Bovec-Kobarid (in Slovene), 2009.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Miha Kramar | Researcher, PhD | Slovenian National Building and Civil Engineering Institute | Dimiceva 12, SI-1000 Ljubljana, Slovenia | miha.kramar@zag.si |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dr. Lars Abrahamczyk | Researcher | Bauhaus-University Weimar, Germany | Germany | lars.abrahamczyk@uni-weimar.de |

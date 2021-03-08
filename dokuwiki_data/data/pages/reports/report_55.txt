@@ -1,0 +1,320 @@
+====== Large reinforced concrete panel buildings ( Series 122, 135 and 1-464c), Russia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 55
+
+**Building Type:** Large reinforced concrete panel buildings ( Series 122, 135 and 1-464c)
+
+**Country:** Russia
+
+**Author(s):** Mark Klyachko, Igor Mortchikchin, Igor Nudga
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Russia and Central Asia. It constitutes between 20 and 100 % of the housing stock in seismic zones of Russia and Central Asia. Large panel construction of Seria 122 is common for the areas with extremely severe climate (East Siberia and North Far East), Seria 135 can be found in Russia (Siberia, Baikal Lake Region, North Caucasus) and CIS countries (Caucasus), whereas the Seria 1-464c is found in seismic prone areas of Russia (Far East-Kamchatka) and CIS (Central Asia). This type of housing construction is commonly found in urban areas.
+
+**Summary:** Large panel buildings represent one of the most common multifamily housing construction types (apartment buildings) in the former Soviet Union. Buildings of this type range from 4 to 9 stories high. This construction practice started in the 1960s and has been followed ever since. This contribution describes three different types (series) of large panel construction, known as seria 122, seria 135, and seria 1-464c. These three types (seria) are characterized by welded panel connections. The main vertical load-bearing elements, designed to carry both gravity and lateral loads, are precast reinforced concrete panels. Typically, buildings are of a regular plan and are characterized with only one interior load-bearing wall in the longitudinal direction and several walls in the transverse direction. Floor and roof structures are also made of precast reinforced concrete panels. Both wall and floor panels are of room dimensions, and the assembly of these structures consists of setting the panels in their final position and joining them in a box-type structure by means of welded joints. The methodology of achieving panel connections in large panel construction practice has significantly improved in the last 50 years. Seria 1-464c is among the first seria of large panel construction. Initially, panel joints in seria 1-464c were achieved by welding the steel elements projecting from the panels. Later on, welded joints were replaced with the monolithic joints. Seria 1-464c is characterized by a plan typical for large panel buildings with continuous walls and a typical span (2.7 m or 3.6 m) of cross walls (Figures 8 and 9). Seria 122 is characterized by discontinuous facade walls in the longitudinal direction (Figure 6). Seria 135 is characterized by a larger span of cross walls (6m) as compared to the other types (see Figure 7). Due to the large wall density, these buildings are rather rigid. Seismic resistance in this construction type is generally good, as these buildings have been exposed to several strong earthquakes in
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 4-9
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 60
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Large panel precast walls
+
+**Additional comments on structural system:** Gravity Load-Resisting System: Longitudinal and cross walls and floor slabs. Lateral-load system is a rigid 3-D box-type structure, which consists of precast reinforced concrete wall and floor panels. Panels are joined together by means of special joints (either welded or monolithic). In the initial stage of large panel construction, the panels were joined together by means of welding. Wall panels have steel plate elements at the top and bottom end which are welded with similar elements of other panels (Figure 12). The connection between the floor panels (Figure 11) and the wall panels is achieved by welding the steel elements (see Figure 13). In case of monolithic joints, vertical wall panel joints comprise of vertical steel bars projected from the panels, horizontal lapping steel and grooved panel surface. After the panel erection is complete and the steel bars are welded to the lapping steel, the gap is filled with concrete.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** 8-10 % (Seria 1-464c) 12-15% (Seria 122 and 135).
+
+**Wall Openings:** Windows: 10-15%; Doors: 5-8%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In practice, there are no significant modifications for this type of construction. Typical modification patterns include the perforation of walls with door openings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Solid precast slabs of room dimensions.
+
+**Type of Roof System:** Cast-in-place beamless reinforced concrete roof
+
+**Additional comments on roof system:** Solid precast slabs of room dimensions.
+
+**Additional comments section 2:** In hilly areas, from <1.5% to ~15% When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters. Typical Plan Dimensions: Seria 122: (for 5-story buildings) length: 36-54 m; width: 12 or 13.8 m Seria 135: (for 5-story buildings) length: 20-30 m; width: 12 or 13.8 m Seria 1-464c: (for 5-story buildings) length: 89 m; width: 11.5 m Typical Story Height: 3.0 m (Seria 122); 2.8 - 3.2 m. (Seria 135); 2.7 m (Seria 1-464c) Typical Span: 3.0 - 3.6 m (Seria 122); 3 - 6.6 m. (Seria 135); 2.7 - 3.6 m (Seria 1-464c). The typical storey height in such buildings is 3 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced concrete | 30-35 MPa (concrete cube compressive strength) 390 MPa (Steel yield stress) | 
+| Foundations | Reinforced concrete | 20 MPa (cube compressive strength) 295 MPa (Steel yield stress) | 
+| Floors | Reinforced concrete | 30-35 MPa (concrete cube compressive strength) 390 MPa (Steel yield stress) | 
+| Roof | Reinforced concrete | 30-35 MPa (concrete cube compressive strength) 390 MPa (Steel yield stress) | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The design was performed completely by engineers and architects. Engineers played a leading role in each stage of construction.
+
+**Expertise of those involved in the design process:** Expertise for design of buildings of this type was available, including the construction quality procedure developed by the author of this contribution.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is typical for this type of housing to be built by developers.
+
+**Expertise of those involved in building process:** Expertise for design of buildings of this type was available, including the construction quality procedure developed by the author of this contribution.
+
+**Construction process and phasing:** Construction of this type is carried out by special industrial complexes, including plants for panel production and the construction assembly. These complexes are specialized for this type of construction. The construction equipment includes special trucks for the transportation of panels, lifting crane, welding equipment, and concrete mixer. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** - SN-321-65 "Recommendations for the Design of Large-Panel Residential Buildings",1965. - GOST 11-309-65 "Residential Large-Panel Buildings. Technical Requirements", 1965. - SN-328-65 "Requirements for the design of Large-panel Residential Buildings in Se
+
+**Process for building code enforcement:** The process consists of issuing permits for the design & construction, including the architectural permits and urban planning/municipal permits. Designers need to have licence to practice and are responsible to follow the building codes. Building inspection is performed and the permit is issued.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Poor welding in some cases; ageing process and corrosion of steel joints.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** The maintenance is performed either by the owner (city) or (periodically) by a contractor - a maintenance firm.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 200-300 $US/sq m (per the official rate).
+
+**Labor requirements:** It takes 380 man-months to build a 4-story building with plan dimensions of 59.2m x 10.8m.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per unit (apartment). Typically, 80 housing unit(s) per each 5-storey high building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** over 200 in evening
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Government-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightLong-term lease
+
+**Additional comments on ownership:** Own outright (for unit) Long-term lease (most often)
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The insurance is available as a part of the usual property insurance. Insurance covers about 3-5% of thew total estimated property value.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | Gazly, Uzbekistan | 7 | VII (MSK) | 
+| 1976 | Gazly, Uzbekistan | 7.3 | IX (MSK) | 
+| 1984 | Gazly, Uzbekistan | 7.2 | IX (MSK) | 
+| 1988 | Spitak, Armenia | 6.9 | IX (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** 1971 Petropavlovsk, Kamchatka earthquake (Richter magnitude 7.2) - panel buildings were not damaged in this earthquake. Also, panel buildings were not damaged in the 1966 Tashkent (Uzbekistan) earthquake (I=8). However, it should be noted that large panel buildings were not located in the epicentral zone of the Tashkent earthquake; they were located in the area with intensity of less than 7 on MSK skale. Many large panel buildings were damaged in the second Gazly earthquake of 1976; this can be explained by seismic impact on the buildings already damaged in the previous Gazly earthquake that occurred in the same year (1976). Before the 1976 earthquake, the Gazly area was considered as zone of moderate seismic risk (intensity 6 per MSK scale). Consequently, buildings were not characterized with any seismic provisions. Panel joints were not adequate for seismic conditions, however in spite of that, these buildings suffered much less damage as compared to other building types. Damages to large panel buildings in the Gazly earthquake are not typical for the performance of large buildings in seismic zones. It was observed that some exterior wall panels toppled and fell off the buildings. Damage to large panel buildings in the 1976 Gazly earthquake is shown on Figure 14. Panel buildings suffered only a minor damage in the 1988 Spitak, Armenia earthquake. However, these panel buildings were of different type (Seria A1-451 KP-16/1), which is similar to the construction described in another contribution by Itskov, Ashimbayev and Chernov (Kazakhstan) on large panel construction with two longitudinal walls.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Welded connections are poor or absent; -The corrosion of the steel joints
+
+**Earthquake-resilient features in walls:** - Rigid box-type system; - Buildings of regular plan and elevation. All the walls, both in the longitudinal and cross direction, are continuous throughout the building height; - Multiple panel connections in the vertical and horizontal joints over a pa
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Corrosion of the steel joints
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%%| o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Deficient panel joints | -Installation of reinforced concrete bushing keys, -Application of reinforced gunite overlay on panel surface, - Crack injection with polymer-cement grout. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** The seismic strengthening methods outlined in the table above are considered to be effective in improving seismic resistance of large panel buildings.
+
+**Has seismic strengthening described in the above table been performed?** No. Seismic strengthening of this construction type had not been used in practice on a regular basis. Some strengthening was done after the Gazly earthquake.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Manual on Certification of Buildings and Structures in the Seismic-Prone Areas, Second Edition, CENDR, Petropavlovsk, Kamchatka, Russia, 1990.
+
+  * Klyachko M. A. Earthquakes and Us. Intergraf, Saint Peterburg, Russia, 1999 (in Russian).
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mark Klyachko | Dr./Director | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+| Igor Mortchikchin | Senior researcher | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+| Igor Nudga | Head of Dept. | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Uranova | Head of the Laboratory | KRSU | Bishkek 720000, KYRGYZSTAN | uransv@yahoo.com | 

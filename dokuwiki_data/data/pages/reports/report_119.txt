@@ -1,0 +1,324 @@
+====== Stone Masonry House : Rubble stone without/with mud/lime/cement mortar, Switzerland ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 119
+
+**Building Type:** Stone Masonry House : Rubble stone without/with mud/lime/cement mortar
+
+**Country:** Switzerland
+
+**Author(s):** Kerstin Lang, Hugo Bachmann
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in urban residential areas Basel and other cities in Switzerland, but also in German cities. This type of housing construction is commonly found in urban areas. Only around 1850 a new law came out in Basel that allowed the construction of houses outside the old town wall. In the second half of the 19th century the town spread very rapidly and soon covered the area it covers today.
+
+**Summary:** This building type was mainly constructed as residential buildings in the second half of the 19th century until the beginning of the 20th century in the vastly expanding city of Basel, but also in other Swiss cities. The buildings are made of unreinforced masonry with timber floors,are four to five stories high and are attached to each other. The unreinforced masonry walls are usually made of simple stone (more or less regularly cut) or brick masonry, the thickness of the stone masonry walls being larger. The mortar used is usually lime mortar. In some cases, a mixed masonry was used, especially at the ground floors, with larger, well cut stones for the outer layer of the facade walls and simple stones or bricks arranged behind. The buildings are rather regular in plan and elevation. However, the timber floors are often not anchored to the masonry walls and the front and back facades usually have rather large openings for the windows whereas the side walls are solid walls used as fire division wall. The seismic performance of these buildings is expected to be rather poor.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 units Residential, 10-19 unitsMixed residential/commercial
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is not being built. Masonry buildings in Switzerland today are normally built with reinforc
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 10-20
+
+**Typical plan width (meters):** 8-9
+
+**Typical story height (meters):** 2.8-3.5
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The unreinforced masonry walls also act as the gravity load-bearing structure to which the loads are transmitted by the timber floors. The lateral load-resisting system consists of unreinforced masonry walls. Various types of unreinforced masonry were used: Bricks, simple stone and rubble stone. Also a combination of different masonry was used. The type of masonry was used in specific buildings is generally not identifiable because of the plaster finish. Often for the outer layer of the facade walls, larger cut stones are used, especially at the lower floors, with simple stones (more or less regular) or bricks arranged behind. The mortar used is usually lime mortar.
+
+**Gravity load-bearing & lateral load-resisting systems:** Often a combination of different types of stones and brick was used. The mortar used is usually lime mortar.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** Ratio of the wall area to the plan area: Ground floor: Walls parallel to the facade=0.064; Walls orthogonal to the facade walls=0.064; Total wall area (sum of both directions)/plan area=0.128; Upper floors: Walls parallel to the facade=0.05; Walls orthogonal to the facade=0.055; Total wall area (sum of both directions)/plan area=0.105.
+
+**Wall Openings:** The openings for window and doors are positioned only at the front and back facades. At each floor there is typically a window every 2.5 to 2.8 meters. For typical building widths of 6 or 9 meters, there are two or three windows at the back and two or three windows at the front facade wall per story, with a total window area of about 20% of the facade walls (10% considering the overall wall surface area including the fire division walls between the buildings which have no openings).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Usually, modernizations of kitchens and bathrooms have been introduced. In the case where the ground floor is used for a commercial purpose, the ground floor windows are often enlarged and interior walls are replaced by columns of steel or reinforced concrete.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** The buildings usually have a basement. The walls from the upper floors rest on the basement walls which are made of brick or simple stone masonry with lime mortar; towards the end of the 19th century rammed concrete was also used. The basement walls rest on isolated or strip footings of masonry and later of rammed concrete. Rammed concrete started being used for foundation footings at the end of the 19th century. Instead of cement, often hydraulic limes were used as a matrix.
+
+**Type of Floor System:** Vaulted masonry floor
+
+**Additional comments on floor system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing, Wood plank, plywood or manufactured wood panels on joists supported by beams or walls The floor above the basement consists sometimes of a vaulted system whereas for the upper floors and the roof, timber beam construction is used. The timber floors do not act as rigid diaphragms. In addition the timber beams are often not anchored to the masonry walls.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** In most cases the buildings are pure residential buildings, and only in some cases the ground floor is used for a commercial purpose. In these cases the windows at the ground floor were often enhanced afterwards.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+
+| Wall/Frame | Wall: Unreinforced masonry with lime mortar | Wall: Characteristic Strength- Brick: comp. 1.2 - 1.6 MPa; Simple stone: comp. 0.8 - 1.6 MPa Mix Proportion/Dimensions- Lime mortar 1:3 | 
+| Foundations | Unreinforced masonry with lime mortar Unreinforced Concrete | Characteristic Strength: Brick: comp. 1.2 - 1.6 MPa; Simple stone: comp. 0.8 - 1.6 MPa Comp. 5 - 20 MPa Mix Proportion/Dimensions: Lime mortar 1:3 (matrix: sand) 1:3 - 1:10; since 1903 (first provisional code in Switzerland): 1:2:4 | 
+| Floors | Timber | Characteristic Strength: Flexural tensile strength in the direction of the fibre: 40 - 50 MPa Depends on type of timber | 
+| Roof | Timber | Characteristic Strength: Flexural tensile strength in the direction of the fibre: 40 - 50 MPa Depends on type of timber | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The buildings were built in the 19th century and the design was usually based on experience (i.e. thickness of walls required for a certain building height, etc.). The strengthening design would be done by an engineer. The architect would typically get involved if refurbishment is planned.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** This type of building is not built anymore.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** This type of building is not built anymore. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. Some buildings would have undergone alterations at the ground floor to accommodate shops. Refurbishments usually concern the interior. Additional stories are usually not added.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Swiss Standard SIA 266 "Masonry" (current standard). The year the first code/standard addressing this type of construction issued was 1943. The current Swiss Standard for unreinforced masonry is SIA 266 "Masonry", issued in 2003. However, the addressed building type was built before the first standard for masonry structures was issued in 1943 (Swiss Standard SIA 113). The type of masonry used at that time is no longer allowed. The most recent code/standard addressing this construction type issued was 2003.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** This type of building was built more than 100 years ago. An equivalent building in Switzerland (4-5 stories of unreinforced masonry) would cost today: 1000 - 1400 USD/m2 for structural system only 3000 - 4200 USD/m2 for entire building (with installations etc.)
+
+**Labor requirements:** This type of building is no longer built. For an equivalent building the labor requirements would be: Ca. 10 weeks for the structural system (with 4-6 workers) Ca. 20-30 weeks for entire buildings (with installations etc.).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** There is typically one apartment per floor.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** The ratio of house price / annual income is given for one apartment. It ranges from 5/1 - 6/1. Economic Level: The ratio of price of housing price unit to the annual income can be 5:1 for middle class families.
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesInvestment poolsGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Owned by group or pool
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The ordinary building insurances in Switzerland do not include earthquakes. However, specific earthquake insurances are available. The premium discounts usually depends on the value of the building and the franchise. The basic earthquake insurance normally includes damages to the building (structural and nonstructural elements) including indirect damages due to water and fire. Additional coverage can be obtained for building content, lost rent, demolishing of heavily damaged buildings, etc.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Each building typically has 5-10 housing unit(s). 4-5 units in each building. The number of units are given for a typical building with 4 to 5 stories and a building width of about 6 to 9 meters. For buildings with larger width the number of apartments increases respectively.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No damaging earthquake has occurred in Switzerland in recent decades which has damaged this specific building type. The damage patterns stated are typical damage patterns to be expected.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included - (walls): --Diagonal shear cracks. --In cases of poor bond: disintegration of the masonry wall. (roof/floors): --Slippage of the beams from their support leading to partial or total collapse of floors. --Out-of-plane failure of walls, leading also to collapse of floors.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Lateral load path: The load path from the walls to the ground is guaranteed. However, since the timber floors are generally not anchored to the walls, the load path from the floors to the walls may not be given. Building configuration: In the original configuration (as built) the buildings are regular with regards to both the plan and the elevation. However, in the cases where alterations were made at the ground floor in order to accommodate shops, the resulting ground floor is often less stiff then the upper stories. Wall proportions: the height to thickness ratio of the facade walls is always less than 13. However, for inner walls the ratio can be up to 26. Quality of building material: The use of lime mortar is no longer allowed by the codes in Switzerland.
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** --High thicknesses of the outer walls (facades and fire division walls).
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%% | | |  | |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Lack of Structural Integrity: --Floors are usually not anchored to the walls. --Flexible floor diaphragm. | #NAME? | 
+| #NAME? | #NAME? | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** So far, in Switzerland only the seismic strengthening using CFK lamellae (in some cases prestressed) has been used to increase the shear resistance of unreinforced masonry buildings (not necessarily the building type described).
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The seismic strengthening was only applied on undamaged buildings.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The strengthening design is performed by an engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There is no experience, since no earthquake has occurred in Switzerland in recent times which has damaged the specific building type. Tests on masonry walls strengthened with CFK lamellae showed an improvement of the shear resistance of the walls. An important issue concerning this type of strengthening is the anchorage of the lamellae.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Seismic vulnerability of existing buildings Lang,K. Institute of Structural Engineering, Federal Institute of Technology Z 2002
+
+  * On the Seismic Vulnerability of Existing Buildings Lang K., and Bachmann,H. Earthquake Spectra Vol. 20, February 2004
+
+  * On the Seismic Vulnerability of Existing Unreinforced Masonry Buildings Lang,K., and Bachmann,H. Journal of Earthquake Engineering, Vol. 7, No. 3 2003
+
+  * Typische Baukonstruktionen von 1860 bis 1960 Ahnert,R. and Krause,K. Verlag f 1991
+
+  * Baukonstructions-Lehre, 1. Theil Recordon,B. Lecture Notes, Polytechnischer Ingenieur Verein, Z 1892
+
+  * Verst Schwegler,G. Report No. 229, Swiss Federal Laboratories for Materials Testing and Research, D 1994
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Kerstin Lang |  | Baslerund Hofmann | Forchstrasse 395, Zurich 8029, SWITZERLAND | kerstin.lang@bhz.ch | 
+| Hugo Bachmann |  | ETH Zurich | ETH Honggerberg, Zurich 8093, SWITZERLAND |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^

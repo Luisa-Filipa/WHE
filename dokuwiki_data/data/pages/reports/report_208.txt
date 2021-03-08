@@ -71,17 +71,17 @@
 
 **Is this construction type address by codes/standards?** 
 
-**Applicable codes or standards** Codes of practice are available. There are Albanian codes and more recently designers are using relevant Eurocodes. It is not clear to what extent codes are being complied with during the design and construction processes. An example of non-compliance was observed after the Nov 26 2019 earthquake when tens of infill walls fell from their frames. In no cases were horizontal tie beams, required according to an Albanian code, constructed to prevent this type of face-load wall collapse.
+**Applicable codes or standards:** Codes of practice are available. There are Albanian codes and more recently designers are using relevant Eurocodes. It is not clear to what extent codes are being complied with during the design and construction processes. An example of non-compliance was observed after the Nov 26 2019 earthquake when tens of infill walls fell from their frames. In no cases were horizontal tie beams, required according to an Albanian code, constructed to prevent this type of face-load wall collapse.
 
-**Unit construction cost** Building permits are required for this building type. It is not clear what degree of, if any, structural quality assurance forms part of the building permit process.Construction costs are unavailable.
+**Unit construction cost:** Building permits are required for this building type. It is not clear what degree of, if any, structural quality assurance forms part of the building permit process.Construction costs are unavailable.
 
-**Day** 40
+**Day:** 40
 
-**Night** 100
+**Night:** 100
 
-**Economic level of inhabitants** Middle-income class
+**Economic level of inhabitants:** Middle-income class
 
-**Additional comments on economic level of inhabitants**
+**Additional comments on economic level of inhabitants:**
 
 ----
 
@@ -94,24 +94,25 @@
 
 The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
 
-**Is earthquake insurance for this construction type typically available** Off
+**Is earthquake insurance for this construction type typically available:** Off
 
-**Damage patterns observed in past earthquakes for this construction type** There was little damage after the September 21 Mw 5.6 Durres earthquake. However during the November 26 2019 Mw 6.4 earthquake there were a few buildings with critical structural weaknesses, such as soft-storeys and short columns that collapsed. But there was a large amount of damage to masonry partition and infill walls. Severe non-structural damage occurred to many walls located in the bottom one to five stories. This meant the buildings were dangerous and could not be inhabited until repairs were made.No shear failure was observed in columns and beams due to diagonal strut action in the infill walls.
+**Damage patterns observed in past earthquakes for this construction type:** There was little damage after the September 21 Mw 5.6 Durres earthquake. However during the November 26 2019 Mw 6.4 earthquake there were a few buildings with critical structural weaknesses, such as soft-storeys and short columns that collapsed. But there was a large amount of damage to masonry partition and infill walls. Severe non-structural damage occurred to many walls located in the bottom one to five stories. This meant the buildings were dangerous and could not be inhabited until repairs were made.No shear failure was observed in columns and beams due to diagonal strut action in the infill walls.
 
-**Seismic deficiency in seismic systems** Due to irregular column orientation in plan and "beams" that are too shallow, the frames are very flexible and therefore incompatible with the stiff and brittle non-structural walls.
+**Seismic deficiency in seismic systems:** Due to irregular column orientation in plan and "beams" that are too shallow, the frames are very flexible and therefore incompatible with the stiff and brittle non-structural walls.
 
-**Seismic deficiency in foundation** Most foundations performed well in the Nov 26 Mw 6.4 earthquake.
+**Seismic deficiency in foundation:** Most foundations performed well in the Nov 26 Mw 6.4 earthquake.
+
 ----
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A | B | C | D | E | F |
 | Seismic vulnerability class   |  |  | %%|-%% | %%-|%% |  |  |
 
-**Additional comments on vulnerability rating** These buildings with RC frame and infills have been assigned a vulnerability rating of D. Based upon the Guidelines above the buildings are less vulnerable than those not designed for seismic forces (C) but not as good as a well-designed RC ductile frames with separated non-structural partitions and infills (E).
+**Additional comments on vulnerability rating:** These buildings with RC frame and infills have been assigned a vulnerability rating of D. Based upon the Guidelines above the buildings are less vulnerable than those not designed for seismic forces (C) but not as good as a well-designed RC ductile frames with separated non-structural partitions and infills (E).
 
 ----
 

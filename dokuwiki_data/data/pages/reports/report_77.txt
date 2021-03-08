@@ -1,0 +1,325 @@
+====== Buildings protected with "disengaging reserve elements" (vyklyuchayu-shchiesya svyazi), Russian Federation ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 77
+
+**Building Type:** Buildings protected with "disengaging reserve elements" (vyklyuchayu-shchiesya svyazi)
+
+**Country:** Russian Federation
+
+**Author(s):** Jacob Eisenberg, Svetlana Uranova, Ulugbek T. Begaliev
+
+**Last Updated:** 
+
+**Regions Where Found:** This system is widely used in seismic prone areas of Russia and other states of the former Soviet Union. In Russia, there are around 140 buildings protected with this system; out of them, 120 buildings were built in North Baykal-city (Neriungry, Severobaikalsk) in 1974-76 (Baykal-Amur Railway Road), and the remaining buildings were constructed in Siberia, Kamchatka in 1980s and 1990s. There are several dozens of buildings protected by means of this system in Kyrgyzstan, Kazakhstan, Tajikistan, and Georgia. The first building protected using this system was constructed in 1972 in Sevastopol, Ukraine (former Soviet Union).
+
+**Summary:** This building type is characterized with a special system of a seismic protection called "Disengaging Reserve Elements" (DRE). DRE are installed at the ground floor level of a building, which is typically a RC frame structure. The upper part of the building, usually 9-story high, is a load-bearing wall structure, either of large panel RC construction or brick masonry construction. DRE consist of a "rigid structure" (usually RC wall panel) connected to the adjacent RC frame members by means of disengaging restraints. Disengaging restraints are sacrificial reserve elements (fuses) which serve as restraints for the "rigid structures". Typical restraints are steel plates joined together by means of rivets or steel bolts, steel bars, concrete prisms or cubes, etc. Initially, at the lower ground motion level, DRE and RC frame together; at that stage, disengaging elements transfer lateral loads to rigid structures. DRE is an adaptive seismic system and its unique feature is the (self-adjusting) rigidity and periods of vibration during an earthquake with the purpose to avoid the resonance. The system was developed by Prof. J. Eisenberg. The development started in 1970 and the first building protected using the DRE system (vyklyuchayu-shchiesya svyazi) was constructed in 1972 in Sevastopol, Ukraine (former Soviet Union). This system is widely used in seismic prone areas of Russia and Kyrgyzstan. In Russia, there are around 140 buildings protected with this system; out of them, 120 buildings were built in North Baykal-city in 1974-76 (Baykal-Amur Railway Road), and the remaining buildings were constructed in Siberia, Kamchatka in 1980s and 1990s. There are several dozens of buildings protected with this system in Kyrgyzstan, Kazakhstan, Tajikistan, and Georgia. Majority of buildings protected with this system have residential function and are occupied at the present time. Buildings of this type have not been exposed to the effects of damaging earthquakes as yet.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 unitsResidential, 50+ units
+
+**Typical number of stories:** 9
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 54
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Other: Seismic Protection Systems: Building protected with seismic dampers
+
+**Additional comments on structural system:** Gravity load-bearing structure is RC frame at the ground floor level and large precast panels or brick masonry wall construction at the upper floor levels. In Russia, upper stories in majority of buildings protected with this system are of large panel RC construction of various series (e.g. 308), and in Kyrgyzstan upper stories are of reinforced brick masonry construction. Lateral load-resisting system consists of a concrete frame at the ground floor level and the load-bearing wall structure (either large precast panel construction or brick masonry wall construction) above the ground floor level. Ground floor structure is therefore substantially more flexible as compared to the structure above. Special devices called "Disengaging Reserve Elements" (DRE) are installed at the ground floor level. DRE consist of a "rigid structure" connected to the adjacent RC frame members by means of disengaging restraints. Lateral stiffness of a "rigid structure" is substantially larger as compared to the other elements e.g. concrete columns. Typically, "rigid structures" are RC wall panels (Type 2 Figure 7). The "rigid structure" does not carry any gravity loads. Alternatively, "rigid structures" consist of spatial elements; see Type 1 Figure 6). Disengaging restraints are sacrificial reserve elements (fuses) which serve as restraints for the "rigid structures". Typical restraints are steel plates joined together by means of rivets or steel bolts, steel bars, concrete prisms or cubes, etc. Initially (at the lower ground motion levels), DRE and RC frame system (at the ground floor level) work together as a rigid structure; at that stage, disengaging elements transfer lateral loads to rigid structures (RC panels). The initial fundamental period of vibration is typically on the order of 0.3 -0.45 sec, depending on the number of stories and a structural system. However, once the lateral load exceeds the prescribed level (depending on the site seismicity and other factors), disengaging elements get broken and disconnected from the "rigid structures". At that stage, due to the suddenly increased flexibility, a building changes vibration period to a higher value of about 0.8-1.0 sec. As a result, resonance effects are avoided and seismic loads is reduced. After an earthquake, disengaging restraints need to be replaced by new elements, however the cost is not high and the replacement is not complex. It is considered that the seismic load in buildings protected with the DRE system is reduced to 1/2 of the level expected for a conventional building. Buildings with the DRE system are designed for lower level of seismic forces as compared to conventional buildings. Buildings with the DRE system were exposed to dynamic loads which simulate earthquake effects using the vibration equipment. Design recommendations for buildings protected with DRE system were developed based on numerous experimental and analytical investigations. The system was developed by Prof. J. Eisenberg. The development started in 1970 and the first building protected using the DRE system (vyklyuchayu-shchiesya svyazi) was constructed in 1972 in Sevastopol, Ukraine (former Soviet Union).
+
+**Gravity load-bearing & lateral load-resisting systems:** There is a moment-resisting RC frame at the ground floor level and load-bearing wall system (precast large panel construction - type 22 or brick masonry wall construction-type 9) at the upper floor levels. Note that brick masonry construction was not completely unreinforced - reinforced concrete elements were added at certain locations in the walls.
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. Total wall area/plan area is about 0.15. Wall density in two principal directions is not equal; in one of the directions wall density is less by 20 to 30% as compared to the other direction.
+
+**Wall Openings:** The overall window area is on the order of 15 to 35% of the exterior wall area; overall door area is approximately 10% of the interior wall area. At the upper floor levels, the overall window and door areas account for approximately 20% of the overall wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The modifications at the lower floor levels usually include non-structural (exterior and interior) walls. Typical modifications at the upper floors include perforation of walls with door and windows openings, and/or partial removal of walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footingDeep Foundation: Reinforced concrete bearing piles
+
+**Additional comments on foundation:** Type of foundation depends on soil conditions.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Precast solid slabs (large panel construction), hollow core slabs (masonry construction)
+
+**Type of Roof System:** Concrete roof, unknown
+
+**Additional comments on roof system:** Precast solid slabs (large panel construction), hollow core slabs (masonry construction)
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10-50 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced concrete | 30-35 MPa (cube compressive strength) 390 MPa (steel yield strength) | 
+| Foundations | Reinforced concrete | 10-15 MPa (cube compressive strength) 295 MPa (steel yield strength) | 
+| Floors | Reinforced concrete | 30-35 MPa (cube compressive strength) 390 MPa (steel yield strength) | 
+| Roof | Reinforced concrete | 30-35 MPa (cube compressive strength) 390 MPa (steel yield strength) | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Design of buildings of this construction type was done completely by engineers and architects. Researchers also participated in the development of design documentation. Engineers played a leading role in each stage of construction.
+
+**Expertise of those involved in the design process:** The expertise required for the design and construction of this type is available. Building designs were prepared by design institutes. The academic background of the designers is the same as for conventional construction. It is not required to have designers with high academic degrees e.g. M.Sc. and Ph.D. on the team. Construction of base isolated buildings and the approval of the designs were controlled by research institutes (State Experts) like any other new construction performed in accordance with the Building Code requirements.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** Construction is performed by builders.
+
+**Expertise of those involved in building process:** The expertise required for the design and construction of this type is available. Building designs were prepared by design institutes. The academic background of the designers is the same as for conventional construction. It is not required to have designers with high academic degrees e.g. M.Sc. and Ph.D. on the team. Construction of base isolated buildings and the approval of the designs were controlled by research institutes (State Experts) like any other new construction performed in accordance with the Building Code requirements.
+
+**Construction process and phasing:** Designs are developed in the design institutes. Specialized construction companies make precast concrete elements and perform casting of concrete in-situ. Precast elements are fabricated at the plants. The main construction equipment is the same as in the case of conventional concrete construction and it includes crane, welding equipment and concrete mixers. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** SNiP II-7-81. Building in Seismic Regions.Design Code. The year the first code/standard addressing this type of construction issued was 1981. SNiP II-7-81. Building in Seismic Regions - Design Code Recommendations for Design of Buildings with "Disengaging Reserve Elements" CNIISK, Moscow, 1987. The most recent code/standard addressing this construction type issued was 1981.
+
+**Process for building code enforcement:** Building permit will be given if the design documents have been approved by the State Experts. State Experts check the compliance of design documents with the pertinent Building Codes. According to the building bylaws, building cannot be used without the formal approval by a special committee. The committee gives the approval if design documents are complete and the construction has been carried out in compliance with the Building Codes.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** For load-bearing structure only (including the disengaging elements) the cost is about 210 US$/m#. For a similar prefabricated concrete panel building (seria 105) without disengaging elements the construction cost would be 50-200 US$/m#. Therefore, the increase in unit cost due to the installation of seismic belt is in the range from 10 to 40 %.
+
+**Labor requirements:** It would take from 12 to18 months for a team of 10 workers to construct a load-bearing structure.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In general, in a building of this type there are 3-4 housing units per building unit ("Block-Section"). One family occupies one housing unit. Depending on the size of the building (number of stories), 32 to 64 families occupy one building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** 40% poor, 60% middle class Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesGovernment-owned housing
+
+**Additional comments on financing:** Until 1990 (the breakdown of the Soviet Union), the financing for buildings of this type had been provided by the Government. At the present time, all new and existing apartment buildings are privately owned.
+
+**Type of Ownership:** RentOwn outrightUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1984 | Severobaikalsk | 4 | 5 (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Buildings protected with the Disengaging Reserve Elements were not damaged in the 1984 earthquake. Buildings of this type were tested by the special vibration equipment and subjected to dynamic loads simulating seismic effects.
+
+**Additional comments on earthquake damage patterns:** Damage of load-bearing structure is possible; however it is expected to be less as compared to buildings without the disengaging elements. (Frame earthquake damage): Damage of sacrificial elements (restraints) that are replaceable after the earthquake expected.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** A conventional building of large panel concrete construction or brick masonry construction: poor quality of panel joints and inadequate masonry strength.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Poor quality of concrete, lack of cover to the reinforcement in particular, the "as constructed"reinforcement locations do not match with the design; inadequate length of lap splices in steel rebars; inadequate confinement in the highly loaded areas.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Building damage - broken disengaging elements | Replacement of the damaged elements with the new ones | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No. Buildings of this type are already strengthened by means of disengaging reserve elements.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?** Not very often.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** These are mostly owner-built buildings. Sometimes engineers/architects are involved, if the construction is formal (government-funded or if funding is provided by international organizations) and if constructed in remote areas.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There were no reported major earthquakes after the construction was performed.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Eisenberg J.M. Construction With Disengaging Reserve Elements for Seismic Regions. Moscow, 1976.
+
+  * Eisenberg, J. et al. Applications of Seismic Isolation in the USSR. Proceedings of the Tenth World Conference on Earthquake Engineering, Balkema, Rotterdam, Vol.4, 1992, p. 2039-2044.
+
+  * Building and Construction Design in Seismic Regions Handbook. Uranova S.K., Imanbekov S.T., et al. KyrgyzNIIPStroitelstva, Building Ministry Kyrgyz Republic.Bishkek.1996.
+
+  * Eisenberg, J. and Bealiev, V.S. Operating Experience in Designing and Construction of the System of Special Seismic Isolation of Buildings and Constructions in the former Russia. Proceedings of the Eleventh World Conference on Earthquake Engineering, Pergamon, Elsevier Science Ltd., Oxford, England, 1996, Paper No. 263.
+
+  * Eisenberg, J. et al. Seismoisolation in Russia and former USSR Countries: Recent Developments. Proceedings of the International Post-SMiRt Conference Seminar, Cheju, Korea, Korea Earthquake Engineering Research Center, Seoul, Korea, 1999,Vol.1, p. 99-115.
+
+  * Experimental Buildings with Seismic Protection in Petropavlovsk-Kamchatskiy (in Russian)
+
+  * Recommendations for design of buildings with #Disengaging Reserve Elements CNIISK, Moscow 1987
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Jacob Eisenberg | Pr., Chairman | Russian National Committee for Earthquake Engineering | 4 Berezhkovsky Embankment Art 110, Moscow, 121059,Russian Federation, 007-095-945-36-28,seismo@online.ru | seismo@online.ru | 
+| Svetlana Uranova | Head of Laboratory | KRSU | Kievskai 44, Bishkek 720000, KYRGYZSTAN | uransv@yahoo.com | 
+| Ulugbek T. Begaliev | Head of Department | KNIIPC | Vost Prom ZoneCholponatisky 2,Bishkek,720571,Kyrgyzstan,996-3312-237564 | utbegaliev@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

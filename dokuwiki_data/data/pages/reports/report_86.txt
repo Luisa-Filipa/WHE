@@ -1,0 +1,328 @@
+====== Single-family wooden house, Japan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 86
+
+**Building Type:** Single-family wooden house
+
+**Country:** Japan
+
+**Author(s):** Norio Maki, Satoshi Tanaka
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Japan. Wood structures comprise a major structural type throughout Japan. Only in the Okinawa prefecture in the southern part of Japan does the non-wood structure housing stock exceed the wood structure housing stock. This type of housing construction is commonly found in both rural and urban areas. In 1993 the percentage of non-wooden structure housing in urban areas (40.8%) was larger than that in rural areas.
+
+**Summary:** Japan has a long tradition related to wood construction. The main building of the Horyuji-temple, which was constructed in the late 7th century, is the oldest existing wooden structure in the world. Most Japanese housing is of wood construction. In 1993, 68.1% of the 45.8 million units of housing stock consisted of wooden structures. However, in newly constructed housing, the percentage of wooden structures is decreasing. In 1995 the percentage of wooden structures in newly constructed housing was 45.5%. The Hanshin Awaji Earthquake Disaster in 1995 damaged many wooden structures, especially housing which was constructed according to the pre-1980 building code. Despite the severe damage at the time of the Hanshin Earthquake Disaster and governmental encouragement of seismic upgrading, retrofitting of these houses is not common.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** In 1998 single-family housing was still the major architectural type in Japan (57.5%), and 93% of single-family houses were wood
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** It is different throughout the country, depending on the location of the housing. Single-family housing in urban and suburban areas is typically just one building, and farmers' houses in rural areas consist of 2-3 buildings, including the main house, storage, etc. There are also apartment houses of wood in urban areas.
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Wooden Structure: Load-bearing Timber Frame: Post and beam frame (no special connections)
+
+**Additional comments on structural system:** Gravity load-bearing structure consists of a system of posts and beams. Wooden posts, with cross-sectional dimensions ranging from 105 to 150 mm, carry gravity loads. The roof structure is made out of wood and it is covered by roof tile or slate. The roof load is transferred to the wood frame. The roof-supporting system in Japan is different from that of western countries and it is based only on vertical and horizontal members. There are no diagonal members, common for similar construction in western countries. Japanese wooden housing is built using "post-and-beam" construction. Lateral load resistance is provided by wooden shear walls with interior diagonal brace members or alternatively, with plywood or manufactured wood panels ("particle board") nailed to the vertical wooden members. The building code regulates the number and dimensions of shear walls. Metal joints and plates are used to stiffen the wood frame in recent wooden housing. However, the traditional Japanese house did not have a diagonal brace. A thin lumber running through posts, called Nageshi, and a thick wood post, provide lateral resistance. The traditional Japanese carpenter was reluctant to use a diagonal brace because it could cause a diagonal crack in a mud-plastered wall.
+
+**Gravity load-bearing & lateral load-resisting systems:** There are several structural systems that are used in Japanese wood housing. While post and beam construction is most common, some buildings of this type are of balloon frame construction.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none. There is a wide variation in wall density.
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modification of utilities in the kitchen and bathroom, or extension of the living space is common. However, seismic retrofitting is not very common.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Infrequently, deep foundations are also used.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Timber: Thatched roof supported on wood purlins ; Wood planks or beams that support clay tiles
+
+**Type of Roof System:** Cast-in-place beamless reinforced concrete roofCast-in-place beam-supported reinforced concrete roofWooden beams or trusses with heavy roof covering
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** There is no specific data on a typical separation distance between buildings. Minimum separation distance is decided mainly by building code regulation for the insulation duration within a room. The Civil Code also regulates a minimum distance of at least 50 cm. Traditional shop houses in Japan, Machiya, do not have a separation distance between buildings When separated from adjacent buildings, the typical distance from a neighboring building is 0.5 meters. Plan Dimensions: There is a wide variation in dimensions. Typical Number of Stories: Building code regulations limit the height of wooden structures to a maximum of three stories. A special permit is necessary for wooden buildings with four or more stories. Typical Story Height: This story height measurement does not include the height of the basement. Therefore, the story height of first floor includes the typical story height, plus the height of basement and is usually 3.4 meters. Typical Span: Modular coordination is conducted according to Tatami mat size in Japanese housing. The typical module dimension in Japanese housing ranges between 0.9-1 meter. The typical span (distance between the posts) is equal to two modules (i.e. 1.8-2 m). The typical storey height in such buildings is 2.8 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Siding (synthetic resin, metal, ceramic) plywood mortar+wood mud + bamboo | The most traditional wall of Japanese wooden housing was made from mud on bamboo frame. Though mortal finish on wood frame was popular in modern wooden structure, now siding on plywood becomes most popular in ordinary wooden structure housing. | 
+| Foundations | RC No foundation (just foundation stone) | Traditional Japanese wooden structure does not have foundation. It is just put on foundation stone. | 
+| Floors | Roof tile on mud Slate Wood RC |  | 
+| Roof | Roof tile on mud Slate Wood RC | Heavy roof made of mud and roof tile caused collapse of housing at the time of 1995 Kobe earthquake. | 
+| Other | Wood RC Steel | Usage of metal joint is encouraged by a present building code. However, metal joint was not used in traditional Japanese housing. | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** Any licensed architect can design wooden structure housing. For this type of building, the role of the engineer and architect is not large. The building is designed and constructed mainly by a licensed design builder, who is a contractor responsible for both the design and construction of the structure.
+
+**Expertise of those involved in the design process:** The building standard mandates that buildings of this type must be designed by a licensed architect. The licensing system for architects in Japan is unique in that the license is issued to engineers. There are three licensing levels: Wooden Structure, Second Class, and First Class. To take the examination for a license for Wooden Structure, one must have graduated from a school of architecture or civil engineering; For a 2nd class license, two years experience in the field is required. The 1st class license requires two additional years experience after the 2nd class license is issued.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** BuilderOther
+
+**Roles of those involved in the building process:** The builder lives in this construction type.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Japanese Building Standard, The first building standard was established in 1919 and dealt mainly with buildings in urban areas, primarily large-scale wooden structure housing. In 1950, the Japanese Building Standard was issued, which addressed almost all wooden structure housing. The last amendment was issued in 2000. The main objectives of this amendment were 1) performance-based regulation, 2) enforcement of a building inspection system, 3) involvement of the private sector in building inspections.
+
+**Process for building code enforcement:** Drawing check - interim inspection - final inspection. The requirement for an interim inspection depends on the scale of the housing. Interim inspections were introduced by an amendment of the building standard in 2000.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** JPY 0.4-1 million/3.3 m2
+
+**Labor requirements:** Average cost of carpenter/day: JPY 10, 000 - 20,000 without cost
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In 1998 single-family housing still constituted the dominant housing stock (57.5%). However, the percentage of multi-family housing continued to increase from the 1965 level of 12.5% and comprised 37.8% of the housing stock in 1998. (The percentage of semi-detached housing had decreased to 4.2% by 1998). This data is based on the entire housing stock in Japan, and not just on wooden structure housing and unit base.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** In 2000 the average number of members in a Japanese family was 2.69 persons. As noted above, most wood housing is still single-family, 1 unit per building. However, for multi-family housing, the average number of units is 8.78.
+
+**Economic level of inhabitants:** 
+
+**Additional comments on economic level of inhabitants:** There is no specific data about each economic class and each housing type. In 2002 the average condominium price in Tokyo was JPY 39 million compared to the average annual salary of JPY 7.4 million.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgagesCombinationOther
+
+**Additional comments on financing:** A quasi-governmental housing loan company distributes low interest housing loans for the middle class and 32% of the housing stock constructed after World War II has been purchased through this financing.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Long-term lease
+
+**Additional comments on ownership:** 59.8% of housing was owner-occupied in 1993.
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** Maximum coverage is 50 million yen for structures and 10 million yen for personal property. The government subsidizes earthquake insurance.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** Premium discounts were issued according to the seismicity of the area, age of the building, structure type and quality of the building.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1923 | Kanto | 7.9 | 7 (JMA) estimated results | 
+| 1964 | Niigata | 7.5 | 6 (JMA) | 
+| 1995 | Hyougo-ken-Nannbu | 7.3 | 7 (JMA) | 
+| 2000 | Tottori-ken-Seibu | 7.3 | 6+(JMA) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The magnitude of each earthquake is JMA magnitude. The 1923 Kanto earthquake killed more than 140,000 people, heavily damaged 120,000 buildings and burned 440,000 buildings. Fire following earthquake was the most prevalent cause of damage. There were many earthquakes during the 1930s and 40s, such as the Tottori in 1943, which killed 1,083 people, the East Nankai in 1944, the Nankai in 1996, and the Fukui in 1949, which killed 3,769 people. There was a reduction in the number of earthquake disasters during 1950s-80s. However, the Niigata earthquake in 1964 spotlighted damage by liquefaction and the Miyagiken-oki earthquake in 1978 spotlighted damage by a landslide occurring at a hillside housing complex. The 1995 Hyogo-ken Nanbu earthquake killed 6,435 people. They died mainly from the collapse of wooden housing. In 2001 during the Tottori-ken Seibu earthquake, many wooden housing units were damaged by ground motion and liquefaction.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** All structural and architectural features related to seismic resistance, which are indicated above, refer to housing constructed according to the present building code. There are many problems found in housing that was constructed according to the pre-1980 building code.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** See Structural Features
+
+**Earthquake-resilient features in walls:** See Structural Features
+
+**Seismic deficiency in frames:** See Structural Features
+
+**Earthquake-resilient features in frame:** See Structural Features
+
+**Seismic deficiency in roof and floors:** See Structural Features
+
+**Earthquake resilient features in roof and floors:** See Structural Features
+
+**Seismic deficiency in foundation:** See Structural Features
+
+**Earthquake-resilient features in foundation:** See Structural Features
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Poor frame joint connection | Fix frame joint using metal connector or plates | 
+| Poor connection between foundation and framing | Fix using metal connector | 
+| Absence of diagonal brace | Add a diagonal brace or structural plywood into frame | 
+| Heavy roof | Use light roof tile or slate | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Yes. The new building code requires usage of metal joints and of a diagonal brace.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** In spite of encouragement by the government through low interest loans, retrofitting work for housing is not very popular. In earthquake recovery activities, people prefer to reconstruct their housing rather than to repair it with seismic upgrades with a view toward its resale value.
+
+**Was the construction inspected in the same manner as new construction?** No. Few people get building permission for repair or renovations, though the building code requires getting permission for large-scale repairs or renovations.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The contractor is the main retrofitter. Building repair by a homeowner is not so popular. Recently, some private companies that are not specialized for building construction have begun to promote housing retrofit service.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** No data.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Statistics Bureau & Statistics Center, Government of Japan: 1998 Housing and Land Survey, http://www.stat.go.jp/english/data/jyutaku/index.htm
+
+  * Non-Life Insurance Rating Organization of Japan: System of Earthquake Insurance (In Japanese), http://www.nliro.or.jp/contents/rate/index.htm
+
+  * Urban Developers' Association of Japan: Gap between price of mid-raised condominium and average annual salary (In Japanese), http://www.udaj.or.jp/kairi2002kami.htm
+
+  * Uchida, Syouya etc.: Building structure system, Ichigaya syuppansya, 2001.
+
+  * Housing Bureau, Ministry of Construction, Japanese Government: Japanese Housing rev.2, Gyousei, 1998.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Norio Maki | Chief Research Scientist | EDM, NIED, 4F Human Renovation Museum | 1-5-2 Kaigan-dori, Wakihama, Chuo-ku Kobe | maki@edm.bosai.go.jp | 
+| Satoshi Tanaka | Doctor of Enginnering | Assistant Professor | Gokanosyou Uji | tanaka@imdr.dpri.kyoto-u.ac.jp | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sajal K. Deb | Associate Professor | Dept. of Civil Engineering, Indian Institute of Technology Guwahati | Guwahati 781 039, INDIA | skdeb@iitg.ernet.in; skd_iitg@yahoo.com | 

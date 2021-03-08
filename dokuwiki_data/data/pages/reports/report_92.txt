@@ -1,0 +1,362 @@
+====== Historic, braced frame timber buildings with masonry infill ('Pombalino' buildings), Portugal ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 92
+
+**Building Type:** Historic, braced frame timber buildings with masonry infill ('Pombalino' buildings)
+
+**Country:** Portugal
+
+**Author(s):** Rafaela Cardoso, Mario Lopes, Rita Bento, Dina D'Ayala
+
+**Last Updated:** 
+
+**Regions Where Found:** This type of housing construction is commonly found in urban areas. Buildingsof this construction type can be found in downtown Lisbon, in the area near theTagus River known as Baixa. This type of building can be found elsewhere inLisbon and in other urban areas in Portugal also destroyed in 1755, such asVila Real de Santo Antonio in Algarve (in the southern part of Portugal).Because of its historical relevance, the building example described in this workis from Baixa.
+
+**Summary:** Pombalino buildings (see Figures 1, 2, 3 and 4) are historic masonry buildings that can be identified by the presence of a three-dimensional timber structure (named "gaiola pombalina"), which is enclosed in internal masonry walls above the first floor. The roofs are built with timber trusses clad with ceramic tiles and the floors are made of timber boards laid on timber joists. Ground floor walls are roughly dressed stone masonry supporting a system of vaults made of clay tiles, with stone arches. Foundations are made of short and small-diametertimber piles connected by a timber grid. These buildings were built after the 1755 earthquake when fear of new earthquakes led to the enforcement of anti-seismic provisions, such as establishing a maximum number of stories and introducing an interior timber structure called "gaiola." The buildings originally were mixed-use with commercial enterprises on the ground floor and residences on the upper floors. During the 20th century, most Pombalino buildings underwent substantial refurbishment when they were converted and occupied entirely by banks and companies. For the buildings that have maintained their original uses, the main problems result from poor maintenance.The expected collapse mechanisms due to earthquakeactions are the overturning of facades (out-of-plane) or shear failure at the plane of the walls at ground floor level (global shear mechanism), leading to a global collapse mechanism. Typical seismic strengthening of these buildings includes the introduction of a concrete/steel ring beam at the level of the roof eaves. The introduction of steel elements/pre-stressed cables or of anchors connecting parallel masonry walls is also common. Steel elements are also used to connect detached timber elements from the floors and gaiola to the masonry. New techniques applying new materials like Fibre Reinforced Polymers (FRP) are also used to increase the strength of the connections of timber elements that compose the gaiola.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 unitsMixed residential/commercial
+
+**Typical number of stories:** 4-5
+
+**Comments:** As time has passed, construction practices have changed and timber elements have progressively fallen into disuse in the three-d
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** A Pombalino building's plan is compact with a rectangular or nearly rectangular shape with symmetrical configuration (see figure 6). There are no isolated buildings as they are part of an urban block which is alsosymmetrical and with a rectangular plan shape (see Figure 7). A typical block has 7 to 8 buildings, usually a building at each corner and one on each side. Each block has a size of 70x25 m while the streets have width ranging from 5 to 20 m. The interior of each block includes a very small courtyard accessed only by the doors of the back faade.
+
+**Typical plan length (meters):** 8-16
+
+**Typical plan width (meters):** 10-20
+
+**Typical story height (meters):** 3.5-4
+
+**Type of Structural System:** Other: Hybrid Systems: Other
+
+**Additional comments on structural system:** The vertical load-resisting system is stone masonry walls. Single leaf, irregular block, stone masonry walls. Masonry vaults at the ground floor, with ceramic regular blocks and stone arches (see Figure 11). Usually, the wall thickness ofthe Pombalino buildings varies from 1.0 to 1.2 meters and is the same for all floors. The Pombalino buildings built towards the end of the nineteenth century may present two or three different wall thicknesses. The usual changes areobserved between the ground floor (1.0 to 1.2m) and the first floor (0.8 to 1.0m), and between the upper two floors. The thickness of the top floor may vary between 0.5 and 0.8m.The lateral load-resisting system is stone masonry walls. Masonry walls and a three-dimensional wood frame structure (gaiola) above the first floor, double braced with diagonal timber elements (see Figures 8, 9 and 10), form thelateral load-resisting system. The timber elements are notched together or connected by iron or metal ties, according to historical information about the construction techniques. The results of experimental tests performed on Pombalino panels, and of tests performed on masonry panels without diagonal bracing (Alvarez, 2000 and Lopes, 1986) showed that the gaiola exhibits ductile behavior and allows some energy dissipation. Connections between the timberelements, which sometimes include metallic (iron) elements, probably contribute to the observed ductile behavior. These results may be extrapolated to the performance of the entire structure. According to the construction process(first the entire gaiola was built, then the masonry infill and the exterior walls), there are reasons to believe that interior timber frames are connected to floor elements but these connections must be better characterized. The connections of interior timber frames between stories must also be better characterized.
+
+**Gravity load-bearing & lateral load-resisting systems:** The structural system can be divided into the ground floor system (masonry walls and vaults) and the gaiola system (wooden interior walls) of the floors above the first floor, described as follows: The ground to first floor level is comprised of stone masonry columns supporting stone arches and clay brickwork vaults (see Figure 11). Interior walls above the first floor are part of the gaiola. Masonry infill can be stone or clay bricks like those used at the ground floor vaults. It is usual to find both types of masonry in internal walls (see Figure 10). For the first buildings built after theearthquake, there are reasons to believe that the masonry used was rubble recycled from destroyed buildings. Otherinternal partitions are the wooden panels without structural function. Exterior walls (facades and walls betweenadjacent buildings) are stone masonry in lime mortar. Stone masonry walls (ground floor)and wooden frame withmasonry infill (floors above the first floor).
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** Typical wall density is between 20% and 24% (both ground floor and floors above). Direction parallel to facades: 14% (ground floor) and 18% (other floors ) Direction perpendicular to facades: 10% (ground floor) and 6% (other floors) All values relate to the plan area of the floor. Measurements were made considering only masonry and gaiola walls. Wall interior doors are included. The stone arches and masonry vaults at ground floor level support the interior walls of the floors above and therefore the wall density at ground floor level is smaller than at other floors.
+
+**Wall Openings:** First floor openings are all of the same type (either doors with balconies or windows), depending on the importance of the street onto which the facade opens. Windows comprise the openings of the other floors. The eaves of the roof also include openings and these might be doors orsmall windows. The original plan called for the same dimensions and horizontal spacing of the openings for all Pombalino buildings. Main facades present a regular opening grid with clearly identified masonry piers and spandrels.The number of openings in each building or on each floor varies from 3 to 6 and depends on the area of the buildingplan. If the main facade of an original building has 6 openings, approximately 26% of the overall area is for windows and 38% of the overall wall surface area is utilized for doors, measured at the floor above ground level. At the ground floor level of the same original building, the overall door area is 50% of the overall wall surface area. To prevent firepropagation between buildings, which was one of the main causes of death in the 1755 earthquake, the masonry walls between adjoining buildings have no openings and extend beyond the roofs.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** The most common modification of Pombalino buildings is the addition of bathrooms. If the floors above ground are used for residences, typically the kitchen has been altered to provide for running water. It is also common toobserve the insertion of larger shop windows on the ground floor, which sometimes demolishes all vertical masonry elements in the facades. Behind the buildings, the area at the ground floor level, once used as internal courtyards and free space, has been taken over by shops for their expansion needs. The most common adaptation of the old buildings for their new function is the introduction of elevators and new stairs and the demolition of interior walls (atground floor and at floors above). The introduction of at least one floor at the top of the building is also common.
+
+**Type of Foundation:** Deep Foundation: Wood piles
+
+**Additional comments on foundation:** It consists of wood piles. Masonry placed over a grid of connected timber piles (see Figure 12). Timber piles are very short (generally less than 5 meters), and mobilize only lateral resistance because soil with good strength capacity isusually found at a depth of 15 meters or more. Pile diameter is small (25 cm) and piles form a regular mesh. Piles were completely under water but the current water level is becoming lower and some piles are degraded. There is no evidence of foundation soil instability and some authors maintain that pile degradation is no longer important tofoundation strength capacity because the timber mesh acted as soil reinforcement at the time of construction. Baixawas rebuilt over rubble from collapsed buildings during the 1755 earthquake and the timber grid of piles would be agood measure to provide compaction. However, this is still an object of discussion and controversy.
+
+**Type of Floor System:** Plywood panels or other light-weight panels for floor
+
+**Additional comments on floor system:** Wood floors can be considered as a flexible diaphragm. The roof timber structure depends on the top floor of the building because it may include windows openings within the timber frame.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The number of pitches of the roof depends on the kind of window, which is associated with construction practices at the time the building was built.Connections between timber elements and masonry walls may have metallic elements like anchors. In the absence of these elements, connection forces are transmitted only by friction effect. The characteristics of the connection must be analyzed case by case.
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Irregular blocks of calcareous masonryset in lime mortar | Low tensile and shear strength characteristics,values not know n precisely(see Cardoso et al., 2001) | 
+| Foundations | Short and small diameter timber piles(pine) | Strength values not known(see Alvarez, 2000) | 
+| Floors | Timber elements (pine and oak) | Strength values not known | 
+| Roof | Timber elements (pine and oak) | Strength values not known | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Engineers and architects had a very important role in planning thereconstruction of the city. The plans included not only the new urban layout butalso functional and architectural aspects. Structural features were alsoexamined and seismic considerations were a main concern as the introductionof the gaiola in these buildings shows.
+
+**Expertise of those involved in the design process:** The idea of using timber frames for the gaiola and for the connections betweentimber elements was inspired by ship construction, in which the Portuguese hadgreat expertise.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** See details at Lopes at al. (2013)
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Due to time constraints, the construction process was highly organized. The gaiola and the entire wood structure were built first, then the masonry infill was placed at the same time as the exterior masonry walls were constructed. Finally,windows and doors stones were placed with the finishing work. This sequence allowed different specialists (carpenters and masonry workers) to do their jobs without interference. The construction of this type of housing takes placeincrementally over time. Typically, the building is originally not designed for its final constructed size. The reconstruction of Lisbon after the 1755 earthquake was slow due to financial and economic constraints, and it is likely that buildings in the same urban block might have been built in different years. The time gap in the construction of individual buildings may explain some of the observed architectonic variances, as seen in the roof structure and lighting for the stair wells, for example. Very often an extra floor was built at the same time as the rest of the building.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** A written document has never been found but construction rules were practiced and transmitted between carpenters and masonry workers so it is assumed that there was a code of practice. The year the first code/standard addressing this type of construction issued was1755-1758. There is no mention of regulations for this type of construction in modern building codes or seismic codes.
+
+**Process for building code enforcement:** Beginning in 1758 and during the Marqus de Pombal's governance, the penalty for failing to follow construction rules was the demolition of the building by order of the king.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Historical information indicates that the owners of the buildings which collapsed during the 1755 earthquake contracted builders, who supervised the construction. They had to respect all rules imposed by the Marqus de Pombal. Engineers and architects established these rules.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Water ingress trough the roof system can be found in some buildings.
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)No oneOther
+
+**Additional comments on maintenance and building condition:** See the sections corresponding to Socio-Economic Issues.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Since this is a construction method that is no longer practiced, values for construction costs are not available. The actual commercial value of Pombalino buildings varies and depends on whether they have been abandoned or upon how difficult it would be to get authorization to perform structural/functional changes: if the building still maintains its original structure and use, the approximate cost may be from 400 to 450 euro/m2 depending on the level of deterioration. If the building has been refurbished, the value depends on its current use. For residential use, values ranging from 1000 to 2500 euro/m2 are usually quoted. Commercial values are not related to construction values. Infact, Baixa is located in the most central part of Lisbon and this justifies the high prices quoted.
+
+**Labor requirements:** This information is not available.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family occupies one housing unit.Each building typically has 3 to 4 or 6 to 8 housing unit(s). There are 1 or 2 units per floor on above ground floors. The number of units may depend on the area of thebuilding plan: there is only one unit per floor if the number of windows is less than 4; if the number of windows ismore than 4, there can be two units per floor.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** The number of inhabitants in a building during the day or businesshours is more than 20. The number of inhabitants during the evening and night is less than 5. Some buildings belong to companies and banks and all floors have been adapted to new functions. In such cases, the number of inhabitants varies from a high number during business hours (40 to 50 workers and clients/costumers), to a smallnumber of inhabitants (mainly security people, less than 5) at night. If buildings were converted into commercialoutlets, occupancy might be as high as 200 people depending on time of day and the season.
+
+**Economic level of inhabitants:** Very low-income class (very poor)High-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Most of the residential occupants are very poor old people who have lived in the same house their entire life. Whenthe last resident dies, the building may be abandoned or sold. The housing units are rented at low prices due tohousing rent legislation that has not been revised for more than 40 years. Because of low rent rates, these buildingshave been very poorly maintained and are often in need of rehabilitation work. Lisbon's City Council has specificprograms to finance rehabilitation work and these are being gradually applied throughout the city. The rehabilitationof recently purchased buildings depends of the new owners. Building functions may change but, where residential useis maintained, housing units are adapted to provide good conditions and then rented or sold to wealthy tenants orowners.
+
+**Typical Source of Financing:** Small lending institutions/microfinance institutionsCommercial banks/mortgagesInvestment pools
+
+**Additional comments on financing:** Originally, mainly financed by private developers, perhaps with some governmental contribution. Presently, most ofthe work for rehabilitation and reuse are financed by banks or by the owners. The nature and cost of the work dependsof the intended use of the building. Small lending institutions and microfinance institutions finance the work of smalloffices and the rehabilitation of residential rented units. If the building is going to be adapted for companies or forcompletely new apartments, refurbishment is more expensive and financed by commercial banks and mortgagelenders. There is a large variation in the costs depending on the degree of intervention: they can vary from 75euros/m2for small interventions (wall painting and repair, waterproofing), to 400euros/m2 for other kind of interventions(floors replacement, bathrooms and other refurbishment). These prices do not include structural interventions, whichare more expensive.
+
+**Type of Ownership:** RentOwn with debt (mortgage or other)Units owned individually (condominium)Owned by group or poolLong-term lease
+
+**Additional comments on ownership:** Buildings adapted for banks and for other organizations that occupy entire buildings are owned by a group or pool. Ground floor shops are usually held by long-term lease. Commercial functions at the ground floor sometimes occupy the first floor. The floors above are residential units or small service offices (doctors, lawyers, specialized shops, etc), rented or owned individually.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or morecomplete coverage is unavailable. Until 2001, earthquake insurance was available. Now companies avoid this type of insurance, but this may be a temporary situation caused by the redefinition of policy in this sector. It is part of a group of risks related to housing that optionally may cover damage caused by earthquakes. Insurance cost depends on seismic zone, age, and the number of stories in a building.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1856 | 37.10 -10.50 (Atlantic Ocean, Southw est of Portugal) | 6 |  | 
+| 1909 | 38.95 -8.82 (Benavente (Centre of Portugal) | 7 | MMI IX (at epicenter) | 
+| 1969 | 35.99 -10.81 (Atlantic Ocean, Southw est of Portugal) | 7.5 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The 1909 earthquake was felt in Lisbon and caused light damage to buildings in Baixa, mainly crack openings and the fall of chimneys and external plaster. The intensity shown in the table for this earthquake is the epicentral one, inBenavente, some 40 km from Lisbon. On the basis of damage observed in Pombalino buildings and in ordinary masonry structures, it is not possible to conclude whether the Pombalino buildings performed better because all theobservable damage was light. For the other earthquakes shown in the table, with epicentres either in continental Portugal or in the Azores Islands, there is no record of significant damage to buildings in Lisbon, due to the longdistance from the epicentre.
+
+**Additional comments on earthquake damage patterns:** -Some crack openingsand fall of externalplaster. No detailedinformation available.In poorly connectedfacades, out-of-planemechanismexpected. (Walls) -Mainly fall ofchimneys. Nodetailed informationavailable. (Roof/Floors)
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The original conception of the gaiola was to resist seismic actions and this supports the prediction of a good response for this type of building.The ground floor (masonry walls) may be a weak point for the seismic behavior of thesebuildings due to its lower strength due to the absence of the gaiola. The presence and performance of metallic (iron) elements at the connections between timber elements and masonry walls in the roof and floors are not entirely clear. In fact, some cases w ere found w here the connection between timber elements and masonry dependedonly on the length of the joist seat inside the masonry. In that case, the strength of the connection depends only on the frictionbetween the materials and would be smaller if there was a metallic element. The uneven quality of the original masonry or theconstruction of different walls at various times also led to poor strength and stiffness properties. Construction practices were not thesame for buildings built in the same period, which might indicate that the quality of workmanship was not the same. As an example, itis possible to find different geometries of gaiola in the same building and there are several gaps in the connections between timberelements, which may or may not have nails. The quality of workmanship also decreased over time, as the first Pombalino buildingsshow better quality then those built in the nineteenth century. Like all masonry buildings, the presence of large openings reduces thelateral stiffness and load capacity of facades. Another significant uncertainty is how important a role the structural interventions had onbuildings because the exterior may look original but the interior can be completely modified. Removal of internal gaiola walls greatlyincreases the seismic vulnerability of Pombalino buildings.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Low resistance to out-of-plane seismic effects (overturning of facades) and collapse of the roof; Low resistance of connections between facades and perpendicular masonry walls due to bad quality of masonry at corners, that can be associated to construction of connected walls at different times; possibility of formation of a global collapse mechanism due to masonry low shear strength; Large openings reduce lateral capacity of facades. Connections between 'gaiola' walls and masonry walls may have low strength connections if there are no metallic elements; timber decay due to water ingress.
+
+**Earthquake-resilient features in walls:** Three-dimensional braced structure that reduces out-of-plane horizontal displacements of facades, contributing to reduced seismic vulnerability ofPombalino buildings; it displays ductile behavior (Cardoso et al, 2005; Kouris etal, 2014).
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Low strength connections between timber elements of roof and floor and masonry walls; timber decay due to water ingress.
+
+**Earthquake resilient features in roof and floors:** A good connection between roof/floor timber elements and masonry walls may reduce seismic vulnerability because they can contribute to reducedout of plane horizontal displacements.
+
+**Seismic deficiency in foundation:** Timber pile damage due to water level changes may cause building settlements.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** Some buildings may have metallic elements connecting timber elements (roof, floor and 'gaiola') to the facades that arenot visible from the outside because the wall thickness covers them. Each building must be evaluated individually orintegrated in a block of buildings. It is important to consider block behavior in case of relevant stiffness differencesbetween the buildings of the same block (see Ramos and Loureno, 2003 and Silva et al., 2001). Past earthquakes caused only light damage to buildings in Baixa. The damage levels were so small (Baixa was far fromepicentre) that the information was not worth recording.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low resistance to out-of-plane seismic effects(overturning of facades) and roof collapse; lowresistance of connections between facades andperpendicular masonry walls due to the bad qualityof the masonry at the connections. | Introduction of a concrete or steel beam at the top of the building, connecting the roof to walls (see Figures 13 and 14) and confining masonry. The beam is executed along the whole perimeterof the building. Sometimes, these beams are executed at the skirting board level of all floors above ground floor. Introduction of steel elements or ties (pre-stressed or not), cables, oranchors, connecting parallel masonry walls. | 
+| Masonry low shear strength may be critical to shearfailure of the building due to the formation of aglobal collapse mechanism. | Introduction of steel mesh, confining masonry structural elements of facades (see Figure 15). | 
+| Settlement due to foundation failure | Micro piles | 
+| Low strength connection between timber elements | Use of steel rods and traditional techniques for strengthening timber element connections, suchas the nails and bolts. Use of FRP in the strengthening of timber reinforced masonry loadbearingwalls (see [Cruz et al., 2001]). | 
+| Low strength connection between timber elementsand masonry walls | Introduction of steel elements, such as ties, which connect timber elements to masonry (seeFigure 16). | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Timber damage due to water ingress, creating favorable conditions for fungi and insect attack. - Substitution or repair of broken tiles and measures to waterproof the roof. Sometimes, connections between roof and facades are also reinforced during repair. Damaged timberelements are removed and replaced with new timber elements of the same geometry.
+
+**Has seismic strengthening described in the above table been performed?** The usual seismic strengthening technique utilized in design practice is toimprove the connections between the timber elements and the masonry wallsbecause this is easier to perform and is cheaper than the other interventionsmentioned. Another common strengthening technique is the introduction of tieswhich connect the facades and prevent out-of-plane displacements.Usually these techniques are not applied, but recently (mainly after year 2000)awareness has increased and therefore the number of rehabilitation works inwhich these techniques are applied has increased.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** When a intervention is going to be done, seismic mitigation should be a concernbut seismic strengthening is not the current practice because of the added costand lack of awareness on the part of owners to seismic risk.
+
+**Was the construction inspected in the same manner as new construction?** The materials and construction techniques are not the same anymore.Inspection of new construction to evaluate seismic vulnerability follows codeprovisions, whereas inspection of older buildings relies much more on theexpertise of individuals and on professional advice.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** At the time of the construction of Pombalino buildings, contractors performedconstruction according to current earthquake technical provisions. At thepresent time, contractors, following engineering advice, usually include someseismic strengthening in the construction. Generally, architects are involvedwhen construction includes not only repair but also modification, which happensin most cases.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There is no information available about seismic performance of retrofitted buildings of this type since strong earthquakes have not hit Lisbon since 1755. Some retrofit solutions are being submitted to a homologation processso performance evaluation through laboratory testing is being done. These techniques are recent and there has been no opportunity to confirm their effectiveness. Most of them were developed after observation of damage due to recent earthquakes, such as the 1998 earthquake in Azores, Portugal, and the 1997 earthquake in Umbria, Italy. The results of numerical models of masonry buildings also provided information related to their expected collapse mechanism and they inspired the design of some reinforcement solutions (see Croci, 1988).
+
+**Additional comments section 6:** The most common construction materials are steel, concrete and pine. Mortar mixes and proportions must be compatible with original materials. Besides the cost, efficiency, and durability of the strengthening solution, the feasibility of removing it from the structure without destruction must also be considered. The complexity level of any intervention is high because demolition is not desirable due to the historical importance of these buildings. Most interventions must be performed in occupied buildings, thus increasing the execution time and complexity. There is little information available about the expected effectiveness of the seismic strengthening provisions listed above.
+
+----
+
+==== 7. References ====
+
+  * Pombaline Downtown, Synthesis of a investigation work on several disciplines, since geophysical prospectingto sociologic prospective, with urban planning as objective, Lisbon City Hall, Lisboa, 2000 (in Portuguese)Alvarez,M.L.
+
+  * Structural Reinforcement of a Housing Building of XVII Century, Ingenium (in Portuguese)Appleton,J., and Em
+
+  * Seismic Evaluation of Old Masonry BuildingsCardoso,R., Lopes,M., and Bento,R.Proceedings of 12th European Conference on Earthquake Engineering, Art n 2002
+
+  * Anti-Seismic Construction - Small Buildings (in Portuguese)Carvalho,E.C., and Oliveira,C.S.ICT, Technical Information - Structures LNEC, DIT 13, Lisbon 1997
+
+  * The conservation and Structural Restoration of Architectural HeritageCroci,G.Computational Mechanics Publications 1988
+
+  * Reinforcement Techniques of traditional constructions damaged by 9/7/98 earthquake at Faial Island, Azores(in Portuguese)Costa,A., ArProceedings of S 2001
+
+  * The Use of FRP in the Strengthening of Timber Reinforced Masonry Load-bearing WallsCruz,H., Moura,J.P., and Machado,J.S.Proceedings of Historical Constructions, Possibilities of Numerical and Experimental Techniques, Guimar 2001
+
+  * Pombaline Lisbon and Illuminism (in Portuguese)FranBertrand Bookshop 1987
+
+  * Pombaline Downtown, Some Technical Innovations, 2Mascarenhas,J.LNEC, Lisbon 1994
+
+  * Promotional bulletin of Museum Building at Archaeological Nuclei of Correeiros Street # BCP FoundationMuseum BCP
+
+  * Evaluation of Seismic Performance of an Old Masonry Building in LisbonLopes,M.Proceedings of the 11th World Conference on Earthquake Engineering, Art n 1996
+
+  * Portuguese Monograph about Innovation at Building Rehabilitation (1987) (in Portuguese)LNECBuildings - LNEC Technical Report 123/88 1988
+
+  * Lisbon Downtown of Pombal, Past and FutureSantos,M.H.R.Livros Horizonte 2000
+
+  * Technical Viability of 'National Program for the Seismic Vulnerability Reduction of Building Stock' (inPortuguese)Silva,V.C.Publish at Seismic Vulnerability Reduction of Building, SPES - Portuguese Society of Seismic Engineering and GECoRPA - Association forthe Conservation and Rehabilitation of the Architectonic Patrimony 2000
+
+  * Accounting for the 'Block Effect' in Structural Interventions in Lisbon's Old 'Pombaline' DowntownBuildingsSilva,V.C., LourenHystorical Constructions, Eds Louren 2003
+
+  * Seismic Analyses of the Old Town Buildings in Baixa Pombalina, Lisbon PortugalRamos,L.F., and LourenProc. of the 9th North American Masonry Conference p.908-919 2003
+
+  * Pombalino Constructions: Description and SeismicAssessmentLopes, M., Meireles, H., Cattari, S., Bento, R., LagomarsinoS. Chapter of the book Structural Rehabilitation of Old Buildings.
+
+  * Experimental assessment of shear strength parameters onrubble stone masonry specimensMilosevic J., Gago A., Lopes M., Bento R.Construction and Building Materials, Elsevier, Vol 47, pp.1372-1380. 2013a
+
+  * Testing and Modelling the Diagonal Tension Strength ofRubble Stone Masonry PanelsMilosevic J., Lopes M., Gago A., Bento R.Engineering Structures, The Journal of earthquake, windand ocean engineering, Vol 52, pp. 581-591, 2013b
+
+  * A Hysteretic Model for "frontal" walls in Pombalino BuildingsMeireles H., Bento R., Cattari, S., Lagomarsino, S.Bulletin of Earthquake Engineering, Elsevier, Vol 10, N. 5,1481-1502, 2012(DOI: 10.1007/s10518-012-9360-0)
+
+  * Seismic assessment and retrofitting of Pombalino buildingsby nonlinear static analysisMeireles, H., Bento, R., Cattari, S., Lagomarsino, S.Earthquake and Structures (EAS), An International Journal,Techno-Press.
+
+  * Simple and complex modelling of timber-framed masonrywallsKouris, L., Meireles, H., Bento, R., Kappos, A.Bulletin of Earthquake Engineering, Elsevier, A. Ansaleditor, Springer The Netherlands Publisher, Vol. 12, No 4,
+
+  * Seismic Evaluation Of Old Masonry Buildings. Part I:Method Description And Application To A Case-Study.Cardoso, R., Lopes, M. L., Bento, R.Engineering Structures 27 pp. 20242035, 2005.(http://www.sciencedirect.com/science/article/pii/S01410296)
+
+  * Seismic Evaluation Of Old Masonry Buildings. Part II:Analysis Of Strengthening Solutions.Bento, R., Lopes, M. L., Cardoso, R.Engineering Structures 27 pp. 20142023, 2005http://www.sciencedirect.com/science/article/pii/S01410296)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Rafaela Cardoso | Professor | Dept. of Civil Engineering, Instituto Superior Tecnico | Av Rovisco Pais 1, Lisboa 1049-001, PORTUGAL | rafaela@civil.ist.utl.pt | 
+| Mario Lopes | Professor | Dept. of Civil Engineering, Instituto Superior Tecnico | Av Rovisco Pais 1, Lisboa 1049-001, PORTUGAL | mlopes@civil.ist.utl.pt | 
+| Rita Bento | Professor | Dept. of Civil Engineering, Instituto Superior Tecnico | Av Rovisco Pais 1, Lisboa 1049-001, PORTUGAL | rita.bento@tecnico.ulisboa.pt | 
+| Dina D'Ayala | Professor of Structural Engineering | University College London, Department of Civil Environmental Engineering, Bath | UK | d.dayala@ucl.ac.uk | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Paulo B. Lourenco | Associate Professor of Structural Engineering | Dept. of Civil Engineering, University of Minho Azurem | Guimaraes 4800-058, PORTUGAL | pbl@civil.uminho.pt | 

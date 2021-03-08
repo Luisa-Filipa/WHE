@@ -1,0 +1,334 @@
+====== Traditional Nawari house in Kathmandu Valley, Nepal ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 99
+
+**Building Type:** Traditional Nawari house in Kathmandu Valley
+
+**Country:** Nepal
+
+**Author(s):** Dina D'Ayala, Samanta S. R. Bajracharya
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Kathmandu Valley. This type of housing construction is commonly found in urban areas. Mainly found in the royal cities of Kathmandu, Lalitpur and Bhaktapur, however some examples are also found in smaller towns and village of the Kathmandu Valley.
+
+**Summary:** The traditional newari house is usually of rectangular plan shape and developed over three storeys. The depth of the plan is usually about six metres with facades of various widths but most commonly between 4 to 8 metres (see also Korn 1976, and NSET-Nepal 2000). The organisation of the house is usually vertical, over 3 storeys, with a spine wall running through the height, creating front and back rooms. At the upper storey the spine wall is sometimes replaced by a timber frame system so as to create a larger continuous space. The staircase is usually a single flight to one side of the plan. The typical interstorey height is quite modest, between 2.20 and 2.50 m., including the floor structure. The bathroom, where present, is found at ground floor, while the kitchen is on the top floor, usually directly under the roof. The first floor is traditionally used as bedrooms, while the second floor is used as living room and for visitors' reception. There are essentially two types of clusters of houses, either in long arrays, or around a court or chauk . In some cases the two types of clusters are adjacent with some units in common. In the arrays each house has front and back facade free. The construction of each unit is usually independent so that the facades are not continuum over party walls but each unit forms a separate cell. In such cases connection between facades and sidewalls are usually very good. The most interesting characteristic of these buildings both from an architectural and seismic point of view is the presence of the timber frame. Usually at ground floor, on the facade, to provide an open space for workshops or shops. It is also found internally at the upper storeys. In some cases the masonry only forms the outer shell while the internal structure is all made of timber elements. In the better built example of this typology there are a number of construction details, usually made of timber, which, coupled with the brick masonry walls, substantially improve the seismic performance of the overall structu
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Mixed residential/commercial
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Conservation Agencies are promoting the continued use and new construction of this type of buildings, although the building indu
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shape
+
+**Additional comments on plan shape:** The typical configuration is a rectangular plan with staircase on one side and two or more room. However corner buildings might have different configuration, like the example shown which is L shaped.
+
+**Typical plan length (meters):** 5-9
+
+**Typical plan width (meters):** 4-8
+
+**Typical story height (meters):** 2.3
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud mortar with vertical posts
+
+**Additional comments on structural system:** The vertical load-resisting system is un-reinforced masonry walls. Masonry walls and dalan frames. The lateral load-resisting system is un-reinforced masonry walls. There is no distinction between the lateral load resisting system and the gravity load-bearing structure. The masonry external walls fulfill both roles. In some traditional buildings a number of construction details, of connections between masonry walls and timber floor structures are aimed at improving lateral load-resisting capacity. The presence of horizontal timber bands to brace the masonry is rare in the sample analysed in Lalitpur. However, the traditional openings have a double frame system one flush with the outer skin of the wall, one with the internal skin, and these are connected by transversal timber elements. Timber frame bracing with diagonal members has been observed only in very few cases and only in internal dalan structures.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. 10% - 20% These are the minimum and maximum values at ground floor, where measurement were taken over a large sample. Values of minimum can be slightly higher at upper storey where there is no dalan. As buildings are usually arranged in arrays, the values refer to the observable facades, so mainly in the direction of the building along the street . In the direction normal to the street there is usually no openings, except for buildings on corners. Internal partitions in either directions have not been considered.
+
+**Wall Openings:** Openings vary in size depending on the period of construction. The older buildings have generally smaller squared windows with lintels extending well into the surrounding masonry. These also are usually built with a double frame, one within the external masonry leaf ,and one within the internal masonry leaf, slightly larger. The two frames are connected by timber elements embedded in the masonry. The size of the windows within a storey may vary depending on the use of the room. A feature of the older buildings is the San Jhya window, a richly decorated window that takes most of the facade at the third story level, with seating framed within it. Latter buildings have more homogeneous openings, usually taller and narrower of about 800 mm width and extending almost from floor to floor. In this typology spandrel above windows are very narrow. In more recent construction or alteration the concept of the San Jhya has been extended to each floor so that there is very little masonry left on the front facade of the house. In more modern construction window lintels are made of flat brickwork arches, and, in a minority of cases, by stone frames. Traditionally the openings are placed at a fair distance from the facade's edges, so leaving sufficient width for the lateral pier, constant throughout the height. This means that the pier can develop good structural behaviour, with substantial in-plane shear stiffness, and in turn most effective connection with lateral walls. In cases of building with shops or workshop, at ground floor the facade is completely open and the masonry is replaced by a timber frame called dalan. This is made of twin columns, surmounted by a capital on which sits a double beam, The two adjacent timber frames are usually connected only at the level of the beam. The dalan is most commonly found at the ground floor of the main facade of buildings in which the front room is used as shop or workshop. It is also common in upper storeys as an internal structure in place of the spine wall. The columns usually have a square cross section of about 100*100 mm minimum and 150*150 mm maximum and are pinned to the ground, 100 to 150 mm apart. The capital and the beam are also connected to the column by timber pins and the joists of the floor above sit directly on the beam, connected to this in some cases by timber pegs. Therefore the first floor joists directly support the facade of the upper storeys. The dalan usually takes most of the width of the building with only small masonry piers of about 200 mm width restraining it laterally and connecting it to the rest of the masonry box. In seismic terms the dalan can be compared with modern concrete soft storey structure and its associated failure mechanism, as all connections are simply pinned; the only lateral restraint, when present, is represented by the shear strength of the masonry piers at the edge of the facade.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The major modification consist of: updating of hygienic facilities, introduction of running water and toilets. replacement of traditional timber floor structure with concrete slab. vertical division of units. Vertical extension of units of one or more storeys with concrete frames above original masonry structure. Horizontal extension by means of lightweight structure jetties made of timber and corrugated metal sheets for one or two storeys.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place); Timber: Wood planks or beams with ballast and concrete or plaster finishing Depending on level of alteration the traditional timber floor structures might be substituted by or found together with concrete slabs at different storey or at roof level.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Depending on level of alteration the traditional timber floor structures might be substituted by or found together with concrete slabs at different storey or at roof level.
+
+**Additional comments section 2:** This building type forms part of an urban block of adjacent buildings, arranged either in rows or in square or rectangular blocks with an internal courtyard. In most case the perimeter walls of the building are independent from other, but in some cases, especially following inheritance divisions or reconstruction partywalls may be common to two buildings.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick bonded with mud mortar forming ordinary masonry. Typically, two types of bricks: ordinary sun-dried bricks of dimensions 210 x 105 x 50 mm, and fired bricks, called "dachi aapa" with the same dimensions but in the shape of a trapezoidal cross section, so that the mud bed-joint is partially covered externally by the brick. |  | 
+| Foundations |  |  | 
+| Floors | Timber joists (dimensions 100 x 70 mm) run from wall to wall at closely spaced intervals of 150 to 200 mm. Above the joists either planks or a bamboo chirpat are covered by compressed mud. |  | 
+| Roof | Timber joists (dimensions 100 x 70 mm) run from wall to wall at closely spaced intervals of 150 to 200 mm. Above the joists either planks or a bamboo chirpat are covered by compressed mud. |  | 
+| Other | The timber frame (dalan) is made of twin columns, surmounted by a capital upon which sits a double beam. Adjacent timber frames are usually connected only at the level of the beam. The columns usually have a square cross section (about 100 x 100 mm minimum and 150 x 150 mm maximum) and are pinned to the ground, 100 to 150 mm apart. |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** The building type is being studied by building industry professional with interest in conservation of the historic environment. Expertise relates mainly to rehabilitation and strengthening work, especially for seismic upgrading, although this is still a very limited activity.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** While in origin it might have been self built, this building type, in historic town centres, depending on the state of conservation is occupied by a diverse class and occupation population. Some might do self maintenance/repair but in the majority any work will be carried out by a building contractor.
+
+**Expertise of those involved in building process:** Traditionally, this type of house was self-built. Now, in some cases architects or engineers are employed if alteration or strengthening work is undertaken.
+
+**Construction process and phasing:** Not relevant, as at the moment very limited construction of this type of building occurs. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Nepal National Building Code NBC 105: 1994 Seismic design of buildings in Nepal, HMG of Nepal Ministry of Housing and Physical Planning, Department of Buildings, 1995. Nepal National Building Code NBC 202: 1994, Mandatory rules of thumb for load-bearing masonry, HMG of Nepal Ministry of Housing and Physical Planning, Department of Buildings, 1995. Nepal National Building Code NBC 203: 1994 Guidelines for earthquake resistant building construction: low strength masonry, HMG of Nepal Ministry of Housing and Physical Planning, Department of Buildings, 1995.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** The building type is already in existence, and in some cases, it would appear evident from the level of alteration that no building permit was required.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Not applicable.
+
+**Labor requirements:** Not applicable.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Multiple families, 4 brothers families are living together as joint families.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44105
+
+**Additional comments on number of inhabitants:** Only child, retired elders and house wives spent most of time in house and male members go out of house for services, business and back home after their job and take dinner jointly.
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** The house price depends on the market and location of building. Economic Level: For Middle Class the Housing Unit Price is 5,000,000 and the Annual Income is 336,000.
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** The financing of the building is duty of owner. In very few cases of important building have got grant from donors and someone take loan from bank for building. Joint family members share their income for joint expenditures. .
+
+**Type of Ownership:** RentOwned by group or pool
+
+**Additional comments on ownership:** Ownership of building hold by male members of one generation i.e. brothers of family. In the case of no brothers, the ownership goes to female members sister of family. On the separation of multiple ownership, the building would be divided into vertical ways mostly according to consideration of land division. One of the major problem in buildings structural damages due to vertical division of building as per ownership separation.
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1934 | Bihar-Nepal earthquake | 8 | VIII-IX | 
+| 1988 | Udaypur Gahri earthquake | 6.8 | VIII | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** There was very limited damage to be observed in the field at the time of collection of the data. However, from historic photographs and the observed evidence it appears that the major deficiencies relate to the in-plane failure of facades with dalan and the out of plane failure of masonry facades. Traditionally floors and roof have a very thick ballast of mud above the joist and rafter and this clearly enhance the vulnerability and makes the horizontal structures prone to collapse.
+
+**Additional comments on earthquake damage patterns:** In cases of poor bonding between leaves, disintegration of the masonry fabric is the most common damage. In cases of poor connection between facades and party walls, an out-of-plane mechanism will take place resulting in partial or total collapse of one or more walls. In cases of good connections between orthogonal walls, an in-plane mechanism will take place resulting in diagonal cracking ("X" cracks). In case of presence of dalan lateral overturning. Partial or total collapse of floor or roof structure associated with partial or total collapse of load-bearing walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The applicability of some of the statements above is limited due to a construction philosophy completely different from the modern earthquake proof approach. For instance, although the floor structures are not rigid diaphragms, the closely spaced joists and their connection to the w alls by timber pegs ensure uniform redistribution of lateral loads, 3D behavior and the continuity of load paths for lateral loads.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** Presence of pegs to anchor the wall to the floor joists-wall plates under the joist to redistribute vertical load homogeneously -timber bands along the walls and returns between the perpendicular walls to tie together both the leaves of the masonry and the walls
+
+**Seismic deficiency in frames:** Presence of dalan, without sufficient side piers at ground floors.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Original structures are flexible diaphragms. Excessive mass associated with mud layer. Substantial overhanging in some cases without supporting struts.
+
+**Earthquake resilient features in roof and floors:** In some cases the main timber structure is laid out orthogonally at different floor levels to tie-in both sets of walls.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Connection between walls | Use of steel ties at floor levels to connect front and back w alls has been proposed. |  
+| Flexible diaphragm | Inclusion of diagonal ties w ithin the interior floor structure to stiffen the floor structure and create a more rigid diaphragm has been proposed. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** This is a project proposal. Strengthening has been carried out to monumental buildings such as the royal palaces in Lalitpur and Kathmandu. In figures 16-19 examples of "Rule of thumbs for construction of load bearing masonry buildings" recommendations for the Kathmandu valley area are shown. Furthermore examples of application of these rules to a pilot building designed and built within the "Urban Management and Economic Diversification Project (UMEDP)" in the Village of Khokana is shown in figures 20-22
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** This is proposed as repair to a building which showed damage following the 1988 earthquake, specifically in plane distortion following the failure of the dalan (see figure).
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Architect and engineer where involved in the development of the strengthening.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * A Report on the Bihar Earthquake and on the Measur Brett, W. B.
+
+  * Definition of collapse mechanisms and seismic vuln D Ayala, D. and Speranza, E.
+
+  * Geohazard International, Bihar-Nepal Earthquake Lo
+
+  * On better engineering preparedness: Lessons from 1 Jain, S. K.
+
+  * The traditional architecture of the Kathmandu Vall Korn, W.
+
+  * Nepal National Building Code (NBC 105): 1994 Seism
+
+  * Seismic vulnerability assessment of hospitals in N
+
+  * Report of Building Inventory Survey, Study on eart
+
+  * Seismic strengthening of the Nepalese pagoda: Prog Ranjitkar, R. K.
+
+  * Building a disaster- resistant community in Kathma
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dina D'Ayala | Director of Postgraduate Studies, | Department of Architecture & Civil Engineering, University of Bath | ath BA2 7AY, UNITED KINGDOM | D.F.D'Ayala@bath.ac.uk | 
+| Samanta S. R. Bajracharya | Conservation Officer | Lalitpur Sub-Metropolitan City Pulchowk | UMEDP P.O. Box 8260, Lalitpur , NEPAL | samanta@mail.com.np | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

@@ -113,24 +113,25 @@
 
 === Construction Process ===
 
-**Who typically builds this construction type?:** Other
+**Who typically builds this construction type?** Other
 
-**Roles of those involved in the building process** It is built by developers or as initiative of a firm or a hotel.
+**Roles of those involved in the building process:** It is built by developers or as initiative of a firm or a hotel.
 
-**Expertise of those involved in building process**	
+**Expertise of those involved in building process:**	
 
-**Construction process and phasing** This building is not typically constructed incrementally and is designed for its final constructed size.
+**Construction process and phasing:** This building is not typically constructed incrementally and is designed for its final constructed size.
 
-**Construction issues** The main problems are associated to the construction process: construction joints badly done or existence of honeycombs.
+**Construction issues:** The main problems are associated to the construction process: construction joints badly done or existence of honeycombs.
+
 ----
 
 === Building Codes and Standards===
 
 **Is this construction type address by codes/standards?** Yes
 
-**Applicable codes or standards** Nch433.of96 Seismic Design Until 1993 the NCh433.of72 was in force. The last two numbers indicates the year since the code is in force. Provisional dispositions to design this type of buildings existed since 1966. The most recent code/standard addressing this construction type was issued 1996. Applicable national building code, material codes and seismic code/standards: Nch 433.of96 Seismic design of Buildings. The design of structural elements follows ACI 318-95, with some exceptions: reduced reinforcement cover, non-confinement at the wall ends, 16 Mpa minimum compressive strength.B.2.1 Appendix of the NCH433.0f96 Seismic Design of Buildings says: "The design of frames in buildings with "Frame with concrete shear walls-dual system", must follow at least ACI318-95 dispositions 21.8.4 and 21.8.5 when the 75% or more of the story shear in any direction of analysis is resisted by the shear walls and any frame individually resists less than 10% of the story shear. The same may apply when the seismic forces acting on the building are calculated with a reduced modification factor".B.2.2 says: "The shear wall design doesn't need to follow dispositions 21.6.6.1 to 21.6.6.4 of ACI318-95."
+**Applicable codes or standards:** Nch433.of96 Seismic Design Until 1993 the NCh433.of72 was in force. The last two numbers indicates the year since the code is in force. Provisional dispositions to design this type of buildings existed since 1966. The most recent code/standard addressing this construction type was issued 1996. Applicable national building code, material codes and seismic code/standards: Nch 433.of96 Seismic design of Buildings. The design of structural elements follows ACI 318-95, with some exceptions: reduced reinforcement cover, non-confinement at the wall ends, 16 Mpa minimum compressive strength.B.2.1 Appendix of the NCH433.0f96 Seismic Design of Buildings says: "The design of frames in buildings with "Frame with concrete shear walls-dual system", must follow at least ACI318-95 dispositions 21.8.4 and 21.8.5 when the 75% or more of the story shear in any direction of analysis is resisted by the shear walls and any frame individually resists less than 10% of the story shear. The same may apply when the seismic forces acting on the building are calculated with a reduced modification factor".B.2.2 says: "The shear wall design doesn't need to follow dispositions 21.6.6.1 to 21.6.6.4 of ACI318-95."
 
-**Process for building code enforcement** The building design must follow the NCh433.of96 code, although nobody checks this. In case of damage an arbitrage process may take place at the court of justice.
+**Process for building code enforcement:** The building design must follow the NCh433.of96 code, although nobody checks this. In case of damage an arbitrage process may take place at the court of justice.
 ----
 
 === Building Permits and Development Control Rules ===
@@ -141,26 +142,26 @@
 
 **Is this construction typically authorized as per development control rules?** Yes
 
-**Additional comments on building permits and development control rules	**
+**Additional comments on building permits and development control rules:**
 ----
 
 === Building Maintenance and Condition ===
 
-**Typical problems associated with this type of construction**	
+**Typical problems associated with this type of construction:**	
 
 **Who typically maintains buildings of this type?** Owner(s)Renter(s)
 
-**Additional comments on maintenance and building condition**
+**Additional comments on maintenance and building condition:**
 
 ----
 
 === Construction Economics ===
 
-**Unit construction cost** For an standard building construction may be 15 - 30 UF/m2 (400 - 800 US/m2 ). Selling price will be 40 - 50 UF/m2(1,050 - 1,400 $US/m2). In the last years, "intelligent buildings" had been constructed that include air conditioning,computer, energy-savings devices, etc. For this case the construction cost may be up to 30-45 UF/m2 (800 - 1,225$US/m2). Selling price will be 50 - 70 UF/m2 (1,400 - 1,850 $US/m2).
+**Unit construction cost:** For an standard building construction may be 15 - 30 UF/m2 (400 - 800 US/m2 ). Selling price will be 40 - 50 UF/m2(1,050 - 1,400 $US/m2). In the last years, "intelligent buildings" had been constructed that include air conditioning,computer, energy-savings devices, etc. For this case the construction cost may be up to 30-45 UF/m2 (800 - 1,225$US/m2). Selling price will be 50 - 70 UF/m2 (1,400 - 1,850 $US/m2).
 
-**Labor requirements** Nowadays this is quite rapid, probably one or two floors per month.
+**Labor requirements:** Nowadays this is quite rapid, probably one or two floors per month.
 
-**Additional comments section 3**
+**Additional comments section 3:**
 
 ----
 
@@ -267,7 +268,7 @@ The total width of door and window openings in a wall is: For brick masonry cons
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |
@@ -289,15 +290,15 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 **Additional comments on seismic strengthening provisions:** 
 
-**Has seismic strengthening described in the above table been performed?:** The hospital at San Antonio was repaired; however, the details are not available.
+**Has seismic strengthening described in the above table been performed?** The hospital at San Antonio was repaired; however, the details are not available.
 
-**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** This is not a common activity in Chile. The only situation when buildings are repaired is after an earthquake, when some constructive deficiencies appeared. It is normal to observe some small cracks in the concrete.
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** This is not a common activity in Chile. The only situation when buildings are repaired is after an earthquake, when some constructive deficiencies appeared. It is normal to observe some small cracks in the concrete.
 
-**Was the construction inspected in the same manner as new construction?:** 
+**Was the construction inspected in the same manner as new construction?** 
 
-**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** A contractor performed the construction, of course an architect and engineer were involved.
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** A contractor performed the construction, of course an architect and engineer were involved.
 
-**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Since 2001, no subsequent earthquake has occurred in the central zone of Chile.
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Since 2001, no subsequent earthquake has occurred in the central zone of Chile.
 
 **Additional comments section 6:** 
 

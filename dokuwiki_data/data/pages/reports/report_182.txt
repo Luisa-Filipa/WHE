@@ -1,0 +1,369 @@
+====== Timber Houses, Chile ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 182
+
+**Building Type:** Timber Houses
+
+**Country:** Chile
+
+**Author(s):** Claudia Alvarez Velasquez, Matias Hube Ginestar, Felipe Rivera Jofre, Hernan Santa Maria Oyandenel, Mariana Labarca Wyneken
+
+**Last Updated:** 
+
+**Regions Where Found:** Timber houses are mainly distributed throughout the central and southern regions of the country, being predominant between VIII and X regions. These houses represent 37% of all the houses in the country.
+
+**Summary:** This housing type is typically one or two stories high with no basement floors. It has regular plan shapes and strip or isolated footings. Timber houses are typically occupied by a single family. In general, this type of construction did not present damage during past strong earthquakes (i.e., Valparaiso 1985, Maule 2010, or Iquique 2014). Every structure must follow the Chilean General Planning and Building Ordinance (MINVU, 2014a), which indicates that the codes/standards for designing this type of structures are: NCh1990 (INN, 1986) and NCh1198 (INN, 2014).
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMulti-unit, unknown type
+
+**Typical number of stories:** 1-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** In Chile, timber dwellings are single-family houses (one to three stories high) and apartment buildings (up to four stories high
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Commonly, timber houses have regular plan shapes and there are no plan shape regulations in the codes. Therefore, an architect can design a house with irregular plan shapes as required by the owner. Low-income owners generally construct rectangular houses.
+
+**Typical plan length (meters):** 7.5m
+
+**Typical plan width (meters):** 7.5m
+
+**Typical story height (meters):** 2.4m
+
+**Type of Structural System:** Wooden Structure: Load-bearing Timber Frame: Post and beam frame (no special connections)Wooden Structure: Load-bearing Timber Frame: Wood frame (with special connections)Wooden structure: Load-bearing Timber Frame: Stud wall frame with plywood/gypsum board sheathingWooden Structure: Load-bearing Timber Frame: Wooden panel walls
+
+**Additional comments on structural system:** Three load-resisting systems are common for timber houses: solid timber structures, plate timber structures, and frame timber structures (Fritz, 2007). Frame timber structures are currently the most common type of system, and are divided into two principal methods: post-beam system and light-frame system. Light-frame system is the most used load-resisting system in the country, representing 95% of existing timber constructions. Typically, a horizontal platform is constructed independent from the timber walls (see Figure 9). Figure 10 shows a section of a house with its main structural elements. Structural elements are connected between them by different types of connections, which are: nails, bolts, screws, lag screws and metallic connectors, and the use of each one depends on the type of connection required. Horizontal diaphragms transfer gravity loads and they usually consist on framing systems (post-and-beam type), where sheathing spans between the most closely spaced beams. Short-span beams are supported by secondary beams, which are supported by larger beams (or girders). These girders transmit the vertical loads to timber walls or columns.Timber walls are classified as supporting or self-supporting walls. Supporting walls are part of the gravity load-resisting system and are placed in the perimeter and the interior of the houses. These walls are also designed to resist lateral loads. Figure 11 shows vertical, horizontal and diagonal components of a supporting timber wall. The self-supporting walls are installed as partition walls and designed to resist limited vertical loads. Figure 12a shows a detail of the intersection between a supporting wall with a self-supporting wall (Fritz, 2007). The connection between these walls can be achieved with nails of 15 cm spacing. To connect two supporting walls, it is recommended to add three bolts of 12 mm diameter at the connection (at the bottom, centre and top of the connection). Figure 12b shows nailing details between vertical and horizontal components of timber walls. For supporting timber walls, typical minimum stud dimensions are 2 x 3 inches and 2 x 4 inches for one-story and two-story timber houses, respectively. For two story houses, 2 x 3 inches minimum stud dimensions are used on the second floor. For self-supporting walls, smaller cross sections are used (Fritz, 2007).According to the General Planning and Building Ordinance (MINVU, 2014), structural analysis of walls are not required if the following conditions are satisfied: a) maximum distance between common studs of 0.5 m, b) maximum distance between noggins, and between bottom/top plates and noggins of 0.65 m, c) maximum vertical distance between top and bottom plates of 3 m, d) walls are installed in two orthogonal directions, and the maximum distance between parallel walls is 3.6 m (for larger distances braces are required), and e) in order to avoid torsional effects, the distribution of vertical elements must be symmetrical. For timber columns designed to resist gravity loads, the minimum cross section is 95 x 95 mm for one-story houses, and 145 x 145 mm for the first floor in two-story houses (MINVU, 2007).The connection between walls and horizontal platforms between floors can be achieved with lag screws. In case that wind loads are extreme, this connection must include bolts with washes, and the maximum spacing should be 80 cm (Fritz, 2007).According to the stiffness of the horizontal diaphragm to transmit horizontal forces it can be classified as rigid or flexible. Rigid diaphragms are achieved by the use of rigid wood plates on top of the girders and are common in Chile. These diaphragms transmit the lateral loads to timber shear walls, which transfer the lateral loads to the foundations (see Figure 13). Supporting timber walls must be able to resist lateral seismic and wind loads. This has been achieved in the past by using structural diagonal as bracing system (see Figure 11b). It is permitted to cut common studs to place diagonals, but maintaining the continuity of studs to the bottom/top plates (MINVU, 2014). These structural diagonals are still used in the south of Chile because of the wind loads, but the seismic performance of walls with diagonal bracing system is not adequate (Fritz, 2007). For the two last decades, plywood and Oriented Strand Boards (OSB) have been used as bracing component, which have shown a better seismic performance than structural diagonals (Fritz, 2007).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** 
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The most common modifications to timber house are the addition of a bedroom on the first or second floor, or the addition of a second floor.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Timber houses in Chile have two principal types of foundations; isolated (reinforced concrete foundation or wooden piles, see Figure 15), or spread footing (see Figure 16). For houses with isolated footings, houses are raised from the ground mostly for moisture concerns.Wooden piles are extensively used for isolated foundations. These piles have a minimum diameter of 8 cm and are supported above a gravel layer, and covered with concrete. At least 4 steel bars need to be introduced into the wooden piles in order to improve the adherence between the piles and concrete (Fritz, 2007). Figure 17a shows the distribution of wooden piles with the concrete covering while Figure 17b shows the detail of the wooden piles. Wooden piles are connected by timber main beams (see Figure 18a) which have commonly a minimum section of 2 x 8 inches or 2 x 10 inches. The horizontal timber platform is connected to the bottom plate through lag screws and to the wooden piles through bolts (see Figure 18b). Typically, the bolts have a minimum diameter of 12 mm and a length of 7 or 8 inches (Fritz, 2007).
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floorWooden beams or trusses and joists supporting light flooringWooden beams or trusses and joists supporting heavy flooring
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Wooden structure with light roof coveringRoof system, other
+
+**Additional comments on roof system:** Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles.The Ordinance in the Article 5.6.12 establishes the requirements for timber houses roofs, such as maximum dead load, connections to the structural elements, and minimum slope in snow areas.
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Timber (Radiata Pinus) | Density =450 kg/m^3(moisture less than 19%)Density =450 kg/m^3(moisture less than 19%)Structural type G2, G1, and GS:F_f = 5.4 - 11.0 MPa F_cp = 6.5 - 8.5 MPa F_tp = 4.0 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 MPa E_f = 8,900 - 10,500 MPa Structural type C16, C24, MGP 10, and MGP 12:F_f = 5.2 - 13.5 MPa F_cp = 7.5 - 15.5 MPa F_tp = 3.5 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 -1.3 MPa E_f = 7,900 - 12,700 MPaHorizontal, vertical and diagonal components:2 in. x 3 in. to 2 in. x 4 in. as minimum.Maximum height of 3 m.Maximum distance between common studs: 0.5 mMaximum distance between noggins and bottom/top plates: 0.65 mColumns:95 x 95 mm (one story) or 145 x 145 mm (two stories)Beams (see Table 4), commonly with a section of 2 in. x 8 in. or 2 in. x 10 in |
+| Foundations | Timber (Radiata Pinus)/ Reinforced concrete H10 (minimum) | Timber:Density =450 kg/m^3(moisture less than 19%)Structural type G2, G1, and GS:F_f = 5.4 - 11.0 MPa F_cp = 6.5 - 8.5 MPa F_tp = 4.0 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 MPa E_f = 8,900 - 10,500 MPa Structural type C16, C24, MGP 10, and MGP 12:F_f = 5.2 - 13.5 MPa F_cp = 7.5 - 15.5 MPa F_tp = 3.5 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 -1.3 MPa E_f = 7,900 - 12,700 MPaConcrete:f_c=25-30 MPa.Concrete:3:1:0.5(sand : cement : water)170 Kg of cement per m3 of concrete as minimum |
+| Floors | Timber (Radiata Pinus)/ Reinforced concrete H25-H30 | Timber:Density =450 kg/m^3(moisture less than 19%)Structural type G2, G1, and GS:F_f = 5.4 - 11.0 MPa F_cp = 6.5 - 8.5 MPa F_tp = 4.0 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 MPa E_f = 8,900 - 10,500 MPa Structural type C16, C24, MGP 10, and MGP 12:F_f = 5.2 - 13.5 MPa F_cp = 7.5 - 15.5 MPa F_tp = 3.5 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 -1.3 MPa E_f = 7,900 - 12,700 MPaConcrete:f_c=25-30 MPa.3:1:0.5(sand : cement : water) |
+| Roof | Timber (Radiata Pinus)/ Reinforced concrete H25-H30 | Timber:Density =450 kg/m^3(moisture less than 19%)Structural type G2, G1, and GS:F_f = 5.4 - 11.0 MPa F_cp = 6.5 - 8.5 MPa F_tp = 4.0 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 MPa E_f = 8,900 - 10,500 MPa Structural type C16, C24, MGP 10, and MGP 12:F_f = 5.2 - 13.5 MPa F_cp = 7.5 - 15.5 MPa F_tp = 3.5 - 6.0 MPa F_cn = 2.5 MPa F_cz = 1.1 -1.3 MPa E_f = 7,900 - 12,700 MPaConcrete:f_c=25-30 MPa.3:1:0.5(sand : cement : water) |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?:** EngineerArchitect
+
+**Roles of those involved in the design process:** High-income people are able to buy exclusive houses made by a particular architect or engineer. Also there is a big market on prefabricated houses, which are cheaper but have no exclusive designs, which are made by particular construction companies.
+
+**Expertise of those involved in the design process:** architect or engineer have at least 5 years of academic studies
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerBuilderContractor
+
+**Roles of those involved in the building process:** It is common to build prefabricated timber houses because they are cheaper and can be built in a shorter time. These prefabricated houses are made by construction companies. These companies have defined house models to choose from, with different dimensions, equipment and prices. On the other hand, someone can construct a house by hiring an architect and/or engineer (depending on the dimensions of the house) and a construction company to construct it. Low-income people do not hire an architect and may build the house by themselves. In the latter case, the house is constructed informally and some provisions from the codes or Ordinance may not be satisfied.Workers involved in the construction of timber houses do not have certification in most cases because it is not required. However, owners or construction companies may require a minimum expertise for hiring them.
+
+**Expertise of those involved in building process:** The structural engineer, the construction engineer, and the architect involved in the design and construction of these houses have professional degrees. They study 5 to 6 years and the professional degree is given by the University, which allows them to sign construction drawings and obtain construction permits in the Municipality. During the construction process, there is a regular inspection only if it is a project that includes several houses. The inspection is made by the ITO (onsite technical inspector), who is hired by the real estate company. Additionally, the architect and the structural engineer may visit the construction site several times during the construction, or as required by the construction company.
+
+**Construction process and phasing:** The most common type of foundation in timber houses is the use of wooden piles (see Section 3.6). The first relevant step is the excavation for the piles considering the volume of concrete covering (as seen in Figure 17a and Figure 17b), that can have a section of 40 x 40 cm. Then a layer of gravel of 8 to 10 cm of thickness is placed on the bottom of the excavation and the cylindrical wooden pile is installed above it, with steel bars previously introduced into the pile. The next step is the casting of the pile, which is embedded in the concrete. When foundations are finished, main beams are installed connecting the wooden piles and then secondary beams are connected to the main ones (see Figure 18a). Subsequently, the timber board is commonly nailed to the beams conforming the first floor platform.The platform system allows building independently the supporting (external/internal walls) and self-supporting walls (wall-partitions) above the floor platform. The most common type of platform is the timber platform (Figure 22), but concrete platforms also exist (in case that spread concrete foundation was used). Walls can be built externally while platform floor is being built, and then these can be installed through lag screws or bolts (see Figure 9b). The second floor platform consists of horizontal timber elements, which are independent from the external walls and wall-partitions, and are located upon the sills of walls (Figure 23). In general, the beams of the horizontal platform match with the vertical elements of vertical trusses (Figure 9a, Fritz, 2007). The various types of connection elements used are: nails, bolts, screws, lag screws, and metallic connectors. The roof is constructed after all the vertical elements have been set. Figure 24 shows a typical roof framing of a timber house (Fritz, 2007). When all the timber structural elements of the roof are installed, the roofing sheet elements are screwed or nailed onto the roof structure.
+
+**Construction issues:**
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** Timber houses must follow the General Planning and Building Ordinance. In addition, the design of these houses must follow the following construction codes: NCh1198 (INN, 2014) and NCh 1990 (INN, 1986).Article 5.3.1 of the Ordinance indicates that there are two types of timber structures: a) type E, which are constructions with timber supporting structure, timber panels made of fibre-cement, gypsum plasterboard, and/or adobe wallboard partitions, and timber floors; and b) type H, which are timber prefabricated constructions, panels made of timber, fibre-cement, gypsum plasterboard or similar, and timber floors. Structures of type H cannot have more than two stories, and 2.6 m of clear height for each floor. Timber elements of structure type E and H have to follow Article 5.6.8 of the Ordinance that establishes required moisture and durability depending on location and timber specie. Articles between 5.6.9 and 5.6.13 contain requirements for beam sections, maximum span, partition walls (vertical diaphragms, roofs, pillars, foundations, and others.According to Article 5.6.7 of the Ordinance, timber structures must be subjected to structural analysis only if they have more than two stories or more than 7 meters height. Article 5.1.7 indicates that for structures of type E with an occupancy load of less than 20 people, it is possible to not require a structural calculation and design, and only must follow Title 5 Chapter 6 of the Ordinance.In case that the timber house requires a structural analysis, the seismic code, Decree DS61 (MINVU, 2011) and NCh433 (INN, 2009), indicates that seismic forces in timber houses may be obtained using the static analysis method and accidental torsion needs to be considered.
+
+**Process for building code enforcement:** 
+
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** No
+
+**Is this construction typically authorized as per development control rules?:** Yes
+
+**Additional comments on building permits and development control rules:** The construction permits are regulated and given by the Municipalities. Each Municipality is in charge of the master plan of the zone or city. Additionally, a Municipality permit is required to expand or modify an existing structure. According to Article 5.1.6 of the General Planning and Building Ordinance (MINVU, 2014a), to obtain the permits for a project it is necessary to hand over the following documents to the Municipality Building Director:1) Application signed by the owner and the architect of the project with the following attached documents:- A list of all the documents and architectural drawings signed by the architect.- Statement of the owner indicating being the owner of the domain of the property.- Special conditions of the project.- All the professionals of the project.- A statement indicating if the project consults public buildings or not.- If the project has a favourable report of an independent reviewer and the identity of this reviewer.- If the project has a favourable report of a structural design reviewer and the identity of this reviewer.- A copy of the approval document if the project has an approved project draft.2) A copy of the current Certificate of Prior Information of the project.3) Unique Edification Statistics Form.4) Report of an independent reviewer, or the architect if the project consists of one house, one or more progressively build houses, or sanitary structures.5) Favourable report of the structural designs reviewer, if it corresponds.6) Certificate of feasibility of drinking water and sewerage issued by the sanitary company.7) Architectural drawings which must content exact location of the project, distribution of structures, drawings of each level, and every elevation drawing.8) Structural design and calculations according to the Article 5.1.7 of the Ordinance.9) Technical specifications of the items included in the project, especially those relating to compliance with fire regulations or standards of the Ordinance.10) Other documents.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A unit construction may cost 125 - 316 USD/sq.m. (USD 1 corresponds to CLP 625 as of Jan 15, 2015) considering quality category Semi-Inferior to Superior (MINVU, 2014b), and its base appraisal unit value is 188 - 790 USD/sq.m. This base appraisal value has to be modified by four factors dependent on the structure's location, special conditions of the structure, depreciation, and a commercial coefficient applicable to structures built in commercial zones (SII, 2013).Nowadays, the progress in construction is quite efficient. The time that is needed to build a house depends on if it is particular or a prefabricated house. For a particular house its construction could take one year depending on the size of the house. For a prefabricated construction it can take 3 to 6 months.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one dwelling is occupied by one family (father, mother and two to three children). Mostly lower or middle income families live in these houses. Some high-income families own a second house for vacation purposes. Some of these houses are made of wood and they are uninhabited most of the time.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Each house typically corresponds to one dwelling. The number of inhabitants in a house during the day or business hours can be none. The number of inhabitants during the evening and night can be 2 or more. In average, there are 3 inhabitants per timber house in Chile (INE, 2012).
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The Ministry of Housing and Urbanism (MINVU) defines five categories of quality of residential structures: Superior, Semi-Superior, Regular, Semi-Inferior and Inferior (MINVU, 2014b). A total score of the structure, which is obtained considering design aspects, general characteristics, installations, and terminations, defines first to fourth quality categories. The Inferior category is assigned to social condominiums only. Social condominiums are built by the government for low-income and vulnerable population. The ownership of the unit is given to 60% of the lowest quintile income families and they have the right to sell it after five years of use (Comerio, 2013).According to the Chilean Internal Revenue Service (SII), a house of 60 sq.m. (segment S1) may have an appraisal value between USD 11,290 and USD 47,373 (USD 1 corresponds to CLP 625 as of Jan 15, 2015) depending if the construction quality is Semi-Inferior or Superior. To obtain an appropriate appraisal value, this value has to be modified by four factors: building location, special conditions of the structure, depreciation, and commercial coefficient applicable to structures built in commercial zones. A 100 sq.m. house (segment S2) may have an appraisal value between USD 18,816 and USD 78,955 if construction quality is Semi-Inferior or Superior. For segment S3, a house of 140 sq.m. or more may have an appraisal value of more than USD 52,169 for a regular construction quality (SII, 2013).According to the Ministry of Social Development (MDS) the average monthly working income for a family is approximately USD 1,000 (MDS, 2015). The minimum legal working income for a person in Chile is USD 360 per month. The average family monthly working income of the first decile is USD 102 per person. For the fifth and tenth deciles these working incomes are USD 617 and USD 3,680 per person, respectively. There is a segment that own timber houses, normally in the beach or near a lake. These families usually have an income of more than USD 2,000 per month and have timber houses as a second house, or vacation house.
+
+**Typical Source of Financing:** Owner financedPersonal savingsSmall lending institutions/microfinance institutionsCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** The user is usually a tenant, a co-owner or the owner of the house.
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** For houses, there are insurances for all kind of situations: general damage, robbery and theft, fire, earthquake, wind, alluvium, tsunamis. Earthquake and fire insurance are mandatory from the banks if the house is financed with a mortgage. Earthquake and fire insurance covers the repair costs in order to bring the house to the same condition as it was before the earthquake, which is about 60% of the property value. This insurance does not cover the cost of the land and the cost of the contents. The annual costs of the earthquake and fire insurances are approximately 0.02% and 0.22% of the insured value (60% of the property value), respectively. However, most rural timber houses are inherited within a family. These houses do not have a mortgage and most of them are uninsured. Owners of residential real estates must pay annual territorial taxes, corresponding to 0.98% of tax appraised value if it is less than USD 117,648, and 1.143% if tax-appraised value is more than that, plus an annual surcharge tax benefit of 0.025%. If the tax-appraised value of the residential real estate is less than USD 32,941, then it is exempt of contribution payments (SII, 2014).
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1939 | Chillan, VIII Region | 8.3(Ms) | VIII (MMI) | 			
+| 1960 | Valdivia, XIV Region | 9.5 (Mw) | XII (MMI) | 			
+| 1985 | San Antonio, V Region | 7.7 (Mw) | XI (MMI) | 			
+| 2010 | Maule, VII Region | 8.8 (Mw) | IX (MMI) | 			
+| 2014 | Iquique, I Region | 8.2 (Mw) | VII (MMI) | 			
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Specifically in timber houses, no relevant damage was observed in the 2010 earthquake due to seismic forces. The few exceptions that showed some damage were some timber structures constructed over sandy soil, with settlements, old structures with natural deterioration, bad material quality, and some house extensions with visible separation between their parts. The 2010 tsunami caused destruction of several timber houses after the earthquake as seen in Figure 20.In the 2014 Iquique earthquake, timber houses remained virtually undamaged by the seismic effect (as seen in Figure 21).
+
+**Additional comments on earthquake damage patterns:** Most of the seismic action in Chile is generated by the subduction of the Nazca plate under the South American plate. This subduction process has generated large magnitude earthquake such as the 1960 Valdivia earthquake (Mw 9.5), and about 20 earthquakes with magnitudes larger than 7.5 have occurred during the past 100 years. Additionally, Chile has been subjected to several intraplate and crustal earthquakes.The 1939 earthquake in Chillan destroyed almost half of the houses of the city. From 3,526 buildings, 1,645 were destroyed. There was no water or electricity, and the sewage system collapsed as well. People that did not die directly because of the earthquake, died later because of mortal diseases, and lack of hygiene, food, and water. This is the earthquake in Chilean history that has taken most human lives, i.e., 24,000 deaths. The large number of deaths caused the passing of a law aimed to regulate the construction of houses and buildings and the creation of the Corporation of Development and Reconstruction (CORFO) (Museo Historico Nacional, n.d.). In 1960, the greatest earthquake ever registered in the world shook the south of Chile. This earthquake was followed by a tsunami that caused a major disaster. It destroyed 40% of the homes in Valdivia. In Chillan, 20% of the buildings were badly damaged. Talcahuano had 65% of the homes destroyed, while Los Angeles had 70%, Angol 82%, and Puerto Montt 90% (sismo24.cl, n.d.). More than 2,000 people died, 3,000 were injured, and 2 million lost their homes (Museo Historico Nacional, n.d.).Due to the Illapel 1971 earthquake (MW 7.5), about 1,000 one-story houses at Choapa Valley partially collapsed.The 1985 earthquake of San Antonio left 70% of San Antonio destroyed. In Santiago, damage was concentrated in the old parts of the city, where constructions were basically made of earth, wood, or bricks, without steel reinforcement. Some historical buildings had damage, like the Old National Congress and the Basilica de El Salvador (Onemi, 2009). After the 1985 earthquake the Ministry of Housing and Urbanism (MINVU) appointed a special committee to review the seismic effects on dwellings.In 2010, the Maule earthquake left 4 buildings on the ground, and approximately 50 with demolition order. The 2014 Iquique earthquake was felt by more than a million people. The seismic intensity was strongest in Iquique (MMI VII), Arica (VII), and Tacna (VI). The earthquake also generated a tsunami with a maximum water run up measured of 4.4 meters above sea level and 3.15 meters above sea level at Patache and Iquique, respectively. Small towns and villages with non-engineered adobe and masonry houses were strongly affected by the main shock. Some concrete block masonry houses and short buildings were severely damaged, but no collapse was observed. Heavy damage occurred in some locations in Iquique and Alto Hospicio, the latter showing a clear topographic amplification effect. Three story building blocks founded on collapsible soils in Alto Hospicio were damaged. Extensive diagonal shear cracks were observed in the first story of 5-story masonry buildings. The estimated total number of damaged houses in the affected region is over 13,000. High-rise buildings (38 stories or less) showed no structural damage in Iquique beyond small pounding between structures, and localized moderate cracking and spalling in some columns (EERI, 2014).During the 2015 Mw 8.3 Illapel earthquake, most of the damage was attributed to the induced tsunami. Severe damage due to ground shaking was observed mostly in adobe houses located close to the epicentre. The road network was damaged by slope failures and rock falls, and eight bridges were damaged. Hospitals underwent only non-structural damage and loss of contents. Reinforced-concrete buildings were mostly undamaged and significant damage was only observed in one 16-story building. A small percentage of masonry houses suffered limited damaged and timber houses performed well.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | False |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | True |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | True |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | False |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | False |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | True |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | False |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | True |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | True |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | True |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** The seismic performance of walls with diagonal bracing systems is not adequate. Damage has been mostly caused by tsunami.
+
+**Earthquake-resilient features in walls:** The lightweight walls induce reduced earthquake forces.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Some roofs and floor are too flexible to transfer horizontal loads appropriately to the vertical elements.
+
+**Earthquake resilient features in roof and floors:** The lightweight of typical roofs and floors induces reduced earthquake forces.
+
+**Seismic deficiency in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |  |  | %%|-%% | %%-|%% |
+
+**Additional comments section 5:** If a structure is well designed according to the codes/standards, it should have an adequate seismic performance. Poor quality design, materials or construction may result in damage for people and the structure itself. Some of the deficiencies are: bad quality of materials (mostly in rural zones), construction deficiencies, or construction over inadequate soil. In general, Chilean timber houses have performed well during the latest earthquakes and they have been damaged mostly due to the tsunami (1960 and 2010 earthquake) and not due to the ground shaking. Some timber houses have been damaged due to slope failures or falling rocks as can be observed in Figure 19.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Non-structural elements connections | Rebuilt or adjust non-structural elements |
+| Soil Settlements or slope failures | Better compaction to avoid settlements in soft soils |
+
+----
+
+**Additional comments on seismic strengthening provisions:** During past earthquakes, no significant structural damage has been reported in timber houses. Limited damage may have occurred in construction joints or in non-structural elements.
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Only after an earthquake some structures have been repaired, when some constructive deficiencies appeared.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** A contractor and an engineer were involved hired by the owner/user.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** In general, timber houses did not present any problems during any earthquake.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * http://sismologia.cl/links/terremotos/index.html \\Camara Chilena de la Construccion (CChC). (2014). Balance of Housing in Chile [in Spanish]. Chile.
+
+  * http://www.sismologia.cl/pdf/informes/terremoto_iquique_2014.pdf \\Centro Sismologico Nacional (CSN). (n.d.). Important and/or destructive earthquakes (1570 to date) [in Spanish]. Retrieved January 14th, 2015
+
+  * Centro Sismologico Nacional (CSN). (2014). Technical Report, Earthquake of Iquique, MW = 8.2, April 1st, 2014 [in Spanish]. Retrieved January 14th, 2015
+
+  * Comerio, M. (2013). Housing Recovery in Chile: A Qualitative Mid-program Review. Pacific Earthquake Engineering Research Center (PEER). California, U.S.A
+
+  * Contreras, M., Winckler, P. (2013). Loss of life, housing, infrastructure, and ships by the February 27th 2010 tsunami in the central coast of Chile [in Spanish]. Chile.
+
+  * Cruz, E., Riddell, R., Van Sint Jan, M., Hidalgo, P., Rodriguez, F., Vasquez, J., Luders, C. & Troncoso, J. (1988). Lessons from the earthquake of March 3rd, 1985 [in Spanish]. Instituto Chileno del Cemento y del Hormigon. Santiago, Chile.
+
+  * de la Llera, J.C., Rivera, F., Mitrani-Reiser, J., Junemann, R., Fortuno, C., Rios, M., Hube, M., Santa Maria, H. & Cienfuegos, R. (2015). Data collection after the 2010 Maule earthquake in Chile. Bulletin of Earthquake Engineering. Submitted for publication.
+
+  * http://www.eeri.org \\Earthquake Engineering Research Institute (EERI). (2014). M8.2 Iquique, Chile Earthquake and Tsunami: Preliminary Reconnaissance Observations. The Pulse of Earthquake Engineering. Retrieved March 27th, 2015
+
+  * Fritz, A. (2007). Construction of timber housing [in Spanish]. Centro de Transferencia Tecnologica de la Madera. Santiago, Chile.
+
+  * Instituto Nacional de Estadisticas (INE). (2012). Preliminary Results of the Population and Housing Census 2012 [in Spanish] (by personal request, February, 2014)
+
+  * Instituto Nacional de Estadisticas (INE). (2014). Unique Edification Statistics Form 2002 - 2014 [in Spanish] (by personal request, September, 2014).
+
+  * Instituto Nacional de Normalizacion (INN) (1986). NCh 1990 Of. 1986, Wood - Allowable stresses for structural wood [in Spanish]. Santiago, Chile.
+
+  * Instituto Nacional de Normalizacion (INN). (2014). NCh 1198 Of. 2006, Modified in 2014, Wood - Wood construction - Calculation [in Spanish]. Santiago, Chile.
+
+  * http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Evolucion_Distibucion_Ingresos.pdf \\Ministerio de Desarrollo Social (MDS). (2015). Casen 2013, Evolution and distribution of household income (2006-2013), Summary of Results [in Spanish]. Retrieved March 17th, 2015
+
+  * http://repositoriodigitalonemi.cl/web/bitstream/handle/123456789/1094/SismoDestructivoMarzo1985.pdf?sequence=1 \\Ministerio del Interior y Seguridad Publica, Oficina Nacional de Emergencia (ONEMI). (2009). Destructive earthquake of March 3rd, 1985 [in Spanish]. Retrieved July 21th, 2014
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (1999). Manual Application, Thermal Regulation, General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014a). General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014b). Exempt Resolution 0251. Construction Unit Values to be applied in Calculating Municipal Rights [in Spanish]. Santiago, Chile.
+
+  * http://www.dibam.cl/Recursos/Contenidos/Museo%20Hist%C3%B3rico%20Nacional/archivos/TERREMOTOS2011.pdf \\Museo Historico Nacional. Departamento Educativo. (n.d.). Earthquake of Chillan (January 24th, 1939) [in Spanish]. Retrieved January 22th, 2015
+
+  * http://www.dibam.cl/Recursos/Contenidos%5CMuseo%20Hist%C3%B3rico%20Nacional%5Carchivos%5CTERREMOTO%20VALDIVIA%201960.pdf \\Museo Historico Nacional. Departamento Educativo. (n.d). Earthquake and Tsunami of Valdivia (May 22nd, 1960) [in Spanish]. Retrieved January 22th, 2015
+
+  * http://www.sii.cl/pagina/br/tablas_copropiedad_2013.htm \\Servicio de Impuestos Internos (SII). (2013). Exempt Resolution 108. Appendix 5, Construction Unit Values Tables [in Spanish]. Retrieved January 22th, 2015
+
+  * http://www.sii.cl/preguntas_frecuentes/bienes_raices/001_004_3848.htm \\Servicio de Impuestos Internos (SII). (2014). Frequent Questions. How property taxes are calculated? [in Spanish]. Retrieved January 16th, 2015
+
+  * http://www.sismo24.cl/500sismos/730h1939chil.html \\Sismo24.cl. (n.d.). May 1960, Earthquake in Chile - II [in Spanish]. Retrieved January 22th, 2015
+
+  * http://www.svs.cl/sitio/destacados/doc/TERREMOTO-9-1-13.pdf \\Superintendencia de valores y seguros (SVS). (2012). Earthquake 2010, Analysis and Impact of the 27-F earthquake in the Insurance Market [in Spanish]. Retrieved July 21th, 2014
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Claudia Alvarez Velasquez | Civil Engineer/Researcher | Pontificia Universidad Catolica de Chile | Santiago, Chile | cdalvar1@uc.cl | 
+| Matias Hube Ginestar | Civil Engineer/Assistant Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | mhube@ing.puc.cl | 
+| Felipe Rivera Jofre | Civil Engineer/Researcher | Pontificia Univesidad Catolica de Chile/National Research Center for Integrated Natural Disasters Management | Santiago, Chile | felipe.rivera@igiden.cl | 
+| Hernan Santa Maria Oyandenel | Civil Engineer/Associate Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | hsm@ing.puc.cl | 
+| Mariana Labarca Wyneken | Civil Engineer | Pontificia Universidad Catolica de Chile | Santiago, Chile | mflabarc@uc.cl | 
+
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Anna Lang |  | |  | |

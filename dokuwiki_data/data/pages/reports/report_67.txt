@@ -1,0 +1,317 @@
+====== Popular, non-engineered urban housing on flat terrain, Venezuela ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 67
+
+**Building Type:** Popular, non-engineered urban housing on flat terrain
+
+**Country:** Venezuela
+
+**Author(s):** Argimiro Castillo Gandica, Francisco Lopez Almansa
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Merida, Tachira and Trujillo, comprising the Andean states in Venezuela. This housing covers almost 40% of the total building stock in the city of M#rida. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This is an urban housing construction type found in the Andean states of Venezuela. In some cities e.g. Merida this construction accounts for 40% of the total building stock. Typical buildings of this type are two to three stories high.Typically, there are two or three bays in the longitudinal direction (spaced at 3 to 4 m) and four or five bays in the transverse direction (4 to 5 m apart). The main load-bearing system consists of reinforced concrete frame (columns and beams) with hollow clay tile masonry infill walls. Roof structure consists of lightweight roofing (zinc and/or acclimatized galvanized sheets) supported by I-shaped steel beams. The roof level of a building is used as a terrace with an one meter high masonry parapet that serves as a guardrail on the slab perimeter. This is a nonengineered construction i.e. these buildings are constructed by the owners. Due to the lack of adequate detailing in the longitudinal and transverse steel reinforcement bars, beam-column connections are inadequate and do not provide the continuity required for adequate seismic performance.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Other
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** 0.03 up to 0.05 meters typical separation distance between buildings
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Typical shape of a building plan for this housing type is rectangular, with proportions (width/length) ranging from 1/3 to 1/4.
+
+**Typical plan length (meters):** 12-15
+
+**Typical plan width (meters):** 3-5
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. Reinforced concrete frames generally provide acceptable lateral load resistance, depending upon quality adequacy and upon the detailing of structural elements (columns and beams). In this case, several of the items are inadequate: the detailing of the reinforced concrete columns and beams, e.g., excessive stirrup spacing (same distance of element's section base); the tie anchorage (angle of anchorage is 90# instead of 135# as recommended in seismic codes); and the location of the laps in longitudinal reinforcement for columns (laps are provided at the bottom of columns in successive stories). The roof structure consists of lightweight roofing (zinc and/or acclimatized galvanized sheets) supported by I-shaped steel beams.
+
+**Gravity load-bearing & lateral load-resisting systems:** See Figure 2.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** Two possibilities regarding wall density exist depending on position of the building in the block; there are Inner and Corner buildings Wall Density respectively. Wall density for Inner Buildings: Floor Number Total Wall Area longitudinal direction Total Wall Area transverse direction Typical Wall Density long. dir. Typical Wall Dens. trans. dir 1 114.24 56.96 1.28 0.64 2 119 64.72 1.33 0.62 Wall Density for Corner Buildings: Floor Number Total Wall Area longitudinal direction Total Wall Area transverse direction Typical Wall Density long. dir. Typical Wall Dens. trans. dir 1 108.48 56.96 1.21 0.64 2 114.2 64.72 1.28 0.72
+
+**Wall Openings:** Usually, openings are produced at the front and the back of the building, having door and window openings on the first level and two windows in successive levels. The openings range from 5 to 10% of the overall wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modifications respond to vertical growth, balconies, new windows, staircases for separate access to upper levels. Usually, when a new level is constructed, an external staircase facing the facade is built to permit separate access to upper levels. Windows and balconies are located in the facade and back walls. In lateral walls, windows are built when possible due to lateral proximity between buildings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** See Figure 2
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Composite hollow clay tiles and steel joists; Floors may be considered as rigid diaphragms. Special inspection must be performed on floor connection with beams, to guarantee transmission of lateral loads.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Steel joists and metal sheathing (zinc/aluminum); Roof may not be considered as a rigid diaphragm, due to the reduced sections (at most IPN 80), the low connectivity between joists and the lack of connection with the rest of the structure (absence of a collar beam on top of walls in roof level).
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 0.03-0.05 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Hollow Clay Tile, Cement Mortar Frame: Reinforced Concrete | Characteristic Strength: Cement mortar 3.0 MPa Mix Proportion/Dimensions: W/H/L (mm.)100/250/350120/250/350150/200/350200/200/350 N/A | 
+| Foundations | Reinforced Concrete | Mix Proportion/Dimensions: W/H/L (mm.)1000/400/1000 | 
+| Floors | Clay tiles Steel joists | Characteristic Strength: N/A Structural Steel Mix Proportion/Dimensions: W/H/L (mm.)60/350/60060/350/800 IPN 80(h: 80mm)IPN100(h:100mm) | 
+| Roof | Steel Joists Ties Metal sheathing (zinc/aluminum) | Characteristic Strength: Steel Mild steel Mix Proportion/Dimensions: IPN 80 (h:80mm) 2x1 inches W/L (mm.)830/4000 | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** As an auto-constructed type, construction professionals (Architects and/or Engineers) are not involved in the design or in the construction process. Professional intervention is unaffordable for the inhabitants of these settlements.
+
+**Expertise of those involved in the design process:** No professionals (Architects and/or Engineers) are involved in the design or construction process.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** The builder lives in this construction type.
+
+**Expertise of those involved in building process:** Builders mainly count on some experience in building construction. Semi-skilled level seems to suit adequately the expertise of the builders.
+
+**Construction process and phasing:** Construction process is performed in vertical phases, i.e. a level at a time. Common practice is to build foundations and columns for the first level, leaving columns longitudinal steel bars to be spliced. After concrete curing, the walls are built. Beams are built over walls, and afterwards the first slab (hollow clay tiles with steel joists) is constructed. The owner typically builds with no more than two helpers. The entire process is performed at the building site with ordinary building tools; no special machinery or equipment is used. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. Construction phasing depends on the availability of money. These resources are obtained from savings and from the cooperation of other family members. Usually the inhabitants collaborate in the building process.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** Official authorities have no process or strategy for building code enforcement.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Inexistent seismic detailing features in reinforced concrete works. Connections between floors and structural frames do not guarantee lateral force transmission and may induce displacement of slabs with respect to the frames generating damage to columns. Parapets in uppermost levels represent a dangerous collapsible feature. The absence of collar beams and horizontal reinforcement in uppermost walls may produce out-of-plane inertial loads. Gap between adjacent buildings (not greater than 10.0 cm.) creates risk of pounding effect.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Unit construction cost: 87000 Bs. (120 US$) per square meter of built-up area.
+
+**Labor requirements:** For each level, with a three worker team, 45 to 55 days are required to complete the construction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The number of families depends mostly upon the number of levels (e.g. two levels, two families). An average occupancy pattern is two families (5.40 members/family). Each building typically has 2 housing unit(s). This is an estimate of the average number of housing units per building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Annual income ranges from $2000-$3000 Currency: US $ Economic Level: For Poor Class the Housing Price Unit is 31000 and the Annual Income is 2500. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1997 | 10.5N 5.3#W Depth 9.4 km(Car#aco, Venezuela) | 6.8 | VIII (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** See Figure 6.
+
+**Additional comments on earthquake damage patterns:** Wall: Cracks in walls, parts of walls collapse, great cracks in windows and around doors. Frame: Shear failure in connections between columns and beams, and between columns and foundations, excessive lateral displacements, cracking and spalling concrete columns due to inadequate confinement. Roof/Floors: Roof- great movements may be generated in roofs, total dismantlement and consequent collapse may occur. Floors- great movements may inflict damage in confinement and walls. Other: Column failure at level where slabs of neighboring construction pounds.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** No reinforcement is visible throughout the walls (neither horizontal nor vertical). Poor quality mortar and cracked masonry units.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** -Stirrup and tie spacing is not compliant to recommendations of less than d/2 spacing in beams and d/4 in columns, neither in beams nor in columns. Spacing is regular throughout all members and is usually d or more. Anchorage hooks into member cores are g
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roof may not be considered as a rigid diaphragm due to the lack of adequate connectivity within its elements and with the walls (absence of a collar beam on top of walls at this level).Connections between floor and frames must be inspected to guarantee adequate linking and load transmission.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** See Figures 4 and 5.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** For the moment, seismic strengthening provisions have not been performed, either in design or in retrofitting.
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * "Basic Concepts of Seismic Codes, Vol.1, Part I, Non- Engineered Construction", IAEE, 1980.
+
+  * #Evaluaci#n preliminar del sismo de Car#aco del 9 de Julio de 1997, Estado Sucre, Venezuela (Versi#n Revisada)#, FUNVISIS (Fundaci#n Venezolana de Investigaciones Sismol#gicas), Caracas, Octubre 1997.
+
+  * FEMA 310 Handbook for the Seismic Evaluation of Buildings: A Pre-standard Federal Emergency Management Agency, Washington, D.C. 1998
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Argimiro Castillo Gandica | University Professor | University of The Andes | Av. Mistral 73-75, 3ro 2da, Barcelona 08015 Spain | argimirocastillo@icnet.com.ve | 
+| Francisco Lopez Almansa | University Professor | Polytechnic University of Catalonia | Estructuras en la Arquitectura, Av. Diagonal, 649 08028 Spain | francesc.lopez@ea.upc.es | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

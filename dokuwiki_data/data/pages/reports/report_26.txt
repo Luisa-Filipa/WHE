@@ -1,0 +1,330 @@
+====== Semi-rigid steel frame with "Khorjinee" connections, Islamic Republic of Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 26
+
+**Building Type:** Semi-rigid steel frame with "Khorjinee" connections
+
+**Country:** Islamic Republic of Iran
+
+**Author(s):** Behrokh Hosseini Hashemi, Mohsen Ghafory Ashtiany
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in urban and in some rural areas of Iran, especially in less humid regions. The percentage of this housing type in those regions is almost 70% of steel buildings. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This housing type is commonly used for low-rise building construction in Iran, mainly for family apartment buildings. This structure is characterized with a special type of semi-rigid beam-to- column connection called #Khorjinee connection#. This connection consists of a pair of continuous beams spanning over several columns and connected to the column sides by means of angle sections. Beam and column are welded to the angle section. One of the major problems with the khorjinee connections is that it is very difficult to improve the rigidity of the connection in the weak direction (the direction perpendicular to the connection) since the crossed beams are connected to the web of khorjinee beams. Thus in the weak direction of the frames the connections are considered as pinned (hinges) and the bracing is used to resist seismic loads. However, in the khorjinee direction, since the possibility of using the bracing is very limited, the frame is considered as a rigid structure. Also, out-of-plane partial beam-to-column transfer of bending moment and early onset of failure in the angles are the most likely cause of failure for a building subjected to lateral earthquake loads. These buildings are vulnerable in earthquakes (e.g. 1990 Manjil earthquake).
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 units
+
+**Typical number of stories:** 4-6
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This type of construction is followed in the last 30 years.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 12-20
+
+**Typical plan width (meters):** 9-15
+
+**Typical story height (meters):** 2.7
+
+**Type of Structural System:** Steel: Braced Frame: Concentric connections in all panels
+
+**Additional comments on structural system:** In both directions of the building the lateral load-resisting system should be provided by steel bracing (according to seismic code of Iran). However in most of these buildings, the steel bracing system is only used in one direction (the direction which is perpendicular to the street). The other direction (which is usually parallel to street), due to the existence of large opening in the wall of this direction, does not have any lateral resisting system. Gravity loads are sustained by steel frames.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 0.1.
+
+**Wall Openings:** To view outside the building, typically a large window opening is in the transverse direction of the building. This window almost takes 70% of the external wall area. The other wall has one or two doors or windows opening. The door sizes are typically 90 X 210 (cm) and the other window sizes are 160 X 90 (cm). The overall window and door areas are about 35% of the overall wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Adding stories on the top of the building, removing the partition walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Seismic problems related to the foundation system are rare. Single footings are connected to each other by strong ties.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Concrete joists with infilled hollow blocks topped with concrete slab. The floor and roof are considered to be rigid diaphragm.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Concrete joists with infilled hollow blocks topped with concrete slab. The floor and roof are considered to be rigid diaphragm.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Clay brick masonry; Concrete Steel bars Frame: Steel | Characteristic Strength: Clay brick masonry :100 kg/cm28 kg/cm2 Concrete: 210 kg/cm2 Steel bars: 4200 kg/cm2 Mix Proportion/Dimensions: Clay brick masonry: 1:6 / 55x110x220 (mm) Concrete: 1:2:4 | 
+| Foundations |  |  | 
+| Floors | Concrete | Characteristic Strength: 210 kg/cm2 | 
+| Roof | Concrete | Characteristic Strength: 210 kg/cm2 | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerBuilder
+
+**Roles of those involved in the design process:** For design of building, engineers and architectures are both involved. However, in most projects, during the construction process they do not spend any remarkable time to visit the site.
+
+**Expertise of those involved in the design process:** As far as the member sizes and foundations design concern, engineers are expert enough to design this type of building. In most projects engineers do not address any detail of the connection and they leave this part of job to experienced builders.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** It is typically built by developers or for speculation.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Typically developers build these types of constructions. Process starts with the foundations and fixing base plates on them. Then erection of steel frame and placing of joists and blocks, purring the concrete topping and then working out the infill walls and finally putting the finishing on the hole building. The construction of this type of housing takes place incrementally over time. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** The main problems are associated with the construction process. In most projects, designers do not provide any detail for the connections and this responsibility is left to experienced builders, who have no knowledge about the better performance of the connections in the case of earthquake happens.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** The first official issue about this type of building was in 1999. The Iranian Code of Practice for Seismic Resistant Design of Buildings (Standard 2800) in its 2nd revised edition (1999) addressed this type of construction to be considered as a Type 2 construction (i.e. simple framing in both directions). Iranian Code of Practice for Seismic Resistant Design of Building, 2nd Edition-1999 Iranian National Building Code, Part: 10, Steel Structures, 1994
+
+**Process for building code enforcement:** The building department of municipalities approves the design and holds the designer responsible for the projects. After finishing the construction the municipal authorities check the finished project and issue occupancy permit stage. However, most of these controls are the subjects of the architectural views.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** For only load bearing system, the cost of this type of building is about 300,000-400,000 Rials/sq m (150-200 $US/sq m).
+
+**Labor requirements:** For a typical 4 to 6 stories building needs about 30 to 45 days to complete the load bearing structure.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family usually occupies each housing unit. Each building typically has 4-8 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44105
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse Economic Level: For Poor Class the Housing Unit Price is 12,500 and the Annual Income is 1,000. For Middle Class the Housing Unit Price is 25,000 and the Annual Income is 3,000.
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1990 | Manjil | 7.6 | IX |
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** Walls: Out of plane collapse, Classical X shear cracking. Frames: Buckling of the storey. Roof/Floor:Total/partial collapse. Connections: Excessive rotations, shear failure of the welds, unsitting.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Due to lack of proper connections between walls and column, beam floor, walls are very vulnerable to seismic forces
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Tear of the beam-to-column connections
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%|-%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Steel frame | Add diagonal steel bracings as required (high cost/high effectiveness/simple construction) | 
+| Connections | Strengthening connections by adequate and proper welding (medium cost/medium effectiveness/simple construction) | 
+| Foundations | At the location of the new bracing, strengthening of foundation is essential (high cost/medium effectiveness/complex construction) | 
+| New Construction | Steel frame: Design steel frame for gravity load and steel bracing for lateral resistant system (medium cost/medium effectiveness) Connections: Provide proper details for connections (low cost/high effectiveness) Foundations: Proper design (low cost/high effectiveness) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Tehranizadeh, M., Ghafory-Ashtiany, M., Maleki, M. and Tiv, M. (1996). Effect of Semi-Rigid #Khorjinee#
+
+  * Connections in Dynamic Response of Steel Structures. Eleventh World Conference on Earthquake Engineering. Paper No. 1737.
+
+  * Manjil-Rudbar Earthquake of June 20,90 Reconnaissance Report (1991), IIEES Publication No. 70-91-1, Tehran, Iran.
+
+  * Iranian Code of Practice for Seismic Resistant Design of Building, 2nd Edition-1999, Building & Housing Research Center, BHRC-PN S 253, Tehran, Iran.
+
+  * Iranian National Building Code, Part: 10, Steel structures, 1994, Ministry of Housing and Urban Development, Tehran, Iran.
+
+  * Nateghi-A, F. (1994). Seismic Strengthening of a ten story steel framed hospital. Proceedings of the second international conference on earthquake resistant construction and design. Berlin/ 15-17 June 1994. Nateghi-A, F. (1995). Retrofitting of Earthquake-Damaged Steel Buildings. J. Engineering Structures, Vol. 17, No. 10, pp. 749-755
+
+  * Nateghi-A, F. (1997). Seismic Upgrade Design of a Low-rise Steel Buildings. J. Engineering Structures, Vol. 19, No. 11, pp. 954-963.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Behrokh Hosseini Hashemi | Assistant professor | IIEES | No. 27, Arghavan St., Dibaji, Farmanieh, Tehran, Iran | behrokh@iiees.ac.ir | 
+| Mohsen Ghafory Ashtiany | Professor | President of IIEES | No. 27, Arghavan St., Dibaji, Farmanieh, Tehran, Iran | ashtiany@dena.iiees.ac.ir | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Farzad Naeim | Vice President | John A. Martin & Associates | Los Angeles CA 90015, USA | farzad@johnmartin.com | 

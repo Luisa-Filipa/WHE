@@ -1,0 +1,350 @@
+====== Stone masonry apartment building, Algeria ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 75
+
+**Building Type:** Stone masonry apartment building
+
+**Country:** Algeria
+
+**Author(s):** Mohammed Farsi, Farah Lazzali, Yamina Ait-Mziane
+
+**Last Updated:** 
+
+**Regions Where Found:** These stone masonry buildings exist throughout northern Algeria. In particular, the multi-story buildings exist mainly in the major cities e.g. Algiers, Oran, Constantine, Annaba, etc. This construction type may constitute 40 to 50% of the urban housing stock.
+
+**Summary:** Stone masonry building is typical multy-family residential construction found in most Algerian urban centres, and it constitutes 40 to 50% of the total urban housing stock. This construction, mostly built before 1950s by French contractors, is no longer practiced. Buildings of this type are typically 4 to 6 stories high. The slabs are wooden structures or shallow arches supported by steel beams (jack arch system). Stone masonry walls, usually 400 to 600 mm thick, have adequate gravity load-bearing capacity, however their lateral load resistance is very low. As a result, these buildings are considered to be highly vulnerable to seismic effects.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1950
+
+**Building Occupancy:** Mixed residential/commercial
+
+**Typical number of stories:** 5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This construction was practiced prior to 1950 by French contractors.It is the same construction type found in countries around
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidSquare, with an opening in planRectangular, solidRectangular, with an opening in planL-shapeTriangular, with an opening in planE-shapeU- or C-shapeIrregular plan shape
+
+**Additional comments on plan shape:** The building plan for this housing type can be of different forms: rectangular, L-shaped, U-shaped, etc. (see photos 1 and 2)
+
+**Typical plan length (meters):** 25
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 3.5
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)Masonry: Stone Masonry Walls: Massive stone masonry (in lime/cement mortar)
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system consists of the stone masonry walls built in longitudinal and cross directions. Wall thickness varies from 400 to 600 mm. Low-strength mortar (either cement/sand or mud mortar) has been used. According to the Algerian Seismic Code (RPA99), this construction is permitted only if confined with reinforced concrete ties in vertical and horizontal direction, and with RC slabs used as floor and roof structures. The maximum building height allowed by the Code depends on the seismic zone (17 m, 14 m and 11 m, for seismic zones I, II and III, respectively).Gravity load-bearing system: Stone masonry walls are the principal elements of the gravity load-bearing structure.
+
+**Gravity load-bearing & lateral load-resisting systems:** The predominant structural system is composed of load bearing external stone masonry walls and wooden floors slabs. Thick external walls are distributed in both directions, however interior non-structural walls are thin and used to partitioning the space. In some cases, varied structural units (adobe, brick and stone) and systems are used resulting in variable wall strength and stiffness. Photos 03 & 04
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The ratio of total wall area/plan area (for each floor) in each principal direction is between 5% and 6%.
+
+**Wall Openings:** The number, size and position of openings for a typical floor in a building are shown on the typical plan (Figure 3). The total window and door area is about 25% of the overall wall surface area.Openings are categorized according to their construction period and method; in some of them wooden lintels are used and in others the top of the opening is closed with a small vault.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Modifications are often undertaken by the residents without any professional assistance provided by engineers. They include demolition of interior walls, opening commercial areas, and vertical extensions.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Floor: vaulted masonry (bricks) supported by steel beams Floor and roof structures are not considered as rigid diaphragms.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: wood planks or beams that support clay tiles Floor and roof structures are not considered as rigid diaphragms.Photo 03
+
+**Additional comments section 2:** Typical separation distance between buildings: 4-6 meters
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Field stone in cement or mud mortar | Massive stones used at the corners and aroundthe openings | 
+| Foundations | Field stone in cement or mud mortar |  | 
+| Floors | Vaulted bricksand wooden frames |  | 
+| Roof | Vaulted bricksand wooden frames |  | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Architect
+
+**Roles of those involved in the design process:** Only architects had a role in the design/construction of this housing type
+
+**Expertise of those involved in the design process:** The level of expertise of all parties involved in the design and construction process was at the worldwide level of the 20th Century.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Owners and contractors were involved in the construction of this type.This construction was practiced prior to 1950 by French contractors.
+
+**Expertise of those involved in building process:** The level of expertise of all parties involved in the design and construction process was at the worldwide level of the 20th Century.
+
+**Construction process and phasing:** The stone blocks were laid by hand and the basic construction equipment was used. This building type was typically constructed incrementally and so was not always designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** Not applicable - building codes are not applicable to this construction practice.This construction type was used before the advent of seismic codes
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This type of construction is permitted in seismic areas if resisting elements are added as extra strength reinforced concrete ties in vertical and horizontal directions.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Other
+
+**Additional comments on maintenance and building condition:** Problems with maintenance - most of this construction is in a lamentable state.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 10 000-15 000 Algerian Dinars /m.sq. (150-200 $US/m.sq.)
+
+**Labor requirements:** Information not available.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In Algeria there is a serious housing crisis. On an average, there are two families occupying the same housing unit: the parents and a son's or daughter's family.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44105
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** In most cases the women in the families are not working and stay at home during the day.
+
+**Economic level of inhabitants:** Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Economic Level: For the Poor Class the ratio of Housing Price Unit to their Annual Income is 10:1.
+
+**Typical Source of Financing:** Owner financedPersonal savingsGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance for all construction types is available since 2004 This insurance, known as CATNAT, was set up following the Boumerdes earthquake by the group of insurance companies. The insurance premium is assessed, for the moment, only on the seismic zone, the surface and the height of the construction. Since the begining of 2013, a working group was set up to reflect on the parameters to be taken into account for the evaluation of the premium
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1980 | El-Asnam | 7.3 | X (MMI) | 
+| 1989 | Tipaza | 6.2 | VIII-IX (MSK) | 
+| 1994 | Mascara | 5.6 | VIII (MSK) | 
+| 1999 | Ain-Tmouchent | 5.8 | VIII (MSK) | 
+| 2003 | Boumerdes | 6.8 | IX-X (MMI) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Damage patterns vary from diagonal "X"-cracks to total wall collapse, and partial to total collapse of the roofs/slabs.The following damage patterns were also observed:- Horizontal cracks between walls and floors, - Vertical cracks at walls intersections, - Out of plane collapse of external walls, - Diagonal cracks in wall piers, - Partial or complete disintegration of walls, - Partial or complete collapse of the building
+
+**Additional comments on earthquake damage patterns:** Earthquake Total Number of Apartment Buildings (all types) Damage level (MSK scale) 1 2 3 4 5 1980 El-Asnam 4844439 1304 1351 863 8871989 Tipaza 4511 1480 1102 223 426 12801994 Mascara 1874 470 302 351 212 5391999 Ain-Tmouchent 3398 1062 606 684 528 518
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** In some cases, the use of these buildings changed.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Poor mortar strength;- Walls not tied together;- varied structural units (adobe, brick and stone) and systems
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** -Not monolithic;-Not rigid in-plane;
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** Behavior of masonry buildings when subjected to seismic event is depending on how the walls and the floors are interconnected and anchored. In the majority of observed masonry buildings where the timber joist is not anchored to the masonry, walls tend to separate along their intersections causing vertical cracks.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Cracks in the stone masonry walls | - Cracks less than 0.3 mm width; by injection using fluid cement mortar- Large cracks: injection and adding stitching dog or steel bars; rebuilt using bricks or stones to bridge the crack zone in case of vertical crack; using metallic plate in case | 
+| Lack of integrity | Addition of horizontal and vertical RC ties at exterior and steel ties in the interior, see Figure 7A | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** These strengthening techniques were used to repair and strengthen the damaged buildings after the Algerian earthquakes reported in this contribution. A guide for using these seismic strengthening techniques is available in Algeria ("Mthodes de Rparation et de Renforcement des Ouvrages" was edited by CGS in 1992).
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Vulnerability studies for strategic buildings were done in 1996 at Algiers City, and some buildings of this type were strengthened as a result of the study.
+
+**Was the construction inspected in the same manner as new construction?** No.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** A contractor performed the construction and engineers were involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Good.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Benedetti D., Benzoni G., Parisi M.A. (1988). Seismic Vulnerability and Risk Evaluation for Old Urban Nuclei, Earthquake Engineering and Structural Dynamics, Vol. 16, 183-201.
+
+  * Boutin, C., E. Ibraim, et S. Hans (1999). Auscultation de Btiments Rels en Vue de l'Estimation de la Vulnrabilit, Vme Colloque National PS "Gnie Parasismique et Rponse Dynamique des Ouvrages", ENS 3- 3- Cachan, 1, 298-305.
+
+  * C. Boutin, S. Hans, E. Ibraim (2000). Pour une approche exprimentale de la vulnrabilit sismique, Revue franaise de gnie civil, vol 4 (6), pp. 682-714.
+
+  * Coburn A.W., Spence R.J.S., Pomonis A. (1992). Factors Determining Casuality Levels in Earthquakes: Mortality Prediction in Building Collapse, 10th WCEE, Madrid, Spain.
+
+  * Centre National de Recherche Applique en Gnie Parasismique (2000), Rgles Parasismiques Algriennes (RPA99), Alger, Algrie
+
+  * Cochrane S.W., Schaad W.H. (1992). Assessment of Earthquake Vulnerability of Buildings, 10 WCEE, Madrid, Spain.
+
+  * European Seismological Commission (1993). European Macroseismic Scale 1992, Grnthal G. Editor, Luxembourg.
+
+  * Farsi M. N., Belazougui M. (1992). The Mont Chenoua (Algeria) earthquake of October 29th, 1989: Damage assessment and distribution, 10WCEE, Madrid, Spain.
+
+  * Farsi M. N. (1996). Identification des Structures de Gnie Civil Partir de Leurs Rponses Vibratoires et Vulnrabilit du Bti Existant. Thse de Doctorat, Observatoire de Grenoble, LGIT, Universit Joseph Fourier.
+
+  * Karnik V., Schenkova Z., Schenk V. (1984). Vulnerability and the MSK Scale, Engineering Geology, 20, 161-168.
+
+  * Petrini V. (1995). Overview Report on Vulnerability Assessment, 5th ICSZ, Nice, France
+
+  * Spence R.J.S., Coburn A.W., Pomonis A. (1992). Correlation of Ground Motion with Building Damage: The Definition of a New Damage-Based Seismic Intensity Scale, 10 WCEE, Madrid, Spain.
+
+  * Tebbal F. (1985). Estimation Prliminaire du Risqu Sismique dans la Ville d'Alger, CTC.
+
+  * Office National des Statistiques (ONS), recensement gnral de l'habitat et de la population, Algiers, 1998
+
+  * M. Benblidia, J. R. Liu, Y. M. Xu, M. N. Farsi, M. Slimani & A.A. Chaker (1986). Etude de Vulnrabilit de la Ville de Djelfa, ANAT.
+
+  * CGS (1992). "Mthodes de Rparation et de Renforcement des Ouvrages", Algeria.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mohammed Farsi | Head of Department | CGS | Kaddour Rahim St, BP 252, HUSSEIN-DEY, Algiers 16040 Algeria | mnfarsi@cgs-dz.org, mnfarsi@gmail.com | 
+| Farah Lazzali | Researcher | CGS | Kaddour Rahim St, BP 252, HUSSEIN-DEY, Algiers 16040 Algeria | lazzalifarah@gmail.com | 
+| Yamina Ait-Mziane | Researcher | CGS | Kaddour Rahim St, BP 252, HUSSEIN-DEY, Algiers 16040 Algeria |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marjana Lutman | Research Engineer | Slovenian National Building & Civil Engineering | Ljubljana 1000, SLOVENIA | marjana.lutman@zag.si | 

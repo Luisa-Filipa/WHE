@@ -1,0 +1,354 @@
+====== Half-timbered house in the " border triangle" (Fachwerkhaus im Dreilndereck), Switzerland ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 108
+
+**Building Type:** Half-timbered house in the " border triangle" (Fachwerkhaus im Dreilndereck)
+
+**Country:** Switzerland
+
+**Author(s):** Maria D. Bostenaru
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Switzerland (fig. 2; in regions located at a specific distance frommountainous areas), in northern France (figures 6 and 7), and in southern (fig. 3) to central (fig. 5) Germany as well asin Tirol. Uhde (1903) documents the existence of such buildings in France in Normandie, Bretagne and Alsace (Dreux,Laval, Annonay, Bayeux/stone infilled), Morlaix, Dol, Yville, Compiegne/stone infilled, Rouen, Rheims, Abbeville,Boulogne, Beauvais, Angers, Lisieux, St. Brieux, Caen, Strassbourg). Except in central Germany, these areas are affectedby Alpine earthquakes with epicenters originating in Switzerland. The earthquake on the 22nd of April, 1884 wasrecorded to badly damage the area of Essex in England. Buildings of this type remained nevertheless well preserved.Some of many half timbered house in the town centre of Colchester, Essex, England are illustrated onhttp://www.camulos.com/virtual/guidec.htm (2004), the Virtual Tour of Colchester. Uhde (1903) documents suchbuildings in England (Shrewsbury, Coventry, Cheshire, Lanchshire, Darthmouth, York, Bristol, Chester). This typeof housing construction is commonly found in both rural and urban areas. See figure 1 for examples of urban and rural buildings of this type in southern and central Germany.
+
+**Summary:** This type of construction can be found in both the urban and rural areas of Germany,Switzerland, northern France, and England. The main load-bearing structure is timber frame.Brick masonry, adobe, or wooden planks are used as infill materials depending on the region.This report deals with the two latter types, because they are located in areas where strongearthquakes occur every century. However, this construction has proven particularly safe, andsome of the buildings have existed for 700 years. These buildings have characteristic windowsand a rectangular floor plan, with rooms opening to a central hall, which were later replaced bya courtyard. Typically, each housing unit is occupied by a single family. While in the past thiswas the housing of the poor, today affluent families live in these historic buildings. The loadbearingstructure consists of a timbered joists and posts forming a single system with adobe orwooden infill. The walls consist of a colonnade of pillars supported by a threshold on thelower side and stiffened by crossbars and struts in the middle. On the upper part they areconnected by a "Rahmholz." The roof is steep with the gable overlooking the street. Thefloors consist of timber joists parallel to the gable plane with inserted ripples. The only notableseismic deficiency is the design for gravity loads only, while numerous earthquake-resilientfeatures - the presence of diagonal braces, the achievement of equilibrium, the excellentconnections between the bearing elements, the similar elasticity of the materials used (woodand eventually adobe) and the satisfactory three-dimensional conformation - have completelyprevented patterns of earthquake damage. Since 1970, buildings in Switzerland are regulatedby earthquake codes (latest update 1989). The 2002 edition will incorporate EC8recommendations.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-8
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Different patterns dividing the storage, work,and living space areas occur in various regions of Germany, Switzerland, and Tirol
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 8-20
+
+**Typical plan width (meters):** 6-10
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Wooden Structure: Load-bearing Timber Frame: Wood frame (with special connections)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame load-bearing wall system. The gravity load-bearing structureconsists out of a timbered joist-and- post system forming a unitary schelet with infill. This infill canbe of adobe on willow basketry. In mountainous regions the masonry infill is replaced by wooden planks. The storiesaren't usually placed one over the other, but are built as consoles, thus the upper floors progressively become enlargedfrom the street level. Not all joists are horizontal and thus different crossing figures out of "braces" and "ties" arecreated. The figures drawn out of posts, braces and ties give hints about the time the "Fachwerk" building wasconstructed. Joists are situated at about 0.9m distance, pillars at about 1.2m. Beams are about30cm high and joists about 10 x 1 cm. Typical structural details can be seen in Bhm (1991) in the chapter, "The HalfTimbered Wall," especially from pages 204-264.The lateral load-resisting system is timber frame load-bearing wall system. The key load-bearing elements and theiroriginal German names are depicted in fig. 13. Basically, in this schelet structure the gravity and the lateral load-bearingstructure are the same (fig.12). According to Lacher (1885), the outside walls consist out of an array of pillars ("Stnder"in German, fig. 9). They are supported from a threshold ("Schwelle" in German) on the bottom, and stiffened bycrossbars ("Riegel" in German) and struts ("Streben" in German) in the middle. In the upper part they are connectedby a "Rahmholz". Windows are placed arbitrarily as dictated by the interior function and are set out of the wall plane(fig. 21). The pillars are firmly connected with the threshold and "Rahmholz" and there is no danger of out-of-planefailure. Thus there are no diagonal pillars to reinforce the connection between the pillars and the threshold. Acharacteristic of the Fachwerk houses in this region are the scantlings ("Eckholz" in German), which are placed in theorthogonal angle between the threshold/Rahmbalken and pillars. The panels are infilled with willow basketry with puddle and plastered. Thus the fields are of smaller area compared to the northern German ones, wherebrick infill was common. Small bars are introduced, with both a decorative and constructive role. Sometimesthe infill is made of wooden planks. In isolated cases the wall is covered with timber planks. The roof issteep and there are two attic floors (fig. 4). The gable overlooks the street in most cases. Several "Kehlbalken"constitute the main load-bearing parts of the roof. Some longitudinal beams on free posts support them. Anglebonds and bows strengthen the connections in both directions. The rafters are set through tapping and indenting theroof joists and are supported at the bottom end ("Auschieblinge), which are plated directly on the ends of the roofjoists in the facade plane (This gable solution originated from Switzerland and spread over southern Germany.) Theroof is cantilevered over the wall surface, in order to protect this from weather. The wall frame joists of thelongitudinal side run out from the gable wall and "head bands" ("Kopfband" in German) are added to support them.In order to support the "Aufschieblinge" and the rafters end pieces of an interrupted gable threshold lay on the wallframe joists. This solution is also widespread in Alsace. The floors consist of parallel joists with inserted ripples, so that the lower side remains visible. Sometimes cassette ceilings are seen. In instances with spans crossing largerspaces, beams were added to the floor joists. The joists are parallel to the street while long orthogonal walls arecommon on the street side between neighboring buildings. The distance between the joists is as low as 1 1/2 joistthickness. Characteristic of this type of construction in southern Germany are outbuildings and annexes, like "Erker,""Chrlein," "Ecktrmchen", "Lugaus," and "Dacherkertrmchen" (combination of balconies and towers)."Lugaus" are rectangular front buildings spanning more stories, starting either on ground floor level or in aconsole/cantilever over the stone ground floor. At the upper side it ends with an independent little tower."Erker" and "Chrlein" are polygonal front buildings spanning a single story only, while the first one begins at streetlevel and the second one at the console. "Rundchrlein" are round front buildings. Multiple combinations arepossible.
+
+**Gravity load-bearing & lateral load-resisting systems:** Pillars are not placed vertically one over the other.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 6% - 10%These are not load-bearing infill walls.
+
+**Wall Openings:** Urban houses do not have side openings. The central hall (fig.25) is accessible from the street through a passageway and opens onto a courtyard. Windows slide open from bottom to top. Doors were not adapted to the positionof the pillars. Builders made use of the "Rahmholz" to configure these differently. Doorways end at the upperside in arcs. In the Middle Ages, and from the 16th century on, doors were increasingly rectangular in shape.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Some pillars or transversal connections have been demolished. During restoration, several positive modifications havebecome possible, such as new floors or new infills, but also some negative changes have been introduced as shown athttp://www.fachwerkhaus.de/fh_haus/basis/suenden.htm (2004).
+
+**Type of Foundation:** Shallow Foundation: Mat foundation
+
+**Additional comments on foundation:** For new buildings. Old buildings had a masonry foundation, usually stone masonry (foundation stones).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks on wood joists
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks on wood joists, sometimes forming cassette ceilings. Rafter ("Sparrendach" in German) or stringerroof ("Pfettendach" in German); Wood shingle roof
+
+**Additional comments section 2:** They share common walls with adjacentbuildings. Urban houses are adjacent; rural houses have varying separation distances. Village dwellings consisted of a middle floor where cooking could be done,and a staircase. To the left of the stairs were the storage rooms and the stables, and to the right, the living quarters andbedrooms, which were oriented to the street. Urban houses do not have side openings. The central hall (fig.25) is accessible from the street through a passageway and opens onto a courtyard. The kitchen is a separate room, butthe front and back rooms remain connected at all levels by the galleries. The residential spaces are situated mainly in theupper floors. Windows slide open from bottom to top. Doors were not adapted to the positionof the pillars. Builders made use of the "Rahmholz" to configure these differently. Doorways end at the upperside in arcs. In the Middle Ages, and from the 16th century on, doors were increasingly rectangular in shape.TypicalPlan Dimensions: There is a great variety of plan dimensions. Typical Number of Stories: Typical are two "normal"stories and a two-storied attic. Historical Fachwerk-houses have had up to eight stories (according tohttp://www.fachwerkhaus.de/fh_haus/basis/suenden.htm, 2004). Today, for example, 7.40m to the corniche areprescribed in some local codes (see http://www.fachwerkhaus.de/fh_haus/info/drei.htm, 2004). Typical StoryHeight: This is an average height, as story heights of 2.1m (even today!) or of 4.0m (the higher stone ground floor) arepossible. According to Stade (1904) there was one intermediary horizontal element in cases where the height was 2.5m,two elements at a height of 3.5m, and three at 4m or more. Typical Span: This distance describes that found betweenpillars. Unequal distances between pillars are characteristic. Spans are typically in a range between 1 and 2m thoughspans of 0.6-1.5m for intermediary fields and 1.5-1.6m for corner fields are also found. The fields were typically 0.6-0.9m high according to Stade [1904]).
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall infill(lessmountainousregion):Adobe Wallinfill(mountainregion): Oaktimberplanks | Wall infill (less mountainousregion): N/A Wall infill(mountain region): Elasticitymodulus 70000-120000;tension 1310 kg/qcm;compression 510 kg/qcm;bending 1020 kg/qcm; shear 79kg/qcmWall infill (less mountainous region): Clay (10%) Silt SandGravel 4-5 stabs (oak, 3-5cm wide) were needed to fill thebasketry in 1m width timber frame. Often chaff was added.Wall infill (mountain region): 2.5-3.25cm planks. The resultingwall is 4-5cm thick. (Stade, 1904)In new buildings, adobeprefabricated plates can beused (these are then cut tothe dimension needed forthe infill). However, usingadobe today is expensive(personal costs) even if thematerial is almost free, sobrick masonry is usedmore and more. | 
+| Foundations |  |  | 
+| Floors | Oak timber | Elasticity modulus 70000-120000; tension 1310 kg/qcm;compression 510 kg/qcm;bending 1020 kg/qcm; shear 79kg/qcmFloors: Planks are 2-5 cm thick. The joists are between 2.5cm(0.80m span) to 16cm (4.5m span). | 
+| Roof | Oak timber | Elasticity modulus 70000-120000; tension 1310 kg/qcm;compression 510 kg/qcm;bending 1020 kg/qcm; shear 79kg/qcmRoof: Timber between8/8 cm and 28/30cm. (Stade, 1904) | 
+| Other | Timberframe (oldbuildings):Oak(sometimesfir) w oodTimberframe (newbuildings):Douglas firor laminatedw ood | Timber frame (old buildings):Elasticity modulus 70000-120000; tension 1310 kg/qcm;compression 510 kg/qcm;bending 1020 kg/qcm; shear 79kg/qcm Timber frame (newbuildings): Elasticity modulus72000-144000; tension 250kg/qcm; compression 1080kg/qcm; bending 840 kg/qcm;shear -"Ganzholz" (wood originating from a whole tree stem),"Halbholz" (half of a stem) and "Kreuzholz" (a quarter of astem) Lower horizontal elements: 13/18, 13/20, 15/20,13/21 or 16/21 cm (Stade, 1904). Upper horizontal elements:12/12, 13/13, 12/14, 13/15, 13/18 cm. (Stade, 1904) Cornerpillars: 13/13, 15/15, 13/16, 16/16, 21/21 cm (Stade, 1904).Intermediary pillars:12/12, 13/13, 12/14, 13/15, 12/16 or13/16cm (Stade, 1904). Diagonals: 12/16 or 13/18 cm(Stade, 1904). Upper horizontal elements (sustaining the roof):12/16, 13/18 or 16/21cm (Stade, 1904).For traditional houses. | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** ArchitectBuilderOther
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** According to Gromann (1986): Construction literature was used from the 17th century on, as is seen, for example, inC. F. Mayer (1778) for the region around Schwbisch-Hall. These books were written for developers. The detailedplanning was done by the master builder, usually a carpenter by trade. Architects played a role only from the end of the19th century on.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** The builder typically lives in this construction type, but regardless, it is not built for speculation.
+
+**Expertise of those involved in building process:** In the 19th century there were construction enterprises by carpenters and master masons. Thecarpenter had this role exclusively in urban areas until the 18th century and in rural areas until the 19th century. Specificplans for "statics" (structural plans) were drawn. These were used both for construction authorization process and forthe construction itself. In previous centuries this was not so widespread as it is today. Contractors used books like"Architektura Civilis" by Johann Wilhelm, from Frankfurt am Main (Nrnberg, 1649 and 1668), which encouragedbuilding models out of paper and wood. This book also recommended estimating costs in advance and drawing up acontract between the developer and the building overseer. The author emphasized the importance of the survey.Knowledge of geometrical forms was important for the planning.
+
+**Construction process and phasing:** Gromann (1986) describes in detail the construction process for a historical Fachwerkhaus (pages 10-44) and includedillustrations of the materials, steps, typical drawings and tool kits used. After the planning is completed, the work isbegun in the carpenter's workshop. There were two kinds of work: processing the wood from tree logs to lumber and creating tenons and related work. Saws, axes, knives, chisels, planers, and drillers were used. The joists, ties, pillars, etc.were marked for assembly. The assemblage was made often for a whole wall at once, especially for multi-storiedbuildings. Sometimes a safer construction method was used (depending on the number of persons available for thework), namely, connecting the pillars to the foundation and to the threshold and then adding the struts and bands. InBaden-Wrttemberg the floor was finished after each story was constructed. (? we are unsure of meaning or whetherthe words used accurately describe the construction process for this section) After the assemblage was connected, it wasnailed together. The next step was infilling. Holes were created to add the basketry on which adobe was curled up in asingle layer from both sides. Added chaff prevented the creation of cracks while the adobe was drying. The infills werethen plastered with calc. Another kind of infilling was done with wooden planks. After this, the floors wereconstructed followed by the roofing. The next step involved constructing the windows and doors, as well as ofstairs,wall wardrobes, and other smaller items, by the joiner ("Bautischler" in German). Plastering and painting thewood came last. The construction process for a new building is illustrated in a report athttp://www.fachwerkhaus.de/fh_haus/info/drei.htm (2004). Seehttp://www.fuhrberger.de/leistung/fachwerk/acer.shtml (2004) for images regarding the construction of a house,http://www.fuhrberger.de/leistung/sanierung.shtml (2004) for images regarding the rebuilding an old house after apicture and http://www.fuhrberger.de/leistung/bauzeitenplan.shtml (2004) for a construction plan. Theconstruction of this type of housing takes place in a single phase. Typically, the building is originally designed for itsfinal constructed size.
+
+**Construction issues:** 
+
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. Switzerland: Norm SIA 160"Einwirkungen auf Tragwerke" (Ausgabe 1989) des Schweizerischen Ingenieur- und Architekten-Vereins (SIA). Forcodes addressing the buildings in Germany see report #95. In France structures under seismic risk are addressed byRgles PS92, Norme NF P 06-13, 1992 (Garcia et al, 2004) The Austrian seismic regulations are called NORM B 4015(Garcia et al, 2004). The year the first code/standard addressing this type of construction issued was 1970 - SIA 160Ausgabe 1970. Short descriptions of the provisions, especially regarding the seismic zoning, for Switzerland,Germany, France and Austria are included in Garcia et al (2004), but not for the UK. The most recent code/standardaddressing this construction type issued was Switzerland: 1989. A new code, update of the old, was updated into anew code (SIA 261), but SIA 160/89 will remain valid until 2004. The Austrian seismic regulations have been updatedin 2002 (Garcia et al, 2004). The French regulations are, according to Garcia et al (2004), currently revised in view ofEurocode regulations.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** According to a source in northern Germany (http://www.fuhrberger.de/leistung/index.shtml, 2004), constructionprices today are as follows: - ca. $1,500/sq m; - meaning ca. $200,000 (+/- $40,000) for a single-family house, $350,000for a two-family house, ca. $400,000 for a block of flats with four apartments. Comparable costs are found for similarbuildings in northern France. Costs for Switzerland itself are unknown. Historical prices can be seen in Stade (1904) on page 90.
+
+**Labor requirements:** According to Gromann (1986) the construction of an historical house (after the wood for it was processedto the necessary "fachwerk" elements, and the connection points created and correspondingly marked) took several daysto few weeks. But many workers were needed therefore (for example, 8 carpenters and their helpers). Up to this pointonly half of the works are completed. For a new building it takes four days to build the "fachwerk" schelet (out of prefabricatedtimber parts) of three stories, and another three days for the complete roof - seehttp://www.fachwerkhaus.de/fh_haus/info/drei.htm (2004) See figure 42 for a typical work plan.
+
+**Additional comments section 3:** Before 1970, no norms. 1970-1989 SIA 160 first edition (pushover analysis, depending on frequency only; no responsespectra and no ductility factors) 1975-1989 SIA 160/2 recommendations (practical measures for protection of buildingsagainst earthquakes) 1989-2002 SIA 160 1989 edition (three building classes, pushover curve varies according to
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Until the 19th century one family (spanning several generations) occupied a house. After that, different rooms orfloors might be rented out.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** High-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Applicable today. In the Middle Ages these houses were inhabited by the poor. Economic Level: The ratio of price ofhousing unit to the annual income can be 4:1 for rich families.
+
+**Typical Source of Financing:** Personal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** According to http://www.gvz.ch/GVZ%5CGVZHomepage.nsf/WEBViewPages/Erdbebendeckung? (2004), open document buildings in the canton of Zrich haveearthquake coverage under building insurance policies (see source for details). The earthquake hazard in this canton isthe lowest in Switzerland and calculations are based upon the Basel earthquake from 1356. Customized earthquakeinsurance for single or multiple housing units is nevertheless available: for example, through Lloyds (sourcehttp://www.erdbeben.at/versicherung.htm, 2004). Even in this case, the premium is influenced primarily by the site.More typical are higher fire insurance premiums for these timber buildings. Typically, buildings and their contents canbe insured.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1356 | Basel (30 km to south) |  | IX (MSK) | 
+| 1601 | Vierw aldstttersee |  | VIII-IX (MSK) | 
+| 1755 | Oberw allis near Brig/Visp |  | VIII-IX (MSK) | 
+| 1946 | Sanetschpass (Central Wallis) |  | VIII (MSK) | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Damage due to the 1356 Basel earthquake occurred up to 300 km distance from its epicenter (Burgundy, France). Thiskind of building was not affected, though, and in Basel there are buildings still standing from ~1200, which survivedthe earthquake and the years since (http://www.meteoriten.ch/, 2004). Seehttp://www.wetzlarvirtuell.de/asp/main_frame_addr.asp?address_id=115 (2004) for a typical Middle Age housefrom exactly the year of the Basel earthquake 1356 in Wetzlar, central Germany (Broadshirm street 6). Affected by the1356 earthquake were constructions of stone, like castles and churches, and not the wooden construction inhabited bythe poor. The 1601 earthquake was felt according to D-A-CH (1989) in the entire area of central Europe. Twohistorically strong earthquakes with epicenters in Oberwallis near Brig/Visp have occurred: one in 1755 as listed aboveand one in 1855 with IX (MSK) intensity. The earlier one was felt in the whole Alpine region as well as in southernGermany and northern Italy. The 1855 earthquake was the strongest earthquake in Switzerland in the 19th century andwas strongly felt in southern Germany and northern Italy. In the time period between these two events, Switzerlandwas affected by a strong earthquake in 1774, with VIII MSK intensity and an epicenter in central Switzerland thataffected numerous cantons. (after D-A-CH, 1989) The strongest earthquake in Switzerland in the 20th century occurredin 1946. It was felt in Austria (Innsbruck), France (Alsace, Grenoble), southern Germany (Stuttgart) and northern Italy (Milano) (after D-A-CH, 1989). Data are available for several recent earthquakes with magnitudes over 4.0 occurring inSwitzerland in the European Strong Motion Database (2002): an earthquake with magnitude 4ML in 1996 atKirchberg, an earthquake with magnitude 4.3ML in 1999 in Fribourg, an earthquake with magnitude 4.9 Mw in 1999in Piz Tea Fondada, and an earthquake with magnitude 4.1Mw in 2000 with an epicenter in Monte Solena. A completeearthquake catalogue is available at: http://histserver.ethz.ch/intro_e.html (2004) See the general references forexamples of historical earthquakes affecting this type of construction in Switzerland and Austria .
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | N/A | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Designed for gravity loads only. Joists notalways in the same plane as the pillars.
+
+**Earthquake-resilient features in walls:** - Presence of diagonal braces; - Astonishing feeling of the carpentersof the time for equilibrium; - Very well-made connections between thewooden frame elements; excellent technique in cutting the wood for doingthis.
+
+**Seismic deficiency in frames:** Designed for gravity loads only.
+
+**Earthquake-resilient features in frame:** Similar elasticity to that of the frame in this type (infill is out of adobe orwood) as compared to the northern type (infill is out of bricks).Contemporary construction uses brick more and more.
+
+**Seismic deficiency in roof and floors:** Designed for gravity loads only. Joists notalways in the same plane as pillars, and thusare supported by beams instead of directly bypillars.
+
+**Earthquake resilient features in roof and floors:** Timber floors and joists ensure a uniform distribution of rigidities in-planeand energy absorption. Similar elasticity to that of the walls.Good three-dimensional conformation of the roof. Similar elasticity to wallsand floors.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Not necessary, as this type of building was not damaged.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not necessary, as this type of building was not damaged.
+
+**Was the construction inspected in the same manner as new construction?** Not necessary, as this type of building was not damaged.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not necessary, as this type of building was not damaged.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not necessary, as this type of building was not damaged.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Internet-Site for European Strong-Motion DataAmbraseys,N., Smit,P., Sigbjornsson,R. Suhadolc,P., and Margaris,B.European Commission, Research-Directorate General, Environment and Climate Programme 2002
+
+  * The Earthquake Provisions of the Code SIA 160Bachmann,H.Dokumentation D044, SIA, Z 1989
+
+  * Manual of Timbered ConstructionsBJulius Springer, 1911. Reprint by Reprint-Verlag-Leipzig, 5th edition 1911
+
+  * Communication Paper of the German Society for Earthquake Engineering, the Austrian Society forEarthquake Engineering, and the Swiss Society for Earthquake Engineering and Structural DynamicsD-A-CHin SIA nr. 3/1989 1989
+
+  * Comparative Study of the Seismic Hazard Assessments in European National Seismic CodesGarcIn: Bulletin of Earthquake Engineering, Kluw er, Netherlands, preprint
+
+  * The Half-Timbered Construction in Germany: the Historical Half-Timbered House, its Genesis, Colouring,Funktion and Restoration, KGroDuMont: 1998 (second edition; first edition 1986)
+
+  * History of the Timber Construction in GermanyLachner,C.Second part: "The Southern German Pillar-Construction and the Block Construction". Leipzig. E. A. Seemann: 1887. (reprint in "libri rari"Hannover 1983)
+
+  * Manual for Country and House Men in the Pragmatical History of the Whole Country and House Economyof the Kupferzell Department of the Hohenlole-Schilling Principate Mayer,J.F.N
+
+  * The Timbered ConstructionsStade,F.D
+
+  * The Constructions and the Art Forms of Architecture. Their Genesis and Historical Development at DifferentNationsUhde,C.Volume II "The Timber Construction". Berlin. Ernst Wasmuth: 1903
+
+  * Architectura Civilis or Description and Predrawing of Many Adle Roof and Higher Pinnacles, Crossroofs,Recurrences, Welch Hoods, also of Celtic, fall bridges: Item various Presses, Scrolls, or Nappy Stairs and otherSimilar Mechanism FabriquesWilhelm,J.Frankfurt 1649 and 1668
+
+  * Fachwerk.de http://www.fachwerk.de/
+
+  * Wetzlar virtuell http://www.wetzlarvirtuell.de/
+
+  * Abraxas Basel GmbH http://www.meteoriten.ch/
+
+  * Camulos - The Colchester Webpages http://www.camulos.com/
+
+  * de http://www.fachwerkhaus.de/
+
+  * Earthquake Catalog of Switzerland http://histserver.ethz.ch/
+
+  * Fuhrberger Zimmerei http://www.fuhrberger.de/
+
+  * Building assurance canton Z
+
+  * Earthquake - Assurance, http://www.erdbeben.at/versicherung.htm
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria D. Bostenaru | researcher | Urban and Landscape Department, Ion Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | Maria.Bostenaru-Dan@alumni.uni-karlsruhe.de | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mauro Sassu | Associate Professor | Dept. of Structural Engineering, University of Pisa | Pisa 56126, ITALY | m.sassu@ing.unipi.it | 

@@ -1,0 +1,369 @@
+====== ,  ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 180
+
+**Building Type:** Reinforced Concrete Shear Wall Houses
+
+**Country:** Chile
+
+**Author(s):** Claudia Alvarez Velasquez, Matias Hube Ginestar, Felipe Rivera Jofre, Hernan Santa Maria Oyandenel, Mariana Labarca Wyneken
+
+**Last Updated:** 01/19/2016
+
+**Regions Where Found:** Reinforced concrete houses are distributed throughout the whole country, especially in urban zones. Reinforced concrete houses are concentrated in the central zone of the country, between regions V and VIII (see Figure 2), representing 74% of all the reinforced concrete houses in Chile. According to NCh 433 (INN, 2009), Chile is divided into three seismic zones: high, mid and low seismic hazard. Urban zones are mostly found in high and mid seismic zones. Metropolitan region concentrates 41% of reinforced concrete houses of the country and these houses are located mostly in the mid seismic zone. Figure 3 shows the regional distribution of reinforced concrete houses in 2012 (INE, 2012), and Figure 4 shows the regional participation of reinforced concrete houses in the total number of houses in Chile (INE, 2012).
+
+**Summary:** This housing type is structured with shear walls in two orthogonal directions, which provide the lateral load resisting system, and usually have regular plan shapes and shallow foundations with no basement floors. A house is typically occupied by a single family. In general, this type of structural system/structure has performed very well during past earthquakes (Valparaiso 1985, Maule 2010, and Iquique 2014) and only minor non-structural damage has been observed. Every structure must follow the General Planning and Building Ordinance (MINVU, 2014a), which requires the use of the following codes/standards for designing this type of structures: NCh 433 (INN, 2009) and Decree DS 61 (MINVU, 2011b) for seismic design, and Decree DS 60 (MINVU, 2011a) and ACI 318 (ACI, 2008) for the design of reinforced concrete buildings. In Chile, reinforced concrete constructions for residential use are houses (one to three stories high, single family occupancy) and buildings (three or more stories high, multiple apartments per building, each apartment with single family occupancy). Houses represent 68% of all the residential reinforced concrete dwellings, while apartments represent the remaining 32% (INE, 2012). Reinforced concrete shear wall houses are distributed throughout the whole country, especially in urban zones, and represent 6% of all the houses in Chile (INE, 2012). The construction of this type of houses started around 1950, and the number of houses and its participation in the total number of houses have been increasing in the last decades. Figure 1 shows an example of a reinforced concrete shear wall house built in year 1950 and one in year 2000.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 42165
+
+**Building Occupancy:** Single dwellingMulti-unit, unknown type
+
+**Typical number of stories:** 1-3+
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** Terrain: Reinforced concrete shear wall houses are commonly built over flat terrain. However, due to Chilean topography, some of
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Unknown plan shapeRectangular, solid
+
+**Additional comments on plan shape:** Reinforced concrete shear wall houses commonly have regular plan shapes, even though there are no plan shape regulations in the codes. Therefore, an architect can design a house with irregular plan shapes as required by the owner.
+
+**Typical plan length (meters):** 11.83
+
+**Typical plan width (meters):** 11.83
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Structural Concrete: Structural Wall: Moment frame with in-situ shear walls
+
+**Additional comments on structural system:** Gravity load-bearing system: Reinforced concrete walls provide both the lateral and the gravity load-resisting system. Reinforced concrete slabs and beams transfer the gravity loads to the reinforced concrete walls. Typically, the thickness of reinforced concrete walls ranges between 10 and 25 cm, and the thickness of reinforced concrete slabs vary between 10 and 20 cm. Figure 8 shows the distribution and dimensions of walls, beams and slabs of a typical reinforced concrete house. Lateral load-resisting system: Reinforced concrete shear walls provide the lateral load-resisting system. Reinforced concrete shear walls are usually located in the perimeter of the houses. Some houses have interior reinforced concrete shear walls that contribute to both gravity and lateral load-resisting systems. Reinforced concrete walls provide adequate strength and stiffness to control lateral displacements during earthquakes. In some cases, lintel beams are used to couple walls. If designed and detailed properly, those coupling beams may dissipate energy when subjected to severe earthquakes and can be easily repaired after an earthquake.
+
+**Gravity load-bearing & lateral load-resisting systems:** Shear stress is resisted by the shear walls, while reinforced concrete columns and beams only transfer gravity loads.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Article 4.1.2 of the General Planning and Building Ordinance (MINVU, 2014a) indicates that there should be at least one window in each room (bedrooms, living room and bathrooms) of the dwelling. In bedrooms, windows must have a minimum free horizontal distance of 1.5 m. For thermal requirements, and according to Article 4.1.10, maximum window area is limited based on the type of glass and the thermal zone where the structure is built. The maximum window area per thermal zone is shown in Table 3.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** It is common to find modifications to reinforced concrete shear wall houses. The most common modifications are extensions of the houses at the first floor to add an extra room to the house, which can also be found at the second or third level. In fact, many one-story houses are constructed with a reinforced concrete slab at the ceiling that is designed to support a second story. The second story extensions are commonly made of reinforced concrete or light materials, such as timber or gypsum plasterboard with metallic elements.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Strip footings to support the shear walls are used in reinforced concrete houses as shown in Figure 10. Isolated footings are used to support isolated reinforced concrete pillars. Foundation requirements such as dimensions, allowable soil contact stress, minimum area of reinforcement in spread foundations which depends on the number of stories, and minimum buried depth of foundations, are specified in Title 5 (Chapter 7) of the General Planning and Building Ordinance (MINVU, 2014a).
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floor
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Wooden structure with light roof coveringWooden beams or trusses with heavy roof covering
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** Typical Story Height and Number of Stories: Article 4.1.1 of the General Planning and Building Ordinance (MINVU, 2014a) establishes a minimum interior clearance height of 2.3 m for housing dwellings, except under beams, horizontal installations, and small areas under sloping roofs. According to the UESF (INE, 2014), typical reinforced concrete shear wall houses are of one story (22%), two stories (74%), or 3 stories (4%). In addition, these houses have an average plan area of 96 m2. Reinforced concrete houses have a typical story height of 2.5 m, and a span of the flooring system between 2.5 and 5.0 m.Typical Plan Area: Since 2002, the average size of reinforced concrete shear walls houses has been 114 m2 for detached houses, and 67 m2 for semi-adjoining and adjoining reinforced concrete houses (INE, 2014).The Unique Edification Statistics Form, January 2002-September 2014 (UESF) provided by the National Institute of Statistics (INE, 2014) contains the information of approved construction permits. The approved permits are highly correlated to the constructed projects, therefore they are a good approximation of the built housing stock in Chile. According to the General Planning and Building Ordinance, dwellings in collective structures (i.e. independent functional units, such as apartments in a building) can be classified in three segments based on their surface for occupancy load requirements: S1 (less than 60 m2), S2 (between 60 and 140 m2) and S3 (more than 140 m2). Applying the same classification for adjoining or semi-adjoining houses, it is possible to obtain the surface distribution for masonry houses contained in the UESF data (see Figure 9). The UESF data shows a peak of participation of S2 houses in 2006, and a maintained participation of it since 2007. S1 houses show a peak of annual construction rate in 2004, 2010 and 2012. S3 houses have maintained its low annual construction rate in time. Detached houses present an increasing participation in reinforced concrete houses in the last decade. Notice that due to the fact that the real estate market is highly cyclic, ups and downs in construction numbers usually match Chilean economic cycles. It is important to mention that 140 m2 is a common house size because there are important housing taxes benefits (DFL2 benefits) for dwellings of 140 m2 or less.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | | |
+| Foundations | | |
+| Floors | | |
+| Roof | | |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** The structural engineer, the construction engineer, and the architect involved in the design and construction of these houses have professional degrees. They have 5 to 6 years of academic studies and the professional degree is given by the university, which allows them to sign construction drawings and obtain construction permits in the municipality.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Contractor
+
+**Roles of those involved in the building process:** During the construction process, there is a regular inspection. This inspection is made by the ITO (onsite technical inspector), who is hired by the real estate company. Additionally, the architect and the structural engineer may visit the construction site several times during the construction, or as required by the construction company.
+
+**Expertise of those involved in building process:** The structural engineer, the construction engineer, and the architect involved in the design and construction of these houses have professional degrees. They have 5 to 6 years of academic studies and the professional degree is given by the university, which allows them to sign construction drawings and obtain construction permits in the municipality. Reinforced concrete shear wall houses are typically built by medium to large size construction companies. These companies build dozens or hundreds of houses in each project. The construction companies are hired by real estate companies who sell these houses to people. People with more wealth are able to buy or construct exclusive houses which are designed by a particular architect. These unique houses are typically constructed by small size construction companies.
+
+**Construction process and phasing:** For construction of low to medium cost houses, a real state office hires an architect and an engineer to design the houses. As the number of houses of a typical construction project increases, the design and the construction process are optimized to minimize costs. Large projects normally contain few different designs of house units (usually with different plan areas and number of bedrooms). When the project has too many units, the project is separated in smaller projects, limiting the total number of units in each project as needed to skip the Environmental Study process and just make an Environmental Declaration according to the Environmental Impact Evaluation System (SEIA). The common construction process begins with the excavation for the reinforced concrete strip foundations, and later a layer of low quality concrete is cast in the base of foundation to avoid that the concrete foundation is directly in contact with the base of the excavation. After the installation of the strip foundation's reinforcement bars and the vertical reinforcement bars for the walls, the foundations are cast. When foundations are finished, the slab on-grade is cast, which can be reinforced or not. Horizontal reinforcement bars of walls are tied to the vertical bars and the walls are cast with wood or metallic formwork. In case that the house is a two-story building, usually a reinforced concrete slab is constructed. The steps of the construction of this slab are: placement of formwork, installation of reinforcement bars, pouring of concrete, and removal of formwork. Vertical shores are installed to support the slab until an adequate strength is achieved. Walls in the second floor are built following the same steps than those for the first floor, and can be constructed before the removal of formwork in walls of the first floor and/or slab.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Design codes for reinforced concrete structures in Chile have being changing since the first two standards NCh 429 (INN, 1957) and NCh 430 (INN, 1961), the latter based on the German standard DIN 1045. In 1972 the first code for seismic design was published, NCh 433 (INN, 1972), including static and dynamic analysis, torsion, allowable deformation, seismic high limit for buildings, soil effects, structure shapes, and the importance of the type of use of the structures. This code introduced maximum shear stress at the base of the structures. After the 1985 San Antonio earthquake (MW 7.7) the seismic code was reviewed and a new version of NCh 433 was published on 1996 (INN, 1996). This version of the seismic code included the division of Chile into three zones with different seismic hazard, and defined ACI 318-95 (ACI, 1995) as the design provisions for reinforced concrete buildings but with some modifications. In 2008, the design code for reinforced concrete structures NCh 430 was modified (INN, 2008), defining ACI 318-05 (ACI, 2005) as the guiding provisions, but some modifications were introduced, especially for earthquake resistant structures. In 2009 the NCh 433 seismic design code was slightly modified (INN, 2009). After the 2010 Maule earthquake (MW 8.8), two emergency decrees (DS 117 and DS 118) were published in 2010 to quickly account for the general observed damages in RC structures: DS 117 (MINVU, 2010a) which complemented the seismic design code (NCh 433 2009), and DS 118 (MINVU, 2010b) complemented the reinforced concrete design code (NCh 430 2008). In 2011, DS 117 was replaced by Decree DS 61 (MINVU, 2011b), which conserved the pseudo-acceleration spectrum of NCh 433 but applied a factor depending on the soil type (factor S), changed the soil classification, and included a new type of soil. Additionally, DS 61 includes an expression to estimate the lateral roof displacement, which is used to determine if special boundary elements are required in special walls. In the same year, DS 118 was replaced by Decree DS 60 (MINVU, 2011a), which uses ACI 318-08 (ACI, 2008) as guiding provisions but with modifications. Reinforced concrete shear wall houses must follow the General Planning and Building Ordinance, which indicates that the design of these houses must follow the decree DS 61 that complements the NCh 433, and decree DS 60 that complements NCh 430. DS 60 indicates that reinforced concrete shear wall buildings with five or less stories may be designed as ordinary reinforced concrete walls following Chapter 14 of ACI 318-08 if a strength reduction factor of 4 or less is used. This strength reduction factor is equivalent to the strength reduction factor of reinforced or confined masonry. Seismic forces in reinforced concrete houses can be obtained using static analysis method. Accidental torsion has to be considered (DS 61 2011; NCh 433 2009). By following the design codes, reinforced concrete shear wall houses are usually designed with larger strength than that required by calculations, as wall area is relatively large in houses.It is important to mention that, according to the Article 5.1.7 of the Ordinance, if the construction area of a reinforced concrete structure is less than 100 m2, it is possible to not require a structural analysis and design, and follow Title 5, Chapter 6 of the Ordinance.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** The construction permits are regulated and given by the Municipalities. Each Municipality is in charge of the master plan of the zone or city. Additionally, a Municipality permit is required to expand or modify an existing structure. According to Article 5.1.6 of the General Planning and Building Ordinance, to obtain the permits for a project it is necessary to give the following documents to the Municipality Building Director:1) Application signed by the owner and the architect of the project with the following attached documents:- A list of all the documents and architectural drawings signed by the architect.- Statement of the owner indicating being the owner of the domain of the property.- Special conditions of the project.- All the professionals of the project.- A statement indicating if the project consults public buildings or not.- If the project has a favourable report of an independent reviewer and the identity of this reviewer.- If the project has a favourable report of a structural design reviewer and the identity of this reviewer.- A copy of the approval document if the project has an approved project draft.2) A copy of the current Certificate of Prior Information of the project.3) Unique Edification Statistics Form.4) Report of an independent reviewer, or the architect if the project consists of one house, one or more progressively build houses, or sanitary structures.5) Favourable report of the structural designs reviewer, if it corresponds.6) Certificate of feasibility of drinking water and sewerage issued by the sanitary company.7) Architectural drawings which must content exact location of the project, distribution of structures, drawings of each level, and every elevation drawing.8) Structural design and calculations according to the Article 5.1.7 of the Ordinance.9) Technical specifications of the items included in the project, especially those relating to compliance with fire regulations or standards of the Ordinance.10) Other documents.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** Typically, reinforced concrete shear wall houses are maintained by owner(s) or tenant(s).
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A unit construction may cost 278 - 507 USD$/m^2, considering quality category Regular to Superior (MINVU, 2014b), and its base appraisal unit value is 631 - 1,181 USD$/m^2. This base appraisal value has to be modified by four factors dependent on the structure's location, special conditions of the structure, depreciation, and a commercial coefficient applicable to structures built in commercial zones (SII, 2013). Nowadays, the progress in construction is quite efficient. The time someone needs to build a house depends on if it is independent or with a real estate firm with several units. For an independent house, it may take one or up to two years, depending on the size of the house. A real estate office may have the house finished in up to 6 months, but the whole project will take longer, and the owner has to wait a few more months for the sanitary and electrical installations to be ready. (USD$ 1 = CLP$ 625 (01/15/2015))
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one dwelling is occupied by one family (father, mother and two to three children). The main function of the building is residential housing.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Each house typically corresponds to one dwelling. The number of inhabitants in a house during the day or business hours can be none. The number of inhabitants during the evening and night can be 2 or more. In average, there are between 3 and 4 inhabitants per reinforced concrete house in Chile (INE, 2012).
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The Ministry of Housing and Urbanism (MINVU) defines five categories of quality of residential structures: Superior, Semi-Superior, Regular, Semi-Inferior and Inferior (MINVU, 2014b). A total score of the structure, which is obtained considering design aspects, general characteristics, installations, and terminations, defines the first to the fourth quality categories. The Inferior category is assigned to social condominiums only. Social condominiums are built by the government for low-income and vulnerable population. The ownership of the unit is given to 60% of the lowest quintile income families and they have the right to sell it after five years of use (Comerio, 2013).According to the Chilean Internal Revenue Service (SII), a house of 60 m2 (segment S1) may have an appraisal value between USD$ 37,800 and 71,000, depending if the construction quality is classified as Regular or Superior. To obtain an appropriate appraisal value, this value has to be modified by four factors: location, special conditions of the structure, depreciation, and commercial coefficient applicable to structures built in commercial zones. A 100 m2 house (segment S2) may have an appraisal value between USD$ 63,000 and 118,000 if construction quality is Regular or Superior. For segment S3, a house of 140 m2 or more may have an appraisal value of more than USD$ 165,000 for a Superior construction quality (SII, 2013). There are houses that can cost up to USD$ 800,000.According to the Ministry of Social Development (MDS) the average monthly working income for a family is approximately USD$ 1,000 (MDS, 2015). The minimum legal monthly wage for a person in Chile is USD$ 360. The average family monthly working income of the first decile is USD$ 102 per person. For the fifth and tenth deciles these working incomes are USD$ 617 and USD$ 3,680 per person, respectively.
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** Owners of residential real estates must pay annual territorial taxes, corresponding to 0.98% of the tax-appraised value if it is less than USD$ 117,648, and 1.143% if the tax-appraised value is more than that, plus an annual surcharge tax benefit of 0.025%. If tax appraised value of the residential real estate is less than USD$ 32,941, then it is exempt of contribution payments (SII, 2014).
+
+**Type of Ownership:** RentOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** The user is usually a tenant, a co-owner or the owner of the house.
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** For houses, there are insurances for all kind of situations: general damage, robbery and theft, fire, earthquake, wind, alluvium, tsunamis. Earthquake and fire insurance are required from the banks if the house is financed with a mortgage. Earthquake and fire insurance covers the repair costs in order to bring the building to the same condition as it was before the earthquake, which is about 60% of the property value. This insurance does not cover the cost of the land. The annual costs of the earthquake and fire insurances are approximately 0.02% and 0.22% of the insured value (60% of the property value), respectively.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Off
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1939 | Chillan, VIII Region | 8.3 | VIII | 			
+| 1960 | Valdivia, XIV Region | 9.5 | XII | 			
+| 1985 | San Antonio, V Region | 7.7 | XI | 			
+| 2010 | Maule, VII Region | 8.8 | IX | 			
+| 2014 | Iquique, I Region | 8.3 | VII | 			
+
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** The 1939 earthquake in Chillan destroyed almost half of the houses of the city. From the 3,526 buildings, 1,645 were destroyed. There was no water or electricity, and the sewage system collapsed too. People that did not die directly because of the earthquake, died later because of mortal diseases, or lack of hygiene, food, and water. This is the earthquake in Chilean history that has taken more human lives, with 24,000 deaths. The large number of deaths caused the passing of a law aimed to regulate the construction of houses and buildings and the creation of the Corporation of Development and Reconstruction (CORFO) (Museo Historico Nacional, n.d.). In 1960, the greatest earthquake ever registered in the world shook the south of Chile. This earthquake was followed by a tsunami that caused a major disaster. It destroyed 40% of the homes in Valdivia. In Chillan, 20% of the buildings were badly damaged. Talcahuano had 65% of the homes destroyed, while Los Angeles had 70%, Angol 82%, and Puerto Montt 90% (sismo24.cl, n.d.). More than 2,000 people died, 3,000 were injured, and 2 million lost their homes (Museo Historico Nacional, n.d.).Due to the 1971 Illapel earthquake (MW 7.5), about 1,000 one-story houses at Choapa Valley partially collapsed.The 1985 earthquake of San Antonio left 70% of San Antonio destroyed. In Santiago, damage was concentrated in the old parts of the city, where constructions were basically made of earth, wood, or bricks, without steel reinforcement. Some historical buildings had damage, like the Old National Congress and the Basilica de El Salvador (ONEMI, 2009). This earthquake left some damage in some reinforced concrete and adobe structures. After the 1985 earthquake the Ministry of Housing and Urbanism (MINVU) appointed an especial committee to review the seismic effects on dwellings.In 2010, the Maule earthquake left a total of 4 buildings on the ground, and approximately 50 buildings with demolition order. An example of a reinforced concrete building that collapsed was the Alto Rio Building in Concepcion.The 2014 Iquique earthquake (MW 8.2) was felt by more than a million people. The strongest seismic intensity occurred in Iquique (MMI VII), Arica (VII), and Tacna (VI). The earthquake generated a tsunami with maximum measured water run up of 3.15 and 4.4 meters above sea level at Iquique and Patache, respectively. There were more than 13,000 damaged houses in the affected area, mostly reinforced masonry dwellings. Adobe and masonry houses located in small towns were strongly affected by the main shock. Some concrete block masonry houses and low-rise buildings suffered severe damages, but no collapsed structures were observed. Serious damage occurred in some localities of Iquique and Alto Hospicio, the latter showing a clear topographic amplification effect. Three story masonry buildings in Alto Hospicio were damaged possibly due to soil conditions. Five-story masonry buildings showed extensive diagonal shear cracks in the first story. In Iquique, high-rise reinforced concrete buildings (up to 38 stories) showed no structural damage, but small pounding between structures, and localized moderate cracking and spalling in some columns (EERI, 2014).Even though large earthquakes have occurred in Chile, reinforced concrete shear wall houses have performed extremely well. Only minor damage has been reported in non-structural elements. The good performance of reinforced concrete shear wall houses is attributed to the high strength provided by the shear walls. Structural damage has only been observed in reinforced concrete houses located on inadequate soil conditions.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | True |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | False |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | True |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | True |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | True |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | False |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | True |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A |
+| Wall Openings |  | N/A |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | True |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | True |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | True |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** 
+
+**Horizontal irregularities typically found in this construction type:** 
+
+**Seismic deficiency in walls:** Some damage between structural walls and partition walls or elements with less rigidity. Earthquake Damage Patterns: small cracks on the coating.
+
+**Earthquake-resilient features in walls:** High wall density. Regular structure avoids torsional problems.
+
+**Seismic deficiency in frames:** Low ductility. Earthquake Damage Patterns: Small cracks on the coating.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Earthquake Damage Patterns: Light damage in the ceiling and roofs have been observed.
+
+**Earthquake resilient features in roof and floors:**	
+
+**Seismic deficiency in foundation:**	
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |  |   | %%|-%% | %%-|%% |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Non-structural elements connections | Rebuilt or adjust non-structural elements. |
+| Soil Settlements | Better compaction to avoid settlements |
+
+----
+
+**Additional comments on seismic strengthening provisions:** No structural damage has been observed after strong earthquakes in reinforced concrete shear wall houses in Chile. Therefore, strengthening has not been required. Strengthening of beams, columns or walls is necessary only when the structure is modified (i.e. window enlargement).
+
+**Has seismic strengthening described in the above table been performed?:** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Only after an earthquake some structures have been repaired, when some constructive deficiencies appeared.
+
+**Was the construction inspected in the same manner as new construction?:** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** A contractor and an engineer were involved, hired by the owner/user.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** In general, concrete houses did not present any problems during any earthquake.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * American Concrete Institute (ACI). (1995, 2005, 2008). ACI 318: Building Code Requirements for Reinforced Concrete. U.S.A.
+
+  * Barrientos, S. (2014). Technical Report, Earthquake of Iquique, Mw = 8.2. April 1st, 2014. Centro Sismologico Nacional (CSN). Retrieved January 14th, 2015 from: http://www.sismologia.cl/pdf/informes/terremoto_iquique_2014.pdf
+
+  * Camara Chilena de la Construccion (CChC). (2014). Balance of Housing in Chile [in Spanish]. Chile.
+
+  * Centro Sismologico Nacional (CSN). (n.d.). Important and/or destructive earthquakes (1570 to date) [in Spanish]. Retrieved January 14th, 2015 from: http://sismologia.cl/links/terremotos/index.html
+
+  * Comerio, M. (2013). Housing Recovery in Chile: A Qualitative Mid-program Review. Pacific Earthquake Engineering Research Center (PEER). California, U.S.A.
+
+  * Cruz, E., Riddell, R., Van Sint Jan, M., Hidalgo, P., Rodriguez, F., Vasquez, J., Luders, C. & Troncoso, J. (1988). Lessons from the earthquake of March 3rd, 1985 [in Spanish]. Instituto Chileno del Cemento y del Hormigon. Santiago, Chile.
+
+  * de la Llera, J.C., Rivera, F., Mitrani-Reiser, J., Junemann, R., Fortuno, C., Rios, M., Hube, M., Santa Maria, H. & Cienfuegos, R. (2015). Data collection after the 2010 Maule earthquake in Chile. Bulletin of Earthquake Engineering. Submitted for publication.
+
+  * Earthquake Engineering Research Institute (EERI). (2014). M8.2 Iquique, Chile Earthquake and Tsunami: Preliminary Reconnaissance Observations. The Pulse of Earthquake Engineering. Retrieved March 27th, 2015 from: http://www.eeri.org
+
+  * Instituto Nacional de Estadisticas (INE). (2014). Unique Edification Statistics Form 2002 - 2014 [in Spanish] (by personal request, September, 2014).Instituto Nacional de Normalizacion (INN). (1957). NCh 429 EOf. 1957, Reinforced concrete - Part 1 [in Spanish]. Santiago, Chile.Instituto Nacional de Normalizacion (INN). (1961). NCh 430 EOf. 1961, Reinforced concrete - Part II [in Spanish]. Santiago, Chile.Instituto Nacional de Normalizacion (INN). (1972). NCh 433 Of. 1972, Earthquake resistant design of buildings [in Spanish]. Santiago, Chile.Instituto Nacional de Normalizacion (INN). (1996). NCh 433 Of. 1996, Earthquake resistant design of buildings [in Spanish]. Santiago, Chile.Instituto Nacional de Normalizacion (INN). (2008). NCh 430 Of. 2008, Reinforced concrete - Design and Calculation Requirements [in Spanish]. Santiago, Chile.Instituto Nacional de Normalizacion (INN). (2009). NCh 433 Of. 1996, Modified in 2009, Earthquake resistant design of buildings [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Desarrollo Social (MDS). (2015). Casen 2013, Evolution and distribution of household income (2006-2013), Summary of Results [in Spanish]. Retrieved March 17th, 2015 from: http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Evolucion_Distibucion_Ingresos.pdf
+
+  * Ministerio del Interior y Seguridad Publica, Oficina Nacional de Emergencia (ONEMI). (2009). Destructive earthquake of March 3rd, 1985 [in Spanish]. Retrieved July 21th, 2014 from: http://repositoriodigitalonemi.cl/web/bitstream/handle/123456789/1094/SismoDestructivoMarzo1985.pdf?sequence=1
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (1999). Manual Application, Thermal Regulation, General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2010a). DS 117, Seismic design of buildings [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2010b). DS 118, Requirements for design and calculation of reinforced concrete [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU), Diario Oficial. (2011a). DS 60, Reinforced concrete design code, replacing DS 118 (2010) [in Spanish]. Santiago, Chile.Ministerio de Vivienda y Urbanismo (MINVU), Diario Oficial. (2011b). DS 61, Seismic design of buildings code, replacing DS 117 (2010) [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014a). General Planning and Building Ordinance [in Spanish]. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014b). Exempt Resolution 0251. Construction Unit Values to be applied in Calculating Municipal Rights [in Spanish]. Santiago, Chile.
+
+  * Museo Historico Nacional. Departamento Educativo. (n.d.). Earthquake of Chillan (January 24th, 1939) [in Spanish]. Retrieved January 22th, 2015 from: http://www.dibam.cl/Recursos/Contenidos/Museo%20Hist%C3%B3rico%20Nacional/archivos/TERREMOTOS2011.pdf
+
+  * Museo Historico Nacional. Departamento Educativo. (n.d). Earthquake and Tsunami of Valdivia (May 22nd, 1960) [in Spanish]. Retrieved January 22th, 2015 from: http://www.dibam.cl/Recursos/Contenidos%5CMuseo%20Hist%C3%B3rico%20Nacional%5Carchivos%5CTERREMOTO%20VALDIVIA%201960.pdf
+
+  * Servicio de Impuestos Internos (SII). (2013). Exempt Resolution 108. Appendix 5, Construction Unit Values Tables [in Spanish]. Retrieved January 22th, 2015 from: http://www.sii.cl/pagina/br/tablas_copropiedad_2013.htm
+
+  * Servicio de Impuestos Internos (SII). (2014). Frequent Questions. How property taxes are calculated? [in Spanish]. Retrieved January 16th, 2015 from: http://www.sii.cl/preguntas_frecuentes/bienes_raices/001_004_3848.htm
+
+  * Sismo24.cl. (n.d.). May 1960, Earthquake in Chile - II [in Spanish]. Retrieved January 22th, 2015 from: http://www.sismo24.cl/500sismos/730h1939chil.html
+
+  * Superintendencia de valores y seguros (SVS). (2012). Earthquake 2010, Analysis and Impact of the 27-F earthquake in the Insurance Market [in Spanish]. Retrieved July 21th, 2014 from: http://www.svs.cl/sitio/destacados/doc/TERREMOTO-9-1-13.pdf
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Claudia Alvarez Velasquez | Civil Engineer/Researcher | Pontificia Universidad Catolica de Chile | Santiago, Chile | cdalvar1@uc.cl | 
+| Matias Hube Ginestar | Civil Engineer/Assistant Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | mhube@ing.puc.cl | 
+| Felipe Rivera Jofre | Civil Engineer/Researcher | Pontificia Univesidad Catolica de Chile/National Research Center fo Integrated Natural Disasters Management | Santiago, Chile | felipe.rivera@igiden.cl | 
+| Hernan Santa Maria Oyandenel | Civil Engineer/Associate Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | hsm@ing.puc.cl | 
+| Mariana Labarca Wyneken | Civil Engineer | Pontificia Universidad Catolica de Chile | Santiago, Chile | mflabarc@uc.c | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Abdelghani Meslem | Research Earthquake Engineer | NORSAR | Kjeller, Norway | abdelghani@norsar.no |

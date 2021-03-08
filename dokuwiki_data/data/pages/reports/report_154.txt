@@ -1,0 +1,328 @@
+====== Assam-type House, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 154
+
+**Building Type:** Assam-type House
+
+**Country:** India
+
+**Author(s):** Hemant Kaushik, K. S. Ravindra Babu
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the northeastern states of India. Ikra-type construction is also used in the Gangetic planes of Bihar, UP, Bengal and Orrisa. This type of construction is also widely constructed in south and southeast Asian countries, largely found in Bangladesh, Myanmar, Thailand, Cambodia etc. The current report covers the typology commonly used in the states of Assam and Sikkim (Figure 1). Based on local requirements, there may be small variation in the typology used in other states. The northeastern part of India is one of the most seismically active regions in the world; three great earthquakes and several big earthquakes have struck this and adjoining regions in last 110 years. The region experiences severe shaking due to subduction of the Indian plate under the Eurasian plate along the north northeastern direction at a rate of about 40 mm per year. Due to historical high seismicity of the region the local people developed a unique construction methodology using locally available materials to construct their dwellings that are highly earthquake resistant. Such houses are commonly known as Assam-type houses or Ikra (Figure 2). The name Ikra given to such housing typology is derived from the reed locally known as Ikra used extensively in walls and roof of such houses. This type of housing construction is commonly found in both rural and urban areas. Currently, this type of construction is being built mostly in rural areas; in urban areas it is not used anymore. However, many old buildings some of which are decades old, are still in good condition and are inhabited. These houses are generally located on sprawling areas in rural Assam with abundant frontage for flower garden. (Traditionally, this frontage is used to erect temporary sheds for organizing family functions and religious get-togethers. However, in urban areas, the frontage is small, roughly about 5-6 m).
+
+**Summary:** Assam-type houses are commonly found in the northeastern states of India. Generally, it is a single storey house; however, two-storey houses are also found at some places. The main function or use of this construction type is multi-family housing. These are generally single dwelling units and do not have common walls with adjacent buildings. The house is made largely using wood-based materials. Performance of Assam-type houses has been extremely good in several past earthquakes in the region. Structural strengths that influence earthquake safety of the house include good 1 of 16 10/15/2012 10:43 AMconfiguration, light-weight materials used for walls and roofs, flexible connections between various wooden elements at different levels, etc. However, the houses are vulnerable to fire because of use of untreated wood-based materials. When built on hill slopes, unequal length of the vertical posts leads to unsymmetrical shaking that may damage the house.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercial
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** These houses are mostly single-storied (Figures 2); very rarely two-storied houses are built. In some cases when two-storied hou
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeU- or C-shape
+
+**Additional comments on plan shape:** When built on flat lands, the common plan shape is rectangular for single/two family house, and L- and C-shaped for multi-family house (Figure 3). Generally the building plan is regular for houses with smaller built-up area. Detailed drawings of a typical single-storey house constructed formally are provided in Annexure A (Figures A1 - A8). When built on slopes, the common plan shape is rectangular with the long side running along the slope, and the access is from the hill slide with a verandah facing the valley side; as a variation, the verandah runs along the full length of the building instead of being located just at the end of the building. The roof is pitched with a high gable to cater to the heavy rainfall in the region over many months. The simplest version of the house is geometrically regular and rectangular in plan of size 3x6 m. The eves height is about 4m and the pitch of the sloped roof about 2 m. The slope of the roof varies from one-third to one-fifth of the span depending upon the permeability of the roofing material. Thatched roofs have steeper slopes than tin sheet roofs.
+
+**Typical plan length (meters):** 6-12
+
+**Typical plan width (meters):** 6-12
+
+**Typical story height (meters):** 41641
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Walls with bamboo/reed mesh and post (Wattle and Daub)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame. The lateral load-resisting system is timber frame.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** The door and windows are small in size and are generally placed in the center of the room. Windows are about 900x1200 mm in size and the door about 900x2100 mm; the frames and panels of the windows and doors are made of locally available Hallock or Sal wood, which is quite similar to teak wood with respect to engineering properties except that the texture is not as good as teak wood. Other wood types that are usually available in this region and used in such houses are Gamari, Nahar or Mango.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The same methodology is adopted by the people of the neighboring states also with little modifications to suit availability of local forest products. Timber, bamboos, reed, and some binding materials are the prime construction materials of Assam-type houses. Several modifications in the construction methodology and materials used in Assam-type housing have been observed at various places to suit the local requirements. One such modification, which is rather not suitable for seismically active region is shown in Figure 5. In this two-storey house at Timpyen Basti near Lingdum in South Sikkim, light-weight iron sheet roofing over timber trusses was constructed at the second storey and RC slab was constructed at the first storey. While heavy unreinforced masonry walls were used as infills in the second storey, light-weight Ikra walls were provided in the first storey. Though this may not be treated as a proper modification to the Ikra house system, it is interesting to note the use of Ikra walls and timber framing as infills or partition walls in the first storey. Although damage was not observed in this particular house during the 18 September 2011 earthquake shaking, masonry infill walls constructed in the upper stories of such housing are vulnerable to out-of-plane collapses.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** No formal foundation is used in typical Assam-type houses. The main wooden verticals of the house are pierced into the ground by about 600-900 mm. In some cases involving construction of formal houses, the main wooden posts of the house are supported on masonry or plain concrete pillars constructed over the ground up to plinth or sill level. The connections between wooden posts and the pillars are achieved using steel bolts and U-clamps.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Timber: Rammed earth with ballast and concrete or plaster finishing Different types of flooring can be seen in Assam-type houses. Wooden plank flooring is adopted in stilted houses and mud plaster flooring in rural areas. Other common types of flooring include cement flooring over an under layer of sand or brick soling, etc.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: Thatched roof supported on wood purlins Pitched/corrugated/galvanized iron sheet roofing over timber trusses is the most common form of roofing system used in these houses.
+
+**Additional comments section 2:** As roads in hilly regions are always on ridge lines, the houses rise from low-lying areas along road until they are accessible from the road When separated from adjacent buildings, the typical distance from a neighboring building is 10-15 meters. Kitchen is one of the major sources of fire accidents in such houses. Therefore, an open space (verandah) of about 3 m is generally provided between the kitchen and the rest of the house in order to prevent fire accidents. Farming animals, if any, are usually kept outside the house, but with a shelter provided for them within the courtyard. Their shelter has walling on three sides and a roof on top.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | The walls are made of planar frames of bamboo of different diameters, varying from 25 to 100 mm, infilled with Ikra reed panels as shown in Figures 8 and 13a. | Wall: These panels can be either mud-plastered or cow dungfine river sand plastered or cement/lime-fine river sand plastered on one/both faces, they are further painted on one or both faces, completely depending on the economic capacity of the house owner. In recent constructions, the Ikra walls do not continue till ground level, instead un-reinforced masonry walls of 120 mm thickness are constructed above ground level till sill level and then Ikra walls are supported on the masonry walls. These masonry walls are supported over 250 mm thick masonry walls below ground level to a depth of about 600 mm. Generally, internal walls do not continue till roof level (except for formal houses); in some cases, plastered walls continue only till lintel level over which walls without plaster continue till roof level or eaves level (Figure 13b). In another variation, walls are not constructed at all over lintel levels; especially in those rooms which do not have any additional door or window openings (Figure 13c). Frames: Vertical Posts: The main timber posts are made of 150-250 mm diameter, and intermediate wooden posts are made of variety of sizes, for example, 125#125 mm, 125#75 mm, 100#100 mm, 100#75 mm, using locally available Sal wood or Nahar wood (also known as Iron wood). The intermediate wooden verticals are generally placed at a centre-to-centre spacing of about 1.0-1.2 m. The spacing between main vertical members is kept higher, for example, 2.0-3.0 m, and in addition, intermediate vertical posts are provided between sill band and band at eaves level. These additional vertical posts do not continue below sill level. In any case, the spacing between vertical posts at sill level is not more than 1.0-1.2 m. Actual spacing of these posts is governed by location of door/window openings and other functional requirements. A typical layout of vertical posts in modern Assam-type housing is shown in Figure 15. Connection details between various timber members are shown in Figures 6 and 7. | 
+| Foundations | No formal foundation is used in typical Assam-type houses. | The main wooden verticals of the house are pierced into the ground by about 600-900 mm. In some cases involving construction of formal houses, the main wooden posts of the house are supported on masonry or plain concrete pillars constructed over the ground up to plinth or sill level. The connections between wooden posts and the pillars are achieved using steel bolts and U-clamps as shown in Figure 7a. Splicing of wooden posts is also commonly observed in these wooden posts (Figure 7b). One variation of the house below the floor level is addition of stone masonry plinths directly resting the house on ground. The plinths are made of stone in mud/lime mortar; the plinth walls are about 400 mm wide and 500 mm deep below ground. The plinth walls rest directly on the soil without any leveling course and without bond stones. In olden days, the wooden posts were embedded in brick masonry pedestals (Figure 7c). The mortar used in the brick masonry was made of lime, rice flour of a particular variety of rice, fine clay particles, etc. Later, the foundations are made of plain cement concrete (CC) mats (generally using 1 part cement : 3 parts sand : 6 parts aggregates) over which pedestals of same grade are raised up to plinth level of buildings. Wooden posts are fixed to these concrete pedestals with the help of iron clamps (Figure 14). Over the period, with the easy availability of cement and steel, reinforced concrete footings and smaller size reinforced concrete columns (for example, 200 mm square) are also being used. | 
+| Floors |  |  | 
+| Roof |  | Roof Truss: Ikra houses have sloped roof (doubly pitched gables) made of thatch infill and roofing resting on wood posts, rafters and purlins. The rafters are made of about 150 mm diameter wood logs from locally available Sal wood, placed at about 600-700 mm spacing. The purlins are made of bamboo of size up to 100 mm, placed at about 300 mm spacing. The thatch roofing is made of Ikra reed. As a variation, machine-cut wood runners are used with metal sheeting roof. Wooden bands of size varying from 100#75 mm to 150#75 mm are provided at sill level, lintel level, floor level and eaves level. |
+| Other |  |  |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** No special design is carried out.
+
+**Expertise of those involved in the design process:** The local skilled artisans construct this type of houses.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** These buildings are mostly built by the owners for self stay.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** 2
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Building permits are not required to build this housing type in rural areas. Building permits are required to build this housing type in urban areas. Building permits are required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit construction cost accounts to approximately 5000 Rs/m2 (100 US-$/m2).
+
+**Labor requirements:** Labor requirement costs add up to 1250 Rs/m2 (25 US-$/m2).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Single or combined families ranging from 4 to 10 people for residential buildings. Varied number in case of office / institutional buildings.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 1:1 or better Though mostly very poor people living in rural areas live in this type of housing, few middle class people in urban areas have also constructed such houses. In addition, several government offices also operate from such housing.
+
+**Typical Source of Financing:** Personal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Other
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1897 | Assam | 8.7 | XII | 
+| 1934 | BiharNepal | 8.4 | X | 
+| 1950 | AssamTibet | 8.6 | XII | 
+| 1988 | BiharNepal | 6.6 | IX | 
+| 2006 | Sikkim | 5.7 | VII | 
+| 2011 | Sikkim | 6.9 | VIII | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Performance of Assam-type houses has been extremely good in several past earthquake shakings in the region (Kaushik et al. 2006). In the recent 18 September 2011 Sikkim earthquake (M6.9), severe damage was observed in reinforced concrete construction. On the other hand, the only damage observed in Ikra houses due to earthquake shaking alone (not due to landslides) was to additional class rooms of Ikra type constructed on third story of Government Secondary School building at Sichey (Murty et al. 2012) (Figure 12). Therefore, such houses may not be suitable for construction on higher stories due to possible amplification of ground motion along of the height. No injury has been reported due to falling light-weight debris of the Ikra walls. On the other hand, damage sustained by the reinforced concrete part of the school building was severe and the building was abandoned. Strengths that Influence Earthquake Safety of the Building Typology: The housing is known to have a number of strengths that influence earthquake safety of the house. These include: (a) Architectural aspects: good plan shape, small openings, good location of openings, and small projections and overhangs. (b) Structural features: light mass of walls and roofs, good wall-to-wall connection (in case of formal construction), good quality and strength of materials used. (c) Flexible connections (bolting, nails, grooves, etc) between various wooden elements at different levels. Weaknesses Associated with the Building Typology: The housing typology has a few deficiencies. These include: (a) The choice of wood as the basic construction material and thatch as roofing material of the house draws high maintenance and is vulnerable to fire. To a large extent the fire hazard to the house is mitigated, when the kitchen is separated from the main house, but placed within the courtyard of the house. But use of electricity in such houses leaves possibilities of fire due to short-circuit during earthquake shaking. In urban areas, the roof has long been converted to metal roofing hence this hazard is non-existent for this type of houses except when Ikra reed thatch is used as roof cover, the fire safety of the house remains a main concern. (b) The mud-dung plaster on walls requires a lot of maintenance and frequent application. During summers, it becomes brittle and then comes out easily during rainy season. (c) When built on hill slopes, unequal length of the vertical posts leads to unsymmetrical shaking. (d) When built on hill slopes susceptible to landslides and run-off, the house can be unsafe. (e) The thatch on the roof is vulnerable to suction under strong winds. (f) When the wooden vertical posts are directly plugged into the ground without any foundation, houses have sunk up to 300 mm. Sometimes, differential sinking of the vertical posts leads to lateral sway of the house and pulling apart of the house. The problem is aggravated in sites with high water table, and mitigated when the vertical posts are formally provided with stone piers or plain cement concrete as a foundation. In light of the above shortcomings, this type of house is expected to perform poorly during strong earthquake shaking when it is built on hill slope with unequal lengths of vertical posts plugged into ground without any foundation with ground having high water table and susceptible to land slide or slope failure.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included: (foundations): Settlement and sliding of foundations during landslides triggered by EQ or monsoon. Tilting of foundation posts during liquefaction. (frames):Connection failure between posts and beams resulting in tilting, dislodging and out-of-plane failure of timber frames during earthquake shaking (walls): Dislodging of Ikra panels during earthquake shaking. (roofing): Connection failure between various members of the timber frame may result in dislodging of roof purlins and rafters and subsequent failure of truss. This may further result in tilting and subsequent collapse of light roof due to failure of roof support system.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Note: Generally the building plan is regular for houses with smaller built-up area. L- or C-shaped plan is also used for bigger multi-family houses.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** The Ikra wall system is very light imparting lightness to the overall structure. Due to less mass, these houses perform well during earthquakes.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** The wooden frames of the houses are connected to the light-weight walls and roof using flexible connections. Such a system offers good EQ resistance.
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Roofing is made of weed, leaves or (in modern buildings) corrugated galvanized iron sheets. Roofing is very light and thus the overall mass of the building is kept low.
+
+**Seismic deficiency in foundation:** For houses constructed on slopes susceptible to landslides and run-off, the house can be unsafe. In plane areas, these buildings are observed to perform best.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | |  | %%|-%% | o |
+
+**Additional comments section 5:** An important aspect of this housing type is the joinery between various elements: posts, wall panels, roof trusses, and roofing elements. In formal constructions, connections are achieved with nailing and bolting. In informal cases, coir ropes are used to connect the various elements. The latter raises concerns on durability of the connection materials, and thereby, on the safety of the house. Connection of Vertical Posts with Roofing: The vertical intermediate posts are connected with the horizontal wooden scants at floor level, sill level, lintel level, and at eaves level using nails, steel clamps, and bolts. Connection between the main vertical posts and other members of the wooden frame and roof truss is achieved through nails, bolts, and steel clamps (Figure 6). The wooden planks used for slabs are supported on intermediate rafters, which in turn are supported on main wooden beams at ends that transfer the load to the main vertical posts as shown in Figure 6c. Attic between the slab and the roof truss is generally used as storage. The truss is made of wooden members that support the tin or asbestos roofing (Figure 7a). Framing Details of Ikra Walls: In the olden days, and even in these days in rural areas, Ikra walling is used as cladding. It consists of providing Ikra reed and/or bamboo matting made of good quality matured bamboos in between the wooden frames and plastering the matting with cow dung and mud/cement mortar (Figure 8). Construction details and sequence of wooden framing and Ikra walling are shown in Figures 7 and 8 and also explained in greater detail in Section 3. To prepare cow dung-mud slurry, equal volumes of cow dung and soil are mixed with sufficient water to form a uniform thin paste. This paste is used to fill in the gaps between Ikra reeds and then to plaster the wall. CBRI (1984) guidelines on construction of mud and thatch houses suggest mixing bitumen and kerosene in 5:1 ratio in the cow dung-mud paste in order to arrest formation of fine cracks and voids in the wall plaster. However, such bitumen cutback is seldom used in Ikra panels of Assam-type houses because of additional cost and work involved. Therefore, frequent application of the plaster is required to be applied over the Ikra panels (for example, after every or alternate cycle of summer and rainy season). Sometimes the panels are filled with brick masonry walls up to window sill level. These days, the panels are generally filled with brick walls, and also, the timber framing is replaced by thin reinforced concrete columns. Ikra is a kind of reed that grows wild in marshy land, river beaches, and loamy soils. Ikra shoot is hollow with nodes at an interval of 150 to 300 mm. Skin of Ikra shoot is thin but fairly strong and body of the shoot is covered between internodes by heavy and siliceous sheath. The usual diameter of the Ikra shoot is about 6 to 16 mm. It grows up to 3 to 4.5 m but the serviceable height is about 2.5 to 3.65 m (Figure 9). Matured Ikra shoot (when the plant has flowered; it usually takes about 2 years for full maturity) is best suited for walling or roofing. The main constituents of Ikra reed are starch and cellulose, and it is less susceptible to insect attack unlike bamboo. The air content in the hollow inner core of the reed makes it heat resistant, and therefore, Ikra houses have good thermal insulation. Another important property of Ikra reed is that it does not shrink or flatten during drying process. Seasoning of Ikra shoot is done by sun drying for 12 weeks or by soaking it in water for 3 days and then sun drying. Ikra shoot has excellent bond with mud mortar, lime mortar or cement mortar. Two types of Ikra walls are generally constructed: simple- and fine-type. In simple-type, Ikra reeds are placed in vertical orientation outside horizontal battens of walls and a single Kami lining (Kami is a long strip split out of a bamboo. It is usually 15 to 40 mm wide.) is nailed to the battens at 300 mm intervals to confine the Ikra reeds. In between the battens, Ikra reeds are strengthened by alternate tiers of single and double Kami at 300 mm spacing vertically. A cane rope or binding wire is used to tie the Ikra reed with Kami at a spacing of 300 mm. To impart better bond, Kamis are tied with polished ends towards Ikra reed and the split white portion exposed to receive plaster. Ikra reeds are not compactly placed in the walls but a gap of 6 to 15 mm is maintained between each shoot. In fine-type walls, grooves are made longitudinally at the centre of wooden battens and then Ikra reeds are slipped into these grooves after cutting them to proper uniform size. Kamis are fitted into vertical recess made in the battens. Stiffening and tying with Kami is similar as explained in the simple-type. Ceiling: Typical Assam-type houses have false ceilings made of timber, bamboo mats and in modern construction, ply wood or AC sheet. The false ceiling provides cool environment inside the house and also prevents falling of insects from the roof. The false ceiling work consists of wooden framing of 75x50 mm scants placed at 600 mm spacing and fixed to the frame work by means of nails. In some houses, ceiling made of Ikra reed (similar to Ikra roof) was also observed, especially above the covered verandah (Figures 6c and 10). Flooring: Different types of flooring can be seen in Assam-type houses. Wooden plank flooring is adopted in stilted houses and mud plaster flooring in rural areas. The elevated floor is made of wood runners of size 50#100 mm spaced at about 300 mm spacing spanning between wood beams of size 120#120 mm spaced at about 600 mm spacing. The floors are covered with 25#2500 mm wood planks of thickness about 25 mm. Other common types of flooring include cement flooring over an under layer of sand or brick soling, etc. Roofing: Pitched CGI (Corrugated Galvanized Iron) sheet roofing over timber trusses is the most common form of roofing used in these houses. This roofing is best suited in this area because the region receives high amount of rainfall that may possibly has severe effect on durability of building (Figure 11a). In rural areas, Ikra reed is also used for roofing (Figure 11b).
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** Cost of strengthening of this type of building may be higher than reconstruction costs. In addition, vulnerability factors associated with this building typology are too low with very low chances of suffering collapse resulting in human fatalities. Therefore, less priority is given to developing retrofitting strategies for this typology and strengthening is generally not conducted. However, repair and routine maintenance of the houses are carried out frequently. Nevertheless, IAEE guidelines for earthquake resistant non-engineered construction (IAEE 1986) suggest the provision of wooden diagonal bracing members in the plane of Ikra walls as well as horizontally at the top of the wooden frame in order to achieve adequate seismic resistance of houses constructed in higher seismic zones. The wooden bracing members (cane or bamboo) may be nailed to the wooden framing members at both the ends as well as at intermediate points of intersection as shown in Figure 16.
+
+**Has seismic strengthening described in the above table been performed?** Generally seismic strengthening scheme is not adopted
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** No data available.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Heritage Guwahati Banerjee, D. published by Kamrup (Metropolitan) District Administration, Guwahati 2004 ed. Monideepa Choudhuri
+
+  * Performance of structures during the Sikkim earthquake of 14 February 2006 Kaushik, H.B., Dasgupta, K., Sahoo, D.R., and Kharel, G. Current Science 2006 91(4): 449-455
+
+  * Guidelines for Earthquake Resistant Non-Engineered Construction IAEE The International Association for Earthquake Engineering, Japan 1986
+
+  * Live Better with Mud and Thatch Improved Rural Houses CBRI Published by Central Building Research Institute, Roorkee 1984
+
+  * The Mw 6.9 Sikkim-Nepal Border Earthquake of September 18, 2011 Murty, C.V.R., Raghukanth, S.T.G., Menon, A., Goswami, R., Vijayanarayanan, A.R., Gandhi, S.R., Satyanarayana, K.N., Sheth, A., Rai, D.C., Mondal, G., Singhal, V., Parool, N., Pradhan, T., Jaiswal, A., Kaushik, H.B., Dasgupta, K., Chaurasia, A., Bhus Earthquake Engineering Research Institute 2012 Special Earthquake Report
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Hemant Kaushik | Assistant Professor | Dept. of Civil Engineering, Indian Institute of Technology, Guwahati | Guwahati 781039, INDIA | hemantbk@iitg.ernet.in | 
+| K. S. Ravindra Babu | Department of Civil Engineering, Indian Institute of Technology Guwahati | Guwahati 781039, INDIA |  |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Amit KumarAssistant DirectorDisaster Management InstituteBhopal 462016, INDIAamitverma7@hotmail.comaanmarandiuspalembang 30149, INDONESIAmarandius_umb4@yahoo.com | Assistant Professor | Dept. of Civil Engineering, Indian Institute of Technology, Guwahati | Guwahati 781039, INDIA | hemantbk@iitg.ernet.in | 
+| aan |  | marandius | palembang 30149, INDONESIA | marandius_umb4@yahoo.com |

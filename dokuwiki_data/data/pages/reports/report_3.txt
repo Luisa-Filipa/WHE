@@ -115,22 +115,22 @@
 
 **Who typically builds this construction type?:** Other
 
-**Roles of those involved in the building process** Developer hires architects, engineers and construction firms.
+**Roles of those involved in the building process:** Developer hires architects, engineers and construction firms.
 
-**Expertise of those involved in building process** Construction companies are headed by engineers or architects. Experience about 10 years. The same for fab shops. In steel frame buildings, review of design and independent inspection are typical.
+**Expertise of those involved in building process:** Construction companies are headed by engineers or architects. Experience about 10 years. The same for fab shops. In steel frame buildings, review of design and independent inspection are typical.
 
-**Construction process and phasing** Construction of this type typically takes place over time, buildings are originally designed for their final constructed size.
+**Construction process and phasing:** Construction of this type typically takes place over time, buildings are originally designed for their final constructed size.
 
-**Construction issues**
+**Construction issues:**
 ----
 
 === Building Codes and Standards===
 
 **Is this construction type address by codes/standards?** Yes
 
-**Applicable codes or standards** Chilean seismic codes NCh433.Of96 & NCh2369 are mandatory. AISC and ACI codes corrected to meet seismic codes are applied. Code/standard addressing this type of construction was first issued 1957. National building code, material codes and seismic codes/standards: NCh433.Of96, seismic design for buildings; NCh2369.Of01 seismic design of industrial buildings, NCh428.Of57code design for steel structures. Most recent code/standard addressing this construction type was issued: 1957, but now there is a draft to modify that code that partially follows AISC and AISI.
+**Applicable codes or standards:** Chilean seismic codes NCh433.Of96 & NCh2369 are mandatory. AISC and ACI codes corrected to meet seismic codes are applied. Code/standard addressing this type of construction was first issued 1957. National building code, material codes and seismic codes/standards: NCh433.Of96, seismic design for buildings; NCh2369.Of01 seismic design of industrial buildings, NCh428.Of57code design for steel structures. Most recent code/standard addressing this construction type was issued: 1957, but now there is a draft to modify that code that partially follows AISC and AISI.
 
-**Process for building code enforcement** Design review by peers (may belong to design firm) is normal. Independent inspection is normal in steel framed buildings.
+**Process for building code enforcement:** Design review by peers (may belong to design firm) is normal. Independent inspection is normal in steel framed buildings.
 ----
 
 === Building Permits and Development Control Rules ===
@@ -141,25 +141,26 @@
 
 **Is this construction typically authorized as per development control rules?** Yes 
 
-**Additional comments on building permits and development control rules	**
+**Additional comments on building permits and development control rules:**
 ----
 
 === Building Maintenance and Condition ===
 
-**Typical problems associated with this type of construction**	
+**Typical problems associated with this type of construction:**	
 
 **Who typically maintains buildings of this type?** Owner(s)Renter(s)
 
-**Additional comments on maintenance and building condition**
+**Additional comments on maintenance and building condition:**
+
 ----
 
 === Construction Economics ===
 
-**Unit construction cost** Low cost apartments, up to 5 floors, UF 10/sq m (US $300/sq m). Normal, up to 5 floors, UF 20/sq m (US $600/sq m). High-rise, 30/sq m (US$ 900/sq m).
+**Unit construction cost:** Low cost apartments, up to 5 floors, UF 10/sq m (US $300/sq m). Normal, up to 5 floors, UF 20/sq m (US $600/sq m). High-rise, 30/sq m (US$ 900/sq m).
 
-**Labor requirements** 1.5 to 2.5 floors per month.
+**Labor requirements:** 1.5 to 2.5 floors per month.
 
-**Additional comments section 3**
+**Additional comments section 3:**
 
 ----
 

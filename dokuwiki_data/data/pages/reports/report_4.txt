@@ -111,28 +111,31 @@
 **Roles of those involved in the design process:** The owner of the land and a construction firm will hire an architectural office and structural engineer to design the building.
 
 **Expertise of those involved in the design:** The structural engineer will have 6 years of studies and more than 3-5 years of experience. The construction engineer may have 6 years of studies and less experience than the structural engineer. There is no compulsory inspection during the construction and no peer revision of the structural project. The designer may visit the construction site one or two times during the construction.
+
 ----
 
 === Construction Process ===
 
 **Who typically builds this construction type?:** Contractor
 
-**Roles of those involved in the building process** It is built by developers and sold to the people who will live in this construction type.
+**Roles of those involved in the building process:** It is built by developers and sold to the people who will live in this construction type.
 
-**Expertise of those involved in building process**	
+**Expertise of those involved in building process:**	
 
-**Construction process and phasing** This building is not typically constructed incrementally and is designed for its final constructed size. They use modern equipment, crane, premix concrete, etc.
+**Construction process and phasing:** This building is not typically constructed incrementally and is designed for its final constructed size. They use modern equipment, crane, premix concrete, etc.
 
-**Construction issues**
+**Construction issues:**
+
 ----
 
 === Building Codes and Standards===
 
 **Is this construction type address by codes/standards?** Yes
 
-**Applicable codes or standards** NCh433.of96 Seismic Design of Buildings. Until 1993 the NCh433.of72 was in force. The last two numbers indicates the year since the code is in force. Provisionally dispositions to design this type of buildings existed since 1966.Applicable national building code, material codes and seismic code/standards: NCh433.of96, In addition, ACI318-95 is used for design reinforced concrete elements, with some exceptions: the minimum compressive strength is 16 MPa, confinements at wall end or diagonal bars in couple beam are rarely used and a reduced reinforcement cover is allowed. The appendix of the NCh433.of96 states that "the shear wall design doesn't need to follow dispositions 21.6.6.1 to 21.6.6.4 of ACI 318-95.The most recent code/standard addressing this construction type was issued 1996.
+**Applicable codes or standards:** NCh433.of96 Seismic Design of Buildings. Until 1993 the NCh433.of72 was in force. The last two numbers indicates the year since the code is in force. Provisionally dispositions to design this type of buildings existed since 1966.Applicable national building code, material codes and seismic code/standards: NCh433.of96, In addition, ACI318-95 is used for design reinforced concrete elements, with some exceptions: the minimum compressive strength is 16 MPa, confinements at wall end or diagonal bars in couple beam are rarely used and a reduced reinforcement cover is allowed. The appendix of the NCh433.of96 states that "the shear wall design doesn't need to follow dispositions 21.6.6.1 to 21.6.6.4 of ACI 318-95.The most recent code/standard addressing this construction type was issued 1996.
 
-**Process for building code enforcement** The building design must follow the NCh433.of96 code, although no one verifies. In case of damage an arbitrage process may take place at the court of justice.
+**Process for building code enforcement:** The building design must follow the NCh433.of96 code, although no one verifies. In case of damage an arbitrage process may take place at the court of justice.
+
 ----
 
 === Building Permits and Development Control Rules ===
@@ -143,26 +146,27 @@
 
 **Is this construction typically authorized as per development control rules?** No
 
-**Additional comments on building permits and development control rules	**
+**Additional comments on building permits and development control rules:**
+
 ----
 
 === Building Maintenance and Condition ===
 
-**Typical problems associated with this type of construction** The main problems are associated with the construction process: construction joints badly done or existence of honeycombs.
+**Typical problems associated with this type of construction:** The main problems are associated with the construction process: construction joints badly done or existence of honeycombs.
 
 **Who typically maintains buildings of this type?** Owner(s)Renter(s)
 
-**Additional comments on maintenance and building condition**
+**Additional comments on maintenance and building condition:**
 
 ----
 
 === Construction Economics ===
 
-**Unit construction cost** A unit construction may cost 15-35 UF/ m2 (500-1200 US$/m2).
+**Unit construction cost:** A unit construction may cost 15-35 UF/ m2 (500-1200 US$/m2).
 
-**Labor requirements** Nowadays the progress in construction is quite rapid, probably one or two floors per month.
+**Labor requirements:** Nowadays the progress in construction is quite rapid, probably one or two floors per month.
 
-**Additional comments section 3**
+**Additional comments section 3:**
 
 ----
 
@@ -328,6 +332,6 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 === Reviewers ===
 ^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
-| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM	| Mexico DF 4510, MEXICO |
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM	| Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx |
 
 ----

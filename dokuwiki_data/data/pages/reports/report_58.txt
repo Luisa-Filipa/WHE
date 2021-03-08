@@ -1,0 +1,323 @@
+====== Rubble-stone masonry house, Slovenia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 58
+
+**Building Type:** Rubble-stone masonry house
+
+**Country:** Slovenia
+
+**Author(s):** Marjana Lutman, Miha Toma#evic
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the area of Upper Posocje. The residential housing stock built before the World War II in that area is generally of this type. It represents 24 % of dwelling stock in that area. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** Rubble-stone masonry houses are still found throughout Slovenia. This housing type is special because of its history. It represents a typical, older residential building in the northwestern part of Slovenia. After their destruction during World War I, these houses were rebuilt, mostly with the recycled stone material (from the buildings that were demolished). Many houses of this type were subsequently damaged during the last two earthquakes in Slovenia (1976 Friuli and 1998 Bovec). In order to preserve the country's architectural heritage, about 66% of these houses were strengthened after the earthquakes.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This type of construction was practiced between the World War I and the World War II.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Typical shape of building plan is usually rectangular.
+
+**Typical plan length (meters):** 13
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.7
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system consists of exterior and interior stone walls. The walls are generally uniformly distributed in both orthogonal directions, and the building plan is generally regular. With a few exceptions, the walls are not connected by means of wooden or iron ties. The thickness of walls varies from 40 to 70 cm, with spacing ranging from 3.0 m to 6.0 m. The walls are supported by foundation walls (strip foundations) made out of rubble masonry or there are no footings at all. Lateral load transfer to bearing walls is accomplished through roof and floor structures. The weakest links in this structural type are usually weak inner infill between exterior wythes of masonry, vertical joints between walls, and connections between roof /floors and walls. Gravity load-bearing system: The gravity-load bearing system consists of roof, floor structures and structural walls. Original or new roof structures are made out of timber and roofs are covered with ceramic tiles. In many cases original wooden floor structures have been replaced with reinforced concrete slabs.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10 %. 9% to 12 %.
+
+**Wall Openings:** Average area of a window opening in front exterior wall is 1.2 m.sq. in the rural area and 1.7 m.sq. in the urban area. The door opening area in exterior and interior bearing walls is approximately 2.0 m.sq.. Maximum opening area is approximately equal to 16% of the front exterior wall area. The back exterior walls are usually not perforated with openings at all or in some cases there are smaller window openings (approx. area = 0.5 m.sq.).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** After the 1976 Friuli earthquake certain modifications on the buildings of this type were carried out, mainly combined with the repair and strengthening. Some examples are: construction of new r.c. slabs above the basement and ground floor, addition of balconies and exterior staircases, and new bathrooms. The replacement of existing interior stone masonry walls with brick masonry walls or reinforced concrete columns are rare. The extensions are usually built close to original buildings, however the old and the new parts have not been adequately connected together in the structural sense.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood beams with ballast and wood planks. The existing wooden floor/roof structures are not considered to be a rigid diaphragm unless they are tied with diagonal ties and connected to the walls.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: wood planks or beams that support clay tiles. The existing wooden floor/roof structures are not considered to be a rigid diaphragm unless they are tied with diagonal ties and connected to the walls.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters. Typical Plan Dimensions: Length ranges from 9 m to 13 m, width ranges from 6 m to 10 m. Typical Story Height: Story height varies from 2.5 to 2.7 meters. Typical Span: Typical span is 3 - 6 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: rubble stone mortar masonry | Characteristic Strength- rubble stone:compressive strength 150 MPa mortar: low strength masonry: compressive strength 0.98 MPa, tensile strength 0.06 MPa - 0.08 MPa Mix Proportion/Dimensions- mortar: lime/mud sand 1:9 rubble stone: local lime stone, partly cut at corners mortar: mud mortar with a little lime masonry: two outer layers of bigger stones | 
+| Foundations | Rubble stone mortar masonry | compressive strength: 150 MPa; low strength compressive strength: 0.98 MPa; tensile strength: 0.06 - 0.08 MPa | 
+| Floors | Timber |  | 
+| Roof | Timber |
+| Other |  | | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Engineers and Architects play a role during the renovating, repair and strengthening.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerBuilder
+
+**Roles of those involved in the building process:** The houses of the presented type were mainly built by local builder or by owners themselves, with the assistance provided by neighbours. The houses were built to be used by the owners; in some cases the builders live in the houses as well.
+
+**Expertise of those involved in building process:** Construction of this type of houses is nonengineered and it is based exclusively on the builder's experience.
+
+**Construction process and phasing:** The houses were built traditionally with the local construction materials: local lime-stone, sand and timber from local forests. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** Poor quality of masonry, Lack of structural integrity, Poor wall-to-floor connections, Weak supports of new reinforced concrete floor structures which replaced old timber ones. The new reinforced concrete slabs are supported only with the interior wythe of the wall and is not attached to the exterior wythe.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** Building permits are required nowadays, when any structural invention is planned. Building permits are required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Since houses of this type were constructed approx. 80 years ago, the costs can not be estimated.
+
+**Labor requirements:** N/A
+
+**Additional comments section 3:** National and European Codes are applied for structural modifications, including repair and strengthening.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses of this type are mostly occupied by one family and in some cases by two families. Each building typically has 1 housing unit(s). Buildings of this type have two units sometimes.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The whole area of Slovenia has been divided into the two "seismic insurance zones". The residential buildings are divided into two categories depending on the age of construction: older buildings, built before or in 1965, and the newer buildings, built in 1966 or later. For the higher seismic zone, the annual insurance rate is 0.105 % of the building value for older buildings and 0.07 % for the newer buildings. For the lower seismic zone, the annual insurance rate is 0.07 % and 0.045 % of the building value for older and newer buildings respectively. The area of Upper Poso#je is situated in the higher seismic zone and this type of houses have been built before 1965. The usual insurance rate is therefore 0.105% of the building value. Houses with large cracks are sometimes refused for earthquake insurance. In the case of fine cracks the insurance company previously makes a copy of the cracks.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** In the case of complete seismic strengthening with all permits, these houses may be insured with discount: the annual insurance rate is 0.07% instead of 0.105% of the building value.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | Friuli, Italy* | 6.5 | IX-X (EMS) | 
+| 1998 | Bovec, Slovenia** | 5.5 | VII-VIII (EMS) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The epicenters of the main shock on May 6, 1976 (M= 6.5 , focal depth 20-30 km) and the strongest aftershock on September 15, 1976 (M=5.9) were in Friuli, Italy, 20.5 km from the border between Italy and Slovenia. In Italy 965 people died and an enormous damage was caused. In Slovenia, the maximum intensity was VIII EMS. Out of 6,175 damaged buildings, 1,709 had to be demolished and 4,467 were retrofitted. The strongest earthquake with the epicenter in Slovenia in the 20th century occurred on April 12, 1998. The epicenter was approx. 6.3 km South-East from the town of Bovec, and the focal depth was between 15 and 18 km. No building collapses were reported, however out of 952 inspected buildings, 337 were found to be unsafe, out of which 123 beyond repair. The effectiveness of strengthening methods applied in 1976 was analyzed. Typical patterns of earthquake damage to traditional stone-masonry houses are: - Cracks along the joints between walls and floors; - Vertical cracks at the corners and wall intersections, separation of walls, collapse of gables; - Cracks in structural walls, falling out of masonry at lintels, closed openings and in corner zones; - Heavy damage to walls, partial collapse of corners, delimination and disintegration of masonry.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included: -Cracking: heavy damage of structural walls. Delamination and disintegration of masonry. Dislocation of walls and vertical cracks at corners; partial collapse of wall corners. -Horizontal cracks along the wall-to-floor joints.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The walls are built with two exterior wythes using larger stones with a stone rubble infill in poor mud mortar with a small amount of lime. In general, there are many voids in the middle portion and the connecting stones (through stones) are rare. This type of masonry is characterized with low tensile strength. The walls are not tied by means of steel or wooden ties.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Not applicable.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Timber floor joists are supported only with the interior wall wythe and are not attached to the exterior wythe.
+
+**Earthquake resilient features in roof and floors:** Timber floor and roof structures are not heavy.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%% | | |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| The walls are built with two exterior wythes using larger stones with a stone rubble infill in poor mud mortar with a little lime. There are many voids in the infill and connecting stones (through stones) are rare. Masonry has low tensile strength. | Strengthening by systematic filling the voids with injected cementitous grout. The grout is injected into the wall through injection tubes and nozzles, which are built into the joints between the stones uniformly over the entire surface of the wall. Low pressure is used to inject the grout. The injected grout has the purpose to bond the loose parts of the wall together into a solid structure. | 
+| The walls are not tied by means of steel or wooden ties. | Tying all walls with steel ties at each floor level. Steel ties are placed symmetrically on both sides of all bearing walls, just below the floor structures, in horizontal notches, which have been cut in the plaster up to the wall surface. Ties are threaded at the ends and bolted on the steel anchor plates. Ties are usually of diameter 16 # 20 mm. | 
+| Floor structures are supported only by the interior wall wythe and are not attached to the external wythe. | Floor structures (old wooden or newer reinforced concrete slabs) are anchored to the exterior wall surface by means of steel elements. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** The design of strengthening measures is performed when a house is to be reconstructed or renewed or after an earthquake (in the process of repair and strengthening).
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Both - as a mitigation effort and as repair after an earthquake.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An architect and an engineer were involved in the retrofit design. The construction is carried out by a contractor. After the 1998 Bovec earthquake, all contractors who were performing repair and strengthening were additionally trained.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Many buildings have been adequately repaired and strengthened after the 1976 Friuli earthquake. The walls were grouted, the old timber floor structures were replaced with new reinforced concrete slabs in many cases and houses were completely tied. The effectiveness of these measures was confirmed during the 1998 Bovec earthquake. Adequately repaired and strengthened structures suffered almost no damage in the earthquake.
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * Ladava 1982: Ladava, A, #Guidelines and Procedures Used to Eliminate the Impact of the Earthquake in the Soca Valley, # Proc. Social and Economic Aspects of Earthquakes, Jones, B.G., Toma#evic, M., Eds., Ljubljana-Ithaca, 1982, Institute for Testing and Research in Materials and Structures - Cornell University, pp. 413-423
+
+  * Report 1998: Report on Mitigating and Consequences of the Earthquake of Bovec of April 12, 1998, Ljubljana, 1998, Adm. for Civil Protection and Disaster Relief (in Slovene).
+
+  * Toma#evic and Sheppard 1982: Toma#evic, M., P.Sheppard, #The Strengthening of Stone-Masonry Buildings in Urban and Rural Nuclei Against Earthquakes,# Proc., 7the European Conference on Earthquake Engineering, Vol.5, Athens, 1982, pp. 275-282.
+
+  * Toma#evic et al. 1993: Toma#evic, M., M. Lutman, P. Weiss,#The Seismic Resistance of Historical Urban Buildings and the Interventions in their Floor Systems: an Experimental Study,# The Masonry Soc. j., 12 (1), Boulder, 1993, The Masonry Soc., pp. 77-86
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marjana Lutman | Research Engineer | Slovenian National Building and Civil Engineering Institut | Dimiceva 12, Ljubljana, Slovenia 1000 Slovenia | marjana.lutman@zag.si | 
+| Miha Toma#evic | Director, Professor | Slovenian National Building and Civil Engineering Institut | Dimiceva 12, Ljubljana, Slovenia 1000 Slovenia | miha.tomazevic@zag.si | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

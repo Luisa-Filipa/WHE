@@ -1,0 +1,326 @@
+====== Unreinforced Masonry Building : Brick masonry in mud/lime mortar, Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 118
+
+**Building Type:** Unreinforced Masonry Building : Brick masonry in mud/lime mortar
+
+**Country:** Iran
+
+**Author(s):** Nima T. Bekloo
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in throughout the Persian Empire, except places near the sea. Thistype of housing construction is commonly found in both rural and urban areas. This building type is more common in old and traditional cities.
+
+**Summary:** This building structure derives its name from the four earrings that are constructed at the fourcorners of a rectangular building at the spring level of dome roof. This structural system wasdeveloped due to the lack of of wood and stone. It was widely constructed more than three thousand years ago, after the invention of the dome-roof structures in the Old Persian Empire(Ashkanian & Sasanian). The main problem with the dome-roof building was transforming therectangular or polygonal plan of the group of walls into the circular plan at the spring level ofdome roof. They used to construct the first row of dome and then construct another row ontop of previous one with a little offset closer to the center of the dome circle and so on. Thatwas too difficult to construct. This system was invented to resolve this problem. In thissystem, once the walls were constructed, four earrings (shekanj) were built upon four corners ofwalls intersections, and then it was much easier to build a dome over these. It is an idealsystem to resist vertical and gravity loads and transform them into horizontal and shear loads.For lateral loads, domes behave like trusses and distribute the load to the other parts of thestructure creating a perfect load path.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, unknown typeSingle dwellingMulti-unit, unknown typeResidential, 2 unitsResidential, 3-4 unitsResidential, 5-9 units
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The main function of this building typology is single-family house. Sometimes (especially in the old times) thewhole family (inc
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidSquare, with an opening in planRectangular, solidRectangular, with an opening in plan
+
+**Additional comments on plan shape:** Building configuration in plan is often rectangular or octagonal, or sometimes even polygon with more arms.
+
+**Typical plan length (meters):** 5-20
+
+**Typical plan width (meters):** 5-20
+
+**Typical story height (meters):** 4-20
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)Masonry: Stone Masonry Walls: Massive stone masonry (in lime/cement mortar)Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud wallsMasonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls with horizontal wood elementsMasonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block wallsMasonry: Earthen/Mud/Adobe/Rammed Earth Walls: Rammed earth/pile constructionMasonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortarMasonry: Unreinforced Masonry Walls: Brick masonry in mud mortar with vertical posts
+
+**Additional comments on structural system:** Lateral load-resisting system: The vertical load-resisting system is earthen walls. Load bearing walls and dome-roof systemGravity load-bearing system: The lateral load-resisting system is earthen walls. Load bearing walls and dome-roof system.
+
+**Gravity load-bearing & lateral load-resisting systems:** 1. Sometimes walls and dome of the buildings constructed with mud mixed with pebbles as well. 2. Nowadays somepeople use cement based mortar as well.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. (20% to40%.)
+
+**Wall Openings:** Due toits load bearing system, it does not have many openings. The openings are usually less than 30% of wall area.Sometimes openings are also provided in the roof as well. These are usually around 50 cm in diameter.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Because the structural system is the load bearing system, it is possible only to modify some small openings.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone isolated footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Masonry floor, unknownVaulted masonry floorShallow-arched masonry floorEarthen floor, unknownOther floor system
+
+**Additional comments on floor system:** The construction materials have no ductility. By building it in vault form, the forces are distributed on the surface.
+
+**Type of Roof System:** Roof material unknownMasonry roof, unknownVaulted masonry roofShallow-arched masonry roofEarthen roof, unknownVaulted earthen roofWooden roof, unknownRoof system, other
+
+**Additional comments on roof system:** The construction materials have no ductility. By building it in vault form, the forces are distributed on the surface.
+
+**Additional comments section 2:** The typical plan dimension depend on the building function (residential, barn, mosque etc). Thedimensions may vary, but over all the structure have a regular plan shape.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Brick & adobe | Wall: Characteristic Strength-40-120 kg/cm2Mix Proportion/Dimensions- 20x10x10 - 50x50x20 cm Varies from places and ages | 
+| Foundations | Brick & stone | Characteristic Strength: 40-150 kg/cm2Mix Proportion/Dimensions: Not much bigger than the walls Varies from places and ages | 
+| Floors | Brick & adobe | Characteristic Strength: 40-120 kg/cm2Mix Proportion/Dimensions: 20x10x10 - 50x50x20 cm Varies from places and ages | 
+| Roof | Brick & adobe | Characteristic Strength: 40-120 kg/cm2Mix Proportion/Dimensions: 20x10x10 - 50x50x20 cm Varies from places and ages | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** ArchitectTechnologistBuilderOther
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** There were no academically qualified engineers or architects and no Standards for design of this type of buildingstructures were available. These are constructed by empiricism or experimentation. However, it is still a topic ofresearch. There are no academically qualified engineers or architects for this type of buildings.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerMasonBuilderOther
+
+**Roles of those involved in the building process:** The builder lives in the house. Traditionally every body has a co-operation in construction their own home.
+
+**Expertise of those involved in building process:** These are constructed by empiricism or experimentation.
+
+**Construction process and phasing:** It is basically owner built construction where experienced persons, master builders and maybe some local contractors, with help of laborers, built the structure with shovel, hack, float and other old construction equipment. Theconstruction of this type of housing takes place in a single phase. Typically, the building is originally designed for itsfinal constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This type of construction is a non-engineered, and not authorized as per development control rules. This type can only be seen in small villages and old towns nowadays. Building permits are not required to build thishousing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Since These types are ancient, sometimes they clash with urban developement
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)Other
+
+**Additional comments on maintenance and building condition:** Often, the whole family workstogether for the maintenance of the building.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Approximately US$ 80.
+
+**Labor requirements:** For construction of an average size of house, 4-8 people work for about 6 months.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses of this type are mostly occupied by a single family.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Nowadays very small number of people live in this type of building. Economic Level: The ratio of price of housingunit to the annual income can be 1:1 for poor class families.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightUnits owned individually (condominium)Owned by group or poolLong-term lease
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is included in fire insurance and is based on the value of thebuilding. It depends on the owner capital demand, usually for every US$ 5000 additional coverage, it costs about US$ 6/year added to the fire insurance.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** As stated above, this type has been constructed thousands of years ago, so there must be many other earthquakesespecially historical ones that affected these buildings. However, no exact information is available.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included-(walls):Vertical and diagonal cracks in walls, more often alongmortar joints(roof and floors):No significant damage except that caused by walldamage especially when walls under the dome slipleaving the dome roof without any support (other): Crushable brick material, weak mortar band
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** These are special type of structures which are not covered by the National Building Code
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** SetbackOther
+
+**Seismic deficiency in walls:** Constructed of low strength brittle materials, thestructural elements are unreinforced, walls are large andheavy
+
+**Earthquake-resilient features in walls:** Well defined load path,high rigidity, continuous bearing (Shear) walls
+
+**Seismic deficiency in frames:** Brittle material, mostly no confinements
+
+**Earthquake-resilient features in frame:** Vaulted roof and massive masonry piers.
+
+**Seismic deficiency in roof and floors:** Constructed of low strength brittle materials, heavy inweight, the roof is unreinforced, opening in the roof,slipping of the roof over walls large span,
+
+**Earthquake resilient features in roof and floors:** well defined load path,perfect distribution offorces and stresses
+
+**Seismic deficiency in foundation:** Lack of Lateral resistance
+
+**Earthquake-resilient features in foundation:** N/A
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** This type of structure has a continuous load path, like concrete shear walls, with concrete shell at top that connects thewalls. However, present buildings are constructed of extremely weak and brittle materials. Once cracked, the materials startcrumbling.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Not enough distancebetween adjacent buildings | For buildings with different heights: 1.Destroy some common part of the adjacent walls to reach distance of 1% wallheight. 2. Join all the buildings in an area to make them behave as a one single structure. | 
+| Damages in load path(exterior walls) | 1. Add a shear wall to the system. 2. Embed some materials to maintain the wall. 3. Fill the cracks by plaster,cement | 
+| Opening in roof | Strengthening all around the opening by wood or steel bars. | 
+| Heavy weight | Remove the heavy weight materials of the roof and replace them with light new materials. | 
+| #NAME? | #NAME? | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Iranian codes stated that they are not suitable for monuments.
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Both intervention options have been used; they are used for both matters.
+
+**Was the construction inspected in the same manner as new construction?** No.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Owner, local masons without any no academic background in engineering.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * History of engineering in IranFarshad,M.Iranian code of practice for seismic resistant design of buildings Std.2800, BHRC 2005, Section 3 unreinforced masonry structures, BalkhPublication 1997
+
+  * Iran insurance co., http://www.iraninsurance.ir
+
+  * Iranian retrofitting provision for existing buildings, Section 7 masonry structures and infillsIIEES
+
+  * Iranian code of practice for seismic resistant design of buildings Std.2800, BHRC 2005, section 3 unreinforcedmasonry structures
+
+  * Earthquake Engineering Theory and ApplicationsMoghaddam,H.Farahang Publication 2002
+
+  * Persians masters of empireResearches groupTime Life Book Publication
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Nima T. Bekloo | Mr. | CPEng, MIEAust | Melbourne/ Australia | poosad@gmail.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^

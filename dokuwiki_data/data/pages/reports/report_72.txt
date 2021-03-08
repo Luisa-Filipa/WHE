@@ -1,0 +1,319 @@
+====== Traditional rural house in Kutch region of India (bhonga), India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 72
+
+**Building Type:** Traditional rural house in Kutch region of India (bhonga)
+
+**Country:** India
+
+**Author(s):** Madhusudan Choudhary, Kishor Jaiswal, Ravi Sinha
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Kutch district of Gujarat state in India. This type of housing construction is commonly found in rural areas. There is no evidence of Bhongas constructed in urban areas. However, since the Bhongas rarely survive for over 50 years, Bhongas constructed in urban areas do not exist any more due to the prevalence of modern construction materials in urban areas during the last 50 years.
+
+**Summary:** The Bhonga is a traditional construction type in the Kutch district of the Gujarat state in India, which has a very high earthquake risk. A Bhonga consists of a single cylindrically shaped room. The Bhonga has a conical roof supported by cylindrical walls. Bhongaconstruction has existed for several hundred years. This type of house is quite durable and appropriate for prevalent desert conditions. Due to its robustness against natural hazards as well as its pleasant aesthetics, this housing is also known as "Architecture without Architects." It performed very well in the recent M7.6 Bhuj earthquake in 2001. Very few Bhongas experienced significant damage in the epicentral region, and the damage that did occur can be mainly attributed to poor quality of the construction materials or improper maintenance of the structure. It has also been observed that the failure of Bhongas in the last earthquake caused very few injuries to the occupants due to the type of collapse.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Bhongas older than 50 years have been found in Kutch district of Gujarat state in India.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Curved, solid (e.g. circular, elliptical, ovoid)
+
+**Additional comments on plan shape:** Inner diameter generally varies between 3.0 m to 6.0 m..
+
+**Typical plan length (meters):** 6 meters
+
+**Typical plan width (meters):** 6 meters
+
+**Typical story height (meters):** 2.5 meters
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** The conical roof of a Bhonga is supported at its crest by a vertical central wooden post, which rests on a wooden joist. The base of the roof and the wooden joist are generally directly supported on Bhonga walls. Sometimes, the roof load on wooden joist is transferred to diametrically placed timber posts (vertical members) adjacent to the cylindrical wall. This reduces the roof-load on the walls. The Bhonga wall is usually extended below ground up to the required foundation depth, and separate foundation is not traditionally constructed. In newer constructions, proper strip footing is also used. Due to circular shape of wall in plan, inertial forces developed in wall are resisted through shell action providing excellent resistance to lateral forces. In addition, the thick walls required for thermal insulation have high in-plane stiffness which provides excellent performance under lateral loads The roofing materials are generally very light weight, and develops low inertia forces. Since the roof is constructed from extremely ductile materials such as bamboo and straw, the performance of these roofs is usually very robust. Even in situations where the roof collapses, its low weight ensures that the extent of injuries to occupants is very low. In several Bhongas, the roof joist is not directly supported on the cylindrical walls, but is supported by two wooden vertical posts outside the Bhonga, which further improves seismic resistance of the inetia force generated in the roof. In some instances, reinforcing bands at lintel level and collar level have been used to provide additional strength. These bands are constructed from bamboo or from RCC. These increase the lateral load-carrying strength greatly and increase the seismic resistance of the Bhongas.
+
+**Gravity load-bearing & lateral load-resisting systems:** Many old Bhongas (constructed over 40-50 years) consist of adobe block walls with mud or lime mortar whereas the walls of recently constructed Bhongas consists of cut stone or clay bricks in mud or lime mortar.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 25% (totally) since the plan is circular in shape.
+
+**Wall Openings:** A Bhonga generally has only three openings one door and two small windows.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Recent Bhongas constructions have used wide variety of construction materials. These include the stone or burnt brick masonry either in mud mortar or in cement mortar. Traditional roof consists of light-weight conical roof, while some recent constructions have used heavy manglore tiles on roofs. Some recent constructions have used circular strip footing below the wall, while traditional construction simply extended the walls below ground level.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Random rubble with mud finishing.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Thatched roof supported on wood purlins Roof is considered to be a flexible diaphragm.
+
+**Additional comments section 2:** Typical separation between buildings is 3.0 meters. The typical span of the roofing/flooring system is 6 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Stone masonry in mud mortar (most common for new constructions), Adobe walls (old constructions), Burnt bricks with mud or lime mortar | Stone masonry in mud mortar (most common for new construction), Adobe walls (old construction), Burnt bricks with mud or lime mortar | 
+| Foundations | Same as wall | Usually the walls are extended to a depth of 1.0m into the ground as foundation | 
+| Floors | Bamboo, straw and thatch roof | Very light weight and ductile. | 
+| Roof | Bamboo, straw and thatch roof | Very light weight and ductile. | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** In almost all situations, the owner lives in this construction. No engineers and architects are involved in the design or construction since this is a traditional housing form which has been in use for several hundred years.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerMason
+
+**Roles of those involved in the building process:** In almost all situations, the owner lives in this construction.
+
+**Expertise of those involved in building process:** These constructions are carried out by local village masons. The construction process uses traditional expertise and understanding of performance of local building materials.
+
+**Construction process and phasing:** These constructions are carried out by local village masons. The locally available soft stone can easily be cut or chiselled into rectangular blocks, which are used for wall masonry. The local soil is used for mud mortar and to make adobe blocks. Locally available timber and bamboo are used for roof. The entire construction process, which is carried out by the mason with very few unskilled laborers, can be completed within 30 days. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. Bhongas are never "designed" in the modern context. However, Bhonga architecture is a very unique aspect of traditional desert architecture of Kutch region in which the size, location and orientation of the Bhonga are planned for very good structural and functional results.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** Not applicable since rural constructions do not require building code compliance.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** These structures are not very durable due to the use of mud mortar. The use of light-weight roof also causes problems during cyclone season. Several instances of roof damage after cyclonic winds are reported every year. However, due to its light weight, the flying roof debris do not cause major secondary damage.
+
+**Who typically maintains buildings of this type?** Builder
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Rs 160 per sq m (US $4 per sq m) per house in the case of a conventional Bhonga constructed using sun-dried brick, mud and thatch roof. Rs. 1075 per sq m (US $23 per sq m) per house in the case of a Bhonga constructed using a single layer thick burnt brick wall in cement mortar, and with timber conical roof.
+
+**Labor requirements:** Only unskilled or semi-skilled labour is required for its construction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** A Bhonga is occupied by a single family. Sometimes, a single family housing unit may consist of several Bhongas. The variation depends on the size and economic condition of the family. Each Bhonga is a single room housing unit. Depending on the economic condition of the owner, a housing unit may consist of several Bhongas.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2001 | Bhuj (Gujarat) | 7.6 | X (MSK) | 
+| 1819 | Bulandshahar (Uttar Pradesh) | 6.7 | VIII (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The earthquakes of 1819 and 2001 caused widespread devastation. Adequate reliable information on the performance of Bhonga during the 1819 earthquake is not available. However, during the 2001 earthquake, Bhonga constructions performed at least as well as modern masonry constructions with cement mortar and RCC roof.
+**Additional comments on earthquake damage patterns:** Minor damage for walls constructed with cement mortar and significant damage for walls constructed with mud mortar were observed after Bhuj earthquake. Only minor damage to the roofs were observed during the Bhuj earthquake, even for Bhongas whose walls had totally collapsed. The roof was able to maintain its structural integrity due to its light weight and weak connection between the roof and the wall.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | N/A | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | N/A | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Poor quality of construction materials (especially the use of adobe blocks and mud mortar)
+
+**Earthquake-resilient features in walls:** Excellent resistance to lateral loads due to the shell action of cylindrical walls.
+
+**Seismic deficiency in frames:** N/A
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Roofs are simply supported on the walls. Sometimes, vertical posts are used to support the wooden joists, but the connection is not proper.
+
+**Earthquake resilient features in roof and floors:** Roofs have good resistance due to their light weight and use of highly ductile materials.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | | %%|-%% | o | %%-|%%  | |
+
+**Additional comments section 5:** Bhonga is a very unique example of shear-wall building.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Low resistance to lateral loads | Providing seismic bandage between lintel and roof levels on both outside and inside of the wall. | 
+| Weak roof support system | Providing additional joists to transfer roof load to the cylindrical walls. | 
+| Weak roof support system | Providing new vertical post adjacent to walls (on the outside) to support the roof joist. | 
+| New Construction: Low resistance to lateral loads | Using cement mortar and stone or burnt brick masonry for walls; Constructing seismic bands at lintel and roof levels to enhance wall stiffness to lateral loads and to also improve shear resistance near corner of openings | 
+| New Construction: Weak roof support system | Providing vertical post adjacent to walls (on the outside) to support roof joints; Providing several joists to transfer roof load to the cylindrical walls or vertical posts. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No, seismic strengthening of Bhongas has not been carried out.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?** No formal structural inspection is done for either new or rehabilitated constructions.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** In these rural constructions, technically trained personnel are seldom available. Most constructions are carried out by skilled or semi-skilled persons only.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** No data is available. However, new constructions with earthquake-resistant features performed very well compared to Bhongas without any earthquake-resistant features. The performance of these Bhongas was comparable to that of RCC frame structures in the epicentral region.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Sinha, R. et al., The Bhuj earthquake of January 26, 2001, Indian Institute of Technology, Bombay, April 2001 (available at http://www.civil.iitb.ac.in/BhujEarthquake/Cover_Page.htm).
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Madhusudan Choudhary | Graduate Student | Indian Insitute of Technology, Bombay | Department of Civil Engineering, IIT Powai, Mumbai 400 076 India | madhu@civil.iitb.ac.in | 
+| Kishor Jaiswal | Graduate Student | Indian Insitute of Technology, Bombay | Department of Civil Engineering, IIT Powai, Mumbai 400 076 India | rskishor@civil.iitb.ac.in | 
+| Ravi Sinha | Associate Professor | Indian Insitute of Technology, Bombay | Department of Civil Engineering, IIT Powai, Mumbai 400 076 India | rsinha@civil.iitb.ac.in | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mauro Sassu | Associate Professor | Dept. of Structural Engineering, University of Pisa | Pisa 56126, ITALY | m.sassu@ing.unipi.it | 

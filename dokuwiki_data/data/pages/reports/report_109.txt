@@ -1,0 +1,325 @@
+====== RC Structural Wall Building, Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 109
+
+**Building Type:** RC Structural Wall Building
+
+**Country:** Colombia
+
+**Author(s):** Luis G. Mejia, Juan C. Ortiz R., Laura I. Osorio G.
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the Andean and Caribbean regions of Colombia. Concrete shear wall buildings are found primarily in the big cities of the Andean region: Bogota, Medellin, Cali, Pereira, Armenia, Manizales, Bucaramanga, and Ibague. Cities of the Caribbean region: Barranquilla, Cartagena, and Santa Marta). Approximately 2 percent of the housing in these cities is of this type. This building type is found principally in densely populated urban areas where there is a need to provide many housing units in a relatively small area.
+
+**Summary:** These buildings are characterized mainly by cast-in-place, load-bearing, reinforced-concrete shear walls in both principal directions. The buildings are usually multiple housing units found in the major urban areas of Colombia, especially in the Andean and Caribbean regions. They represent about 2 to 3% of the housing stock in the cities with a population between one to seven million. These buildings typically have 7 to 20 stories, generally with a cast-in-place reinforced-concrete floor slab system. In general, these buildings have good seismic performance because of their regular mass distribution in height and symmetrical plan configuration and the great stiffness and strength of the walls that can restrict story drift to less than or equal to 0.005h. In some cases, if the buildings were constructed after the first Colombian Seismic Code in 1984, poor seismic detailing is found.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 7-20
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The main function of this building typology is multi-family housing. Actually, these buildings are often used for the constructi
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** Generally, the buildings are rectangular or square, with some setback in the plan. They are usually regular in plan and in height. There can be as many as 20 for 4 units, with a typical width of .9m and a typical height of 2.0m.
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 30
+
+**Typical story height (meters):** 2.4
+
+**Type of Structural System:** Structural Concrete: Structural Wall: Moment frame with in-situ shear walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete structural walls (with frame). The gravity load is carried by the reinforced-concrete slabs that form each floor (generally, two-way slabs) supported directly on shear walls, or in some cases, by lintels. These walls take the gravity loads, carrying them to the foundations. When the slabs span in one direction, the walls that support them take both the gravity and lateral loads, and the walls in the orthogonal direction take only the lateral loads. The lateral load-resisting system is reinforced concrete structural walls (with frame). Shear reinforced-concrete walls provide adequate stiffness and strength in conjunction with the in-plane rigid diaphragm floor of concrete slabs, which join together in a rigid system. In more recent years, in compliance with requirements for seismic detailing, lintel beams join some walls, resulting in elements that can dissipate energy during an earthquake.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5 %. The ratio between the wall density and the floor area is about 3% to 5%. The walls in one principal direction can be 70% of the orthogonal direction.
+
+**Wall Openings:** Typical description of openings for a 320 m2 floor plan (4 house units): In the facade walls the openings are primarily in bedrooms and living rooms, and represent 25% of the wall area in bedrooms and 15 to 20% of the wall area in living rooms. The number of openings in the facade walls range from 4 to 16. with a width ranging from 1.5m to 2.5m and a height ranging from 1.2m to 2.0m. The openings in inner walls are typically doors, representing 10% of the wall area. The percentage of openings in the facade walls is greater than in the inner walls, principally due to the need for lighting.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The most popular modification is probably the addition of balconies. In general, most modifications are nonstructural, such as re-surfacing floors or walls, or adding new nonstructural masonry walls inside the individual units.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footingShallow Foundation: Mat foundationDeep Foundation: Reinforced concrete bearing piles
+
+**Additional comments on foundation:** It consists of reinforced concrete end-bearing piles. Generally, in good superficial soil conditions, reinforced-concrete strip footing or mat foundations are used. Deep foundations in reinforced-concrete bearing piles are sometimes used in poor soils because of the great susceptibility of the bearing walls to settling, or because of the necessity of stabilizing the structure.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete, solid slabs (cast-in-place) Structural concrete, solid slabs (precast) For seismic analysis, the floor and the roof are considered as rigid diaphragms that transfer the load to the wall, although in many situations the wall-slab connection is poorly detailed.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete, solid slabs (cast-in-place) Structural concrete, solid slabs (precast) For seismic analysis, the floor and the roof are considered as rigid diaphragms that transfer the load to the wall, although in many situations the wall-slab connection is poorly detailed. In some cases the roof level is made of timber if a flexible diaphragm is believed to be desirable.
+
+**Additional comments section 2:** They do not share common walls with adjacent buildings. In the absence of rigorous enforcement of regulations, it was once common practice not to separate adjacent buildings in very populated urban areas. Now, regulations are strictly enforced and the minimal separation between buildings according to NSR-98 must be at least 2 x 0.005 x the total height of the building. For a 10-story building that can be as tall as 25 m, the minimum separation from a similar building must be at least 0.25 m. In a block of individual buildings, each can be separated by up to 1 m When separated from adjacent buildings, the typical distance from a neighboring building is 1 meters. The buildings usually do not have garages because of the small span in both directions of the structural walls. In a typical building of this type, there are no elevators and 1-2 fire-protected exit staircases. There is one principal staircase in the center of each building. In buildings over 7 stories, there is usually also an elevator (which, theoretically, cannot be used in an emergency). The typical span of the roofing/flooring system is 2.4-3.5 meters. Generally, the typical floor has a free height of 2.20 m, and the solid slab plus the finishing floor are 0.20 m. Sometimes, in upper-middle-class projects, the story height can be about 2.60 m. Typical Span: In general, in units with areas between 50m2 and 85m2 (2 or 3 rooms, kitchen, living room and 1 or 2 bathrooms), the interior spaces are small and do not require large spans. In a few cases, spans up to 4.50m can exist. The typical storey height in such buildings is 2.4 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: reinforced concrete | Characteristic strength: f'c = 21 MPa to 35 MPa fy = 420 MPa Mix proportions/dimensions:1:1.5-1.8:2.5 | 
+| Foundations | reinforced concrete | Characteristic strength: f'c = 21 MPa fy = 420 MPa Mix proportions/dimensions:1:2:3 | 
+| Floors | reinforced concrete | Characteristic strength: f'c = 21 MPa to 28 MPa fy = 420 MPa Mix proportions/dimensions:1:1.8-2:2.5 | 
+| Roof | reinforced concrete | Characteristic strength: f'c = 21 MPa to 28 MPa fy = 420 MPa Mix proportions/dimensions:1:1.8-2:2.5 | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Building design is done by architects and structural engineers. Both professions play the most important role in each stage of the design and construction.
+
+**Expertise of those involved in the design process:** Generally, in this kind of building, the design and construction are supervised by engineers possessing proficiency and expertise. In every case, the project should be reviewed and approved by a state agency and theoretically, by law, must be supervised during the construction process by a contractor not associated with the construction firm.
+ 
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** These buildings are typically built for housing projects by developers and then sold to the general population.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Generally, a construction company buys the land and contracts with an architectural firm and a structural engineer to design the building. The construction process is simple; first, a design is approved, and then the foundations, walls and slabs are built. It is very common today to use a metal formwork and build one story per week in a building with four units per story, but it can also be built completing one story per day depending on cash flow requirements. Equipment can be used to make the mix on site or this can be contracted with a pre-mix company. Placement can be done manually by workers carrying the concrete in buckets, by pumping the concrete, or by a combination of both methods. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. NSR-98 (Normas Colombianas de y construccion Sismo Resistente) Colombian Code of Seismic Resistant Design and Construction, 1998. The year the first code/standard addressing this type of construction issued was CCCSR-84 (Codigo Colombiano de Construcciones Sismo Resistentes) Colombian Code of Seismic Resistant Construction, 1984. Prior to 1984, the ACI and UBC codes were widely used. NSR-98 is an accurate adaptation of ACI 318-95, with a few modifications in accordance with Colombian characteristics. Regulations found in ACI 318, sections 10 and 11, are mandatory, and for moderate and high seismic areas, the regulations in chapter 21.6 are required, too. The most recent code/standard addressing this construction type issued was 1998.
+
+**Process for building code enforcement:** The building design and construction must follow the provisions of NSR-98. Permits are required to develop the project, but in some cases after the permits have been given, the owner or contractor changes some of the building characteristics (mainly, the layout plan) without the approval of the state organization that issued the permits.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The construction cost varies depending on the place and the economic class of the buyer. For poor people, in apartments of 45 m2 to 55 m2, the construction cost per square meter can be between 90 US/m2 to 100 US/m2. For middle- to upper-middle-class people, in apartments of 70 m2 to 85 m2, the construction cost per square meter can be between 130 US/m2 to 160 US/m2. The final cost per square meter for the purchaser of the unit can reach between 1.0 to 1.6 times the construction costs.
+
+**Labor requirements:** Today, it is common to find subsidized housing projects constructed in a short time. The structure for a 7- to 10-story building can be constructed within only 2.5 to 3.5 months depending of the foundation type, and its delivery to the buyer can be practically immediate because of minimal nonstructural detailing. In 20- to 25-story projects, the construction time for the structure is between 9 and 11 months, and the final delivery to the buyer is between 13 to 15 months. Generally, the construction time depends on the project's cash flow.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one family, consisting of 4 to 6 persons, occupies one housing unit. Each building typically has 40 housing unit(s). A typical 10-story building can have 40 units, with 4 units per floor. This number can vary from 20 to 100 units depending on the number of stories and on the number of units per floor.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** Typically one family,consisting of 4 to 6 persons, occupies one housing unit. During the day there can be as many as 100 people and in the evening as many as 150 people in a building. Most of the occupants are families, whose adult members generally work during the day while the children attend school. Therefore, there are few residents in these buildings during the day. On weekends, the number increases because people are at home. There is a similar increase in the number during the week nights when most people are at home.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The following is an approximate economic distribution of the population in Colombia (the annual income listed above is the high end of the range expressed below): Economic Status % Population Annual Income (U.S. $) Very Poor 35 < 1,000 Poor 30 1,000-2,000 Middle Class 25 2,000-10,000 Upper Middle Class 4 10,000-40,000 Rich 1 > 40,000 Economic Level: For Poor families the housing price unit is 12500 and the annual income is 2000. For middle class families the housing price unit is 20000 and the annual income is 10000. For rich families the housing price unit is 28000 and the annual income is 40000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesCombinationGovernment-owned housing
+
+**Additional comments on financing:** The poor have access to state financial aid if they have a monthly automatic savings plan in a financial institution. Most middle-class housing is financed by bank loans and in some cases with a combination of these loans and personal savings. Finally, a small percentage of upper-middle-class people buy apartments with their own money, as a means of investment. Today, 40 to 60% of the projects are sold before they are constructed. Project owners prefer to do this to avoid taking out bank loans by financing the project themselves.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is available for an engineered building of this type. Today, insurance companies do not calculate the insurance cost based on the vulnerability level of the building, and so a premium discount is not available. There are some studies exploring this possibility. The cost of earthquake insurance can vary from 0.1 to 0.15% of the building's value. In case of damage the insurance covers between 70 and 100% of the cost depending of the annual premium.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is unavailable. Today, insurance companies do not calculate the insurance cost based on the vulnerability level of the building, and so a premium discount is not available. There are some studies exploring this possibility.
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1979 | 4.8N, 76.2W, depth 108km, Mistrato | 6.7 | VIII MMI (Manizales) | 
+| 1983 | 2.46N, 76.69W,depth: 22 km (Popayan) | 5.5 | IX MM (Popayan) | 
+| 1985 | 4.1N, 76.62W,depth: 73 km (Pereira) | 6.4 | VIII MM (Pereira) | 
+| 1999 | 4.46N, 75.72W,depth: 17 km (Armenia) | 6 | IX MM (Armenia) | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Buildings of this type have not yet been subjected to large-magnitude earthquakes in Colombia. In moderate earthquakes, like those listed above, the structural system has performed well, but in some cases there has been nonstructural damage.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Generally, these types of buildings have been designed by engineers and are w ell-detailed for seismic forces. In some cases, primarily in older buildings, there are deficiencies in the detailing of the seismic w all-slab and w all-foundation connections. Most of these buildings have shown good performance in moderate earthquakes, but in the absence of recent large-magnitude earthquakes in Colombia, it is not known how these buildings will actually perform.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Generally, these types of buildings have been designed by engineers and are well-detailed for seismic forces. In some cases, primarily in older buildings, there are deficiencies in the detailing of the seismic wall-slab and wall-foundation connections. Most of these buildings have shown good performance in moderate earthquakes, but in the absence of recent large-magnitude earthquakes in Colombia, it is not known how these buildings will actually perform. In large-magnitude earthquakes damage in the connections can occur due to seismic deficiencies. Diagonal cracks are expected, but not severe damage or collapse.
+
+**Earthquake-resilient features in walls:** The great stiffness that the wall system provides in conjunction with the slabs leads to a well-controlled story drift that minimizes the nonstructural damage.
+
+**Seismic deficiency in frames:** N/A
+
+**Earthquake-resilient features in frame:** N/A
+
+**Seismic deficiency in roof and floors:** In some cases, with very thin slabs without boundary members like chords and collectors and/or with openings in plan, the diaphragm performance cannot be assumed. Earthquake Damage Patterns: Cracking of slabs due to seismic deficiencies.
+
+**Earthquake resilient features in roof and floors:** Generally, slabs perform well as a diaphragm floor system. In large earthquakes there can be some cracking of slabs due to seismic deficiencies.
+
+**Seismic deficiency in foundation:** In most cases, superficial wall foundations are designed assuming fixed-support conditions. The walls are detailed from the point-of-view of strength, but without enough stiffness to guarantee this fixity. During an earthquake some rotation can occur in the base of the wall, which would not have been considered in the analysis. In large earthquakes, damage in the connections with the walls can occur, due to seismic deficiencies.
+
+**Earthquake-resilient features in foundation:** Generally, foundations perform well in moderate earthquakes. In large earthquakes, damage in the connections with the walls can occur, due to seismic deficiencies.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | %%|-%% | o |  | %%-|%% |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| lintel beams damage | After a great earthquake, a well-designed building will dissipate energy by damage in the lintels. Seismic strengthening consists of rebuilding the lintel by sealing its cracks. | 
+| slab-all connection | Improve the seismic detailing of the joint by partially demolishing (dismantling), constructing a beam collector detailed with stirrups in the connection interface, and rebuilding it with low retraction concrete | 
+| strengthening of foundation-wall connection | Increasing foundation and wall size in accordance with the recent code regulations. The foundation can be retrofitted in its perimeter and above, increasing its strength and stiffness. Walls can be retrofitted increasing their width with a new layer of reinforcement joined with connectors to the existing wall or with confined elements added to its borders. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The common practice is to repair the building damage after an earthquake. After an earthquake the inhabitants of damaged and undamaged housing units of all construction types are concerned about the seismic strengthening of their houses or buildings. As time passes, people who were not affected forget.
+
+**Was the construction inspected in the same manner as new construction?** In some cases, the owner probably hires a company to inspect the repair work.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** In this type of building repair, usually an engineer provided by the contractor or by the owner is involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Colombian Code of Seismic Resistant Construction and Design NSR-98
+
+  * Interview with construction engineers who are part of the construction firm OPTIMA S.A.
+
+  * Structural illustrations given by the consulting and structural firm, ALVARO P
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Luis G. Mejia | Consulting Structural Engineer, | Luis Gonzalo Mejia C. y Cia. Ltda. | Calle 49b #79b-12, Medellin , COLOMBIA | lgm@epm.net.co | 
+| Juan C. Ortiz R. | Civil Engineer/Structural Designer, | Luis Gonzalo Mejia C. y Cia. Ltda. | Dg. 75 B No. 6-110 Apto. 201, Medellin , COLOMBIA | jcor_ic@hotmail.com | 
+| Laura I. Osorio G. | Civil Engineer/Structural Designer | Luis Gonzalo Mejia C. y Cia. Ltda. | Cra. 79 No. 45-72, Medellin , COLOMBIA | lauraosorioeng@yahoo.ca | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marcial Blondet | Professor | Civil Engineering Dept., Catholic University of Peru | Lima 32 , PERU | mblondet@pucp.edu.pe | 

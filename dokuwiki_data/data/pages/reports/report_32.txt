@@ -1,0 +1,325 @@
+====== Large panel buildings with two interior longitudinal walls, Kazakhstan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 32
+
+**Building Type:** Large panel buildings with two interior longitudinal walls
+
+**Country:** Kazakhstan
+
+**Author(s):** Igor Efroimovich Itskov, Ashimbayev Marat Umarbayevich, Nikolai B. Chernov
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Almaty - former capital of Kazakhstan and other cities in Kazakhstan. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This is a typical urban residential construction commonly found in the southern part of Kazakhstan. Typical buildings of this type are 5- or 9-stories high. This is a prefabricated large panel construction typical for the post-Soviet Union. Large panel buildings with two interior longitudinal walls (as described in this contribution) were developed in Kazakhstan and were specifically designed for the areas of high seismic hazard (intensity 9 and higher per MSK scale). It is considered that this building type (with two interior longitudinal walls) is superior as compared to other large panel building types (usually characterized with one longitudinal wall only) in terms of seismic resistance. The load-bearing system consists of precast reinforced concrete walls and floor panels. All precast members are joined in a box-type structure by means of panel joints. Facade walls are usually made of 2 exterior layers of low-strength lightweight (ceramsite) concrete with good thermal insulation properties and the interior layer of normal-weight concrete. Large panel buildings are generally well-known for their good seismic resistance, which is mainly due to the large rigidity and high degree of redundance. The fundamental period of vibration for a 9-story building of this type is approximately 0.35#0.4 sec. Large panel buildings of a similar construction (with one longitudinal interior wall) existed in Armenia at the time of the 1988 Spitak earthquake and they remained undamaged, whereas other precast construction types (mainly concrete frame construction) had suffered significant damage and/or collapse. Although the buildings of this type have not been exposed to major damaging earthquakes in Kazakhstan as yet, their dynamic performance was evaluated by means of harmonic forced vibration tests simulating earthquake effects. The buildings subjected to these tests did not experience any damage.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ units
+
+**Typical number of stories:** 5-9
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** Total number of housing units depends on the number of building sections. Typically, for the three-section building, the number
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 34.8
+
+**Typical plan width (meters):** 12.9
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Precast Concrete: Shear wall structure with precast wall panel structure
+
+**Additional comments on structural system:** Lateral Load-Resisting System: Large panel buildings with two interior longitudinal walls (as described in this contribution) were developed in Kazakhstan and were specifically designed for the areas of high seismic hazard (intensity 9 and higher per MSK scale). It is considered that this building type (with two interior longitudinal walls) is superior as compared to other large panel building types (usually characterized with one longitudinal wall only) in terms of seismic resistance. In large panel buildings, seismic resistance in the longitudinal direction is generally worse as compared to the resistance in the transverse direction. Therefore, additional interior longitudinal wall in a building contributes to its improved seismic resistance. The lateral load-resisting structure consists of the system of precast elements: slabs and the longitudinal and cross wall panels. The length of wall panels is equal to room dimension (length/width), and the thickness is equal to 160 mm (interior walls) and 300 mm (exterior walls). Rigidity and load resistance in the longitudinal direction is provided by four walls: 2 exterior and 2 interior walls. All the walls are continuous throughout the building height. Joint system is developed such that all structural elements work together as a box-type system. Vertical wall panel connections are accomplished by means of groove joints, which consist of a continuous void between the panels with lapping horizontal steel and vertical tie-bars. Horizontal joint reinforcement consists of dowels (horizontal panel reinforcement) projected from the panels and the hairpin hooks site-welded to the dowels (the welded length of the lapped bars depends on the bar diameter and steel grade). Vertical tie-bars are designed for tension forces developed at the locations of panel intersections. Details of vertical wall panel connections are shown on Figure 4. Vertical wall connections under construction are shown on Figures 5 and 6 (note hairpin hooks). Figure 7 shows the welded horizontal reinforcement and vertical tie-bars. Several sets of hairpin hooks are provided for each wall panel over a floor height. The number is variable (generally ranging from 2 to 5), depending on the seismic demand at a particular location within a building. In general, vertical panel connections are designed to transfer the forces in 3 orthogonal directions. In order to ensure adequate shear transfer, vertical panel edges are serrated (roughened), as illustrated in Figure 9. Horizontal panel joints are somewhat different from the vertical joints. Either vertical dowels or hairpins are projected from the top and bottom panels at each floor level. The dowels/hairpins are joined by means of welding. Horizontal dowels from the adjacent floor slab panels are also joined together by means of welding. Details of horizontal panel joints are shown on Figure 3. Horizontal wall panel joints under construction are shown on Figures 5 and 8 (note the horizontal dowels projected from the floor panels and hairpins/dowels projected from the wall panels). Both the horizontal and vertical joints are grouted in-situ using concrete (same mix as used in the panel construction). Floor panels are solid 2-way slabs supported by the four wall panels. Gravity Load-Resisting System: Longitudinal and cross walls and floor slabs.
+
+**Gravity load-bearing & lateral load-resisting systems:** Type 7 with lime mortar instead of mud mortar. Brick dimension typically 28 x14 x 6 cm. Lime mortar 1-2 cm thick. Some mortar deterioration, at times due to water infiltration, can be found; Typical Story Height: 2.5-3.0 m in the residential portion and in the first floor of the agricultural portion. 5.0-9.0 m in the second level of the agricultural portion.
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** Wall density in longitudinal direction is 0.05 and in the cross direction this value is 0.07.
+
+**Wall Openings:** Typical window sizes are: 2.1m x 1.5m; 1.2m x 1.5m; 3.0m x 1.5m; 1.0m x 0.8m. Average door sizes are: 1m x 2m. Total window and door area constitute up to 20% of the overall wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In practice there are no significant modifications for this type of construction. Typical modification patterns include the perforation of walls with door openings.
+
+**Type of Foundation:** Other Foundation
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floor
+
+**Additional comments on floor system:** Precast solid slab
+
+**Type of Roof System:** Cast-in-place beamless reinforced concrete roof
+
+**Additional comments on roof system:** Precast solid slab
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Reinforced concrete | 30-35 MPa (cube compressive strength) Steel yield stress 390MPa Bearing concrete layer. | 
+| Foundations | Reinforced concrete | 20 MPa (cube compressive strength) Steel yield stress 295 MPa | 
+| Floors | Reinforced concrete | 30-35 MPa ( cube compressive strength) Steel yield stress 390MPa | 
+| Roof | Reinforced concrete | 30-35 MPa ( cube compressive strength) Steel yield stress 390MPa | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+ 
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** It is more typical for this type of housing to be built by a developer.
+
+**Expertise of those involved in building process:** Engineers played a leading role in each stage of construction.
+
+**Construction process and phasing:** Construction of this type was performed by Almaty House-building complex (ADK), and owner was the City administration. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. The level of control is very high. First of all, in the factory ADK the control of materials and structural elements was performed, then during the construction the control was performed by designer's organization along with special expertise organization so called State Control Committee for Architecture and Construction. Finally, before putting these buildings in operation they had been checked by the City Control Committee.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** SNIP II-A.12-69* "Construction in seismic regions. Standards of design." (issued in 1970 for the first time and revised in 1974) SNIP RK B.1.2-4-98 (current Code) 1998 Although the seismic code has been drastically revised three times over the last decade and the seismic requirements have become more stringent, this type of construction still meets the Code requirements without any modifications.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Construction cost is about US$ 450 /m.sq. ; in terms of the national currency of the Republic of Kazakhstan # 67,000 tenge.
+
+**Labor requirements:** It takes 6-8 months to build one section of a 9-storey building. Out of that period, 3 months is required for the assembly of structural elements and the remaining time is used for the finishing works.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The pattern of occupancy depends on the number of typical sections in the building. Three apartments are located at each floor of a typical building section. Typically, over 27 families reside in one section of a 9-story building of this type.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Government-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Owned by group or pool
+
+**Additional comments on ownership:** Generally these buildings were government owned and later were transferred to private property due to privatization.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**  
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1911 | Null | 8.2 | | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** There have been no earthquakes with intensity of over 5 in the region since the construction of this type had started in Kazakhstan. Large panel buildings of similar construction existed in Armenia at the time of the 1988 Spitak earthquake (Richter maginute 7.0) and they remained undamaged, whereas the buildings of precast frame construction had suffered significant damages and/or collapse, as illustrated in Figure 12. These buildings were of Seria A1-451 KP-16/1 and were characterized with very similar panel connections, however they had only one loadbearing interior wall in the longitudinal direction (whereas the construction which is the subject of this contribution is characterized with the two longitudinal walls). None of the sixteen buildings of this type that existed in Leninakan at the time of the 1988 earthquake suffered any significant damage, except for the minor cracks in horizontal and vertical wall joints. In contrast, all 19 buildings of precast frame construction (series 111) that existed in the area collapsed in the earthquake. There were two large panel buildings of this type in Spitak and none of them suffered any significant damage (except for minor cracking). It should be noted that both towns, Leninakan (population 250,000) and Spitak (population 25,000) were completely destroyed. Around 25,000 people died in the earthquake and 12,000 were injured. More than 500,000 people were left homeless in the earthquake. For more details on the 1988 earthquake refer to Rzhevsky (1999), Markarian (1999) and EERI (1989).
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** - Rigid box-type system; - Good panel and joint structural details; - Buildings of regular plan and elevation. All the walls, both in the longitudinal and cross direction, are continuous throughout the building height; - Multiple panel connections in t
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | | | o | |
+
+**Additional comments section 5:** The buildings of this construction type are expected to possess high seismic resistance. Although the buildings of this type have not been exposed to damaging earthquakes as yet, their dynamic performance was evaluated by means of harmonic forced vibration tests, using the resonant frequency of the building for the harmonic excitation. These dynamic loads simulated earthquake effects. The tests showed that the buildings did not experience any damage.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A.
+
+**Was the construction inspected in the same manner as new construction?** N/A.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Series of Large Panel Residential Buildings and Block-Sections. Standard designs # 158 Research Institutes TsNIIEPzhilishe and GPI "Alma-AtaGiprogor", Alma-Ata 1977
+
+  * SNIP II-A.12-69 Construction in seismic regions. Standards of design Moscow 1969
+
+  * SNIP II-7-81 Construction in seismic regions. Standards of design Moscow 1982
+
+  * SNIP RK B.1.2-4-98 Construction in seismic regions Almaty 1998
+
+  * Destruction of Standard Residential Buildings in the 1988 Spitak, Armenia Earthquake Markarian,T., and Shaginian,S. Seismic Hazard and Building Vulnerability in Post-Soviet Central Asian Republics (Eds. Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker), NATO ASI Series 2. Environment - Vol.52, Kluwer Academic Publishers, The Netherlands, 1999 1999
+
+  * The December 7, 1988 Spitak, Armenia Earthquake: Results of Analysis of Structural Behavior Rzhevsky,V. Seismic Hazard and Building Vulnerability in Post-Soviet Central Asian Republics (Eds. Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker), NATO ASI Series 2. Environment - Vol.52, Kluwer Academic Publishers, The Netherlands, 1999 1999
+
+  * Armenia Earthquake Reconnaissance Report EERI Special Supplement to Earthquake Spectra, El Cerito, California 1989
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Igor Efroimovich Itskov | Head of Laboratory of Large Panel Buildings | KazNIISSA | 53, Mynbayeva str, Almaty, Republic of Kazakhstanoff. # 305 | laskoz@nursat.kz | 
+| Ashimbayev Marat Umarbayevich | Director | KazNIISSA | 53, Mynbayeva str, Almaty, Republic of Kazakhstanoff. # 305 |  | 
+| Nikolai B. Chernov | Research Associate | Dept. of Civil Engineering, University of Belgrade | Belgrade 11001, SERBIA |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^

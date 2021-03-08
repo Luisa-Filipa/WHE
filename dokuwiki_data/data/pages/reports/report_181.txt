@@ -1,0 +1,375 @@
+====== Confined Masonry, Chile ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 181
+
+**Building Type:** Confined Masonry
+
+**Country:** Chile
+
+**Author(s):** Claudia Alvarez Velasquez, Matias Hube Ginestar, Felipe Rivera Jofre, Hernan Santa Maria Oyandenel, David Hernandez Jara
+
+**Last Updated:** 01/20/2016
+
+**Regions Where Found:** Confined masonry has been widely used for housing construction in Chile. Housing construction mainly includes low-rise single-family dwellings (up to two stories high) that can be found in both rural and urban areas. This type of construction method is used to build houses (mostly one or two stories high, single family occupancy) and buildings (three to five stories high, multiple apartments per building, each apartment with single family occupancy).Confined masonry consists in masonry walls and reinforced-concrete confining elements (tie-columns and tie-beams). Chile has a long history of confined masonry construction practice, starting in the 1930s, after the 1928 Talca earthquake (Ms 8.3), representing over 80 years of practice (Astroza et al. 2012). Masonry houses (unreinforced, reinforced and confined) represented 55% of existing houses in 2012 (INE, 2012). Between 2002 and 2014, it is estimated that 26% of construction permits of masonry houses correspond to confined masonry with clay bricks (INE, 2014). Figure 1 shows a typical confined masonry house.Masonry houses (confined, reinforced and unreinforced) are concentrated in the central regions of Chile, between regions V and VIII (see Figure 2), representing 82% of the masonry houses in the country. According to NCh433 (INN, 2009), Chile is divided into three seismic zones: high, mid and low seismic hazard. Urban zones are mostly found in high and mid seismic zones. The Metropolitan Region concentrates almost 47% of masonry houses of the country and the municipalities are mostly located in mid seismic zone. Figure 3 shows the regional distribution of masonry houses in 2012 (INE, 2012), and Figure 4 shows the regional participation of masonry houses in the total number of houses in Chile (INE, 2012).
+
+**Summary:** Confined masonry houses are located in Chile mainly in the central region, in both urban and rural areas. Their main lateral load-resisting system in both directions is masonry walls built with clay bricks, cement mortar, and reinforced-concrete confining elements (tie-columns and tie-beams). These houses usually have regular plan shapes and shallow foundations with no basement floors. A house is typically occupied by a single family. In general, this type of construction has performed very well in recent earthquakes (Valparaiso 1985, Maule 2010, and Iquique 2014); the most commonly observed damage has been in-plane shear cracking. This damage is mainly attributed to inadequate quality of materials and construction, deficiencies in detailing of reinforcement in confining elements, absence of confining elements at openings, inadequate wall density, excessive ground shaking and damage attributed to geotechnical issues. Every structure must follow the Chilean General Planning and Building Ordinance (MINVU, 2014a), which references the use of the following codes/standards for designing this type of structures: NCh433 (INN, 2009), Decree DS61 (MINVU, 2011) and NCh2123 (INN, 2003).
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, unknown typeSingle dwelling
+
+**Typical number of stories:** 1-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidRectangular, with an opening in planL-shape
+
+**Additional comments on plan shape:** Confined masonry houses commonly have regular plan shapes. Their typical plan shape is rectangular (Figure 7), despite there are no plan shape regulations in the codes. These dwellings usually have a uniform distribution of stiffness both in plan and in elevation, given its regular structure and symmetrical layout. Sometimes the wall openings are not uniformly distributed within the walls, which generate plan stiffness irregularity.Article 4.1.1 of the General Planning and Building Ordinance (MINVU, 2014a) establishes a minimum interior free height of 2.3 m for housing dwellings, except under beams, horizontal installations, and small areas under sloping roofs. Article 4.1.2 indicates that there should be at least one window in each room (bedrooms, living room and bathrooms) of the dwelling. In bedrooms, windows must have a minimum free horizontal distance of 1.5 m. For thermal requirements, and according to Article 4.1.10, maximum window area is limited based on the type of glass and the thermal zone where the structure is built.
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 
+
+**Type of Structural System:** Masonry: Confined Masonry: Clay brick masonry with concrete posts/tie columns and beams
+
+**Additional comments on structural system:** The vertical load-resisting system is the confined masonry wall system: confined brick masonry with concrete tie columns and bonded beams. The walls are usually 140 to 200 mm thick and are built using hollow clay bricks (hollow clay tiles) or handmade clay bricks with cement mortar between the bricks. Tie columns have rectangular cross section and the width is 150 to 200 mm, which typically corresponds to the wall thickness. The depth of the columns is in the order of 200 mm. The thickness of the slabs varies between 100 and 120 mm (Gent et al., 2008). Figure 7 shows the distribution and measures of walls and slabs of a typical confined masonry house. If the distance between walls intersections, with tie-columns, exceeds 1.8 times the story height or 6 m, then intermediate tie-columns are placed in the walls. These tie-columns do not coincide with the intersection of orthogonal walls. Intermediate tie-columns take vertical and lateral loads (INN, 2003; MINVU, 2014a).Tie-columns must have a minimum cross section of 20 cm and the width of the masonry wall (INN, 2003). The minimum longitudinal reinforcement is 3.2 and 4.5 cm2 for the second and first floor, respectively. Stirrups must have a diameter of at least 6 mm and a maximum spacing of 20 cm (MINVU, 2014a), and 10 cm at the edges or critical zone (Gent et al., 2008).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Article 4.1.2 of the General Planning and Building Ordinance (MINVU, 2014a) indicates that there should be at least one window in each room (bedrooms, living room and bathrooms) of the dwelling. In bedrooms, windows must have a minimum free horizontal distance of 1.5 m. For thermal requirements, and according to Article 4.1.10, maximum window area is limited based on the type of glass and the thermal zone where the structure is built. The maximum window area per thermal zone is shown in Table 3.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** A typical pattern of modification for confined masonry houses is the extension of the dining room up to the building line which commonly results in an "L" plan shape configuration.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Figures 9 shows a typical plan view of the footings while Figure 10 illustrates the cross section of a reinforced-concrete strip foundation, wall and tie-beam.Foundation requirements such as dimensions, allowable soil contact stress, minimum area of reinforcement in spread foundations, which depends on the number of stories, and minimum buried depth of foundations, are specified in Title 5 Chapter 7 of the General Planning and Building Ordinance (MINVU, 2014a).
+
+**Type of Floor System:** Cast-in-place beamless reinforced concrete floor
+
+**Additional comments on floor system:** In the structural analysis of the house, the concrete slab in two story houses is considered to be a rigid diaphragm, but mostly one or two story houses have timber floors.
+
+**Type of Roof System:** Wooden beams or trusses with Wood-based sheets on rafters or purlinsheavy roof coveringRoof system, other
+
+**Additional comments on roof system:** The roof in confined masonry houses typically consists of timber beams or truss forming a pitched roof with timber gables (Astroza et al., 2012). The timber trusses are designed according to NCh1198 (INN, 2014).
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Hollow clay brickHandmade clay brickMortar | Compressive strength:15 MPa4 MPa10 MPaDimensions clay brick: 7 x 14 x 29 cm5 x 14 x 28 cmMortar mix 1:5 of cement:sand |
+| Foundations | Concrete: H20 - H30 | 15-25 MPa |
+| Floors | Concrete: H20 to H30	| Concrete: 15-25 MPaSlabs 100 to 120 mm thickness |
+| Roof | Wood | Slabs 100 to 120 mm thickness |
+| Other | Frame (Beams and Columns)Concrete: H20 to H30Steel reinforcement: A440-280H or A630-420H | Concrete: 15-25 MPaSteel reinforcement (yield):275 MPa or 412 MPa255 Kgs of cement per m3 of concrete as minimum.Cross-sectional dimensions:The minimum cross section for tie-columns is 20 cm and the width of the wall (14 to 20 cm).14 to 20 x 20 cm as minimum for tie-beams.3.2 to 4.5 cm2 of reinforcement bars per tie-column as minimum and 2.8 to 4.5 cm2 per tie-beam.Comments: Tie-columns must be located at walls intersections, wall openings (windows and doors). Maximum distance of 6 m or 1.8 times height story between tie-columns in the same wall. Tie-beams must be located at floor and roof levels and these are jointed to tie-columns. Maximum vertical distance of 5 m between consecutive tie-beams. |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineer
+
+**Roles of those involved in the design process:** The structural engineer is in charge of the design and the signing of the drawings
+
+**Expertise of those involved in the design process:** The structural engineer in charge of the design and the signing of the drawings has at least 6 years of academic education.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** Private construction companies generally construct confined masonry houses; sometimes the government hires construction companies to build confined masonry structures, but they construct mostly buildings, not houses. Currently, confined masonry houses are rarely built by the owner.
+
+**Expertise of those involved in building process:** The construction professional in charge of the construction may have at least 5 years of academic education but less experience. The masons involved in the construction are usually skilled and semi-skilled workers.
+
+**Construction process and phasing:** Usually one contractor builds a large number of this type of confined masonry houses. Therefore, project management and control techniques are used in order to increase productivity and to diminish costs. The construction process begins with preparation of the terrain, and excavation for the strip foundations. After installation of the reinforcement bars of the reinforced-concrete columns, the strip footings are cast. Clay bricks are placed and subsequently tie-columns and tie-beams are cast against the bricks of the walls. There are two options for the interface between a wall and a tie column: toothed wall, or concrete embedded wall. Figure 17 shows the toothed wall and a tie-column interface (left) and masonry walls with interspersed extruded bricks for the embedment of concrete of the tie columns (right). After concrete has set, the roof structure is installed and the roofing sheet elements are screwed onto the roof structure. Then, the slab on-grade floor is constructed. The final step is the installation of windows and doors (Brzev et al., 2010). Figure 18 shows the first floor of a confined masonry house under construction, with its clay brick masonry walls and confinement elements.
+
+**Construction issues:** Inspection and supervision is difficult because too many activities are done simultaneously.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Confined masonry houses must follow the General Planning and Building Ordinance (MINVU, 2014a). The Ordinance indicates that there are two types of confined masonry structures (Article 5.3.1): a) type C, are constructions with supporting confined masonry walls built with bricks and reinforced concrete confined elements (as tie-columns and tie-beams), reinforced concrete slabs or timber frame between stories; and b) type D, are constructions with supporting confined masonry walls built with concrete blocks or stone and reinforced concrete confined elements, reinforced concrete slabs or timber frame between stories. According to the Article 5.1.7 of the Ordinance, for both types of structures, if the construction area is less than 100 m2 or occupancy load is less than 20 people, a structural calculation and design is not required, and the project only has to follow Title 5 Chapter 6. In this report only type C structures are considered for typical confined masonry houses.Article 5.6.2 establishes minimum requirements for masonry walls of houses (up to two stories height), e.g. conditions for minimum width. Article 5.6.3 indicates requirements for tie-columns and Article 5.6.4 the same for tie-columns, i.e. dimensions, minimum steel reinforcement, and mix proportions. Also, Article 5.6.5 indicates requirements for masonry interior partition walls, such as conditions for minimum width which is commonly 12 cm.The seismic loads are estimated following the provisions of decree DS61 (MINVU, 2011) which includes the standard NCh433 (INN, 2009) and the modifications in design provisions after 2010 Maule earthquake. In general, these structures are quite stiff and they must resist a base shear of 10-22% of the mass of the house, depending on the seismic zone and soil type. Design must comply with the requirements of NCh2123 (INN, 2003), which is the design code for confined masonry structures. NCh2123 indicates all the provisions for designing masonry walls and reinforced-concrete tie-columns and tie-beams, e.g. critical zone for tie-columns (measured from the interior edge of the tie-beam) is defined as the largest value between 2 times the tie-column width, and 60 cm. For tie-beams, the critical zone (measured from the interior edge of the tie-column) corresponds to 60 cm.Material quality control are not required for confined masonry houses if the following conditions are satisfied (NCh2123, 2003): the construction area is less than 100 m2, the number of stories is one or two, the house is detached, and the house is built under the supervision of a structural engineer.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** The construction permits are regulated and given by the Municipalities. Each Municipality is in charge of the master plan of the zone or city. Additionally, a Municipality permit is required to expand or modify an existing structure. According to Article 5.1.6 of the General Planning and Building Ordinance (MINVU, 2014a), to obtain the permits for a project it is necessary to hand over the following documents to the Municipality Building Director:1) Application signed by the owner and the architect of the project with the following attached documents:- A list of all the documents and architectural drawings signed by the architect.- Statement of the owner indicating being the owner of the domain of the property.- Special conditions of the project.- All the professionals of the project.- A statement indicating if the project consults public buildings or not.- If the project has a favourable report of an independent reviewer and the identity of this reviewer.- If the project has a favourable report of a structural design reviewer and the identity of this reviewer.- A copy of the approval document if the project has an approved project draft.2) A copy of the current Certificate of Prior Information of the project.3) Unique Edification Statistics Form.4) Report of an independent reviewer, or the architect if the project consists of one house, one or more progressively build houses, or sanitary structures.5) Favourable report of the structural designs reviewer, if it corresponds.6) Certificate of feasibility of drinking water and sewerage issued by the sanitary company.7) Architectural drawings which must content exact location of the project, distribution of structures, drawings of each level, and every elevation drawing.8) Structural design and calculations according to the Article 5.1.7 of the Ordinance.9) Technical specifications of the items included in the project, especially those relating to compliance with fire regulations or standards of the Ordinance.10) Other documents.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A unit construction type C (see section 6.5 for definition) may cost 174-330 USD/m^2, considering quality category Semi-Inferior to Semi-Superior (MINVU, 2014b), and its base appraisal unit value is 288-804 USD/m^2. This base appraisal value has to be modified by four factors dependent on the structure's location, special conditions of the structure, depreciation, and a commercial coefficient applicable to structures built in commercial zones (SII, 2013).
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one dwelling is occupied by one family (father, mother and two to three children). The main function of the building is residential housing.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Each house typically corresponds to one dwelling. The number of inhabitants in a house during the day or business hours can be none. The number of inhabitants during the evening and night can be 2 or more. In average, there are between 3 and 4 inhabitants per masonry house in Chile (INE, 2012).
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The Ministry of Housing and Urbanism (MINVU) defines five categories of quality of residential structures: Superior, Semi-Superior, Regular, Semi-Inferior and Inferior (MINVU, 2014b). A total score of the structure, which is obtained considering design aspects, general characteristics, installations, and terminations, defines the first to the fourth quality categories. The Inferior category is assigned to social condominiums only. Social condominiums are built by the government for low-income and vulnerable population groups. The ownership of the unit is given to 60% of the lowest quintile income families and they have the right to sell it after five years of use (Comerio, 2013).According to the Chilean Internal Revenue Service (SII), a house of 60 m2 (segment S1) may have an appraisal value between USD 17,267 and USD 48,258 depending if the construction quality is classified as Semi-Inferior or Semi-Superior. To obtain an appropriate appraisal value, this value has to be modified by four factors: building location, special conditions of the structure, depreciation, and commercial coefficient applicable to structures built in commercial zones. A 100 m2 house (segment S2) may have an appraisal value between USD 28,778 and USD 80,431 if the construction quality is Semi-Inferior or Semi-Superior. For segment S3, a house of 140 m2 or more may have an appraisal value of more than USD 112,603 for a Semi-Superior construction quality (SII, 2013).According to the Ministry of Social Development (MDS), the average monthly working income for a family is approximately USD 1,000 (MDS, 2015). The minimum legal monthly wage for a person in Chile is USD 360. The average family monthly working income of the first decile is USD 102 per person. For the fifth and tenth deciles these working incomes are USD 617 and USD 3,680 per person, respectively.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgagesCombination
+
+**Additional comments on financing:** For the first three low income quintiles (vulnerable, emergent, and medium group) the source of financing is a combination of subsidy and the resources of the owner in most cases. The government provides a subsidy of 5% to 73% of the total cost of the housing (depending on the value of the property and the income group), and the owner has to pay the remaining, which is commonly paid over time using a bank mortgage (CChC, 2014). For the other two quintiles, the common source of funding is personal savings plus bank mortgage.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** For houses, there are insurances for all kind of situations: general damage, robbery and theft, fire, earthquake, wind, alluvium, tsunamis. Earthquake and fire insurance are required from the banks if the house is financed with a mortgage. Earthquake and fire insurance covers the repair costs in order to bring the building to the same condition as it was before the earthquake, which is about 60% of the property value. This insurance does not cover the cost of the land. The annual costs of the earthquake and fire insurances are approximately 0.02% and 0.22% of the insured value (60% of the property value), respectively.Owners of residential real estates must pay annual territorial taxes, corresponding to 0.98% of tax appraised value if it is less than USD 117,648, and 1.143% if tax appraised value is more than that, plus an annual surcharge tax benefit of 0.025%. If tax appraised value of the residential real estate is less than USD 32,941, then it is exempt of contribution payments (SII, 2014).
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1939 | Chillan, VIII Region | 8.3(Ms) | VIII (MMI) | 			
+| 1960 | Valdivia, XIV Region | 9.5 (Mw) | XII (MMI) | 			
+| 1985 | San Antonio, V Region | 7.7 (Mw) | XI (MMI) | 			
+| 2010 | Maule, VII Region | 8.8 (Mw) | IX (MMI) | 			
+| 2014 | Iquique, I Region | 8.2 (Mw) | VII (MMI) | 			
+
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In 2010, the Maule earthquake left a total of 4 buildings on the ground, and approximately 50 buildings with demolition order. An example of a reinforced-concrete building that collapsed was the Alto Rio Building in Concepcion. In general, confined masonry houses performed well in the earthquake and did not experience major damages (Figure 12), though some moderate damage was observed in houses (Astroza et al., 2012). The most common damage pattern observed in confined masonry buildings was in-plane shear cracking in walls (see Figure 13), mostly observed at the floor level of three- and four-story buildings. In very few cases, this damage pattern was observed in confined masonry houses at the floor level of two-story structures. In three- and four-story confined masonry buildings, tie-columns of the first story and the masonry walls suffered severe damage, as shown in Figure 14. In a large amount of these buildings, tie-columns had smaller cross sections (14-15 x 14-15 cm) than the dimensions required (14-15 x 20 cm) by the Chilean standard for confined masonry structures (INN, 2003). Inadequate size and/or spacing of stirrups at the end of tie-columns caused buckling of longitudinal reinforcement and severe masonry crushing in all the damaged buildings observed by Astroza et al. (2012). Shear failure at the ends of tie-columns was caused by the absence of stirrups at the joint between tie-beams and tie-columns, and the inappropriate anchorage of the vertical reinforcement in tie-columns (Brzev et al., 2010; Astroza et al. 2012). Some four-story confined masonry buildings built between 1940 and 1960 in Santiago (Metropolitan Region) and Talca (VII region), with solid handmade clay brick and low-strength mortar, and with only tie-columns at the end of walls and not at openings, suffered moderate damage by shear cracking, in the same manner as observed in the 1985 San Antonio earthquake (Astroza et al., 2012).In the Iquique, 2014 earthquake, confined masonry structures performed very well. There were very few cases of confined masonry houses of two and mostly three stories with medium damage. Four-story confined masonry buildings with medium to high damage at the first floor (Figure 15), and five-story confined masonry buildings with low to severe damage were observed (CIGIDEN, 2014). Some five-story confined masonry buildings showed shear cracking in the first four stories with loss of section in some tie-columns located at the exterior walls intersections, probably explained by frequency amplification in the foundation ground (Valdebenito et al., 2015). However, confined masonry houses performed well overall, and severe damage in masonry houses was only observed in reinforced masonry houses (Figure 16).
+
+**Additional comments on earthquake damage patterns:** The 1939 earthquake in Chillan destroyed almost half of the houses of the city. From the 3,526 buildings, 1,645 were destroyed. There was no water or electricity, and the sewage system collapsed too. People that did not die directly because of the earthquake, died later because of mortal diseases, and lack of hygiene, food, and water. This is the earthquake in Chilean history that has taken more human lives, 24,000 deaths. The large number of deaths caused the passing of a law aimed to regulate the construction of houses and buildings and the creation of the Corporation of Development and Reconstruction (CORFO) (Museo Historico Nacional, n.d.). Dwellings built with this type of reinforcement showed a good behaviour during this earthquake (Gent et al., 2008).In 1960, the greatest earthquake ever registered in the world shook the south of Chile. This earthquake was followed by a tsunami that caused a major disaster. It destroyed 40% of the homes in Valdivia. In Chillan, 20% of the buildings were badly damaged. Talcahuano had 65% of the homes destroyed, while Los Angeles had 70%, Angol 82%, and Puerto Montt 90% (www.sismo24.cl, n.d.). More than 2,000 people died, 3,000 were injured, and 2 million lost their homes (Museo Historico Nacional, n.d.).Due to the 1971 Illapel earthquake (MW 7.5), about 1,000 one-story houses at Choapa Valley partially collapsed. The walls of masonry houses had reinforced-concrete beams as ties and tension bars at the extremes of the walls or at the corners of joint between walls.The earthquake of San Antonio in 1985 left 70% of San Antonio destroyed. In Santiago, damage was concentrated in the old parts of the city, where constructions were basically made of earth, wood, or bricks, without steel reinforcement. Some historical buildings suffered damage, like the Old National Congress and the Basilica de El Salvador (ONEMI, 2009). Before the 1985 earthquake, confined masonry houses were built with a limited number of tie-columns, which affected the confinement effect in the masonry walls. These structures responded mainly elastically (without damage), but for loads above the elastic region, damage became evident and progressed quickly, and some partial collapses were observed (e.g. a building in Villa Olimpica complex). Figure 11 shows a confined masonry building with lack of tie-columns at one end (opening) of the wall (left) and one with tie-columns at both ends of the wall (right). In both figures, wall density per unit floor is 1% or less and this causes the propagation of shear cracks through the ends of the tie-columns (Gent et al., 2008). After the 1985 earthquake the Ministry of Housing and Urbanism (MINVU) appointed a special committee to review the seismic effects on dwellings.The 2014 Iquique earthquake (Mw 8.2) was felt by more than one million people. The strongest seismic intensity occurred in Iquique (MMI VII), Arica (VII), and Tacna (VI) (EERI, 2014). The earthquake generated a tsunami with maximum measured water run up of 3.15 and 4.4 meters above sea level at Iquique and Patache, respectively. There were more than 13,000 damaged houses in the affected area, mostly reinforced masonry dwellings. Adobe and masonry houses located in small towns were strongly affected by the main shock. Some concrete block masonry houses and low-rise buildings suffered severe damages, but no collapsed structures were observed. Serious damage occurred in some localities of Iquique and Alto Hospicio, the latter showing a clear topographic amplification effect. Three-story masonry buildings in Alto Hospicio were damaged possibly due to soil conditions. Five-story masonry buildings showed extensive diagonal shear cracks in the first story. In Iquique, high-rise reinforced-concrete buildings (up to 38 stories) showed no structural damage, but small pounding between structures, and localized moderate cracking and spalling in some columns (EERI, 2014).
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | True |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | True |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | True |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | False |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | True |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | True |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | True |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | True |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | True |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A |
+| Wall Openings |  | True |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | True |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | True |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | False |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Lack of columns in some openings, poor steel reinforcement detailing in columns that do not comply with the design code.
+
+**Earthquake-resilient features in walls:** High density of walls with the minimum thickness defined by design codes.Regular constructions, with high degree of symmetry. The earthquake code limits the reduced elastic inter-story deformations to 0.002 times the height.The design code defines critical areas in columns and beams which have higher shear reinforcements requirements.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  |  |  %%|-%% | o | %%-|%% |
+
+**Additional comments section 5:** The lower bound rating (i.e., the worst possible) of the seismic vulnerability of the housing type is D: Medium-Low Vulnerability (i.e., good seismic performance), and the upper bound (i.e., the best possible) is F: Very Low Vulnerability (i.e., excellent seismic performance).
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Cracking and decoupling of structural elements | Rebuilt elements |
+| Not cracking or decoupling of structural elements | Rebuilt or adjust non-structural elements. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Only after the earthquake of March 3, 1985.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Repairs following earthquake damages have been conducted.
+
+**Was the construction inspected in the same manner as new construction?** Yes. This kind of structure requires inspection from a construction company and also from the government.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** Contractors are hired by private/governmental institutions. Engineers and/or architects are involved. Retrofit measures were applied in buildings; there is no information about houses being retrofitted.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Common houses are not retrofitted.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Astroza, M., Moroni, O., Brzev, S., & Tanner, J. (2012). Seismic Performance of Engineered masonry Buildings in the 2010 Maule Earthquake. Earthquake Spectra, 28 (S1), S385-406.
+
+  * Barrientos, S. (2014). Informe Tecnico. Terremoto de Iquique, Mw=8.2. 1 de abril de 2014. Centro Sismologico Nacional (CSN). Retrieved January 14th, 2015 from:
+
+  * Brzev, S. (2007). Earthquake Resistant Confined Masonry Construction. National Information Center of Earthquake Engineering (NICEE). Kanpur, India.
+
+  * Brzev, S., Astroza, M., & Moroni, O. (2010). Performance of Confined Masonry Buildings in the February 27, 2010 Chile Earthquake. Earthquake Engineering Research Institute (EERI). California, U.S.A.
+
+  * Camara Chilena de la Construccion (CChC). (2014). Balance de la Vivienda en Chile. Chile.
+
+  * Centro Nacional de Investigacion para la Gestion Integrada de Desastres Naturales (CIGIDEN). (2014). Resumen de Actividades: Terreno 1 2014 (by personal communication, February, 2015).
+
+  * http://sismologia.cl/links/terremotos/index.html \\Centro Sismologico Nacional (CSN). (n.d.). Sismos Importantes y/o Destructivos (1570 a la fecha). Retrieved January 14th, 2015 from:
+
+  * Comerio, M. (2013). Housing Recovery in Chile: A Qualitative Mid-program Review. Pacific Earthquake Engineering Research Center (PEER). California, U.S.A.
+
+  * Cruz, E., Riddell, R., Van Sint Jan, M., Hidalgo, P., Rodriguez, F., Vasquez, J., Luders, C. & Troncoso, J. (1988). Lecciones del Sismo del 3 de Marzo de 1985. Instituto Chileno del Cemento y del Hormigon. Santiago, Chile.
+
+  * Earthquake Engineering Research Institute (EERI). (2014). M8.2 Iquique, Chile Earthquake and Tsunami: Preliminary Reconnaissance Observations. The Pulse of Earthquake Engineering. Retrieved March 27th, 2015 from: http://www.eeri.org
+
+  * Gent, K., Giuliano, G., Astroza, M., & Gori, R. (2008). A seismic vulnerability index for confined masonry shear wall buildings and a relationship with the damage. Engineering Structures, 30 (10), 2605-2612.
+
+  * Instituto Nacional de Estadisticas (INE). (2012). Resultados Preliminares Censo de Poblacion y Vivienda 2012 (by personal request, February, 2014).
+
+  * Gent, K., Giuliano, G., Astroza, M., & Gori, R. (2008). A seismic vulnerability index for confined masonry shear wall buildings and a relationship with the damage. Engineering Structures, 30 (10), 2605-2612.
+
+  * Instituto Nacional de Normalizacion (INN). (2003). NCh 2123 Of. 1997 - Albanileria confinada - Requisitos de Diseno y Calculo. Modificada 2003. Santiago, Chile.
+
+  * Instituto Nacional de Normalizacion (INN). (2009). NCh 433 Of. 1996 - Diseno sismico de edificios. Modificada 2009. Santiago, Chile.
+
+  * Instituto Nacional de Normalizacion (INN). (2014). NCh 1198 Of. 2006 - Madera - Construcciones de madera - Calculo. Modificada 2014. Santiago, Chile.
+
+  * Meli, R., S. Brzev. et al. (2011). Seismic Design Guide For Low-Rise Confined Masonry Buildings. Confined Masonry Network, World Housing Encyclopedia (WHE), Earthquake Engineering Research Institute (EERI), and International Association for Earthquake Engineering (IAEE).
+
+  * http://observatorio.ministeriodesarrollosocial.gob.cl/documentos/Casen2013_Evolucion_Distibucion_Ingresos.pdf \\Ministerio de Desarrollo Social (MDS). (2015). Casen 2013. Evolucion y distribucion del ingreso de los hogares (2006-2013). Sintesis de Resultados. Retrieved March 17th, 2015 from:
+
+  * http://repositoriodigitalonemi.cl/web/bitstream/handle/123456789/1094/SismoDestructivoMarzo1985.pdf?sequence=1 \\Ministerio del Interior y Seguridad Publica, Oficina Nacional de Emergencia (ONEMI). (2009). Sismo destructivo del 03 Marzo 1985. Retrieved July 21th, 2014 from:
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2010). Circular Ord. 0338. Mat.: Clasificacion de las Construcciones, y Material de Construccion adobe, contemplado en las Clases de Construccion E y F. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU), Diario Oficial. (2011). DS 61 - Diseno sismico de edificios, deroga DS 117 (2010). Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014a). Ordenanza General de Urbanismo y Construcciones. Santiago, Chile.
+
+  * Ministerio de Vivienda y Urbanismo (MINVU). (2014b). Resolucion Exenta 0251. Fija Valores Unitarios de Construccion para Aplicar en Calculo de Derechos Municipales. Santiago, Chile.
+
+  * http://www.minvu.cl/opensite_20070308155730.aspx \\Ministerio de Vivienda y Urbanismo (MINVU). (n.d). Lineas de atencion a condominios sociales. Retrieved March 27th, 2015 from:
+
+  * Additional References: http://www.world-housing.net/wp-content/uploads/2016/01/Additional-References.pdf 
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Claudia Alvarez Velasquez | Civil Engineer/Researcher | Pontificia Universidad Catolica de Chile | Santiago, Chile | cdalvar1@uc.cl | 
+| Matias Hube Ginestar | Civil Engineer/Assistant Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | mhube@ing.puc.cl | 
+| Felipe Rivera Jofre | Civil Engineer/Researcher | Pontificia Univesidad Catolica de Chile/National Research Center for Integrated Natural Disasters Management | Santiago, Chile | felipe.rivera@igiden.cl | 
+| Hernan Santa Maria Oyandenel | Civil Engineer/Associate Professor | Pontificia Universidad Catolica de Chile | Santiago, Chile | hsm@ing.puc.cl | 
+| David Hernandez Jara | Civil Engineer | Pontificia Universidad Catolica de Chile | Santiago, Chile | dhernanj@uc.cl | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Yogendra Singh | Professor | Department of Earthquake Engineering at Indian Institute of Technology Roorkee | Roorkee, India | yogenfeq@iitr.ernet.in |
+

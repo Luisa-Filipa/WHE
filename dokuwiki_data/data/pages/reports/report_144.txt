@@ -1,0 +1,341 @@
+====== Adobe / Earthen House : Adobe block walls, Guatemala ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 144
+
+**Building Type:** Adobe / Earthen House : Adobe block walls
+
+**Country:** Guatemala
+
+**Author(s):** Dominik Lang, Lisa Holliday, Omar G. Flores Beleton
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of the country, however, their percentage of the total building stock strongly depends on the region of Guatemala. Higher percentages of adobe buildings can be found in mountainous regions with altitudes greater than 1000 m above sea level (i.e. Region Central, Region del Altiplano Occidental, and Region del Altiplano Oriental). In contrast, few adobe houses are located in coastal and low mountain regions below 1000 m, i.e. Region Costera del Pacifico, Region Seca Oriental, and Region Norte (Marroquin and Gandara, 1976; Figure 3). This type of housing construction is commonly found in both rural and urban areas. Adobe buildings can even be found in larger cities, e.g., the capital Guatemala City where a considerable percentage of the building stock still consists of adobe houses. In 1973 more than 52 % of the buildings in Guatemala City were of adobe type. Nowadays, this percentage is of course lower since the building stock has changed since then and many of the old adobe houses have been demolished in the meantime.
+
+**Summary:** Buildings made of adobe brick masonry can still be found in all parts of Guatemala both in rural and urban areas. Generally adobe houses are characterized by only one story, no basement, and sometimes an irregular plan shape. The main use is residential or small commercial (retail trade) purposes. In the 1970's adobe buildings represented the prevalent construction type in the Republic of Guatemala with a share of more than 39 %. More thanhalf of these buildings (54.3 %) were located in rural settlements, while the rest (45.7 %) was located in urban areas, e.g. Guatemala City (Marroquin and Gandara, 1976). Surprisingly, the percentage of adobe buildings at that time was higher in urban areas than in rural regions. Today, circumstances have changed and adobe structures prevail in rural areas while only remainders of this traditional construction technique can be found in the cities. Based on a more recent statistical survey in the municipality of Guatemala City conducted by ASIES (2003), around 4 % of the building stock is either adobe or bahareque buildings. The latter not being covered in the present report. Throughout the report, a distinction is made between adobe buildings in rural (Figure 1) and urban (Figure 2) areas. This distinction affects some of the building parameters and features herein.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Mixed residential/commercial
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is being built. New buildings made out of adobe walls are mainly found in rural areas. No r
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeU- or C-shapeOther
+
+**Additional comments on plan shape:** All different plan shapes can be found. The most common are rectangular shapes, followed by L- and U-shapes. In urban areas, L- or U-shaped buildings with an inner courtyard (patio) are very prevalent (Figure 4). In rural areas, residential premises often consist of smaller separated single buildings with a rectangular plan shape. Here the kitchen, storage room, or lavatory is sometimes separated by open ground from the main building which consists of the dormitories and living rooms (e.g. Figure 5c).
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 2.5
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is earthen walls. The lateral stiffness is provided by the massive adobe shear walls which have thicknesses up to several tens of centimeters. Generally, wall thickness is between 40 and 60 cm, sometimes even up to 80 cm. According to Minke and Morales M. et al.(2001) the common dimensions of adobe bricks in Central America are 38 # 38 # 8 cm or 40 # 20 # 10 cm. The roof is usually constructed of wood (both square-shaped and round timber) in a gabled or mono-pitched shape and can be considered a flexible diaphragm not able to support any lateral loading. The wooden trusses and beams of the roof rest directly on the adobe walls without any friction-locking connection. Gravity load-bearing system: The vertical load-resisting system is earthen walls. Gravity loads from the roof construction itself (dead loads), live loads, wind or snow loads are transferred directly from the roof construction to the walls and then to the foundation. In most cases the largest gravity loads are produced by heavy clay roof tiles (mission-tiling; self-weight ~ 1 kN/sqm).
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** The number, size, and position of openings is dependent on the location of the building (rural, urban) and moreover on the number of adjacent neighboring buildings and should not be quantified by a single number. Judging from the front facade, buildings in urban areas often have much larger openings than those in rural areas (compare Figures 1 and 2). In buildings being used for small shops, large openings often serve as showcases or sales counters with opening widths of more than 2 m (supported by reinforced-concrete lintels presumably assembled at a later date). In rural areas, lintels consist of wooden trusses which in most cases are visible and not covered by the plaster (Figure 6). It is reported that the lintels' depths of anchorage (i.e. the support width at either side) are often insufficient. In Guatemala, we observed the contrary, with the lintels' depth of anchorage being more or less oversized (up to 50 cm).
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Repair of walls or changes to the building are in most cases constructed with clay bricks or concrete blocks since the acquisition of these materials is much easier (and cheaper). However, the bad quality of the applied concrete blocks with compression strength values mostly below 25 kg/sq. cm. makes these modifications not really a good remedy.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** It is estimated that the foundations consist of field stone strip footings. However, a specific identification of the footing type is in most cases impossible. In case of new construction, the strip foundations are made out of low-strength concrete as suggested by a number of available construction manuals for Central America (e.g. GTZ COPASA, 2002).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floors generally consist of compacted earthen materials or cast plaster floor (screed).
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roofing system either is made of wood purlins supported thatched roof or wood planks or beams supporting clay tiles, metal asbestos cement or plastic corrugated sheets.
+
+**Additional comments section 2:** Story heights vary between 2.20 and 3.50 m. Because of the large variety of adobe buildings it is impossible to identify distinct values of plan dimensions (Figures 5 and 6). Urban: It is very common that buildings have common walls with adjacent buildings, on one or both sides. Rural: Buildings standing alone, and buildings in a row with adjacent walls to neighboring buildings are common. When separated from adjacent buildings, the typical distance from a neighboring building is a range of meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | The walls are built from adobe bricks w. adobe mortar | Characteristic Strength- See Lopez et al. (2006):0.25 kg/cm2 (shear) Morales et al. for 'simple' adobe bricks:0.55 kg/cm2 (shear)10.3 kg/cm2 (compression) Mix Proportion/Dimensions- The mix proportion is 13:4:3 (sand:lime:clay). See Lopez et al. (2006). | 
+| Foundations | The foundation is built from rubble/field stones and/or concrete | As suggested by Morales et al., the mix of materials is 1:4:6:10 (cement:sand:gravel:field stones) | 
+| Floors | The floor is made of earthen materials or cast plaster (screed) |  | 
+| Roof | The roof consists of a wood construction with clayey tiles or metal sheeting. The roof supporting structure mainly consists of wooden purlins. |  | 
+| Other| | | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** A considerable number of non-profit organizations and NGO's have initiated projects to strengthen, retrofit, and reconstruct traditional building types in Guatemala. This expertise is spread through training and the distribution of manuals. However, generally an architect or civil engineer is not directly involved in the construction process. Generally engineers or architects are not involved in the design or construction of this housing type.
+
+**Expertise of those involved in the design process:** Generally engineers or architects are not involved in the design or construction of this housing type.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** Generally the residents erect the building himself.
+
+**Expertise of those involved in building process:** The construction process of adobe houses is described in a number of available manuals (e.g., GTZ COPASA, 2002) or reports (e.g. Morales M. et al.).
+
+**Construction process and phasing:** The construction process of adobe houses is described in a number of available manuals (e.g., GTZ COPASA, 2002) or reports (e.g. Morales M. et al.). Therein, the production of the adobe bricks, the selection criteria and preparation of the building site, as well as the single steps of construction are described. In principal this covers: 1. Selection of a building site, which is of solid ground and 'safe' (e.g. in terms of landslides). 2. Leveling of the site and the building. 3. Production of the adobe bricks using steel or wooden molds. Storing and drying of the bricks for approximately 4 weeks. 4. Excavation of the strip foundation with a depth > 40 cm and a width ~ 50% larger (20 cm broader) than the foreseen width of the adobe walls and concreting of the foundation as well as the wall base (height > 25 cm) by a mix of mortar and field stones. 5. Erection of the walls (made of the adobe bricks and adobe grout). 6. Mounting of the timber beams and purlins of the roof construction and tiling with the roofing material. 7. Furnishing of walls with plaster. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** In addition to the already addressed deficits and structural features of adobe buildings with regard to their seismic resistance, a large percentage of these traditional buildings possess some further disadvantages which influence their general condition as well as their vulnerability. Earthen materials such as adobe are very susceptible to water and moisture. The (sub-)tropical climatic conditions in many parts of Guatemala, with heavy rainfall and moderate to high humidity, are a major threat to adobe housing. Rain water causes heavy material deterioration over time (Figure 9). This occurs by way of leaks in the roof or ascending moisture from the ground. Additionally, insects or rodents are more attracted by these organic materials and can contribute to the deterioration of the structural elements. In the case of those houses having no appropriate foundation or founded on unfavorable soil conditions, ground subsidence or rainwater undercutting may lead to settlements or tilting of the walls.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit construction cost is approximately US-$ 35 /m2.
+
+**Labor requirements:** It typically takes 2 months to construct such housing.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each building typically has 1 housing unit(s). Typically only one family occupies one house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of occupants varies. In some cases an extended family with several generations occupies the building and in other cases a single person resides in the building alone. According to ASIES (2003), 77 % of all single-family buildings in Guatemala contain 6 persons or less.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio) 1:1 or better. The majority of occupants of adobe houses are people of a lower income level (poor). Additionally, the percentage of very poor or middle-class people living in adobe buildings is low. However, in some areas designated as cultural heritage (e.g. Antigua) well-maintained adobe buildings are used by middle-class people as their residence and also their commercial space for retail trade, hotel accommodation or other tourist industries.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** Adobe houses are mainly built with own resources of the people. There are no small lending institutions which do supply money for such investments. In the past, there might have been some ONG's doing this.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1902 | Guatemala City | 7.5 |  | 
+| 1968 | Figueroa | 6 |  | 
+| 1976 | 160 km NE of Guatemala City | 7.5 | I = IX (MMI) | 
+| 1988 | Uspantan Alta Verapaz | 6 | I = VI | 
+| 1991 | Pochuta, Chimaltenango | 6.2 | I = VI | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type** 1976 February 04 (09:01 UTC): A magnitude 7.5 earthquake struck about 160 km northeast of Guatemala City. It caused more than 23,000 deaths and extensive structural damage. Most adobe type buildings in the outlying areas of Guatemala City were completely destroyed (USGS Earthquake Information Bulletin, July-August 1976, Vol. 8, No. 4).
+
+**Additional comments on earthquake damage patterns:** Walls: partial failure and collapse of single walls due to shear and out-of plane effects Roof/Floor: total and partial collapse of roof construction
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Large openings producing instabilities- missing ring beam at the top of the walls- brittle wall material deteriorated due to climatic effects (Figure 8)
+
+**Earthquake-resilient features in walls:** small height-to-thickness ratios lead to higher stability and reduces the susceptibility of out-of-plane failures of wall parts
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** missing friction-locked connection to the walls- large dead loads due to heavy roof tiles (inverted pendulum)- missing diaphragm- material deterioration of wooden (or metal) trusses due to weathering effects (Figure 9)
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%|-%% | | |  |  |
+
+**Additional comments section 5:** The overall rating of the seismic vulnerability of the housing type is A: HIGH VULNERABILITY (i.e., very poor seismic performance), the lower bound (i.e., the worst possible) is A: HIGH VULNERABILITY (i.e., very poor seismic performance), and the upper bound (i.e., the best possible) is B: MEDIUM-HIGH VULNERABILITY (i.e., poor seismic performance). The traditional construction type of adobe bricks is also covered by the vulnerability table of the European Macroseismic Scale EMS-1998 (Grunthal (ed.) et al., 1998) where a classification into class A is suggested. Even though "methods of adobe construction vary widely" (..) which "introduces some variations in the strength of adobe houses against earthquake shaking" a general classification of adobe houses into class A with exceptions into class B is suggested. Regardless the fact that adobe buildings with wooden frames "possess added strength and perform significantly better", the brick walls suffer damage or completely fail relatively easily and thus overall not reducing the vulnerability.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| insufficient wall strength | strengthening of the walls and corners by superimposed meshes or geotextiles (superficial reinforcement) | 
+| humidity in walls (Figure 08) | assembly of water barrier at the wall base | 
+| heavy roof | substitution of heavy roof tiles by (corrugated) iron sheeting | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Strengthening of New Construction: insufficient wall strength- internal horizontal and/or vertical reinforcement, e.g. bamboo, steel bars (Figure 10) addition of a ring beam made of logs, lumber or reinforced concrete (Figure 11) addition of corner posts or wooden diagonal corner bracing (Figure 12) strengthening of wall corners by wall buttresses (Figure 13) humidity in walls- water barrier at the wall base heavy roof- use of (corrugated) iron sheeting weak roof construction- friction-locked connection to the walls (ring beam)
+
+**Has seismic strengthening described in the above table been performed?** All of the above described methods are part of design practice in different Central and South American countries. However, in Guatemala the addressed strengthening techniques are only rarely applied. One strengthening measure which was often applied is the assembly of single concrete elements (e.g. as lintels). After the 1976 earthquake, there were some efforts at the universities in Guatemala in order to improve the different construction techniques, and also to promote the use of earth-cement blocks (ferrocement) for simple houses (ref.: pers. comm. with people at the Univ. de San Carlos, Guatemala City).
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** No
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The owner or a contractor.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There is no experience in Guatemala.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Vulnerabilidad s Arrecis Sosa, F.E. Tesis Facultad de Ingenier (2002)
+
+  * La situaci Asociaci Revista ASIES, No. 2, 94 p. (2003)
+
+  * Normas estructurales de dise Asociaci Ciudad de Guatemala (2002)
+
+  * European Macroseismic Scale 1998 Gr Cahiers du Centre Europ (1998) Vol. 15
+
+  * Terremoto? Mi casa si resistente! Manual de construcci GTZ COPASA 2da edici (2002) Mayo
+
+  * World Housing Encyclopedia Report on Adobe Houses in El Salvador. Report No. 14. Lopez M., M.A., Bommer, J., Benavidez, G. EERI & IAEE (2006)
+
+  * La vivienda popular en Guatemala - Antes y despues del terremoto de 1976. Marroquin, H., G Tomo I, Universitaria de Guatemala. (1976)
+
+  * Manual de construcci Minke, G. Manual de construcci (2001)
+
+  * Amenaza sismica en Guatemala.Technical report. Molina, E., Villagr INSIVUMEH. 38 pp. (1996)
+
+  * La construccion y el uso del terreno en Guatemala - Su vulnerabilidad sismica. Monz Asociacion Guatelmalteca de Ingenieros Estructurales AGIES (1996)
+
+  * Diseno sismico de construcciones de adobe. Scientific report. Morales M., R., Yamashiro K., R., S Universidad Nacional de Ingenieria. Lima, Peru
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dominik Lang | Dr./Researcher | NORSAR | Instituttveien 25, Postboks 53, Kjeller 2027, NORWAY | dominik@norsar.no | 
+| Lisa Holliday | Engineer | Fears Laboratory, The University of Oklahoma, Norman | Oklahoma 73019, USA | lisaholliday@ou.edu | 
+| Omar G. Flores Beleton | Engineer | CESEM - Facultad de Ingenier | Edif. T-1 3er. Nivel. Ciudad Universitaria, Zona 1, Guatemala City 01012, GUATEMALA | usacesem@usac.edu.gt | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marcial Blondet | Professor | Civil Engineering Dept., Catholic University of Peru | Lima 32 , PERU | mblondet@pucp.edu.pe | 

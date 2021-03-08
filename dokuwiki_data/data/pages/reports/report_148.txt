@@ -1,0 +1,337 @@
+====== Vivienda de Minifalda (Wooden houses with heavy bases), Nicaragua ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 148
+
+**Building Type:** Vivienda de Minifalda (Wooden houses with heavy bases)
+
+**Country:** Nicaragua
+
+**Author(s):** Dominik Lang, Alvaro Amador, Lisa Holliday, Claudio Romero L, Armando Ugarte, Andrew W. Charleson
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of the country, but a concentration of this construction technique can be seen in the municipalities of Managua and Masaya (both >10%) as well as in the municipalities of Rivas and Rio San Juan (9.3% and 7.9% respectively). Figure 2 illustrates the percentages of minifalda houses in the 15 municipalities (departamentos) and the 2 autonomous communities (comunidades autonomas) of Nicaragua based on the population census of 2005 (INEC, 2006). This type of housing construction is commonly found in both rural and urban areas. The percentage of minifaldas in urban areas is slightly larger than in rural areas, e.g., according to OPAS (2001) in 1998: 12.8% in urban and 6.1% in rural areas and according to INEC (2006) in 2005: 8% in urban and 5.6% in rural areas. However, these numbers show large variations between the different municipalities.
+
+**Summary:** The term 'minifalda', translated 'miniskirt' refers to the building's walls which consist of masonry or concrete in the lower part, while the upper part is made of a light wood construction (also 'madera y concreto'). According to a recent population census carried out in 2005 (INEC, 2006), the total percentage of minifalda houses in Nicaragua was around 7% (8% in urban and 5.6% in rural areas). In the year 1998, minifalda represented 9.8% of the total houses in Nicaragua (12.8% in urban and 6.1% in rural areas; according to OPAS, 2001). Comparing the two numbers, it shows that the rate of this construction type on the total building stock in Nicaragua has reduced considerably. The combination of a more stable and consolidated base made of concrete or masonry and a light and flexible upper part of the walls made of wood frame construction, provides these houses with some advantages. However, the heavy roofs, which consist mostly of tiles, increase the vulnerability of the buildings especially during earthquake action.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The Minifalda construction type was introduced as an alternative for an earthquake-resistant house after the 1972 Managua earthq
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The typical building shape is rectangular in plan. However, houses located at non-rectangular street corners are often irregular or asymmetric in plan. Figures 3 and 4 illustrate the typical plans of residential minifalda buildings in rural areas of Guatemala. Even though single structural details may differ between Guatemala and Nicaragua, the plans are generally representative for Nicaraguan conditions. A common plan dimension for minifalda houses in Nicaragua is 6m x 6m ('modulo basico' = 36 sq m; Figure 5).
+
+**Typical plan length (meters):** 3.5-6
+
+**Typical plan width (meters):** 3.5-6
+
+**Typical story height (meters):** 2.2-3.5
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame load-bearing wall system. The gravity loads on the building mostly result from the roof material itself (i.e. heavy clay tiles, corrugated iron, asbestos sheets). They are transferred from the roof by wooden beams or purlins to the walls (Figure 7). The gravity loads are then transferred from the walls to the foundation. The lateral load-resisting system is timber frame load-bearing wall system. Walls comprise the lateral load-resisting system in the building. The walls are made of masonry (clay bricks, concrete blocks or adobe) in the lower portion and a light wooden construction in the upper portion. Together the two parts of the wall (the lower massive part and the upper wood frame) are able to resist the lateral loads. However, the important feature in this respect is how both parts are connected, e.g., how the vertical frame elements (wooden posts) are tied to the masonry walls. In some cases, the posts are embedded between lengths of masonry at the base of the wall (Figure 6). The gabled or mono-pitched roof normally consists of a very light construction which cannot be considered a diaphragm and therefore may not support any lateral loading.
+
+**Gravity load-bearing & lateral load-resisting systems:** The structural system is a mix of a wooden frame standing on walls made of clay bricks, adobe masonry or concrete blocks.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10 %. Detailed measurements for typical wall density are not available.
+
+**Wall Openings:** Minifalda houses have few windows, often with very small dimensions (40*40cm; See Figures 1, 8, and 9). The windows are always located in the wooden (upper) part of the walls. The window sill is often formed by the upper edge of the concrete base. Even when the building is used for small retail trade or handicraft business, larger openings for showcases or sales counters do not exist. Compared to the size of the windows, the doors appear to be oversized. At the positions of the doors there are cut-outs in the concrete wall bases, such that the bottom quarter to half of the door frame consists of concrete, while its upper part is framed with wood.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** One common modification is to change the roof material. During renovation, wooden walls are sometimes replaced by plasterboard walls (plycem).
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor is directly built on the ground.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: Wood planks or beams supporting natural stones slates , Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles The roof is not considered to act as a rigid diaphragm.
+
+**Additional comments section 2:** Minifalda houses often are built side-by-side without any gaps between them. Especially in Managua, minifalda houses often are built continuously
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^ 
+| Wall/Frame | For the wall base, masonry (adobe, clay bricks, or concrete blocks) is used. For the upper section of walls, wood is used. | No information is available on material strengths, mix of materials, etc. However, material properties of the base walls will not differ from those used for conventional adobe, clay brick or concrete block buildings in Nicaragua or entire Central America (See e.g., EERI-WHE contribution #144 by Lang et al. on adobe buildings in Guatemala). | 
+| Foundations | For the foundations, mud, field stones, or concrete is used. | No information is available on material strengths, or mix of materials. | 
+| Floors | Floors are made of earthen materials or cast plaster floor (screed). |  | 
+| Roof | For the roofs, wooden planks with clay tiles or corrugated sheets are used. |
+| Other | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** OtherNone of the above
+
+**Roles of those involved in the design process:** Structural engineers or architects are generally not involved in the design or erection process of this building type.
+
+**Expertise of those involved in the design process:** No design or construction expertise can be found. Expertise may only be gained by word-of-mouth. Some international aid organizations suggested the use of this construction technique for rebuilding residential and school buildings in Guatemala after the 1976 earthquake (Marroquin and Gandara, 1976). However, guidelines for its design and construction have not yet been developed.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** The builder generally occupies the house and is the house owner.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** As is described earlier, the bases of these buildings do not differ from conventional adobe, clay brick or concrete block buildings (compare e.g., to EERI-WHE contribution #144 by Lang et al. on adobe buildings in Guatemala). Consequently the first steps of the construction process will be comparable with those for these building types. After the base walls are completed, i.e. the walls are brought up to approximately 1/3 to # of the story height, the vertical elements (wooden posts) of the wood frame are connected to or embedded into the wall bases (see Figure 6). As soon as the wood frames are completed with the horizontal elements (beams) and diagonal struts, the external wooden panels are connected to the frame. The wooden panels always are oriented in vertical direction (see Figures 1, 8, and 9). Later or in parallel to the mounting of wall panels, the timber beams and purlins of the roof construction are connected to the wall frame. Tiling is done afterwards with the roofing material as e.g., clay tiles, asbestos-cement or corrugated metal sheets. The construction process is finished by furnishing the wall bases with plaster and bringing a colorful paint the wooden walls. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** A typical building of this type costs US $38/sqm.
+
+**Labor requirements:** It typically takes 1-2 months to construct one housing unit.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** 
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** According to the recent population census conducted in 2005, 46.2% of all conventional houses in Nicaragua are occupied by less than 5 people, 46.3% by 5 to 9, and 7.5% by 10 or more persons (INEC, 2006).
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** A typical house of this type costs US $3,770, while a typical annual income for a poor family is US $730. Ratio of housing unit price to annual income is 5:1 or worse
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** Most houses are owned by the residents; some are rented out.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is only available for those buildings addressed in the code and which are constructed according to the code. For those buildings not meeting the requirements of the code, the insurance policies are higher. And since the owner or occupants of minifalda buildings are poor and unable to afford these higher rates, essentially none of these buildings are insured.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** Earthquake insurance is only available for those buildings addressed in the code and which are constructed according to the code. For those buildings not meeting the requirements of the code, the insurance policies are higher. And since the owner or occupants of minifalda buildings are poor and unable to afford these higher rates, essentially none of these buildings are insured.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1972 | Managua | 6.4 | VIII-IX | 
+| 1985 | Lago de Nicaragua, Rivas | 5.4 | V-VI (MMI) | 
+| 1992 | Pacific Ocean | 5.6 |  | 
+| 2000 | Laguna de Apoyo |  |  | 
+| 2005 | Isla de Ometepe | | | 
+ 
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Compared to other dwelling types, minifalda construction has behaved well during past earthquakes in Nicaragua, even though a considerable number of destructive earthquakes occurred (See table listing those events after 1972). After the 1972 Managua earthquake, minifalda houses became very popular. Some international aid organizations (e.g. German Red Cross, Guatemalan Red Cross, Asociacion Christiana de Desarrollo) suggested the use of this construction technique for rebuilding residential and school buildings in Guatemala after the 1976 earthquake (Marroquin and Gandara, 1976).
+
+**Additional comments on earthquake damage patterns:** (wooden wall frames): -Anchorage /embedment failure of wooden posts (roof): Total and partial collapse of roof construction
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Walls (generally)- Use of different construction materials over w all height leads to stiffness and mass differences. Wall bases (masonry)-Brittle and heavy with possibly insufficient resistance to out-of-plan forces
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Wooden wall frames-- Inadequate anchorage of wooden posts to the masonry base of the wall - Lack of preservative treatment of timbers leading to deterioration due to vermin or insects
+
+**Earthquake-resilient features in frame:** #NAME?
+
+**Seismic deficiency in roof and floors:** Roof- No diaphragm action - No strong connection to the walls - Heavy dead loads in the case of heavy clay tiles - Material deterioration of wooden trusses due to climate effects
+
+**Earthquake resilient features in roof and floors:** Low dead loads in the case of corrugated iron or asbestos sheeting
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** The minifalda construction type is not covered by the vulnerability table of the European Macroseismic Scale EMS- 1998 (Grunthal (ed.), 1998). However, it is largely comparable with a timber wood frame construction. Timber structures are generally classified into vulnerability class D with a probable range between C and E, and in some exceptional cases B. However, since minifalda buildings basically consist of a mixed wall construction with different materials involved, their seismic behavior may not be as good as pure timber structures and may be classified as a higher vulnerability class. The different stiffness of the lower masonry and the upper wooden construction may lead to more damage. This two-part construction technique does provide some advantages which mainly consist of protecting the wood from ascending earth-moisture and splash water.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** There are no reports of minifalda houses in Central America having been damaged in past earthquakes. Consequently, strengthening or retrofitting measures are not known.
+
+**Has seismic strengthening described in the above table been performed?:** Not applicable.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?:** Not applicable.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not applicable.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Not applicable.
+
+**Additional comments section 6:**
+
+----
+
+==== 7. References ====
+
+  * HAZUS Earthquake Loss Estimation Methodology: User's Manual. FEMA Federal Emergency Management Agency, Washington DC. 1999
+
+  * Desigualdades en el acceso, uso y gasto con el agua potable en Am Organizaci Washington, DC, United States 2001
+
+  * Estudio de la Vulnerabilidad S Reinoso, E. (ed.) SE-SINAPRED, INETER, Managua, Nicaragua August 200
+
+  * VIII Censo de Poblaci Instituto Nacional de Estad Departamentos/Regiones Aut November 2 Volumen I
+
+  * La vivienda popular en Guatemala - Antes y despues del terremoto de 1976Marroquin, H., G Universitaria de Guatemala 1976 Tomo I
+
+  * Manal de construcci Minke, G. Forschungslabor f 2001
+
+  * European Macroseismic Scale 1998. Gr Cahiers du Centre Europ 1998
+
+  * Terremoto? Mi casa si resistente! Manual de construcci GTZ COPASA
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+| Dominik Lang | Dr.-Ing. | NORSAR | Gunnar Randers vei 15, Postboks 53, Kjeller 2027, NORWAY | dominik@norsar.no | 
+| Alvaro Amador | M.Sc. | Instituto Nicaraguense de Estudios Territoriales, Managua , NICARAGUA | | alvaro.amador@gf.ineter.gob.ni  | 
+| Lisa Holliday | Engineer | Fears Laboratory, The University of Oklahoma, Norman, Oklahoma 73019, USA | | lisaholliday@ou.edu  | 
+| Claudio Romero L | M.Sc | Universidad National Aut, Managua , NICARAGUA | | claro@cigeo.edu.ni  | 
+| Armando Ugarte | | Universidad Nacional de Ingenier, Managua , NICARAGUA | | augarte@ibw.com.ni  | 
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington	| Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz |

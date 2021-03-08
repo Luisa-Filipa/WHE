@@ -1,0 +1,334 @@
+====== Stone Masonry Building : Rubble stone masonry/dressed stone masonry, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 176
+
+**Building Type:** Stone Masonry Building : Rubble stone masonry/dressed stone masonry
+
+**Country:** Pakistan
+
+**Author(s):** Sarosh Hashmat Lodi, Abdul Jabbar Sangi, Adam Abdullah
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Pakistan. Stone buildings are commonly found in the northern mountainous regions where stone is available in abundance, such as parts of Gilgit-Baltistan and Khyber-Pakhtunkhwa, the northern parts of Baluchistan, and a limited number of sites in Punjab and Sindh. Some stone buildings also exist in colonial cities like Karachi, built by the British for administrative or religious purposes. These structures have now been declared as heritage buildings and are being used for government and administrative offices. This type of housing construction is commonly found in both rural and urban areas. Stone masonry buildings for residential purposes are mostly found in the northern areas as stone is not readily available in Punjab, Baluchistan, and Sindh as a convenient construction material.
+
+**Summary:** This report provides an overview of stone masonry housing construction, which is generally found in northern areas of Pakistan. Stone masonry covers 5.2% of the total built environment of Pakistan. Stone masonry construction is the most common type in the northern areas and Kashmir and ranges from one-storey houses to two- to three-storey buildings. The construction is generally carried out without any technical input. There are no guidelines and provisions available to regulate it; therefore, it suffers from a number of weaknesses. This construction type is highly vulnerable to seismic forces.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling; Institutional housing
+
+**Typical number of stories:** 
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is still being constructed and around 5.2% of the existing building stock of Pakistan compr
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid; L-shape
+
+**Additional comments on plan shape:** As stone is a very durable material, various building configurations can be worked out with varying wall thicknesses. It is however always advisable to keep the building as a regular, rectangular shape, with a symmetrical distribution of habitable spaces, as this helps transfer loads more effectively to the foundation, and prevents uneven distribution of lateral loading. L-shaped plans are also common, where the main wing is a longer rectangular section, and a smaller perpendicular appendage exists. Detached rooms may also exist within the large building complex, housing separate functions, like an outhouse, a storage shed, or an animal shelter .Spatial planning within stone masonry houses is rudimentary, and based on direct practical needs. Intimate spaces like bedrooms are docked to the rear, while moresocial, active spaces like dining or a living space are provided closer to the entrance lobby, in a centralized arrangement. A stone house may be as small as one room, which would then contain a bed, kitchenette, and a small sitting area within a shared space. Where the number of rooms is larger, functional planning for exclusive purposes becomes more evident. In a typical building of this type, there are no elevators and no fire-protected exit staircases.
+
+**Typical plan length (meters):** 15-Oct
+
+**Typical plan width (meters):** 15-May
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)Masonry: Stone Masonry Walls: Massive stone masonry (in lime/cement mortar)
+
+**Additional comments on structural system:** The vertical load-resisting system is stone masonry walls. The loads from the roof are transferred to the walls and to the foundations. Sometimes, wooden columns are provided inside the houses, which will be part of the gravity load-resisting system. The lateral load-resisting system is stone masonry walls. The walls have a very low resistance to out of plane forces. In most cases, there is no proper connection between the roof and the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** The typical span of the roofing/flooring system is 3-5 meters. The typical storey height in such buildings is 3 meters.
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** 0-1%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none.
+
+**Wall Openings:** Each room has one or two windows that open to the exterior. Windows do not usually open up to interior spaces.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Stone is a heavy, rigid material of construction. It is not common to add more stories to an already existing stone building, but slight adjustments, like the addition of another room to one side of the house, may occur. This usually springs from a need to create additional guest rooms, or as the family expands. It is more common for family members to construct a separate, standalone structure some distance away from the house on the same plot rather than construct an adjacent room.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** The foundations are stone masonry wall footings laid in mud or cement sand mortar, generally wider than the wall. In some cases, the walls may be directly resting on the soil without footing.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Single story stone masonry houses generally have a roof comprising of wooden truss and sheets. Wood planks or beams are also used which are covered with a layer of mud. RC roofs are also being used in urban areas.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Single story stone masonry houses generally have a roof comprising of wooden truss and sheets. Wood planks or beams are also used which are covered with a layer of mud. RC roofs are also being used in urban areas.
+
+**Additional comments section 2:** 
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Stone with mud mortar or cement sand mortar | Mix Proportions 1:10 cement and sand. Walls are made entirely of stone, either rough or dressed. Dressed stone is much more expensive, harder to craft, and so is used by the more affluent residents of the region. When using dressed stone, only the internal sides of walls need to be plastered. When using rubble stone, both the interior and exterior sides need plastering. Typical stone masonry walls are shown in Fig 9. Stone walls may or may not employ mortar. Where they do, mud is the primary choice, as it is economical and can be easily acquired. Mud mortar is also preferred for its better insulating capabilities as compared to cement. For this reason, the layer of mud mortar may be up to 4 in. thick. Stone buildings that do not employ mortar in the walls are unsafe for general residential purposes, and so may be used as storage sheds or as animal shelters. The thickness of stone walls can vary according to the size of stones used. Generally, walls are at least 375 mm thick. Construction of walls is a complex task. Double walls may be constructed in colder climates - two horizontal layers of stone are laid, and the residual spaces are filled with smaller stones. Then mortar is applied to bind all the small and large units together. Walls in colder climates are at least 2.5 to 3 m tall. |
+| Foundations | Stone with mud mortar or cement sand mortar | Mix Proportions 1:10 cement and sand. Strip wall foundations are generally used for stone masonry construction. The foundation consists of rubble stone, with an average depth of 900 mm. For weaker soils, this depth may increase. The width of the strip foundation ranges from 375 to 450 mm, wider than the walls that rest upon it. The plinth is provided at 600 mm from the ground, and with a thickness similar to that of the foundation. It is more effective to use cement mortar in the foundations and the plinth as it helps to ground the building more firmly. Where cost is an issue, mud mortar may be employed, but it is weaker and so undesirable. |
+| Floors | Wood, steel, earth | RCC slabs can be commonly employed on stone walls due to good compressive strength of stone. Although they cost substantially more than a lightweight roof, they give the structure additional stability, and allow for vertical extensions. Where stone walls do not contain mortar, lighter roofs may be employed. These can be a combination of wooden rafters and layers of soil, or other inexpensive, locally available material like iron sheets, asbestos sheets, or tiles. Wooden posts may be provided beneath such lightweight roofs to support their weight. |
+| Roof | Wood, steel, earth | RCC slabs can be commonly employed on stone walls due to good compressive strength of stone. Although they cost substantially more than a lightweight roof, they give the structure additional stability, and allow for vertical extensions. Where stone walls do not contain mortar, lighter roofs may be employed. These can be a combination of wooden rafters and layers of soil, or other inexpensive, locally available material like iron sheets, asbestos sheets, or tiles. Wooden posts may be provided beneath such lightweight roofs to support their weight. |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Engineer; Architect
+
+**Roles of those involved in the design process:** There are no design or construction guidelines available for this type of construction. Local masons rely on their past experience and the engineers or architects are not generally involved.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** Stone masonry houses are usually built by owners themselves for their residence. The owner and his relatives/acquaintances may participate in the construction activity, or they may hire the services of experienced masons and craftsmen.
+
+**Expertise of those involved in building process:** Stone masonry construction is usually carried out by local masons and labourers who rely on their experience.
+
+**Construction process and phasing:** The walls are constructed using stone masonry with mud mortar or cement sand mortar and generally rest directly on ground without proper foundations. Where foundations are provided, they are wider than the walls at a typical depth of 900 mm. Various types of roofing materials are used which are generally directly resting on the walls without proper connections. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** There are no design or construction guidelines available for this type of construction. Local masons rely on their past experience and the engineers or architects are not generally involved.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Builder; Owner(s); Renter(s)
+
+**Additional comments on maintenance and building condition:** Stone buildings are robust structures and need little maintenance over time. Light roofs might occasionally cave in in severe weather due to inadequate support from within and would need to be repaired or replaced. Otherwise, stone structures remain relatively intact as compared to other forms of construction.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 
+
+**Labor requirements:** The construction of a typical housing unit takes approximately 3 to 4 months to complete.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses are used as the primary space for rest and relaxation during the later evenings and night, and remain somewhat vacant during the daytime when men of the house leave for work. Men might work within the village, in which case they return for afternoon meals or other domestic uses. If the men work further away from the village, (e.g. administrative work in a nearby city, or commercial activities which require them to be away from home for extended periods), they may only return on weekends or after a few months. During this time, the house is tended to by the womenfolk. Siblings reside within the same house, some even after marriage. When space starts getting restricted, one or more of the married siblings moves out and constructs their own standalone house within close proximity to the family home.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-May
+
+**Additional comments on number of inhabitants:** Each building typically has 1 housing unit(s). Stone masonry buildings are usually built as single family residences. Sometimes, a larger house may be built for an extended family, and would contain more enhanced spaces for socializing, such as a semi-covered porch, a lawn area with temporary shading structures, and a backyard or vegetable garden. The number of people in one house varies from 4-8.
+
+**Economic level of inhabitants:** Low-income class (poor); Middle-income class
+
+**Additional comments on economic level of inhabitants:** Stone houses are built by people from a variety of economic backgrounds. As the choice of material is same, economic differences become evident only in the exterior treatment and the interior adornment of the house. For example, more affluent people would use dressed stone on the walls, and cement mortar in the foundations. Finishing would sometimes go beyond mere plastering and would include ornamental tile work or decorative patterns in the plaster. The ratio of housing unit price to annual income is 5:1 or worse.
+
+**Typical Source of Financing:** Owner financed; Personal savings; Informal network: friends or relatives
+
+**Additional comments on financing:** In each housing unit, there are no bathroom(s) without toilet(s), no toilet(s) only and 1 bathroom(s) including toilet(s).
+
+**Type of Ownership:** Rent; Own outright; Own with debt (mortgage or other); Units owned individually (condominium)
+
+**Additional comments on ownership:** The type of ownership or occupancy is renting, outright ownership, ownership with debt (mortgage or other) and individual ownership. Houses are owned by the family that builds them. The houses are not directly inherited by the eldest sons when they get married and the parents pass away, but are viewed as a shared asset of the family and are legally divided amongst all the heirs. Though the ownership gets divided, the land remains within the family. Stone houses can also be rented out to other people in the village if the family decides to spend a season in a larger city - not an uncommon practice for some Gilgiti families who come to seek better jobs in Karachi while renting out their village homes to acquaintances.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance for this construction type is typically unavailable. For seismically strengthened existing buildings or new buildings incorporating seismically resilient features, an insurance premium discount or more complete coverage is unavailable. Earthquake insurance for this type of construction is not available in Pakistan.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Off
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1668 | Samawani, Sindh | 7.6 | VIII to IX | 
+| 1819 | Allahnund, Sindh | 7.2 | IX to X | 
+| 1827 | Lahore, Punjab | 7.8 | VIII to IX | 
+| 1852 | Kahan, Balochistan | 8 | IX | 
+| 1889 | Jhalawan, Balochistan | 8 | VIII | 
+| 1935 | Quetta, Balochistan | 7.5 | VIII | 
+| 1945 | Pasni, Makran | 8.3 | VII to VIII | 
+| 2008 | Ziarat, Balochistan | 6.4 | VII | 
+| 2011 | Dalbandin, Baluchistan | 7.2 | IV to V | 
+| 2013 | Iran-Pakistan border | 7.8 | VIII to IX | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Collapse of wall due to out of plane effects and shear. Collapse of roof due to out of plane failure of walls.
+
+**Additional comments on earthquake damage patterns:** The Indian plate upon which Pakistan, India and Nepal lie, is continuously moving northward and sub-ducting under the Eurasian plate, thus triggering earthquakes in the process and forming the Himalayan mountains. Within the Suleiman, Hindu Kush and Karakoram mountain ranges, the Northern Areas, Chitral district in NWFP, Kashmir including Muzaffarabad, Quetta, Chaman, Sibi, Zhob, Khuzdar, Dalbandin, the Makran coast including Gwadar, and Pasni in Balochistan are located in high or very high risk areas. Cities of Islamabad, Karachi and Peshawar are located on the edges of high risk areas. Figure 4 shows the seismic zoning map of Pakistan, which was developed after 2005 Kashmir earthquake [2]. A large number of major earthquakes have hit Pakistan in 20th Century including: 1935 Quetta earthquake, 1945 Makran coast earthquake, 2001 Bhuj earthquake and 2005 Kashmir earthquake [3]. In the 2005 Kashmir earthquake, over 74,000 people died, majority of those were buried under the rubble of traditional stone masonry houses [4]. Figures 5 to 8 show the damage and total collapse of stone masonry houses in Kashmir 2005 earthquake.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | FALSE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor lateral resistance, weak in out of plane direction, no lintel band, Improper opening proportions, poor quality of construction
+
+**Earthquake-resilient features in walls:** There are no earthquake resistant features. Some houses have horizontal and vertical wooden bands
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** No connection between roof elements and walls, lack of diaphragm action
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Retrofitting of adobe houses was practiced on few pilot examples throughout the country as a pilot project. The final goal was to execute a major retrofitting project for similar rural houses and several thousand school buildings of Iran by the State Organization of Schools Renovation Development and Mobilization. As of this writing (2014), this project is underway under supervision, and technical and financial assistance of the Housing Foundation of Islamic Revolution.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Adobe buildings showed two distinct performances during past earthquakes; severe damages or collapse and no major damages. The former needed demolition and probably replacement of the structural type and the latter needed retrofitting as a mitigation program.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Additional comments on seismic strengthening provisions:** There are no specific set of provisions available for seismic strengthening and retro-fitting of stone masonry houses. After the 2005 Kashmir earthquake, a number of houses and buildings were retrofitted but there is no well-defined retrofit scheme, which has been implemented on a large scale. Figure 10 and 11 show the plan and view of a school building in Abbotabad, which has been retrofitted as a case study [5]. There are some guidelines available from Earthquake Relief and Rehabilitation Authority (ERRA) of Pakistan. However, they are not legally binding.
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+----
+
+==== 7. References ====
+
+  * Department of Civil Engineering, NED University of Engineering and Technology, Karachi, Pakistan (Unpublished). \\Seismic Vulnerability Assessment of Existing Buildings of Pakistan, Earthquake Model for Middle East Region (EMME) - Work Package 4, 2012Lodi, S.H., N. Alam, and M. Ahmed
+
+  * Ministry of Housing and Works, Government of Pakistan. 2007 \\Building Code of Pakistan - Seismic Provisions
+
+  * NORSAR and Pakistan Meteorological Department 2006 \\Seismic Hazard Analysis for the Cities of Islamabad and Rawalpindi Lindholm, C. et al. (2006)
+
+  * Earthquake Engineering Research Institute 2011 \\A TUTORIAL: Improving the Seismic Performance of Stone Masonry Buildings Bothara, J. and S. Brzev
+
+  * London: Taylor and Francis Group 2010 \\An indigenous model of seismic retrofit of stone masonry structures. in Urban Habitat Constructions under Catastrophic Events Rafi, M.M., S.H. Lodi, and S.F.A. Rafeeqi
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sarosh Hashmat Lodi | Professor and Dean | Faculty of Civil Engineering and Architecture, NED University of Engineering and Technology, Karachi 75270, PAKISTAN |  | sarosh.lodi@neduet.edu.pk | 
+| Abdul Jabbar Sangi | Professor | Department of Civil Engineering, NED University of Engineering and Technology, Karachi 75270, PAKISTAN |  | ajsangi@neduet.edu.pk | 
+| Adam Abdullah | Research Assistant | Department of Earthquake Engineering, NED University of Engineering and Technology, Karachi 75270, PAKISTAN |  | adam@neduet.edu.pk | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sugeng Wijanto | | Trisakti University, Faculty of Civil Engineering and Planning | Jakarta, INDONESIA | s.wijanto1@gistama.com |
+

@@ -1,0 +1,320 @@
+====== Gravity concrete frame buildings (predating seismic codes), Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 11
+
+**Building Type:** Gravity concrete frame buildings (predating seismic codes)
+
+**Country:** Colombia
+
+**Author(s):** Luis Gonzalo Mejia
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Colombia and represents 60% of the existing housing stock. This type of housing construction is commonly found in urban areas. This construction is rarely practiced in rural areas, with a rather small population in the villages (from 15,000 to 35,000 inhabitants).
+
+**Summary:** This is typical multi-family housing construction found in urban areas of Colombia that predates seismic codes.This housing type is widely used and represents 60% of the existing housing stock in Colombia. At the present time, poor people occupy buildings of this type. This type of construction is rather vulnerable to seismic effects due to a limited amount of transverse reinforcement (ties); this is especially true for columns. This structural system is very flexible when subjected to lateral seismic loads. The quality of materials and workmanship is typically rather poor. In many cases, buildings of this type are constructed on a very steep terrain; soil condition is often rather poor.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 units
+
+**Typical number of stories:** 5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 20
+
+**Typical plan width (meters):** 10
+
+**Typical story height (meters):** 2.6
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** Like in a regular frame structure, gravity loads are carried by the joists, which are supported by the girders; the girders transfer the load to the columns. The floor slabs are often constructed using tile blocks and concrete joists and girders. Beams and columns are constructed in a manner typical for reinforced concrete structures. This type of building frame does not have any earthquake-resisting features.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 0-1%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** In general, openings (in the walls) have a very limited effect on seismic behavior of the framed construction. The interaction between frames and partitions can be neglected, as the failure of the partitions is expected to occur at the beginning of an earthquake due to other weaknesses.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typical modification includes vertical expansion (construction of new stories).
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Composite cast-in-place reinforced concrete and masonry floor system
+
+**Additional comments on floor system:** Floors are considered as rigid diaphragms and the roof as a flexible one.
+
+**Type of Roof System:** Wooden beams or trusses with heavy roof covering
+
+**Additional comments on roof system:** Floors are considered as rigid diaphragms and the roof as a flexible one.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame |  |  | 
+| Foundations | Reinforced Concrete | 20.0 MPa Characteristic strength 1 : 2 : 3 Cement/sand/aggregates | 
+| Floors | Abarco (Cariniana piriformis) | 9.0 MPa Characteristic strength 50 mm x 100 mm Sometimes a R.C. slab is used | 
+| Roof | Abarco (Cariniana piriformis) | 9.0 MPa Characteristic strength 50 mm x 100 mm Sometimes a R.C. slab is used | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** Architects and engineers participate in the design of buildings of this type built for inhabitants belonging to the middle economic class. However, architects and engineers are not involved in the informal construction developed in areas inhabited by poorer sections of the society.
+
+**Expertise of those involved in the design process:** Often engineers and architects participate in the design phase of the project especially when the buildings are built for the middle class. In such a case, during the construction usually there is a "resident" (architect or engineer) at the site. Unfortunately, he is concerned mainly with the cost of the project. In informal projects developed for poor people engineers and architects do not play any role.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Mason
+
+**Roles of those involved in the building process:** 
+
+**Expertise of those involved in building process:** The masons involved in the construction are usually skilled and semi-skilled.
+
+**Construction process and phasing:** The construction process begins with forming a terrace, followed by the construction of the isolated footings (sometimes piers or piles), columns and floor slab etc. Finally, the partitions are installed and other "finishing work" is carried out. The masons are skilled or semi-skilled. No equipment is used, except for simple tools. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. In the urban areas (districts) inhabited by poor population, construction of this type is usually informal and it takes place over time. However, buildings of this type built for the middle class are designed for its final size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** 1984: Colombian Code for Earthquake-Resistant Buildings CCCSR-84. 1998: Colombian Code for Earthquake-Resistant Design and Construction of Buildings NSR-98 Prior to 1984, the ACI and UBC codes were widely used.
+
+**Process for building code enforcement:** After an earthquake, the authorities enforce the use of building codes, however shortly thereafter these regulations are no longer enforced with the same effort.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** A very limited attention was paid to seismic aspects of the design in the construction of buildings of this type (construction of which pre-dated the 1984 seismic code).
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** The lack of adequate transverse reinforcement in beams and columns, the excessive lateral drift, the irregularities and the poor workmanship lead to catastrophic failures of buildings of this type.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** As a direct consequence of a difficult economic situation of the inhabitants of this construction type, the buildings are seldom maintained.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** On the average, 300,000 Col. Pesos/sq m (150 US dollars/sq m).
+
+**Labor requirements:** When the building is designed for its final size and engineers or architects participate in the construction, it is possible to construct one floor per month on the average.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically, one family occupies a housing unit; however, in the urban areas inhabited by a poor population, up to 3- 4 families occupy one housing unit. Each building typically has 5-10 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse Following is the approximated economic distribution of population in Colombia Economic Status % Annual Income ($US) Very Poor 35 <1000 Poor 35 1000 - 2000 Middle Class 25 2000 - 10000 High Middle Class 4 10000- 40000 Rich 1 >40000 Economic Status: For Poor Class the Housing Price unit is 10000 and the Annual Income is 15000. For Middle Class the Housing Price unit is 40000 and the Annual Income is 6000.
+
+**Typical Source of Financing:** Combination
+
+**Additional comments on financing:** The main source of financing for the poor people is informal network (friends and relatives) and (sometimes) small lending institutions. For the middle class population, the main sources of financing are personal savings and commercial banks.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** A few years ago, it was not possible to buy earthquake insurance; however, at the present time it is possible to buy earthquake insurance for engineered buildings. Although there are many unclear aspects in this matter, in general the insurance covers the previously fixed value of the building. The cost of insurance varies from 0.1 to 0.15% of the total building value.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1979 | 4.8N, 76.2W, depth: 108 km (Mistrato | 6.7 Ms | VIII MMI (MANIZALES | 
+| 1983 | 2.46N, 76.69W, depth: 22 km (Popayan) | 5.5 Mb | IX MMI (Popayan | 
+| 34738 | 4.1N, 76.62W, depth: 73 km (Pereira) | 6.4 Mw | VIII MMI (PEREIRA | 
+| January 25,1999 | 4.46N, 75.72W, depth: 17 km (Armenia | 6.0 Ms | VIII MMI (PEREIRA | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Most buildings of this type collapsed, killing the inhabitants, especially in the areas with pronounced soil amplification. Typical patterns of earthquake damage are illustrated in Figures 14, 15, 16 and 17. The figures confirm the importance of good construction practice and its impact on seismic performance.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** 
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** -Vertical irregularity (stepped construction/setbacks) -Small sections of columns and beams (drift problems) -Widely spaced stirrups in beams and columns -Poor anchorage of reinforcement -Columns often interrupted one story below the top level (i.e. there
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** #NAME?
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** Typical seismic deficiencies related to this type of construction, mainly due to poor construction practices and workmanship, are illustrated in the Figures 5, 6, 7, 8 and 9.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Beams and columns | Technique #1: Addition of stirrups to avoid brittle failure of concrete columns and beams (FIGURE 25) | 
+| Beams and columns | Technique #2: Installation of new longitudinal and transverse reinforcement in columns (FIGURE 26) | 
+| Beams and columns | Technique #3: Installation of new longitudinal and transverse reinforcement in beams and columns (FIGURE 27) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The procedures illustrated below are not complex in design or construction, however they require good planning and a perfect coordination between the owner, the designer and the builder. It is important to note that there are different grades of difficulty with respect to the effectiveness among the techniques #1, 2, and 3 shown on Figures 25-27. For example, the technique #1 is considerably simpler in terms of construction as compared with the technique #3, however it is also much less effective as compared to the technique #3. In addition to the above techniques, new seismic strengthening techniques using carbon fibers are also in use.
+
+**Has seismic strengthening described in the above table been performed?** Yes. Seismic strengthening has been used in practice by the author of this contribution, as illustrated in Figures 25-27.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a mitigation effort.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The work was performed by a contractor and an engineer was involved.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There were no major earthquake after the strengthening was performed, however the performance in moderate earthquakes has been very good.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. Colombian Code for Earthquake Resistant Design and Construction of Buildings (CCCSR-84 and NSR-98)
+
+  * 2. Mejia, Luis Gonzalo #How to Avoid a Brittle Failure in Columns# (in Spanish)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Luis Gonzalo Mejia | Consulting Structural Engineer | L.G.M y Cia. | Calle 49b #77b #12 Medellin Colombia | lgm@epm.net.co | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

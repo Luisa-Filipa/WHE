@@ -1,0 +1,339 @@
+====== Vivienda de Adobe (Adobe house), El Salvador ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 14
+
+**Building Type:** Vivienda de Adobe (Adobe house)
+
+**Country:** El Salvador
+
+**Author(s):** Manuel A. Lopez, Julian Bommer, Gilda Benavidez
+
+**Last Updated:** 
+
+**Regions Where Found:** This construction practice is widespread throughout the country. San Salvador, the capital of El Salvador, is perhaps the only area where this construction type does not exist. The San Salvador Metropolitan building and planning agency (OPAMSS) has prohibited the construction of adobe housing due to its poor seismic performance in San Salvador Metro area. However, the Vice Secretary of Housing (ViceMinisterio de Vivienda) has issued a group of technical norms, in 2014, as a complement of the Adobe building law, dated in 1946; such norms were developed after a 8 research year project finaced by JICA named "Taishin" (http://taishin.wsiefusion.net/inicio).
+
+**Summary:** This housing type can be found in rural and urban areas. Rural: Adobe houses are generally small structures, 5 x 6 m in the plan, having load-resistant walls made of adobe bricks between 0.3 and 0.5 m thick. Usually, they are single-family (5-person) houses. Wood planks that support metal sheets covered by tiles sometimes constitute the roof. In some cases, the roofcan be a thatched roof supported on wood purlins. Urban: Adobe houses are much bigger inurban areas than in rural areas. They are one-floor structures and their plans are 15 x 30 m or larger. The wall thickness can easily reach 1 m and wall height can reach 3 m or more. In both the cases mentioned above, the adobe housing type has performed badly in earthquakes. Its heavy roof sometimes can be its biggest weakness and its unreinforced walls make this house vulnerable to earthquake effects.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** This construction practice was, and still is, widely used in ElSalvador although this region is highly seismic. El Salvador's ea
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 30
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** Roof loads are directly transmitted to the shear walls by wood purlins or beams. The beams directly rest on the top of the walls. Walls take the entire gravity load. Walls transfer the load to the foundation.The adobe walls that act as shear walls providing the lateral stiffness. In urban areas, the thickness of the walls can be as much as 1 m. In rural areas, the thickness can be between 0.3 and 0.5 m. The roof can be considered as a flexible diaphragm and is supported directly on the walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20%. Urban: 35%. Rural: 20%.
+
+**Wall Openings:** Rural: Houses have four walls, two of which have openings. Openings are less than or equal to 30% of the wall area. The other two walls generally do not have openings.Urban: There is a number of openings in these houses. The amount of openings can be as high as 50%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** There is no modification from the original structure.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** No elevated or suspended floor system (single-story building)
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Wooden structure with light roof coveringWooden beams or trusses with heavy roof coveringBamboo, straw, or thatch roof
+
+**Additional comments on roof system:** Timber: thatched roof supported on wood purlins; wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles; wood planks or beams supporting natural stones slatesRoof system can be considered as flexible diaphragm.
+
+**Additional comments section 2:** Adobehouses have independent walls between each other, however spacing between those walls is scarce in most cases.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe Brick | 0.25 kg/cm2(Shear) 13:4:3 (sand:lime:clay)400mmX200mmX150mm | 
+| Foundations | Mortar | 1:2 (soil: straw) | 
+| Floors | WoodTiles |  | 
+| Roof | WoodTiles |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** Generally, neither engineers nor architects have a role in the design, or construction of this housing type.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerMasonBuilder
+
+**Roles of those involved in the building process:** The builder typically lives in this construction type.
+
+**Expertise of those involved in building process:** There is some experience to build this construction type; however, the work force is not trained.
+
+**Construction process and phasing:** First of all, the builder hydrates the adobe mixture, composed of 65% sand, 20% lime and 15% clay. The water volume could be 1/3 of the whole mixture volume. Bricks are made by placing this mixture into molds measuring 40cmX20cmX15cm. After 3 days, the bricks are removed from the molds and dried for four weeks. Meanwhile, the site where the structure will be erected is leveled. Once this step is complete, excavation for the foundation begins. The width of the excavation is one and a half times the width of the wall. Both stone and mortar are placed into the hole; this will be the foundation. After the foundation is finished, the walls begin to be erected up to 2.5 m. It has to be noted that maximum height per construction day must be 1m to avoid crushing of the walls due to its own weight. When walls reach 2.5 m, approximately, the roof is built. Wood purlins are place on top of walls spaced 20 cm between purlins. Later tiles or steel sheets are placed. The construction of this type of housing takes place in a singlephase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** There is a Adobe Building Law, dated in 1946. Later, adobe housing construction practices were addressed in an appendix by El Salvadors 1994 Building Code, in "Norma para la Contruccion de Viviendas", where it gives recommendations about building better adobe housing without imposing enforcement. Then, by 2014, the Vice Secretary of Housing (Viceministerio de vivienda y desarrollo urbano) has issued a group of technical norms, as a complement of the Adobe building law; such norms were developed after a 8 research year project finaced by JICA named "Taishin" (http://taishin.wsiefusion.net/inicio) and can be found at http://osartec.gob.sv/index.php/rts/viewdownload/4-inventario-rts/402-urbanismo-y-construccion-en-lo-relativo-al-uso-del-sistema-constructivo-de-adobe-para-vivienda-de-un-nivel.
+
+**Process for building code enforcement:** N/A
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** The biggest problem of this type of construction is water due to weathering. Adobe has be protected against water.In addition, it has low resistance against seismic excitation, because of its very high mass-to-strength ratio.
+
+**Who typically maintains buildings of this type?** Owner(s)No one
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Rural: US$ 15 /m2 Urban: US$ 30 /m2.
+
+**Labor requirements:** Rural: A month to build the bricks and 1.5 months to construct the house, using two people for the whole process.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family typically occupies one house.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or betterThe prices are expressed in US$. Ecomomic Level: For Very Poor Class the Housing Unit Price unit is 350 and theAnnual Income is 1000. For Poor Class the Housing Unit Price unit is 700 and the Annual Income is 2500. ForMiddle Class the Housing Unit Price unit is 12000 and the Annual Income is 20000.
+
+**Typical Source of Financing:** Informal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOther
+
+**Additional comments on ownership:** Urban: Typically own outright. Rural: The landowners give a space to peasants to build their houses and to work the land. The peasants give part of their harvest to the landowner as rent.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1936 | San Vicente | 6.1 | VII-VIII (SIEBERG) | 
+| 1951 | Jucuapa/ Chinameca | 6 | (MSK) VIII | 
+| 1965 | San Salvador | 6 | (MMI) VIII | 
+| 1982 | Pacific Ocean | 7.2 | (MMI) VII | 
+| 1986 | San Salvador | 5.4 | (MMI) VII | 
+| 2001 | Pacific Ocean | 7.7 | (MMI) VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** El Salvador had two big EQ at the beginning of 2001. The first one was on 13 January 2001 with ITS epicenter located in the Pacific Ocean and with magnitude Mw=7.7, with a maximum estimated intensity of VIII (MMI). The second one happened on 13 February 2001 with epicenter at San Juan Tepezontes and Mw=6.5; the estimated intensity was VIII in some places, however in many of the affected areas its intensity was VII (MMI). One of the most important features of these two EQ is that they destroyed adobe housing in many places throughout El Salvador.
+
+**Additional comments on earthquake damage patterns:** Wall: Damages due flexural and shear effects.Roof and floor: Total and partial collapse of the roof due to material degradation and loss of support from walls.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Wall openings are most true in the rural and may be false in urban.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** There is a lack of dependable joints among walls, especially at the top of walls. This causes adjacent walls to open up during an earthquake.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** There is inadequate vertical and horizontal load transfer mechanism from roof to walls.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%|-%% | | | | |
+
+**Additional comments section 5:** Wall: Damages due flexural and shear effects.Roof and floor: Total and partial collapse of the roof due to material degradation and loss of support from walls.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls: There is lack of dependable joints among walls, especially at the top of walls. This causes adjacent walls to open up during an earthquake. | Collar Beam or Lintel Band: This feature ties the walls together.Buttresses: This feature helps to retain the integral action of walls and facilitate the connection of collar beams with each other.Vertical and Horizontal Reinforcement using bamboo: This features tries to provide reinforcement similar to that for concrete structures. Adobe bricks have to be molded appropriately to use this kind of strengthening technique. | 
+| Roof: Very heavy elements. | Sheets of metal: Use this feature instead of clay tiles. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** As mentioned above, after the 2001 Eq's, the Japanese International Cooperation Agency JICA financed the TAISHIN a research program oriented to improve the seismic performance of four building practices, Abode, masonry using soil-cement bricks, masonry using concrete blocks and masonry using concrete panel blocks, systems used in low income dwellings. Extensive research was conducted and a great deal of information was obtained. The following web site can be checked to get more data: http://taishin.wsiefusion.net/inicio
+
+**Has seismic strengthening described in the above table been performed?** Yes, it has. However, It is not widely used. It has been done as a test in some rural communities.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** It was done as a test.
+
+**Was the construction inspected in the same manner as new construction?** No, it was not. These houses did have supervision.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An ONG.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Very good, nothing happened to them. However, they are located in an area that was not as affected by the recent earthquakes.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * -Alvarez G., S de J. Informe tcnico sobre aspectos sismologicos del terremoto en El Salvador del 19 de junio de 1982. Dpto. De Sismologia, Centro de Investigaciones Geotcnicas, San Salvador, 1982.
+
+  * - Ambraseys, N.N., Bommer, J.J, Buforn, E, Udias, A., The earthquake sequence of May 1951 at Jucuapa, El Salvador, Journal of Seismology (in press) 2000, pag 1-17, Netherlands.
+
+  * Harlow, D.H., White, R.A., Rymer, M.J., Alvarez, S., The San Salvador Earthquake of 10 octuber 1986 and its historical context, Bulletin of the Seismological Society of America, Vol 83, #4, pp1143-1154, August 1993.
+
+  * - Lara G., M.A. The El Salvador earthquake of June 19, 1982. EERI Newsletter, vol. 17, no. 1, 87-96, 1983.
+
+  * Levin, S.B. The Salvador earthquakes of December, 1936. Bulletin of the Seismological Society of America, vol. 27, 377-407, 1937.
+
+  * Norma Especial para Diseno y Construccion de Viviendas. Reglamento para la Seguridad Estructural de las Construcciones. Ministerio de Obras Publicas. San Salvador. 1994.
+
+  * Rosenblueth, E, Prince, J. El temblor del San Salvador, 3 de mayo de 1965: Ingenieria Sismica, Primer Congreso Nacional de Ingenieria Sismica, Guadalajara, 1965.
+
+  * Ministerio de Obras Publicas (MOP), 2014,"Mejoramiento de la tecnologia para la construccion y sistema de difusion de la vivienda social sismo-resistente" TAISHIN. http://taishin.wsiefusion.net/
+
+  * Ministerio de Obras Publicas (MOP), 2014, "Urbanismo y construccion en lo relativo al uso del sistema constructivo de adobe para viviendas de un nivel RTS 91.02.01:14", 17p. http://osartec.gob.sv/index.php/rts?limitstart=0&order=date&dir=desc
+
+  * TAISHIN, 2008, "Adobe sismo-resistente, resultados de investigacion", Mejoramiento de la tecnologia para la construccion y sistema de difusion de la vivienda social sismo-resistente, Proyecto de cooperacion tcnica. 127 p.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Manuel A. Lopez | Engineer | UES | Universidad de El Salvador. Final 25 Av. Norte. San Salvador | lopeman@sal.gbm.net | 
+| Julian Bommer | Doctor | Imperial College | Department of Civil and Environmental Engineering. Imperial College of Science. South Kensington, London | j.bommer@ic.ac.uk | 
+| Gilda Benavidez | Architect | Escuela de Ingenieria Civil, Universidad de El Salvador | Final 25 Av. Norte. San Salvador | proyecto1@navegante.com.sv | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

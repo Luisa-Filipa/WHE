@@ -1,0 +1,374 @@
+====== Vivienda de Bahareque, El Salvador ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 141
+
+**Building Type:** Vivienda de Bahareque
+
+**Country:** El Salvador
+
+**Author(s):** Dominik Lang, Roberto Merlos, Lisa Holliday, Manuel A. Lopez M.
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in many places throughout the country. However, the percentage of these buildings is higher in rural areas than urban areas. Even though the basic construction technique is the same, there are differences between bahareque buildings found in urban and rural areas. Those found in urban areas are more stable and have more substantial construction, complete with (adobe-based or lime-based) plaster, and whitewash or paint (Figure 4), while those in rural regions appear to be temporary shacks reflecting a lower income level (Figure 3). This construction type has been in practice for more than 200 years. Currently, this type of construction is being built. However, only in rural areas. In urban areas it is not used anymore and the remaining bahareque dwellings from earlier days are oftentimes abandoned and derelict.
+
+**Summary:** The bahareque construction type refers to a mixed timber, bamboo and mud wall construction technique which was the most frequently used method for simple houses in El Salvador before the 1965 earthquake (Levin, 1940; Yoshimura and Kuroki, 2001). According to statistics of the Vice-ministry of Housing and Urban Development in the year 1971 bahareque buildings had a share of 33.1 % of all buildings in El Salvador, while in 1994 the percentage ofbahareque declined to about 11 % (JSCE, 2001b) and in 2004 to about 5 % (9 % in rural areas; according to Dowling, 2004). The term 'bahareque' (also 'bajareque') has no precise equivalent in English, however in some Latin American countries this construction type is known as 'quincha' (engl.: wattle and daub). In order to prevent confusion it should be noted, that in El Salvador the term 'bahareque' is used for all types of this mixed construction type regardless the material of the horizontal elements (struts). Bahareque buildings are characterized by high flexibility and elasticity when carefully constructed and well-maintained, and thus originally display good performance against dynamic earthquake loads. However, bahareque buildings in most cases show high vulnerability during earthquakes. This is caused by poor workmanship (carelessness and cost-cutting measures during construction), lack of maintenance (resulting in a rapid deterioration of building materials), and structural deficiencies such as a heavy roofing made out of tiles. Bahareque structures are primarily of residential use and only one story. The structural walls are mostly composed of vertical timber elements and horizontal struts which are either made of timber slats, cane/reed (carrizo), bamboo (vara de castilla, cana brava or cana de bambu) or tree limb (ramas). These members are generally 2- to 3-inches thick and are fastened at regularly spaced intervals from the base to ceiling height at the vertical elements (with nails, wires or vegetal fibers). This creates basketwork type skeleton which is then p
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingOther
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** Currently, this type of construction is being built. However, only in rural areas. In urban areas it is not used anymore and the
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Figures 5--9 illustrate the plans, cross-sections and views of typical bahareque houses as can be found in rural areas. These representations are buildings from Guatemala as comparable information is hard to find for El Salvador. However, the structural details of bahareque buildings in El Salvador and Guatemala are comparable.
+
+**Typical plan length (meters):** 8--10
+
+**Typical plan width (meters):** 4--8
+
+**Typical story height (meters):** 2.4
+
+**Type of Structural System:** Wooden structure: Load-bearing Timber Frame: Walls with bamboo/reed mesh and post (Wattle and Daub)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame. Gravity loads from the roof construction itself (dead loads) or from live loads such as wind impact are directly transferred from the roof construction to the corner columns (wooden posts) which take the entire gravity load and transfer it to the ground (or foundation). In urban areas, most of the bahareque houses have a base (pedestal) forming the foundation made out of clay bricks, field stones or even concrete. The base can reach up to one meter above the ground with the bahareque walls resting on it (Figure 14). The bahareque shacks found in rural areas often possess no foundation or only a strip footing comprised of field stones or bricks. Since the indigenous method of roof covering with palm fronds is mainly replaced by heavy clay tiles of burnt adobe the largest gravity loads result from the weight roof construction. The lateral load-resisting system is timber frame. The lateral load-resisting system of bahareque houses principally consists of a flexible mixed wall construction made out of vertical timber elements and horizontal struts which arefastened at regularly spaced intervals at the columns (Figure 11). Even though these wall constructions are packed with mud and clay filler combined with chopped straws (or sometimes with whole canes), they show elasticity and are characterized by a very low self weight (Figure 12). In most cases, sufficient bracing of the walls, e.g. by diagonal trusses (Figure 13), is not provided resulting in a lack of adequate wall strength in both the in-plane and out-of-plane directions (Yoshimura and Kuroki, 2001). In addition, lateral resistance is reduced by the failure to set the vertical structural elements (wooden corner columns) deeply and firmly into the ground (Levin, 1940). The gabled roof generally consists of a light wood frame construction which is not able to support any lateral loading. At best, a tight connection of the roof construction with the walls can only be assumed at the corner columns.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5 %.
+
+**Wall Openings:** The doors are usually located at the center of the wall, the windows at both sides of the door. For those walls without a door, the windows are located close to the corners. The window and door area is around 12% of the overall wall surface area. The average dimensions of doors are: width 1.00 m and height 2.10 m. The average dimensions of windows are: width 1.0 m and height 0.80 m.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** In some cases, outer walls of bahareque buildings are supplemented by masonry walls added inside the structure (Figure 10). The most frequent modification of bahareque buildings is replacing the heavy clay roof tiles with metal sheeting such as corrugated iron or aluminum plates.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footingShallow Foundation: Reinforced concrete strip footingShallow Foundation: No foundation
+
+**Additional comments on foundation:** In rural areas, bahareque houses generally possess no foundation or only a strip footing of field stones or bricks. Here, the vertical timber elements are simply set firmly into the ground at the corners which in many reported cases is not sufficient. In urban areas, foundations are built as bases (pedestals) consisting of field stones, clay bricks or concrete into which the vertical posts are inserted (Figure 14).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** The floor is made of earthen materials or cast plaster (screed).
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Timber: thatched roof supported on wood purlins, wood planks or beams supporting natural stone slates, wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles. The roof is considered a flexible diaphragm. Details of a typical roof construction are given in Figure 15.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is variable, from cm to meters. The main function of this building typology is single-family house. In rural areas, general use is residential. In urban areas, bahareque houses can also accommodate retail trade or handicraft businesses. In a typical building of this type, there are no elevators and no fire-protected exit staircases. Generally, these buildings have two doors, one at the front and one on the building's back side entering the backyard.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Building materials for the walls include timber slats, cane/reed, bamboo or wooden limbs with mud and clay filler | There is no information on strengths of materials used in this construction. Likewise, no information is available on the mix proportions of materials and on dimensions of walls. | 
+| Foundations | The foundations are typically mud, fieldstones and concrete |  | 
+| Floors | The floors are of earthen materials or cast-in-place plaster (screed). |  | 
+| Roof | The roofs are wooden bars with clay tiles or (corrugated) iron. |  | 
+| Other |The frame (wooden corner columns) are made of (crudely) trimmed timber. | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** BuilderOwner
+
+**Roles of those involved in the design process:** Neither architects nor engineers are involved in the design or construction of these buildings.
+
+**Expertise of those involved in the design process:** During the design and construction no external expertise is involved.
+uction issues:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** OwnerBuilder
+
+**Roles of those involved in the building process:** Generally, the building is occupied by the builder himself. In most cases the builder erects the building for his own.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Since this construction type is officially forbidden in San Salvador, information on the construction process is hard to obtain. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+ 
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** This housing type is no longer built in urban areas. In rural areas, it is built without supervision by authorities.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** BuilderOwner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** This building typically cost US$15 per square meter.
+
+**Labor requirements:** This housing typically takes 75 man days to build.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Each building typically has 1 housing unit(s). Due to the small plan dimensions and thus small living area, generally only one family occupies these buildings.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** The housing unit price to annual income for very poor is US$ 2000 / 4300, and for poor, it is US$ 5000 / 7200. (1:1 or better)
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1917 | June 8, West of San Salvador | Ms 6.7 | N.A. | 
+| 1919 | April 28, San Salvador | Ms 5.9 | N.A. | 
+| 1936 | Dec. 20, San Vicente | Ms 6.1 | VII-VIII (SIEBERG) | 
+| 1951 | May 6-7,Jucuapa, Chinameca, and Santiago de Maria | Ms 5.9, Ms 6.0, Ms 5.5 | I(MSK)< VIII | 
+| 1965 | May 3, San Salvador (d = 10 km) | Ms 5.9 | VIII (MMI) | 
+| 1982 | June 19, Pacific Ocean | Mw 7.3 | VII (MMI) | 
+| 1986 | Jan 13,Pacific Ocean (100 km southwest of San Miguel) | Mw 5.7 (Ms 5.4) | VIII (MMI) | 
+| 2001 | Feb 13,San Juan Tepezontes | Mw 7.7 (Ms 7.8) | VII-VIII (MMI) | 
+| 2001 |  | Mw 6.6 (Ms 6.5) | VII (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** The bahareque construction type is not covered by the vulnerability table of the European Macroseismic Scale EMS- 1998 (Grunthal (ed.) et al., 1998). This building type has proven to perform better under lateral earthquake shaking than adobe structures. Additionally, its reported flexibility/elasticity as well as some favorable features such as the lightweight wall (and roof) construction may justify the classification into vulnerability class C. However, it should be stated, that this strongly depends on the quality of materials, workmanship, and the state of maintenance. Most of the bahareque buildings which can be found nowadays are older and show weathering effects and have to be classified into vulnerability class A. 1917: The use of bahareque construction techniques in the urban areas of San Salvador is forbidden by legislative decree, following the June 8 earthquake (Moisa-Perez and Medrano-Lizama, 1993). 1936, December 20 (local: December 19, 20:41 h) earthquake: According to Levin (1940), the intensity of the earthquake near the city San Vicente ?certainly exceeded grade VII of the Sieberg scale, and probably reached grade VIII.? Uncertainties in the intensity assignment arise from the fact that most of the damage was concentrated on traditional building types, such as adobe or bahareque, which are not mentioned in the intensity scales, and due to the considerable number of buildings already damaged by foreshocks from the preceding morning. The isoseismal map of the earthquake was drawn largely with the following as a basis: Isoseismal zone VIII: poorly constructed or weak bahareque houses collapsed, plaster fell from the walls of well-constructed bahareque houses, some heavy tile roofs either collapsed or were considerably deformed. Isoseismal zone VII: good bahareque houses were unaffected except for falling plaster and deformation of tile roofs; some old or poorly constructed bahareque houses collapsed. Beyond isoseismal zone VI there was no visible damage to structures. 1951, May 6?7 (UTC: 23:03 h, 23:08 h on May 6 and 20:22 h on May 7): A series of three destructive earthquakes (Ms 5.9, Ms 6.0, Ms 5.5) destroyed the cities of Jucuapa and Chinameca with about 400 fatalities (Bommer et al., 2002) as well as the city of Santiago de Maria. The size of the affected area was very small, ?a few adobe and bahareque houses did withstand the shocks, but all of these had been built within two or three years prior to the earthquake? (Ambraseys et al., 2001). 1965, May 3 (UTC: 10:01 h): Rosenblueth and Prince (1966) report that ?at 4h 01 m 35s (local time) on the 3rd of May 1965, the capital city of the Republic of El Salvador was shaken by an earthquake that caused severe damages and a death toll of 127 people (..). Its epicenter was located near the city in a distance of 10 km and a superficial focus of about 8 km. The Richter magnitude was computed as 6.? Regarding the damages to bahareque buildings, the authors stated that ?the larger death toll was caused by the collapse of bahareque dwellings. However, the behavior of this type of constructions was satisfactory, generally; bahareque structures collapsed when three factors were present all together: the wood was rotten, the foundation soil was loose sand and it was located close by the area of maximum intensity.? 1986, October 10 (UTC: 17:49 h): Based on Harlow et al. (1993) the earthquake ?killed an estimated 1,500 people, injured 7,000 to 10,000 others, and left more than 100,000 people homeless (Olsen, 1987). The earthquake occurred on a shallow fault beneath the city of San Salvador at 11:49 a.m. local time and was assigned a surface-wave magnitude (Ms) of 5.4 by the U.S. National Earthquake Information Center.? Whilst Anderson (1987) stated ?that new bahareque construction holds up well, on the average, under earthquake ground shaking. But failure of this building system during the earthquake, as well as failure of adobe construction, was extensive in the southern sector of San Salvador. This included the neighborhoods of Santa Anita, Modelo, and San Jacinto (near the Presidential Palace). Based on experiences in past Central American earthquakes, collapse of bahareque dwellings is often due to failure of the structural timber caused by rot or damage by insects.? Figure 17 illustrates some damages to bahareque dwellings cause by the 1986 event. 2001, January 13 (17: 33 UTC) earthquake: The epicenter was located 100 km southwest of the city San Miguel in the subduction zone offshore from El Salvador. The depth of the mainshock was 39 km (NEIS). According to the Seismological Center of Central America (CASC) the maximum ground shaking intensity in the coastal area of El Salvador (near the epicenter) was I(MMI) = VIII, in most cities of El Salvador I(MMI)=VII (Sawada et al., 2001; Yoshimura and Kuroki, 2001). Bommer et al. (2002) suggest that ?MM intensities throughout the southern half of the country were between VI and VII with local pockets of higher intensity between VII and VIII.? Examples of damaged bahareque houses within different villages of the region Usulut#n are given in Figure 18. 2001, February 13 (14:22 UTC) earthquake: It is reported that this event, with an epicenter close to the town of San Juan Tepezontes, caused maximum shaking intensities of VII-VIII (MMI) in the area from Lake Ilopango in the west to San Vicente in the east, and VI in San Salvador. However, a more recent study revealed that the maximum intensities did not exceed VII (Bommer et al., 2002). Figure 19 illustrates some damaged bahareque houses located in the city of San Vicente. * based on information taken from: Ambraseys et al. (2001), Bommer et al. (2002), Lopez et al. (2004), Lopez et al. (2006), SNET (2004), Yoshimura and Kuroki (2001).
+
+**Additional comments on earthquake damage patterns:** Wall: - in-plane and out-of-plane failure Frame: - anchorage/embedding failure of wooden posts - diagonal shear cracking Roof: - total and partial collapse of roof construction Other: - spalling of plaster
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** #NAME?
+
+**Earthquake-resilient features in walls:** #NAME?
+
+**Seismic deficiency in frames:** #NAME?
+
+**Earthquake-resilient features in frame:** #NAME?
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** #NAME?
+
+**Seismic deficiency in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%%  |  | o | %%-|%%  | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Heavy roof | Substitution of heavy roof tiles by (corrugated) iron sheeting | 
+| Weak roof connection | Tight connection to the w alls; replace rotten w ood elements | 
+| Deterioration of wooden elements due to climatic effects and vermin | Apply wood preservative (e.g. petrol) | 
+| Rotten column bases (wooden posts) | Apply wood preservative against moisture, vermins, and rodents (e.g. lime mortar) | 
+| Insufficient wall strength | Add (diagonal) bracing, additional horizontal struts (at the walls both inside and outside), additional tieing of horizontal members to the vertical posts, replace infill material with mud reinforced with organic fibers (e.g. hay) FOR NEW CONSTRUCTION: Use of sawed lumber as vertical posts set firmly every 3 or 4 ft. into the ground (foundation) at the corners and at wall-panel points - Additional (diagonal) bracing - Additional or stronger horizontal struts of which the uppermost may serve as a beam at which the roof construction can be connected - Tieing of horizontal members to the vertical posts | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** For spalling of plaster, a strenthening technique is to Use lime-based plaster (also to protect the walls from humidity) and to use plaster reinforcement or lathing (e.g. barbed wire, wire netting) A very detailed overview of strengthening and retrofitting measures for bahareque dwellings is given by Irula et al. (2002).
+
+**Has seismic strengthening described in the above table been performed?** Sporadically, seismic strengthening measures are applied especially to existing structures.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** No ongoing mitigation efforts on new or existing structures could be observed.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** Strengthening of New Construction : Heavy roof - Use of (corrugated) iron sheeting Weak roof construction - Tight connections to the walls Deterioration of wooden elements due to climate and vermin - Apply wood preservative (e.g. petrol) Insufficient wall strength - Use of sawed lumber as vertical posts set firmly every 3 or 4 ft. into the ground (foundation) at the corners and at wall-panel points - Additional (diagonal) bracing - Additional or stronger horizontal struts of which the uppermost may serve as a beam at which the roof construction can be connected - Tieing of horizontal members to the vertical posts Spalling of plaster - Use of lime-based plaster (also to protect the walls from humidity) and use of plaster reinforcement or lathing (e.g. barbed wire, wire netting)
+
+----
+
+==== 7. References ====
+
+  * The earthquake sequence of May 1951 at Jucuapa, El Salvador Ambraseys,N.N., Bommer,J.J., Buforn,E., and Ud Journal of Seismology, 2001, Vol.5, pp 23-39.
+
+  * The El Salvador earthquakes of January and February 2001: Context, Characteristics and Implications for seismic risk Bommer,J.J., Benito,M.B., Ciudad-Real,M., Lemoine,A., L Soil Dynamics and Earthquake Engineering, 2002, Vol.22, pp 389
+
+  * The San Salvador earthquake of October 10, 1986 - Review of building damage Anderson,R.W. Earthquake Spectra, EERI, 1987, Vol.3, pp 497-541.
+
+  * Bahareque: Gu Carazas-Aedo,W., and Rivero Olmos,A. Ediciones CRATerre, MISEREOR, Francia, 27 pp, 2002
+
+  * Adobe housing in El Salvador: Earthquake performance and seismic improvement. Dow ling,D.M. Special Paper 375: Natural Hazards in El Salvador, 2004, Vol.375 (0): pp 281
+
+  * Preliminary Observations on the El Salvador Earthquakes of January 13 and February 13, 2001 EERI Special Earthquake Report EERI, 2001, July.
+
+  * Lecciones Aprendidas de los Terremotos del 2001 en El Salvador Gobierno de El Salvador Technical report, 112 pp, 2001.
+
+  * European Macroseismic Scale 1998 (Eds.) Gr Cahiers du Centre Europ 1998.
+
+  * The San Salvador earthquake of 10 October 1986 and its Historical Context Harlow ,D.H., White,R.A., Rymer,M.J., and Alvadrado,S. Bulletin of the Seismological Society of America, 1993, Vol.83 (4), pp 1143
+
+  * Sistema de bahareque mejorado Irula,H., Melhado,C., and H Fundaci 2002.
+
+  * Provisional Report on the January 13, 2001 Earthquake occurred off the Coast of El Salvador Japan Society of Civil Engineers (JSCE) Technical report, 14 pp, February 2001, 2001a.
+
+  * The January 13, 2001 Off the Coast of El Salvador Earthquake. Investigation of Damage to Civil Engineering Structures, Buildings and Dwellings Japan Society of Civil Engineers (JSCE) Technical report, 112 pp, August 2001, 2001b.
+
+  * El terremoto de San Salvador del 10 de octubre de 1986 Kuroiw a,J. CISMID, Facultad de Ingenier 1987, Vol.01-87, 60 pp
+
+  * The Salvador Earthquakes of December, 1936 Levin, B. Bulletin of the Seismological Society of America, 1940, Vol.27 (52), pp 377
+
+  * The seismic performance of Bahareque dwellings in El Salvador L Proc. of the 13th World Conference on Earthquake Engineering, Vancouver, BC, Canada, 2004, Paper No. 2646.
+
+  * Adobe Houses in El Salvador L EERI and IAEE World Housing Encyclopedia, 2006, Housing Report No.14
+
+  * La vivienda popular en Guatemala - Antes y despues del terremoto de 1976 Marroquin,H., and G Tomo I, Universitaria de Guatemala, 1976.
+
+  * Manual de construccion Minke,G. Technical report, Forschungslabor f 2001, 51 pp.
+
+  * The San Salvador Earthquake of October 10, 1986 Olsen,R.A. Earthquake Spectra, EERI, 1987, Vol.3, pp 415
+
+  * Sistemas constructivos tradicionales en la arquitectura de El Salvador Moisa-Perez,L.C., and Medrano-Lizama,C.C. Tesis, San Salvador, 166 pp, 1993.
+
+  * El temblor de San Salvador, 3 de mayo 1965 Rosenblueth,E., and Prince,J. Ingenier 1966.
+
+  * Preliminary report on damage caused by the El Salvador earthquake of January 13, 2001 Saw ada,S., Katsuma,H., Yamasaki,Y., and Seo,K. Japan Earthquake Engineering NEWS (in Japanese), 2001, Vol.177, pp 20
+
+  * Sismos en El Salvador 1900-2001: Contexto SNET Technical report, 14 pp., April, 2004.
+
+  * Damage to masonry buildings caused by the El Salvador earthquake of January 13, 2001 Yoshimura,K., and Kuroki,M. Journal of Natural Disaster Science, 2001, Vol.23(2), pp 53
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Dominik Lang | Dr./Researcher | NORSAR | Instituttveien 25, Postboks 53, Kjeller 2027, NORWAY | dominik@norsar.no | 
+| Roberto Merlos | M.Sc., | Universidad Centroamericana Jos | Boulevard Los Proceres,, San Salvador , EL SALVADOR | rmerlos@ing.uca.edu.sv | 
+| Lisa Holliday | Engineer | Fears Laboratory, The University of Oklahoma | Norman, Oklahoma 73019, USA | lisaholliday@ou.edu | 
+| Manuel A. Lopez M. | Engineer | Escuela de Ingenier, Universidad de El Salvador | Final 25 Av. Norte, San Salvador , EL SALVADOR |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Qaisar Ali | Associate Professor | Department of Civil Engineering, NWFP University of Engineering and Technology Pesh | Peshawar 25000, PAKISTAN | engrqaisarali@yahoo.com | 

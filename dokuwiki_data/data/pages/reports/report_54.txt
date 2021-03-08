@@ -1,0 +1,325 @@
+====== Large concrete block walls with reinforced concrete floors and roofs (typical series: 1-306c, 1-307c, 114c), Russia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 54
+
+**Building Type:** Large concrete block walls with reinforced concrete floors and roofs (typical series: 1-306c, 1-307c, 114c)
+
+**Country:** Russia
+
+**Author(s):** Mark Klyachko, Yuriy Gordeev, Freda Kolosova
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the seismic zones of Russia (Far East, Siberia, Baikal Lake Region, North Caucasus) and CIS (Central Asia, Armenia, Georgia, etc.) where it represents 15-30% of the housing stock. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is a typical residential construction found both in urban and rural areas. It represents a construction practice followed in the former Soviet Union. Buildings of this type constitute 15 to 30% of the housing stock in seismically prone areas of Russia (Far East, Siberia, Baikal Lake Region, North Caucasus) and CIS states (Central Asia, Armenia, Georgia, etc.). The main loadbearing system for lateral and gravity loads consists of concrete block masonry walls and concrete floor slabs. Seismic resistance is relatively good, provided that the welded block wall connections are present and are well constructed.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 unitsMixed residential/commercial
+
+**Typical number of stories:** 4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** The main function of this building typology is multi-family housing. Some buildings of this type (approximately 5% of the total
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 44
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Other
+
+**Additional comments on structural system:** Lateral Load-Resisting System: Lateral load-resisting system consists of concrete block walls and precast concrete floors. Blocks are joined together by means of welding. In most cases, the floor structure consists of precast concrete hollow-core slabs, combined in horizontal disk by special reinforced monolithic concrete bond beams (web blocks) located at the building perimeter. Gravity Load-Bearing Structure: Same as lateral load-resisting system. The main elements of the load-bearing structure for this construction type are illustrated in Figure 2: 1- breast block; 2- interfenestral block; 4- lintel member, 6-floor panel, 7-regular block, 8-web block.
+
+**Gravity load-bearing & lateral load-resisting systems:** Large concrete block walls with concrete floors and roofs
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. 20-25%.
+
+**Wall Openings:** Windows: 10-15%; Doors: 5-8%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typical patterns of modification include demolishing of interior walls and the perforation of walls with door openings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Precast hollow core concrete slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Precast hollow core concrete slabs
+
+**Additional comments section 2:** In hilly areas from 1.5% to ~15%; on the flat terrain ~85% When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Steel concrete (large-block) | Yield strength = 295 MPa cube compressive strength (15-20 MPa) | 
+| Foundations | Concrete | 15-20 MPa (cube compressive strength) | 
+| Floors | Slabs # reinforced concrete | 30 MPa (cube compressive strength) 295 MPa (Steel yield strength) | 
+| Roof | Slabs # reinforced concrete | 30 MPa (cube compressive strength) 295 MPa (Steel yield strength) | 
+| Other | Reinforced concrete | 20-30 MPa (cube compressive strength) | 
+
+----
+
+=== Design Process=== 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Design performed by Professional Engineers and Architects.
+
+**Expertise of those involved in the design process:** Expertise for design of buildings of this type was available, including the construction quality procedure developed by the author of this contribution.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Buildings of this type were built by government-owned construction companies.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** All precast structure members and concrete blocks are manufactured in special construction plants. Masonry mortar is produced either in the factory or at the construction site. Lifting crane is used for the erection of the building. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Code/Standard: Building Catalog of Typical Project for housing seria of 1-306c, 1-307c, 1957y, issued1951 National Building Code, Material Codes, Seismic Codes/Standards:Construction in the Seismic Regions. SNiP II-7-81*, issued 1981. Afterward numerous amendments were introduced.
+
+**Process for building code enforcement:** The process consists of issuing permits for the design & construction, including the architectural permits and urban planning/municipal permits. Designers need to have licence to practice and are responsible to follow the building codes. Building inspection is performed and the permit is issued.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** Absence of welded block wall connections in the pre-1975 construction.
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** The maintenance is performed either by the owner (city) or (periodically) by a contractor # a maintenance firm.
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** 250-350 $US/sq m (official rate).
+
+**Labor requirements:** It takes about 34 man-months to build a 4-story building of this type with plan dimensions 12m x 42m.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per unit (apartment). Each building typically has 48 housing unit(s). Usually there are 12 - 64 units in each building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** Other
+
+**Additional comments on number of inhabitants:** >200 inhabitants in the evening/night
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Government-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightLong-term lease
+
+**Additional comments on ownership:** Own outright (for unit), Long-term lease (most common)
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The insurance is available as a part of the usual property insurance. Insurance covers about 3-5 % of the total estimated property value.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1959 | Kamchatka, Russia | 7.8 | 8 (MSK) | 
+| 1971 | Kamchatka, Russia | 7.2 | 7 (MSK) | 
+| 1995 | Neftegorsk, Sakhalin Island, Russia |  | 9 (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Typical earthquake damage patterns for this construction type are illustrated in Figures 6 to 12. Figures 13 and 14 illustrate the seismic performance of this construction type in the 1995 Neftegorsk earthquake. At the time of the earthquake, there were 17 five-story large-block residential buildings constructed in the period 1967-1971. These buildings were constructed without any seismic provisions. All 17 buildings collapsed in the earthquake, as illustrated in Figure 13. Several two-story large-block buildings were also exposed to the Neftegorsk earthquake (see Figure 14), however these buildings had suffered some damages, e.g. vertical and horizontal cracks between blocks, diagonal cracks in partitions, vertical cracks in the wall connections, partial damage to chimneys, and displacement of entrance canopies. For more information on the Neftegorsk earthquake, refer to Klyachko (1999) and Melentyev (1999).
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Welding connections for the block walls are not adequate.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Low cohesion of masonry (<120 kPa) (cohesion equals to tention strength when shear stress=0). -Welded block wall connections are inadequate or absent; -Poor strength of the block walls.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Floor slabs cannot be considered as rigid due to poor quality of joints and connections.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Inadequate seismic resistance of masonry walls | The method of exterior frame | 
+| Inadequate seismic resistance of masonry walls | Vertical post-tensioning (see Figure 15, 16 and 17) | 
+| Inadequate seismic resistance of masonry walls | The method of upper damping storey | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The recommended seismic strengthening techniques are: THE METHOD OF EXTERIOR FRAME (MEF) Goal: To increase lateral seismic stability of the building with load-bearing masonry or large-block concrete walls. Concept: The system of precast or "cast-in-situ" concrete buttresses (counterforts) (1) tied to the longitudinal exterior wall. Application: This method has been used successfully for seismic strengthening of the buildings with longitudinal bearing walls and deficient seismic resistance both as self-contained strengthening system and as a combination with PTS (for stringer walls) or with SIS (for extended masonry buildings with widely spaced lateral inner walls). Description: The MEF is performed by constructing special concrete buttresses (counterforts) tied to the longitudinal load-bearing walls at the building ends and other locations as required. In order to ensure a uniform seismic performance of the existing structure strengthened with the buttresses, the buttresses are tied to the existing walls by means of the dowels and anchors. This solution does not require to tie the pairs of buttresses (counterforts) together at each floor level. Instead, it is adequate to install a prestressed tie to connect the buttresses (counterforts) at the roof level. STRENGTHENING OF BUILDINGS USING THE POST#TENSIONING SYSTEM (PTS) Goal: To increase seismic resistance of loadbearing masonry buildings. Concept: Reduction in the principal tensile stresses induced by seismic loads to allowable levels. Description and sequence of operations: # Drilling of the vertical holes is carried out by means of special equipment; the amount of opening (10) is not less than one for each partition. # The wire cables (2) are pulled through each opening (10). # Cables are anchored at the basement level and then post-tensioned up to 1600 KN. # A special cement-based grout (1) is injected into the holes and the cables are subsequently anchored at the roof level. Post-tensioning of walls prevents the formation of cracks in an earthquake and results in the increased seismic resistance of the individual walls and the building as a whole. Equipment: For drilling: "GEARMEC" (Sweden); for post-tensioning: IMS system (Yugoslavia). THE METHOD OF UPPER DAMPING STOREY (UDS) Goal: To develop a big mass damper for the self-damping of buildings under seismic impact. Idea: To achieve a flexible structure with stiffness and mass capable of reducing the seismic demand to a permissible level. Application: Masonry or block buildings with deficient seismic resistance D=2.0 (MSK scale). A highly effective and fast application for 4- to 5-story residential masonry and large-block houses with D=1.0-1.5. The superstructure can be constructed as a "cold" garret or as additional floor (duplex apartment).
+
+**Has seismic strengthening described in the above table been performed?** Yes. Some buildings of this type have been strengthened using the above described methodology.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Some work was done as a mitigation effort (stregthening of undamaged existing buildings), and in some cases earthquake-damaged buildings were strengthened.
+
+**Was the construction inspected in the same manner as new construction?** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Strengthening is done in a similar way as new construction. The construction is done by the contractor. Engineers manage each stage of construction.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Information not available.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Manual on Certification of Buildings and Structures in the Seismic-Prone Areas, CENDR, 1990 (Second Edition).
+
+  * Recommendations for Preventive Aseismic Strengthening of Buildings, CENDR, 1993.
+
+  * # Klyachko M. A. Earthquakes and Us. Intergraf, Saint Peterburg, Russia, 1999. (in Russian)
+
+  * Melentyev, A. Lessons of the 1995 Sakhalin and 1994 Kuril Islands Earthquakes. Seismic Hazard and Building Vulnerability in Post-Soviet Central Asian Republics (Stephanie A. King, Vitaly I. Khalturin and Brian E. Tucker-Editors), NATO ASI Series 2. Environment - Vol.52, Klywer Academic Publishers, The Netherlands, 1999.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mark Klyachko | Dr./ Director | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su, cendr@peterlink.ru | 
+| Yuriy Gordeev | Head of Dept. | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su, cendr@peterlink.ru | 
+| Freda Kolosova | Head of Dept. | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka | cendr@svyaz.kamchatka.su, cendr@peterlink.ru | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Uranova | Head of the Laboratory | KRSU | Bishkek 720000, KYRGYZSTAN | uransv@yahoo.com | 

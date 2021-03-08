@@ -100,7 +100,7 @@
 
 === Design Process ===
 
-**Who is involved with the design process?:** Builder
+**Who is involved with the design process?** Builder
 
 **Roles of those involved in the design process:** The builder designs and builds following some specifications given by the Ministry of Housing, so a similar design can be found at different sites.
 
@@ -109,7 +109,7 @@
 
 === Construction Process ===
 
-**Who typically builds this construction type?:** Builder
+**Who typically builds this construction type?** Builder
 
 **Roles of those involved in the building process:** Construction companies, hired by the State, build this type of housing or Private companies build and sell directly.
 
@@ -122,7 +122,7 @@
 
 === Building Codes and Standards===
 
-**Is this construction type address by codes/standards?:** Yes
+**Is this construction type address by codes/standards?** Yes
 
 **Applicable codes or standards:** NCh2123.Of97 Albanileria Confinada-requisitos para el diseno y calculo.The first code/standard addressing this type of construction was issued 1949; the most recent code/standard addressing this construction was issued in 1997 and modified in 2003.Until 1993, the NCh433.of72 and "Ordenanza General de Construcciones y Urbanizacion" were in force. The latter since 1949 regulated the construction of 1 or 2 story confined masonry houses, limiting the maximum spacing between tie-columns and tie-beams.In general these buildings are quite stiff, they must resist a base shear of 10-22% depending on the seismic zone and the story drift must be equal or less than 0.002.The NCh2123 code specifies the allowable shear capacity of a confined masonry wall based on the masonry shear stress and the vertical load applied on it; the size and the minimum quantity of longitudinal reinforcement and amount and spacing of stirrups that must be used in confinement elements; limits wall thickness and tie-column spacing, and requires confinement in opening, among others dispositions. Applicable national building code, material codes and seismic code/standards: NCh433.Of96, Diseno sismico de Edificios, last modification in 2011
 
@@ -131,11 +131,11 @@
 
 === Building Permits and Development Control Rules ===
 
-**Are building permits required?:** Yes
+**Are building permits required?** Yes
 
-**Is this typically informal construction?:** No
+**Is this typically informal construction?** No
 
-**Is this construction typically authorized as per development control rules?:** No
+**Is this construction typically authorized as per development control rules?** No
 
 **Additional comments on building permits and development control rules:**
 ----
@@ -144,7 +144,7 @@
 
 **Typical problems associated with this type of construction:** Buildings made of hollow concrete block may have water ingress, due to construction problems.
 
-**Who typically maintains buildings of this type?:** Owner(s)Renter(s)
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
 
 **Additional comments on maintenance and building condition:** because owners belongs to low income segment of the population, maintenance is unfrequent.
 ----
@@ -181,11 +181,11 @@
 
 **Additional comments on ownership:** 
 
-**Is earthquake insurance for this construction type typically available?:** Yes
+**Is earthquake insurance for this construction type typically available?** Yes
 
 **What does earthquake insurance typically cover/cost:** Repair costEarthquake insurance is available as supplement of other insurance (fire, robbery) and people living in these buildings do not have money to pay for that, although mortgage payment includes this type of insurance.
 
-**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
 
 **Additional comments on premium discounts:** 
 
@@ -213,6 +213,7 @@
 **Damage patterns observed in past earthquakes for this construction type:** According to Del Canto (1940) in Chillan 26 (16%) confined masonry houses collapsed or partially collapsed. About 21,000 masonry houses collapsed and 71,000 had to be repaired after 1965 earthquake. This was an unexpected behavior for confined masonry buildings; although most of them did not have tie-columns. The results were especially bad in houses made of hollow concrete blocks, which were very rigid and the earthquake had a very important high frequency content. Typical patterns of damage were: in-plane shear failure, out-of-plane bending failure, lack of bond between masonry and concrete elements, damage in column-beam joints and separation between walls. (Monge, 1985).After the 1985 earthquake, the Ministry of Housing appointed a special committee to review the seismic effects on social dwellings (Flores, 1993). About 84,000 units, mostly located in Santiago, were reviewed concluding that 50% of the units had some structural damage. Confined masonry buildings represent 16% of the total and 74% of them were lightly damaged, but no collapses occurred. In most of the damaged buildings tie-columns were missing at one end of the walls or at the opening extremes.The following characteristic damage patterns were observed:-shear cracks in walls that propagate into the tie-columns. Most of them passed through mortar joints and the initiation of crushing of masonry units has been observed in the middle, most stressed part of the walls.-horizontal cracks at the joints between masonry walls and reinforced concrete floors or foundation-cracks in window piers and cracks in walls due to out-of-the-plane action when they are not properly confined or the separation between tie-columns is too large.-crushing of concrete at the joints between vertical tie-columns and horizontal bond-beams when their reinforcement was not properly connected.-inadequate quality of material and construction.
 
 **Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included in-plane shear failure, out of plane bending failure, lack of bond between masonry and concrete elements, damage in column-beam joints and damage in the connection of perpendicular walls. These type of damages occur when requirements of NCh2123.of97 are not totally considered
+
 ----
 
 === Structural and Architectural Features for Seismic Resistance ===
@@ -272,11 +273,12 @@ The total width of door and window openings in a wall is: For brick masonry cons
 **Seismic deficiency in foundation:** 
 
 **Earthquake-resilient features in foundation:** 
+
 -----
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |

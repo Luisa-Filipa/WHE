@@ -1,0 +1,329 @@
+====== Reinforced concrete frame building with masonry infill walls designed for gravity loads, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 19
+
+**Building Type:** Reinforced concrete frame building with masonry infill walls designed for gravity loads
+
+**Country:** India
+
+**Author(s):** Kishor S. Jaiswal, Ravi Sinha, Alok Goyal
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in entire India. This type of housing construction is commonly found in both rural and urban areas. These constructions were found only in urban areas in the past. However, now due to rapid urbanization of the society and easy availability of necessary raw materials, these structures are also constructed in semi-rural and large rural communities. However, the quality of design and construction remains variable and highly questionable in all locations.
+
+**Summary:** The construction of reinforced concrete buildings with brick masonry infill walls has been a very common practice in urban India for the last 25 years. Most of this construction has been designed for gravity loads only, in violation of the Code of Indian Standards for earthquake-resistant design. These buildings performed very poorly during the Bhuj earthquake of January 2001 and several thousand buildings collapsed. The collapse was not limited to the epicentral region. The seismic vulnerability of this construction is clearly demonstrated by the collapse of about 75 RCC frame buildings and damage to several thousand others in and around Ahmedabad, which is over 250 km from the epicenter.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 20-49 units
+
+**Typical number of stories:** 5-10
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** This construction practice has become very common in urban areas during the last 25 years. In most situations, multi-story apart
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Irregular plan shape
+
+**Additional comments on plan shape:** Building configurations may be very irregular for multi-story apartments. The irregularity provides space for controlling lighting and ventilation and suits architectural requirements. However, this also results in irregular geometry of lateral load resisting elements which may result in additional torsional stresses during earthquakes.
+
+**Typical plan length (meters):** 12
+
+**Typical plan width (meters):** 7
+
+**Typical story height (meters):** 3.2
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. The vertical load bearing system also consists of the same beam-column framing system which transfers lateral loads. The foundation may consist of spread footing or pile foundation depending on the local soil conditions. The lateral load-resisting system is reinforced concrete moment resisting frame. The lateral load resisting system consists of reinforced concrete beam-column frame system. The foundation system may consist of footings or piles depending on the soil conditions. In most urban areas, the ground floor is used for parking and consists of bare-frame while the tenements on higher floors have masonry infill walls. The walls make significant contribution to the lateral load-resisting elements on higher floors. This variation in the stiffness of lateral load resisting system results in the formation of "soft storey" on the ground floor. Additional difficulty is posed due to non-uniformity of the framing system due to which the load transfer path is not direct. This may results in the development of torsion and concentrated shear in the structure, which is not considered in gravity load-based design.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** For typical buildings, density of masonry infill wall varies between 5 to 7% in each direction.
+
+**Wall Openings:** These buildings have normal openings for apartments. Since openings are created in partition walls, these openings do not have a significant bearing on the structural performance. Typical door sizes are 1.2 m # 2.1 m and window sizes are 0.9 m # 1.2 m.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typical modification found in case of multistory building is in the form of alteration of position of interior walls. Additional storeys are added on many old one or two storey buildings without considering the load-carrying capacity or behaviour under earthquake loading. Open balconeys are also often enclosed in RCC buildings to increase size of rooms or to provide additional rooms.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingDeep Foundation: Reinforced concrete skin friction piles
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: cast-in-place and precast solid slabs The RCC floor and roof slabs are considered rigid for analysis and design purposes.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: cast-in-place and precast solid slabs The RCC floor and roof slabs are considered rigid for analysis and design purposes.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Burnt Clay | 3.5-5 MPa (100 x 230 x 75) | 
+| Foundations | Concrete | 15-20 MPa 1:2:4 to 1:1.5:3 | 
+| Floors | Concrete | 15-20 MPa 1:2:4 to 1:1.5:3 | 
+| Roof | Concrete | 15-20 MPa 1:2:4 to 1:1.5:3 | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** The architects are typically responsible for all aspects of the building project. The structural engineer is usually employed by the architect rather than the owner. The contractor is directly appointed by the owner. The level of interaction between the architect, structural engineer and the contractor/builder is often found inadequate.
+
+**Expertise of those involved in the design process:** The architects are formally trained and licensed by their professional board. The structural engineers and contractors do not require any licensing. As a result, their expertise may be very uneven. In several situations, the building damage can be directly attributed to the lack of competence of the structural engineer or the contractor. In recent times, the city control rules and professional practices bills are under revision to remove this lacuna.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** In most constructions, the builder is a developer and constructs these buildings for sale in the market. In some situations, the buildings are designed and constructed by a consortium of apartment owners who get together from the project formulation stage itself.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Most building design responsibilities lie with the architect. The structural engineer typically works for the architect rather than the building owner. The architect is also responsible for all statuary clearances from the city officials. Due to the prevalent system, the structural engineer and the contractor/builder is typically not responsible for his work. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Several codes and standards address different aspects of this building design and construction. Some of the most widely referred codes include: (1) IS 456-2000: Code of practice for plain and reinforced concrete, (2) IS 1893-1984: Criteria for earthquake resistant design of structures, (3) IS 13920-1993: Ductile detailing of reinforced concrete structures subjected to seismic forces # code of practice. IS 456 was last revised in 2000.IS 1893 is currently under revision and is expected to be issued soon. For Materials, there are many IS codes available depending upon type of construction material used.
+
+**Process for building code enforcement:** Most building design responsibilities lie with the architect. The structural engineer typically works for the architect rather than the building owner. The architect is also responsible for all statuary clearances from the city officials. Due to the prevalent system, the structural engineer and the contractor/builder is not directly responsible for his work. Since most city bye-laws require compliance with the relevant codes, the architect is responsible for liaisoning with the city officers for all relevant permissions and sanctions and for issuing certification of code compliance. In some urban areas, the Structural Engineering also needs to give a code-compliance certificated. However, this certificate is based on design only and does not cover the construction quality issues.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** The main problems associated with this construction type are as follows: 1. Since the buildings are designed for gravity loads only, they have very poor lateral load carrying capacity. 2. The building geometry is typically irregular leading to development of torsional forces at floor level. 3. Poor quality of concrete makes the structure vulnerable to brittle failure. 4. Poor reinforcement detailing results in low ductility and leads to catastrophic collapse of these buildings. 5. Open ground floor for parking results in the development of soft story that can easily collapse due to lack of earthquake-resistant design. 6. Lack of plinth beams results in differential movement at the foundation level and introduces large moments in the columns. This also contributes to the sudden collapse of these buildings at the soft story level.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Typical cost of construction may range from Rs. 5000 - 7500 per sq m (US$ 100 - 150 per sq m).
+
+**Labor requirements:** Number of effort days required to complete the construction.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** These houses typically have multiple dwellings with different families living in different apartments/floors. Each floor typically has between two to four apartments, while larger number of apartments are also found in buildings for The total number of occupants in each building can go to several hundred during the nights. Building up to 5 stories generally have 8 to 20 housing units. Higher buildings may have much larger number of tenements depending on the number of stories.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 10-20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1967 | Koyna | 6.7 | VIII (MMI) | 
+| 1993 | Killari | 6.4 | VIII (MMI) | 
+| 1997 | Jabalpur | 6.1 | VII (MMI) | 
+| 2001 | Bhuj | 7.6 | X (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Building construction of this type (without any seismic features) suffered significant damage during Koyna (1967) and Killari (1993) earthquakes. Some damage was also observed during Jabalpur (1997) earthquake. The main damage patterns consisted of: - Shear cracks in walls, mainly starting from corners of openings. - Vertical cracks at wall corners - Partial out of plane collapse of walls due to concatenation of cracks. - Partial caving-in of roofs due to collapse of supporting walls. - Shifting of roof from wall due to torsional motion of roof slab. This type of construction was also severely affected by the 2001 Bhuj earthquake (M 7.6). In the epicentral region, several buildings of this type suffered total collapse of the walls resulting in depth and injury to large number of people. The overall performance was dependent on the type of roof system: buildings with lightweight roof suffered relatively less damage while buildings with RCC roofs suffered much greater damage. (Source: IIT Powai 2001) Importance and effectiveness of seismic provisions, in particular RC lintel and roof bands (bond beams) was confirmed both in the 1993 Killari earthquake and in the 2001 Bhuj earthquake. Buildings with seismic provisions performed substantially better and did not suffer collapse, whereas similar construction without any seismic provisions was severely affected by the earthquake.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Torsion eccentricity
+
+**Horizontal irregularities typically found in this construction type:** Soft/weak story
+
+**Seismic deficiency in walls:** Unreinforced masonry infill panels often dislodge from RC frame during out of plane vibration because of poor connection with frame members. Frequent crushing of masonry infill also results due to low strength of bricks and mortar. In plane stiffness of masonry wall is under-utilized due to lack of adequate connections in some cases.
+
+**Earthquake-resilient features in walls:** High in-plane stiffness provides additional lateral load carrying capacity for RCC frames. Many multistory buildings has escaped from complete collapse in recent Bhuj earthquake due to presence of infilled masonry walls at ground floors.
+
+**Seismic deficiency in frames:** Beams and columns are not connected rigidly to provide moment-resistant frame action. Most joints exhibit weak column-strong beam behaviour. All longitudinal reinforcement are often spliced at the same section resulting in stress concentration in concrete.
+
+**Earthquake-resilient features in frame:** The frames do not have significant earthquake-resistant features. In most buildings, the in-fill walls contributed to shear-wall action and enhanced the seismic resistance of these buildings.
+
+**Seismic deficiency in roof and floors:** Slabs are generally 100 to 120 mm thick and cast-in-place with beams and column. Same grade concrete is generally used for all structural elements.
+
+**Earthquake resilient features in roof and floors:** High in-plane stiffness of RCC slabs enable transfer of earthquake forces to the different frames, and improve earthquake-resistance of the buildings.
+
+**Seismic deficiency in foundation:** Spread foots are not properly connected to each other with plinth beams. When these beams exist, they are not designed to resist moments due to earthquake forces.
+
+**Earthquake-resilient features in foundation:** The foundations do not have significant earthquake-resistant features.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  |  |
+
+**Additional comments section 5:** Typical shear cracks were observed for unreinforced masonry infill walls in recent Bhuj earthquake. Seperation of infill wall from the RC frame was also observed. This was mainly due to lack of adequate connection with RC frames. Strong beam-weak column behaviour was a leading cause of collapse of these buildings in Bhuj earthquake of 2001. Shear cracking and plastic hinging in columns just below the beam-column junction was widely observed. Failure of the slabs independent of the supporting frame has not been observed in this construction type. Typically, slabe damage is caused due to damage in the supporting frame members. Buildings with isolated footing and lacking proper plinth beams performed very poorly due to the increase in effective length of ground floor columns.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Unreinforced masonry infill panels often dislodge from RC frame during out of plane vibration because of poor connection with frame members. Frequent crushing of masonry infill also results due to low strength of bricks and mortar. In plane stiffness of masonry wall is under-utilized due to lack of adequate connection in some cases. | Damaged walls can be repaired by filling cracks using epoxy or cement slurry of adequate strength. Walls with significant cracks may require local replacement of crushed masonry blocks before grouting. Walls that have suffered very significant damage including partial or full collapse may need to be replaced with new wall. | 
+| Beams and Columns are not connected rigidly to provide moment-resistant action. Most joints exhibit weak column strong beam behaviour. All longitudinal reinforcement are often spliced at the same section resulting in stress concentration in concrete. | The cracks in the beams or columns are grouted with cement slurry of adequate strength and design cover is ensured while jacketing of the existing beams and columns. Reinforcement as per the newly designed sections can be placed and proper bond between existing and new construction is maintained. Extent of corrosion to existing reinforcement is properly measured as per the procedures and suitable measures can be taken to avoid the further rusting of the reinforcement. | 
+| Slabs are generally 100 to 120 mm thick and cast-in-place with beams and column. Same grade concrete is generally used for all structural elements. | Cast-in-situ slabs are usually adequate stiff to provide diaphragm action. No special retrofitting scheme is required for slabs. | 
+| Spread foots are not properly connected to each other with plinth beams. When these beams exist, they are not adequately designed for moment resistance. | Columns may be jacketed up to foundation level. Where required, the footings may also be jacketed to increase their bearing capacity. Plinth beams may also be constructed or strengthened when relative settlement of different parts of foundation is expected. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** New Construction: Neither designed nor constructed per the current seismic design and construction codes. -Proper design and construction per code provisions can be ensured. Strong beam-weak column design of RCC joints - Adequate shear strength of columns to prevent this mode of failure can be ensured by rigorously following the provisions of ductile detailing of RCC members. Poor maintenance and consequent deterioration in strength - Adequate strength including consideration of ageing during design phase. Proper maintenance during the life of structure. No geotechnical investigation and improper foundation system - Detailed geotechnical investigations where necessary to consider the influence of local soil conditions on earthquake loading and member forces. Non-ductile behavior of beams and columns - Detailing as per relevant IS codes for ductile detailing of RCC members. Inadequate depth of foundation - Design of foundations per code provisions with due considerations to local soil conditions.
+
+**Has seismic strengthening described in the above table been performed?** Only high rise buildings or buildings rendering important services are seismically strengthened as per the standard practice.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Very few buildings of this type are attended in terms of either repair or mitigation efforts. Repairs to such construction facility is found to be primarily of non-engineered type.
+
+**Was the construction inspected in the same manner as new construction?** No
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Owner has spent for the seismic strengthening of existing building structure by assigning job directly to private contractor through engineer or through the architect.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Data not available.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * IS 456 : 2000 Indian Standard Code of Practice for Plain and Reinforced Concrete (Fourth revision), Bureau of Indian Standard, New Delhi.
+
+  * IS 13920 : 1993 Indian Standard Code of Practice for Ductility Detailing of Reinforced Concrete Structures Subjected to Seismic Forces, Bureau of Indian Standard, New Delhi.
+
+  * IS 1893 : 1984 Indian Standard Criteria for Earthquake Resistant Design of Structures (Fourth Revision), Bureau of Indian Standard, New Delhi.
+
+  * IS 4326 : 1993 Indian Standard Code of Practice for Earthquake Resistant Design Construction of Buildings (Second Revision), Bureau of Indian Standard, New Delhi.
+
+  * IS 875 : 1987 Indian Standard Code of Practice for Design Loads for building Structures, Bureau of Indian Standard, New Delhi.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Kishor S. Jaiswal | Research Student | IIT Bombay | Civil Engineering Department, Indian Institute of Technology, Powai Mumbai | rskishor@civil.iitb.ac.in | 
+| Ravi Sinha | Associate Professor | IIT Bombay | Civil Engineering Department, Indian Institute of Technology, Powai Mumbai | rsinha@civil.iitb.ac.in | 
+| Alok Goyal | Professor | IIT Bombay | Civil Engineering Department, Indian Institute of Technology, Powai Mumbai | agoyal@civil.iitb.ac.in | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Craig D. Comartin | President | C.D. Comartin Associates | Stockton CA 95207-1705, USA | ccomartin@comartin.net | 

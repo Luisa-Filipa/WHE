@@ -1,0 +1,336 @@
+====== Stonework building with wooden timber roof, Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 114
+
+**Building Type:** Stonework building with wooden timber roof
+
+**Country:** Iran
+
+**Author(s):** Masoud N. Ahari, Alireza Azarbakht
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in most villages in the mountain regions of Alborz and Zagros (Figure 7). This type of housing construction is commonly found in rural areas. This kind of building is not practiced in major cities but only in rural cities and mountainous villages. The major reason for the popularity of this form of construction is that in mountainous regions, stone mines are easily accessible. Two kind of stones are used in these stonework buildings: 1-Rubble stone, a by-product of the mining industry (Figure 15). 2-Carcass stone, which comes from riverbeds (Figure 14).
+
+**Summary:** Stonework buildings are a common type of rural construction in many parts of Iran (Figure 7). It is widely used in the mountainous areas because of the ease of attaining the building material. More than 71,000 stonework buildings were built in 1968-1972 in comparison to 54,000 brick masonry buildings in these years [1]. Unfortunately these buildings are often found in highly seismic parts of Iran (see maps on WHE webpage for Iran). Buildings of this type are up to two stories high, with height/width aspect ratio on the order of 0.3-0.5. The building materials consists of stone, wood, mud mortar and straw. The major elements of these systems are stonewalls which carry both gravity and lateral loads. These walls consist of stone or stone ballast with mud mortar and straw. For reasons of thermal insulation the thickness of these walls is not less than 50 centimeters (usually 70 centimeters). Details of wall are shown in Figures 14 to 23. The roof includes wooden joists and a set of secondary joists which are plastered with a thick layer of mud (Figures 24 and 25). Different views of this kind of building are shown in Figures 1 to 5. Also a typical building view, plan and layout are shown in Figures 6 and to 12. Weak points of this construction type are: the presence of a heavy roof; inadequate behavior of the walls under out-of-plain forces (Figures 23 and 24); poor shear capacity of the mortar; inadequate connection between roof and walls; inadequate connection between intersecting walls; and lack of diaphragm action in floors and roof where the roof elements (wooden beams) do not work together in earthquakes and may collapse (Figures 26 through 29). In general, this kind of structure is frequently used as a house and stable in mountainous villages, but its earthquake performance is not acceptable. Any proper rehabilitation techniques may save many people's lives.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Usually this kind of building is used for living but sometimes when the building is located at the foot of a slope, the ground s
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** A typical plan of this kind of building is shown in figure 3.
+
+**Typical plan length (meters):** 
+
+**Typical plan width (meters):** 
+
+**Typical story height (meters):** 2.5-3
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is confined masonry wall system. The roof of the building is constructed with joists spaced at 20-50 centimeters which transfer loads from the roof to the walls (500-600 kilogram per square meter) and then walls transfer loads to the ground directly. Wall thickness is between 45-70 centimeters. These walls have no foundations. The lateral load-resisting system is confined masonry wall system. Walls carry the inertia forces produced by the roof mass. These loads must be transferred from the walls to the ground by in-plane behavior of the walls, but usually there is no proper path for adequately transferring these seismic loads to the ground in stonework buildings. Floors and roofs do not work as rigid diaphragms and there is rarely connection between the roof components (joists and secondary joists). Heavy floors and roofs are supported on walls without any connection (Figure 24). These deficiencies may cause separation and collapse of roof components as shown in Figures 30, 31 and 32. 1- Walls collapse under out of plane loads. 2- Improper arrangement of stone units may cause buckling of outer stones in walls (Figures 18, 21 and 26). 3- Walls collapse because of poor shear capacity of mortar; also there is not enough cohesion between stone units and mud mortar.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is none.
+
+**Wall Openings:** Most windows are about 120X120 centimeters and doors are 200X100 centimeters.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Usually there is no modification.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The roof includes wooden joists and a set of secondary joists which are plastered with a thick layer of mud (Figures 24, 25 and 5).
+
+**Additional comments section 2:** Usually they are constructed side by side and there is no distance between them.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | (wall) Stone; No frame. |  | 
+| Foundations | No foundation. |  | 
+| Floors | Joists with mud mortar and straw |  | 
+| Roof | Joists with mud mortar and straw |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Engineers or architects are not present in the design/construction of this housing type.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Builder
+
+**Roles of those involved in the building process:** The builder lives in this construction type.
+
+**Expertise of those involved in building process:** This kind of building is constructed by people lacking formal construction expertise. Sometimes expert bricklayers build these buildings with some special architectural features in the walls and roof but they are not certified.
+
+**Construction process and phasing:** First, the ground is excavated with a width of 80-100 centimeters and a depth of 50-100 centimeters for the wall perimeter. Next, the walls are constructed from bottom of this cavity. On rare occasions, a wooden column is used at the intersection of stone walls. Wooden beams are then placed on top of walls at a 20-50 centimeter spacing distance. The top surface of the beams is covered with thinner wooden beams or board(plank). Finally the roof is plastered with mud in two separate stages to achieve a total thickness of 20-30 centimeters. The construction of this type of housing takes place in a single phase. Typically, the building is originally not designed for its final constructed size. There is no special design & drawings for this kind of construction.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** These buildings are old. Building permits are required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** per m2 of built-up area expressed using a currency used in the region, and, if possible, an equivalent amount in $US in the brackets e.g. 200 Rs/m2 (5 $US/m2).
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically there is one family per housing unit that may sometimes include grandparents.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** Because this kind of building is placed in mountainous areas, the owners of them are usually peasants or shepherd.
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1985 | Ardabil | 5.8 | VII | 
+| 1990 | Manjil | 7.6 | | 
+| 1992 | Lordekan | 5 | VII | 
+| 2004 | Firoozabad | 6.3 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+	
+**Additional comments on earthquake damage patterns:** During earthquakes in the mountainous regions of Iran, there is extensive damage and many casualties in these buildings due to wall collapses. Figures 26 through 24 show typical damage of stone walls from earthquakes. After wall failure, the heavy roof generally collapses. Figures 30, 31 and 32 show evidence of this phenomenon.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** The roof consists of a mud-straw mix about 20-30 centimeters thick, which makes the roof very heavy. The walls are not connected together or to the roof with adequate connections. There are no tie beams or columns in these buildings. The walls do not have enough strength to resist out-of-plane forces. The mortar also has inadequate strength. Usually these buildings are placed on steep slopes in mountainous areas which have a high potential for landslides.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The combination of stone and mortar has low tensile and shear strength, especially for out-of-plane seismic effects. Sometimes openings such as walls and windows reduce the strength of the bearing walls. The perimeter walls are not sufficiently connected at the corners, and behave as separate elements, which causes damage in the wall corner connections.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** No Frame exists.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Usually they consist of heavy materials that behave as flexible diaphragms in earthquakes, which undermines the connections between the stone walls and the diaphragm. Also there is not a tie beam for integrity.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** Total collapse of this kind of building occurred during several past earthquakes in Iran. Figure 33 shows one of these catastrophes.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** 
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Stone Walls (Report in Persian) Iranian Management and Planning Organization 1376
+
+  * Retrofitting of Stone Houses in Marathwada Area of Maharashtra Arya,A.S. University of Roorkee, March 1994
+
+  * Firoozabad-e-Kojour earthquake reconnaissance report Eshghi,S. and Zare,M. International Institute of Earthquake Engineering and Seismology, 1383 (In prepartion)
+
+  * Lordekan earthquake report Chahar Mahal va Bakhtiary and F. Nateghi Elahi International Institute of Earthquake Engineering and Seismology, 1370
+
+  * Manjil earthquake report Roodbar,S.E. International Institute of Earthquake Engineering and Seismology, 1369
+
+  * Golestan-Ardebil earthquake report Ashtiani,M.G. International Institute of Earthquake Engineering and Seismology, 1377
+
+  * Building and housing types of Zanjan according to architects and materials Bonyade maskane enghelabe eslami, 1372
+
+  * Building and housing types of Gilan according to architects and materials Bonyade maskane enghelabe eslami, 1372
+
+  * A simple pictorial guideline for resistance construction of rural houses against earthquake (Report in Persian) Hosseini,B., Alemi,F. and Khaki,A. International Institute of Earthquake Engineering and Seismology 2005
+
+  * Maps referred to "Geology Survey of Iran"
+
+  * Seminars, Conferences, Personal communications and practical involvements
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Masoud N. Ahari | PhD student | IIEES | No. 20 Sabzali Allay Taslihat Square Shahid Madani Ave., Tehran , IRAN | noorali@iiees.ac.ir | 
+| Alireza Azarbakht | PhD student | IIEES | No 370 Alvand 4 St. Arash St. Shahrake Gandarmery, Tehran , IRAN | alireza_azarbakht@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

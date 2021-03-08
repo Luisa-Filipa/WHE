@@ -1,0 +1,357 @@
+====== Unreinforced masonry houses made of fired clay bricks, Malawi ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 205
+
+**Building Type:** Unreinforced masonry houses made of fired clay bricks
+
+**Country:** Malawi
+
+**Author(s):** Viviana Novelli, Panos Kloukinas, Ignasio Ngoma, Innocent Kafodya, John Macdonald, Katsu Goda
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this type are the most commonly used in Malawi for both formal and informal settlements. According to the 2008 Census, this building type represents 38.5% of all houses in the country. However, since Malawi is experiencing rapid economic and social changes, including population growth with a high annual rate of about 3%, the percentage mentioned above for this house type has increased considerably.
+
+**Summary:** Houses made of unreinforced masonry in Malawi are low-rise constructions (typically one-storey and rarely two-storey). A typical storey height is between 2.0m and 2.5m. The plan of the houses has a rectangular shape, and the footprint changes according to the needs and economic resources of the household. A typical footprint is 8mx6m. Houses with greater footprint than typical are generally constructed with better materials and better structural detailing than smaller ones. Bearing walls are single or double skin with a thickness ranging from 100mm to 280mm. The wall thickness varies depending on the size of bricks which are produced locally, with no standard procedure and quality control; the sizes of locally made bricks differ from those of the standardized bricks (220x110x55 or 215x102.5x55 mm). Timber wall plates, to support a roof structure, are used only occasionally on the top of the longest external walls of the houses. The most common mortar adopted for these houses is mud. However, cement is becoming popular, although this material is still considered expensive for the country. Irregular configurations of openings in the wall creates an uneven distribution of load path on spandrels and piers. Lintels on the top of the openings are often not in place. When lintels are implanted, these are made of bamboo/timber planks, masonry bricks, or concrete beams. Concrete lintel bands are used in new houses with masonry bricks and cement mortar. Most houses have pitched or sloped roofs, therefore houses have gables. The gable height is between 0.5m and 1.5m. Gable walls are rarely connected to the roofs, and gable bands are not used to prevent overturning of the gables during an earthquake. Two main roof systems that are adopted for this building type are: light timber truss supporting thatch and timber truss supporting corrugated light metal sheets. These roof systems are classified as light weight structure with a flexible behavior, as they are made of light timber planks and are completely disconnected from t
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Houses of this type have a wide variety in geometry, structural features, mechanical properties, and deficiencies. Although they
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Buildings of this construction type have rectangular shapes in plan, with internal walls distributed parallel or orthogonal to the external walls. Re-entrant corners are not considered as irregularity in plan that causes torsion under seismic events, since the observed re-entrant corners are not significantly deeper respect to the plan dimensions in both directions.
+
+**Typical plan length (meters):** 8
+
+**Typical plan width (meters):** 6
+
+**Typical story height (meters):** 2.00-2.50m
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud/lime mortarMasonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** External load-bearing walls can be single- or double-skin made of clay bricks with mud or cement mortar. The walls have the function to carry 1) gravity loads: self-weight and light roof, and 2) lateral loads from earthquakes and wind. Past post-earthquake assessments in Malawi and pictures of houses collapsed after Karonga Earthquake in 2009 in section 5.2, have underlined that double-skin walls are generally connected; therefore, houses are highly likely to collapse due to the overturning of at least two adjacent walls. Out-of-plane failure modes of a single wall generally occur in slender single-skin walls subjected to earthquakes.Internal load-bearing walls are mostly single-skin made of clay bricks with mud or cement mortar. The walls have the function to carry 1) gravity loads: self-weight, and 2) lateral loads from earthquakes, if these are connected to the adjacent external walls. Light roof does not sit on internal walls; therefore, the roof weight is only distributed on external walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** Two building types are applicable to the houses in Malawi 1) unreinforced masonry walls with mud mortar and 2) unreinforced masonry walls with cement mortar. Construction quality can vary significantly within the same type. If built properly (e.g. good connections and good quality materials), buildings with mud mortar can be more resistant than the ones with cement mortar. It is important that both types are considered together in relation to the structural quality detailing of the houses.
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** No additional comments.
+
+**Wall Openings:** Openings are mainly distributed on the longest external walls of the houses. The shortest external walls with gables do not always have openings, indeed only big houses have openings on external walls. Openings are evenly spaced and symmetrically distributed. On occasion, they are in a central position or are distributed on only one side of the external walls. The sizes of typical door are width of 800 mm and height of 1800 mm. Windows have different sizes; therefore, dimensions of piers/spandrels can vary within the same wall. Spandrel height can also be very different in the same wall, since openings are not always positioned at the same height. In some cases, spandrels are particularly small (only 300mm). For a typical external wall of 8m, the number of openings is 4 and the percentage of openings with respect to the area of the wall is around 4-5 %.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** New constructions often have a portico made of columns with unreinforced brick masonry or reinforced concrete. Irregularities are observed in the type of materials adopted in the external walls to increase the height of the houses, and to fix damaged walls. Presence of chimneys is also an element of vulnerability, which can be identified in larger houses with better construction detailing and good materials.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: No foundation
+
+**Additional comments on foundation:** - Houses with fired bricks and mud mortar with a size plan smaller than the typical one (8 m x 6 m) do not have foundations. The walls are built directly on the ground where pegs are placed as anchorages. Houses with larger floor footage have the plinth filled with compacted soil. The plinth walls are usually built directly on the ground. The plinth height of about 300 mm is constructed to prevent damage to the superstructure walls due to water ingress. - Houses with fired bricks and cement mortar often have plinth walls with 1) concrete strip footing with a depth of 230 mm or 2) plinth beams or slab. The inside of the plinth is filled with either compacted soil or crushed or screed surface finish. The plinth height of about 500 mm is constructed to prevent damage to the superstructure walls due to water ingress.
+
+**Type of Floor System:** No elevated or suspended floor system (single-story building)
+
+**Additional comments on floor system:** Houses of this class are generally single-storey buildings, and the ground level of this type is made with earth or concrete. In case houses have two storeys, the ground level is made of earth or concrete while the first upper floor is a flexible system made of timber beams.
+
+**Type of Roof System:** Wooden structure with light roof coveringBamboo, straw, or thatch roof
+
+**Additional comments on roof system:** Two main roof types for unreinforced masonry brick houses in Malawi are light timber truss-supporting thatch and timber truss-supporting corrugated light metal sheets. Traditionally, roofs were only made of thatching, but corrugated light metal sheets have become the most used roof system in Malawi. The timber truss, made of rafters of 150 mm x 50 mm running orthogonal to the longest external walls, sits directly on the external walls. The lack of pad stones under the purlins/rafters causes severe vertical cracks in the walls indicating an inappropriate distribution of the weight of the roof system. Wall plates are rarely adopted under rafters, and the use of timber ring beams to tie bearing walls is not part of the construction methods adopted for this type of buildings. Both roof types are light horizontal systems, and they are not considered fully rigid along the entire plane and therefore do not act as rigid diaphragms. Furthermore, the roofs are not connected to tie bearing walls, therefore they are not providing any restraints against lateral movements of the walls due to winds or earthquakes.
+
+**Additional comments section 2:** 
+
+**Infill wall material:** No additional comments.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Fired bricks made of clay and mud or cement/sand mortar | Recommended cement/sand mortar mixture ratios are between 1:4 to 1:6 (1:3 for special occasions and foundations), but in practice people use even less cement than 1:8. Mortar mixtures rarely contain any lime, it is only cement and sand. Brick sizes (in mm): 190x90x50, 200x100x60 and 220x110x60Bricks are solid and commonly laid on dry mortar. Due to these reasons, bonding between bricks and mortar is very weak. Ordinary clay bricks made locally have low compressive strengths between 1 to 6MPa. Accordingly, the masonry units have even lower compressive strengths between 0.5 and 3 MPa and are even weaker in tension (tensile strengths generally <0.1MPa) and shear (shear strengths generally <0.2MPa). |
+| Foundations | Plinth walls:1) with/without strip footing 2) with plinth beams or slab	| - Houses with fired bricks and mud mortar with a size plan smaller than the typical one (8 m x 6 m) do not have foundations. The walls are built directly on the ground where pegs are placed as anchorages. Houses with larger floor footage have the plinth filled with compacted soil. The plinth walls are usually built directly on the ground. The plinth height of about 300 mm is constructed to prevent damage to the superstructure walls due to water ingress.- Houses with fired bricks and cement mortar often have plinth walls with 1) concrete strip footing with a depth of 230 mm or 2) plinth beams or slab. The inside of the plinth is filled with either compacted soil or crushed or screed surface finish. The plinth height of about 500 mm is constructed to prevent damage to the superstructure walls due to water ingress. |
+| Floors | Timber beams, if houses are two-story buildings | Single-storey buildings: ground level is made of earth or concrete. Two-storey buildings: ground level is made of earth or concrete and first floor is a flexible system made of timber beams. |
+| Roof | Pitched or sloped roofs made of timber truss supporting 1) thatch or 2) metal corrugated sheet | Flexible light timber truss, with rafters of 150 mm x 50 mm, sits on wall plates running along the top external walls in the longest direction of the houses. Poor detailing is emphasized by lack of connection between walls/gable and roof, lack of ring beams to tie walls together, and lack of pad stones to ensure adequate load distribution of the roof. |
+| Other | Connected to the external walls | Made of bricks. They play an important role to prevent overturning of the walls under seismic loading. |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?:** None of the above
+
+**Roles of those involved in the design process:** A formal design process is not in place. Houses are made by owners/builders using local materials and local construction techniques without proper engineering design. The masons role is to build and advise the owner.
+
+**Expertise of those involved in the design process:** Not applicable.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** OwnerMasonBuilderOther
+
+**Roles of those involved in the building process:** Houses are made by owners/builders using local materials and local construction techniques without any engineering design. The masons role is to build and advise the owner.
+
+**Expertise of those involved in building process:** During constructions, there are no interventions by qualified architects and engineers and the building process is not based on licensing or accountability checks. Very little expertise is available and therefore the quality of the houses is generally very poor. Owners/masons involved in the building process do not have any technical knowledge on how houses should be built to be resistant against earthquakes. Their knowledge is based on local experience.
+
+**Construction process and phasing:** Construction materials are purchased by owners.The houses are built according to the following order -Papering the ground level, where walls will sit-Walls are built using traditional techniques and local materials -Roof is made in place and sits on the wallsTools typically used during the construction: measuring tape, hoes, builders level, strings, trowels, water drums, timber for pegs, and mortar holding points.
+
+**Construction issues:** Problems related to seismic vulnerability are not taken into account during construction.
+
+----
+
+=== Building Codes and Standards ===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** Standard: MS 791-1:2013 'The structural use of masonry - Part 1: Unreinforced masonry walling'. This standard is specifically for the design of masonry constructions, but this is not generally followed in practice.After the Karonga earthquake in 2009, SAFER HOUSE CONSTRUCTION GUIDELINES have been produced by the Department of Housing and Urban Development within the Ministry of Lands, Housing, and Urban Development to provide practical advice to those involved with the construction of houses.
+
+**Process for building code enforcement:** Not applicable.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** Yes
+
+**Is this construction typically authorized as per development control rules?:** No
+
+**Additional comments on building permits and development control rules:** Formal or traditional authority provides land allocation for all construction types in formal and informal settlements, and new constructions are registered at the local city council or district commission authority. However, in the informal settlements, since there is not a proper urban planning, and houses are built without or with minimum engineering intervention from an architect or structural engineer in the design and construction process, there is a very little control on the land use and the type of constructions in these settlements (Malawi News Agency, 2016; Food Agriculture and Natural Resources Policy Network, 2006; and Kishindo, 2004).
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Brick production has contributed to environmental problems including deforestation, decreased soil productivity, lowered ground water levels, and particularly air pollution. Deforestation and high CO2 emissions.
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** Houses are often deteriorated due to weathering and externals/internal walls are often damaged by severe cracks indicating partial failures of the houses. Most of the cracks are located under the rafters of the timber roof, underling an inadequate distribution of the load, although roofs are of light weight and flexible. Cracks are also visible on gables, failing for overturning since they are completely disconnected from the roofs. Lack of proper intersection between internal and external walls can be identified by the presence of vertical cracks located on external walls. Severe damage is also caused by settlements. Spoiling and crashing of the masonry bricks are also commonly observed. Interventions to prevent further damage are generally not adopted, and new houses or houses well-kept represent only a minority in the country.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Reference year for the following cost: 2018. Since Malawi is experiencing rapid economic and social changes, including population growth, as reported in section 1.3, the costs in this section may change rapidly in the future.The unit rate range per m2 is: K 11,000.00 to K 15,000.00 (US$ 15.00 to US$ 20.00). The costs are based on unit cost of materials and prevailing labour rates as prescribed by the Ministry of Labour.
+
+**Labor requirements:** Labour requirements-Required time to complete a house depends on the availability of the construction materials and the financial resources of the householder.-One mason with one helper lays 75 bricks per hour. (i.e. 600 bricks per day)-A mason with one helper takes 6 weeks to build a typical house (8 m x 6 m).
+
+**Additional comments section 3:** No additional comments.
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Dwelling houses.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** Mostly women and children live in these houses. During working hours, men are at work, or live abroad.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Reference year for the following cost: 2018. Since Malawi is experiencing rapid economic and social changes, including population growth, as reported in section 1.3, the costs in this section may change rapidly in the future. Economic level of inhabitants-Most inhabitants are in informal settlements with income of less than US$ 1 per day-People who are engaged in formal sector mostly get wages/salaries in range US$ 33 to US$ 250 per month-A bag of cement is US$ 10.The minimum salaries are set by the Ministry of Labour for urban and rural areas. Companies generally pay employers according to the minimum wages.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutionsCommercial banks/mortgages
+
+**Additional comments on financing:** The vast majority of the dwellings are owner funded. According to a UN-Habitat report, less than 20% of the population has access to bank loans and mortgages and more than 55% have no formal or informal borrowing sources.
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** According to the 2008 Census the ownership ratio is 87% nationwide, but it drops to 50% in urban areas. Information related to the rural area is not available.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Not applicable.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** Not applicable.
+
+**Additional comments section 4:** Not applicable.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2018 | 25 km from Nsanje, Southern Region, Malawi | ML 6.5 |  | 			
+| 2009 | 22.2 km from Karonga, Northern Region, Malawi | ML 7.0 |  | 			
+| 2009 | 2.2 km from Karonga, Northern Region, Malawi | ML 7.1 |  | 			
+| 2009 | 26 km from Karonga, Northern Region, Malawi | ML 6.3 |  | 			
+| 1999 | 47 km from Chala, Rukwa, Tanzania | ML 5.7 |  | 			
+| 1989 | 11 km from Salima, Malawi | ML 6.8 |  | 			
+| 1989 | km from Nkhata Bay, Northern Region, Malawi | ML 5.9 |  | 			
+| 1985 | 36 km from Usevia, Katavi, Tanzania | ML 5.9 |  | 			
+| 1976 | 36 km from Chama, Eastern, Zambia | ML 7.2 |  | 			
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The damage record from past earthquakes is limited. Information related to the damage patterns on this type of constructions is available from the 1989 Salima earthquake (Gupta and Malomo, 1995, Chapola and Gondwe, 2016) and the 2009 Karonga earthquake (United Nations Resident Coordinator, 2009, United States Geological Survey, 2009). During these earthquakes, many of the houses had severe vertical cracks along the side edge of the walls, underlining a lack of connection between facades that visibly collapsed for overturning. Out of plane failure mode was a very common mechanism for these buildings when they were constructed with slender single skin bearing walls. Lack of connections between walls and roof was also the cause of out of plane failure mode of gables. In these constructions, use of gable plates was not part of the construction practice, therefore gables were not restrained and purlins in the roofs were free to push against gable walls causing an arch crack pattern, commonly observed for these house types. In-plane failure modes were common for this type of houses. These failure modes were identified based on the observed crack patterns: 1) X-shape cracks on piers and spandrels, or 2) diagonal cracks involving the failure mode of entire walls. Corner failure modes were also observed for houses with double-skin walls, showing a better capacity and a stronger connection between walls than houses with single skin walls. Typically, houses with a corner failure mode had also a partial/total collapse of roofs.
+
+**Additional comments on earthquake damage patterns:** 
+	
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | N/A |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | N/A |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | FALSE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** These houses are simple rectangular shape constructions. Irregularity in plan or elevation is not a factor affecting the seismic performance, since the houses in question are of single storey. The main seismic vulnerability issues are: 1) poor structural detailing in the connections between (gable) walls and roofs. This causes out of plane failures, the mechanisms to which masonry bearing walls and gables with lack of detailing are mostly vulnerable. 2) Low mechanical properties of local materials. This causes an unpredictable response of the constructions, decreases the capacity of the houses and generates brittle seismic failures. 3) Lack of maintenance. This degrades the seismic capacity and increases the existing structural weakness in buildings. There are also other minor structural vulnerabilities observed for this type of houses, one of those are the re-entrant corners of the longest external walls in bigger houses. However, since the re-corners are never deeper than 1 m, they do not need to be considered as an element of irregularity that significantly impacts the seismic vulnerability. Porticoes are also a common irregularity for these constructions. These are rarely connected to the houses, and in many cases, they are composed by single columns disposed in front the main entrance of the houses to support thatch or corrugated metal sheets extended from the roofs. As these porticoes are generally disconnected from the houses, they do not impact on the building performance. However, they need to be considered as hazard elements, since they can collapse in case of an earthquake. Additional floors are rarely constructed. Occasionally, wall heights are increased using materials with different mechanical properties from the ones used in the initial construction.
+
+**Vertical irregularities typically found in this construction type:** Re-entrant corner
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Walls are made of clay masonry bricks produced locally. Mechanical properties of the local materials are much lower than the standardized ones. Intersecting external walls are generally connected, however they are often built with slender single-skin walls, which decrease the capacity of the building. The walls perform better when they are double skin and built with cement mortar. However, informal houses are mostly built with very weak mud mortar. Walls are disconnected from the roof in most of the houses and there are no elements (i.e. ring beams) tying walls together. Wall plates are occasionally used to support rafters.
+
+**Earthquake-resilient features in walls:** Connections between external walls are generally good. However, since the deficiencies, (i.e. slenderness of the walls and low mechanical properties of the materials) increase the vulnerability, low seismic performance is expected for these houses.
+
+**Seismic deficiency in frames:** Not applicable.
+
+**Earthquake-resilient features in frame:** Not applicable.
+
+**Seismic deficiency in roof and floors:** The main issue is related to the lack of connection between roof and walls.
+
+**Earthquake resilient features in roof and floors:** Roofs are flexible systems, consisting of detached timber posts which are rarely connected to the houses. Therefore, if a roof collapses under a lateral load, it might cause injuries, but not necessarily deaths.However, the lack of connections of the roofs to the walls results in inadequate load transfers from the roof to the walls, and high risk for the houses to fail in out of plane.
+
+**Seismic deficiency in foundation:** Deeper foundations are required.
+
+**Earthquake-resilient features in foundation:** Not applicable.
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | |  |  |
+
+**Additonal comments on vulnerability rating:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| overtuning of walls | build buttressesuse of standardised materialensure good intersections between walls |
+| lack of connection of the walls at the top level | timber ring beam at the top wall |
+| wall slenderness, poor mechanical proprieties	| Walls should be two skin layers and built with standardised bricks |
+| inadequate distribution of the load | lintels on the top of the openingPadstone to support raftersRegular opening |
+| improve connections between walls | quoinsuse of standardised materialImprove detailing in the connections |
+
+----
+
+**Additional comments on seismic strengthening provisions:** For buildings of this type, no strengthening interventions are in place. Therefore, the listed interventions above are proposed strategies to improve the building deficiencies.
+
+**Has seismic strengthening described in the above table been performed?** Not applicable.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Not applicable.
+
+**Was the construction inspected in the same manner as new construction?** Not applicable.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Not applicable.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not applicable.
+
+**Additional comments section 6:** Not applicable.
+
+----
+
+==== 7. References ====
+
+  * https://www.bristol.ac.uk/cabot/news/2017/prepare.html \\PREPARE project site.
+
+  * https://www.frontiersin.org/articles/10.3389/fbuil.2016.00030/full \\Goda, K., Gibson, E. D., Smith, H. R., Biggs, J., & Hodge, M. (2016). seismic risk assessment of Urban and rural settlements around lake Malawi. Frontiers in Built Environment, 2, 30.
+
+  * http://worldpopulationreview.com/countries/malawi-population/ \\World Population Review
+
+  * https://www.infona.pl/resource/bwmeta1.element.elsevier-4e9f865c-c01d-3205-a9ce-f0c708804c3f \\Gupta, H. K., and Malomo, S. (1995). The Malawi earthquake of March 10, 1989: report of field survey. Seismol. Res. Lett. 66, 20-27. doi:10.1785/gssrl.66.1.20
+
+  * Chapola, L., and Gondwe, J. (2016). Urban development in earthquake prone areas: lessons from 1989 Salima and 2009 Karonga earthquakes. J. Catholic Univ. Malawi 2, 15-26.
+
+  * http://reliefweb.int/disaster/eq-2009-000257-mwi United
+United Nations Resident Coordinator. (2009). Malawi: Karonga Earthquake Situ-ation Report No. 3.
+
+  * https://unhabitat.org/books/malawi-urban-housing-sector-profile/. \\UN-Habitat (2010). Malawi: Urban Housing Sector Profile.
+
+  * http://www.nsomalawi.mw/index.php?option=com_content&view=article&id=106&Itemid=6.
+National Statistical Office of Malawi (2008). 2008 Population and Housing Census.
+
+  * http://earthquake.usgs.gov/earthquakes/browse/significant. php?year=2009 \\States Geological Survey. (2009). Significant Earthquakes of the World
+
+  * https://www.tandfonline.com/doi/abs/10.1080/cjca0258900042000230023?journalCode=cjca20 \\Kishindo, P. (2004). Customary land tenure and the new land policy in Malawi. Journal of Contemporary African Studies, 22(2), 213-225.
+
+  * https://landportal.org/news/2016/09/malawi-new-land-laws-empower-chiefs-people \\Malawi: 'New Land Laws to Empower Chiefs, People 'REPORT from Malawi News AgencyPublished on August 1st 2016Source: AllAfrica.com / Malawi News Agency
+
+  * https://reliefweb.int/report/malawi/review-land-policy-malawi-fanrpan-policy-brief-no3 \\Review of land policy in Malawi: Fanrpan policy brief No.3REPORT from Food Agriculture and Natural Resources Policy Network.Published on 30 Jan 2006 
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+
+
+| Viviana Novelli | Research Associate | University of Bristol - Department of Civil Engineering | Queen's Building, University Walk, Bristol BS8 1TR | vn18530@bristol.ac.uk |
+| Panos Kloukinas | Senior Research Associate | University of Bristol - Department of Civil Engineering | Queen's Building, University Walk, Bristol BS8 1TR | p.kloukinas@bristol.ac.uk |
+| Ignasio Ngoma | Lecturer - Department of Civil Engineering | University of Malawi, The Polytechnic | Blantyre, Malawi | ingoma@poly.ac.mw |
+| Innocent Kafodya | Lecturer - Department of Civil Engineering | University of Malawi, The Polytechnic | Blantyre, Malawi | ikafodya@poly.ac.mw |
+| John Macdonald | Reader, Department of Civil Engineering | University of Bristol - Department of Civil Engineering | Queen's Building, University Walk, Bristol BS8 1TR | john.macdonald@bristol.ac.uk |
+| Katsu Goda | Associate Professor & Canada Research Chair in Multi-Hazard Risk Assessment | Western University, Canada - Department of Earth Sciences | London, ON N6G 2V4, Canada | kgoda2@uwo.ca |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^

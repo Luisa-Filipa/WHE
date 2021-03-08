@@ -1,0 +1,338 @@
+====== Reinforced-concrete frame with lightly reinforced-masonry infill, Belize ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report #:** 164
+
+**Building Type:** Reinforced-concrete frame with lightly reinforced-masonry infill
+
+**Country:** Belize
+
+**Author(s):** Laura Redmond, Reginald DesRoches
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in and around the larger cities of Belize like Belize City, Belmopan, and Corozal. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This type of home is a reinforced concrete frame building with brick infill on the second story. The infill may be lightly reinforced and the first story is either left open to prevent flooding in hurricanes, or later, when the individual has more money the bottom story is often infilled with masonry (which is not tied into the frame). This construction practice may make these structures vulnerable to seismic events as the building is effectively a large mass placed on top of a very flexible soft story. Additional vulnerabilities may stem from settlement of the wood pile foundations as the soil conditions are variable and generally no formal geotechnical surveys are done in Belize.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingMixed residential/commercial
+
+**Typical number of stories:** 1-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The main use of this construction typology is for residential purpose, but often in the downtown areas, the bottom story is inf
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Other
+
+**Additional comments on plan shape:** Buildings are regular in plan, but very often have an open first story, which could produce a soft-story mechanism.
+
+**Typical plan length (meters):** 10-15
+
+**Typical plan width (meters):** 10-15
+
+**Typical story height (meters):** 41702
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. The vertical load-resisting system is either designed as only reinforced concrete frame, or as a shared action between a lightly reinforced infill wall and the frame. If it is the latter, the wall typically has both vertical and horizontal rebar and is tied into the frame. Beams and slabs carry the floor loads to the columns and walls. The lateral load-resisting system is reinforced concrete moment resisting frame. The lateral load-resisting system is only designed to take wind pressure loads, not seismic ones. The infill walls are usually reinforced to withstand wind pressures. Walls are designed separately from the framing system and the frame is designed to take the entire lateral load, assuming no interaction between the frame and the wall, even though they are often tied together with rebar.
+
+**Gravity load-bearing & lateral load-resisting systems:** Most residential structures are built by contractors based on experience, rather than being designed. If an engineer or architect is hired to build the house, it is designed for gravity and wind loads, but no earthquake effects, and usually the infill walls have light reinforcing.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10%. This value is uncertain as we were unable to go inside any of the traditional houses.
+
+**Wall Openings:** There are typically one to two windows on each face of the building with a single front door.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The modification which is most typical is to infill the first story with masonry. Many buildings are constructed over a long period of time, leaving rebar exposed to weather. Sometimes additional stories are added when the foundations may not have been designed for that additional amount of load.
+
+**Type of Foundation:** Deep Foundation: Wood piles
+
+**Additional comments on foundation:** The foundation consists of wood files. Typically they have wood piles with concrete caps that attach to slab beams at the foundation. Since no soil testing is done in Belize, they are typically driven in until they do not move. Often, more than one tree trunk must be driven into the same location because the soil is so soft in some areas.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Flat slabs (cast-in-place) Timber: Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles Roofs are typically either a reinforced flat slab (~40% of residences) or a metal sheeting roof on timber trusses (or just rafters) and purlins (~60% of residences).
+
+**Additional comments section 2:** The typical distance from a neighboring building varies depending on whether it is built in the busy downtown areas or outside the city center. Downtown, houses can be as close as 1 meter, away from the city center, typical separation distance is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | CMU block/Reinforced concrete | Wall: Blocks have 1800psi compressive strength. 6-8" Block Production Facility follows ASTM If reinforced they are grouted every 12# with a no. 5 bar, and most have horizontal rebar tying into the concrete columns. Frame: They are 3500psi and up, depending on job specifications. Mix proportions vary by project, and most have a 0.4 to 0.6 water to cement ratio. Cement is Type I imported from Mexico. The limestone, sand and other aggregate is obtained from local quarries. | 
+| Foundations | Timber piles | Entire tree trunks are used as piles | 
+| Floors | The floors are reinforced concrete solid slabs. | If concrete is used its compression strength is 3500 psi and up, depending on job specifications. | 
+| Roof | The roof is either a flat reinforced slab or corrugated metal roofing with timber trusses. | If concrete is used its compression strength is 3500 psi and up, depending on job specifications. Only about 50% of roofs have adequate tie downs. | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitectOther
+
+**Roles of those involved in the design process:** In formally constructed residences, the house is designed and plans are drawn by either a technician, an architect or an engineer and sent for approval by the Central Building Authority.
+
+**Expertise of those involved in the design process:** Most residential homes are not "designed" and are drawn up by technicians with high school or technical college degrees who have experience in construction. Details are generally determined based on experience and similarly sized projects. Larger projects require the stamp of an engineer, who must have a 4 year degree and be licensed.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerContractorOther
+
+**Roles of those involved in the building process:** In formally constructed residences the house is built by a contractor who is hired by the homeowner. Informal construction is typically built by the owner or the community.
+
+**Expertise of those involved in building process:** Construction workers and contractors typically have no formal training.
+
+**Construction process and phasing:** Once they have a building permit, construction is conducted in a single phase by either the engineering company, or a contractor the owner has hired to build the house. Informal construction does not undergo any formal design process and often plans are not even drawn. The construction may be conducted in phases if the individual does not have enough money to complete it in a single phase, often leaving the rebar exposed to weather for several years. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. Although typically constructed in one phase lasting approximately 5 months, informal construction can occur over several years.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** The Central Building Authority (CBA) is a new governing body established in 2008, it is comprised of a 12 person board and 4 inspectors. Their primary purpose is to make recommendations to the local building authorities within each city. Currently the CBA recommends using the IBC design code, but the CUBiC, British Standards, and UBC are also commonly used. The year the first code/standard addressing this type of construction issued was 1986. The Caribbean Uniform Building Code, (CUBiC) was the first national code ever recognized. The most recent code/standard addressing this construction type issued was 2008. The most current recommendation of the Central Building Authority is to use the IBC standard.
+
+**Process for building code enforcement:** In order to get a permit to build, the CBA recommendations specify that a building 1-2 stories tall and less than 1,000 sq. ft. can be constructed by a technician or #design# process; buildings that are 1,000-3,000 sq. ft. must have the stamp of either an architect or engineer, and buildings greater than 3,000 sq. ft. must have the stamp of both an engineer and an architect. However, no calculations must be submitted, just the final drawings with the appropriate stamps needed for approval. Inspections are conducted before occupancy and for a change of use. CBA also recommends routine inspection of commercial structures every four years. However, the CBA has no direct control over the municipal inspectors, who can choose to follow the CBA recommendations or not. However, the CBA does supersede the municipal authorities if a dispute arises. For example, if a resident feels that the local authority did not do a good job of reviewing their permit requests, or that their neighbor is building something that should not have been approved, but the municipal authority approved, he can petition the CBA. The CBA can then overrule the decision of the local authority, if it is found to be incorrect.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Again, because the CBA has limited power, houses are often built informally without authorization.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** The CBA recommends routine inspection of commercial structures every four years, but the local district authorities can choose rather or not to enforce this requirement. Residential construction is maintained by the owner.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The completed house costs up to an estimated $200/m2.
+
+**Labor requirements:** A house typically takes 5 months to construct.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically residences in urban areas are occupied by the nuclear family and sometimes have businesses in the first story. Residences in rural areas typically do not have any commercial space in the building and the building will be occupied by both the nuclear and extended family.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of inhabitants in a building during the day or business hours is 5-15 (upper limit based on commercial space in the first floor). The number of inhabitants during the evening and night is 5-12 (upper limit if extended family is living in same household).
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Depends very much on the location of the building and how many people live in the house. The higher-income families live in the cities and do not share the home with extended family. Lower-income families live in rural areas and will share the home with extended family. Ratio of housing unit price to annual income: 4:1
+
+**Typical Source of Financing:** Personal savingsCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own with debt (mortgage or other)Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** Insurance is now available against floods, hurricanes and earthquakes.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | (15.32#N, 89.10#W) | 7.5 |  | 
+| 1977 | (16.70#N, 86.61#W) | 6.1 |  | 
+| 1980 | (15.89#N, 88.52#W) | 6.7 |  | 
+| 1997 | (16.16#N, 87.92#W) | 6.1 |  | 
+| 1999 | (15.78#N, 88.33#W) | 6.7 |  | 
+| 2009 | (16.73#N ,86.22#W) | 7.3 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+
+**Damage patterns observed in past earthquakes for this construction type:** Most past earthquakes have not shown significant damage to the concrete-type housing. This is primarily because the past earthquakes have been far off the coast of Belize in the Caribbean Sea.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 1) Lateral Load Path: Not designed for EQ forces. 2) Building Configuration: regular in plan but not in elevation (soft story). 3) Roof Construction: roofs not designed for EQ, about 50% have adequate tie-downs for hurricanes.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Soft/weak story
+
+**Seismic deficiency in walls:** The infill walls may be unreinforced, which may fall out during a seismic event. If the walls are reinforced, they connect through the frame and this additional lateral stiffness is not accounted for. Earthquake Damage Patterns: Cracking of the infill wall in small seismic event
+
+**Earthquake-resilient features in walls:** Most of the walls have light reinforcement to prevent them from falling out during a seismic event
+
+**Seismic deficiency in frames:** Not designed for earthquake forces. Often small 10-14" and lightly reinforced. If masonry walls have reinforcement connecting through the frame this additional stiffness is not accounted for. Soft story mechanisms are likely because the bottom level is often left open.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Most roofs are not designed for earthquakes and do not have out-of-plane bracing, additionally only about 50% of roofs have adequate tie-downs. No earthquake damage observed, but many roofs taken off during hurricanes.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** Soils are variable and no testing is conducted. Houses often have visible settlement. Earthquake Damage Patterns: Houses sunk several feet into the ground.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  %%|-%%  | o |  %%-|%%  | |  |  |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Soft story on open first level | Strengthening of Existing Construction: Additions of shear walls at first story | 
+| Lack of continuity and lateral stability of roof | Strengthening of Existing Construction: Applying roof ties to timber and corrugated metal roofing | 
+| Unreinforced infill likely to fall out in a seismic event | Strengthening of Existing Construction: Use fiber reinforced polymer to confine masonry into wall, or place reinforcement in the wall by drilling through beams above and fully grout. | 
+| Large settlements in soft soils | Strengthening of New Construction: Conduct soil testing to determine locations of soft clay and the depth needed to drill to bedrock | 
+| Soft story on open first level | Strengthening of New Construction: Additions of shear walls and columns at first story | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Currently there are no companies with soil testing equipment or capabilities, but this is certainly needed.
+
+**Has seismic strengthening described in the above table been performed?** Retrofit practices have been started by a few companies in Belize, who have rebar scanners and insert reinforcement where it is not found to strengthen the structure. Some retrofit with respect to hurricanes has also been started using roof ties for timber roofs and corrugated metal roofing. Limited retrofit has begun using FRP wraps on commercial structures.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The work was done as a mitigation effort on an undamaged building.
+
+**Was the construction inspected in the same manner as new construction?** The construction retrofits are inspected in the same manner as new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An engineer or contractor performed the construction of the seismic retrofit measure.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** There has been no documented case of performance of these retrofits in subsequent seismic events.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Personal communication (interview) Dwayne A.W. Thurton Anthony Thurton and Associates Limited, P.O. Box 777, 1 # Mls Western Highway, Belize City, Belize
+
+  * Personal communication (interview) Carlton N. Young Youngs Engineering Consultancy Limited, 828 Coney Drive, P.O. Box 2665, Belize City, Belize
+
+  * Personal communication C. Phillip Waight Building Authority, 23 Cor. Baymen Ave & 5th St., P.O. Box 2589, Belize City, Belize
+
+  * Earthquake in Belize - Monkey River Hardest Hit Belize News Post Images of the Damage, http://belizenewspost.com/2009/06/02/belize-news/earthquake-in-belize-monkey-river-hardest-hit-images-of-the-damage/ 2009
+
+  * Official Website of the Central Building Authority Central Building Authority http://cbabelize.com/
+
+  * International Building Code International Code Council (2009)
+
+  * Uniform Building Code International Council of Building Officials (1997)
+
+  * Caribbean Uniform Building Code Organization of Eastern Caribbean States (1986)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Laura Redmond | Civil Engineering | Georgia Institute of Technology | Mason Building, 790 Atlantic Drive, Atlanta GA 30332, USA | laura.mae.redmond@gmail.com | 
+| Reginald DesRoches | Civil Engineering | Georgia Institute of Technology | Mason Building, 790 Atlantic Drive, Atlanta GA 30332, USA |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Emrah Erduran | Dr. | NORSAR, Program 3: Earthquakes and the Environment | Kjeller 2027, NORWAY | emrah@norsar.no |

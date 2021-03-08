@@ -1,0 +1,323 @@
+====== Reinforced concrete frame structure with diagonal bracings and brick infill walls, Reinforced concrete frame structure with diagonal bracings and brick infill walls ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 71
+
+**Building Type:** Reinforced concrete frame structure with diagonal bracings and brick infill walls
+
+**Country:** Romania
+
+**Author(s):** Maria Bostenaru Dan, Ilie Sandu
+
+**Last Updated:** 
+
+**Regions Where Found:** There are a few existing buildings of this type in Bucharest. These buildings were retrofitted after the 1977 earthquake and they are still in use.This type of housingconstruction is commonly found in urban areas.
+
+**Summary:** This is a Post-World War II variant of the well-known Romanian 'inter-bellum' building. This urban housing construction was practiced in Romania over a rather short period of time, after the World War II until the nationalisation in 1947. Buildings of this type are still in use, mainly as apartment buildings. Buildings are typically 7 to 11 stories high and the main load-bearing structure consists of a reinforced concrete space frame with reinforced concrete diagonal bracings. The floor structure consists of RC solid slabs and beams cast in place. The frames are infilled with brick masonry walls (typical wall thickness 140 mm or 280 mm). These buildings were designed according to the temporary guidelines issued in 1941 by the Ministry of Public Works (MLP); the guidelines were based on the German recommendations. This region is well known as a seismically prone area, with the epicentre of damaging earthquakes close to Vrancea. Earthquakes with the Richter magnitude of over 7.0 occur once in 30 years. Bucharest, the capital, is located around 150 km south of the epicentre and lies in the main direction of the propagation of seismic waves. The Bucharest area is located on the banks of the Dmbovita and Colentina river, on nonhomogenous alluvial soil deposits. During the earthquake of 4 March 1977 (Richter magnitude 7.2), over 30 buildings collapsed in Bucharest, killing 1,424 people. It should be noted that buildings of this construction type had experienced severe damage, mainly cracking in the columns and the brick masonry infill walls, however collapse was not reported. After the 1977 Vrancea earthquake, the damaged buildings were repaired and strengthened. One of the example buildings described in this contribution was retrofitted by strengthening the existing columns with new reinforced concrete jackets and replacing the existing brick masonry infill walls with new lightweight concrete block walls. It should be noted that the diagonal bracings were removed as a part of the retrofit. Another example shows a t
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** No
+
+**In practice as of:** 1947
+
+**Building Occupancy:** Residential, 10-19 units
+
+**Typical number of stories:** 5-8
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Blocks of apartments of this type were built after the World War II until the nationalisation in 1947. Period of practice was le
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Mostly rectangular, with notable exceptions; for example, a building with triangular-shaped plan is shown in this contribution.
+
+**Typical plan length (meters):** 15-20
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 2.75
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed with seismic effects, with URM infill walls
+
+**Additional comments on structural system:** Reinforced concrete ftrame supported by two-way slabs on beams. Although the brick infill walls are not considered a part of the load-bearing structure, these walls carry an increased gravity load in the course of time, due to the reduced load-bearing capacity of reinforced concrete structure caused by the corrosion.The main load-bearing structure consists of a reinforcedconcrete space frame with reinforced concrete diagonal bracings and masonry infill walls. The floor structure consists oftwo-way RC solid slabs supported by beams cast in place. The masonry infill walls are 140 mm or 280 mm thick andthey are considered as nonstructural walls. In some buildings of this type the braces were removed as a part of theretrofit. Figures 10 and 13 illustrate possible bracing layout.
+
+**Gravity load-bearing & lateral load-resisting systems:** These buildings, along with having RC frames, also have RC diagonal braces.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The main loadbearing system is concrete frame, and the information regarding wall density is not relevant.
+
+**Wall Openings:** There is one window in each room. The windows in these buildings are much wider than in their predecessors, the inter-bellum buildings. The width of a window is equal to 60% of the wall length, and the total area of windows constitutes up to 24% of the wall surface area. Each room has a door, however in this building type doors constitute less than 30% of the wall surface area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The dwellings have been modified after the 1978 retrofit, however the modifications vary from building to building and it is hard to generalize. The building plan presented in this contribution was recorded based on the actual condition in November 2001. Neither the original (as constructed) building plan nor the plan existing at the time of the 1977 earthquake are available. It is known that, in general, the new inhabitants after 1948 made their own modifications, and did not follow the regulations concerning the building space. Modifications of the building interior arrangement and in the structural elements were made as a part of the retrofit following the 1977 earthquake. Details of the modifications are not available.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** The columns are supported by the individual (isolated) footings tied with the beams.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Floor and roof structures are two-way solid slabs with beams; cast-in-place and precast solid slabs
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Floor and roof structures are two-way solid slabs with beams; cast-in-place and precast solid slabs
+
+**Additional comments section 2:** Whenseparated from adjacent buildings, the typical distance from a neighboring building is several meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | brick masonry infill walls | brick dimensions 280 x 140 x 70 mm 28-day cube compressive strength Quality A= 21.0 MPaCommercial steel yield strength = 240 MPa | 
+| Foundations | reinforced concrete |  | 
+| Floors | reinforced concrete |  | 
+| Roof | reinforced concrete |  | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** Information not available.
+
+**Expertise of those involved in the design process:** Information not available.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Information not available.
+
+**Expertise of those involved in building process:** Information not available.
+
+**Construction process and phasing:** There were no data available about the original construction which took place in 1946. The retrofit was completed byspecialized teams, with adequate background and technical skills. The construction of this type of housing takes placein a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** "Provisions for the Design andConstruction of Reinforced Concrete Buildings" (contained seismic provisions based on the Germanrecommendations).The recommendations included the seismic zonation of the country into 2 zones and had dividedthe buildings into 3 categories according to the number of floors. The recommendations also address the type offoundations, the presence of underground water, masonry construction materials, wall thickness, and the provision ofmetal anchors or tie beams. For buildings higher than 2 floors, seismic provisions were required to resist seismic forceslarger than 5% of the supported weight. Also included were prescriptions related to the quality of mortar, constructionrules for clay brick masonry, distribution of reinforcement bars and stirrup spacing in columns and joints, based oncommon deficiencies observed in earthquake-damaged buildings. These recommendations were only partially followedduring the World War II, however some designers had introduced reinforced concrete diagonal bracings in the endpanels of taller buildings. Later on, P.13-70 and STAT 9684-74 were developed as mandatory provisions. (Prager,1979). The year the first code/standard addressing this type of construction issued was 1942. P100-78 (containsseismic provisions)-used for the evaluation of buildings damaged in the 1977 earthquake P100-92 "Standard forseismic design of residential, public, agricultural and industrial buildings". The most recent code/standard addressingthis construction type issued was 1992.
+
+**Process for building code enforcement:** Information not available.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** This construction practice is no longer followed.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Information not available.
+
+**Labor requirements:** Information not available.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family per housing unit, and two housing units per floor.Each building typically has 10-20 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** About 4inhabitants per housing unit so more than 80 inhabitants occupy the building.
+
+**Economic level of inhabitants:** High-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** ADAS insurance available.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1977 | Vrancea | 7.2 | 8 (MMI) | 
+| 1986 | Vrancea | 7 | 8 (MMI) | 
+| 1990 | Vrancea | 6.7 | 7 (MMI) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No damages to the buildings of this type were observed in the 1986 and 1990 earthquakes. In the 1977 earthquake (M7.2), no significant damages were observed on other buildings of similar construction.
+
+**Additional comments on earthquake damage patterns:** -The brick masonry infill walls were damaged in the 1977 earthquake (crack width over 0.3 mm).-The example building was affected by the 1977 earthquake. Over 30% of the columns were cracked. - The bracings were severely damaged in the 1977 earthquake. T
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - Irregular wall layout; - Too heavy walls; - Walls not a part of the loadbearing structure; - Wide openings
+
+**Earthquake-resilient features in walls:** - Very rigid; might be of assistance to the frame structure to behave as a dual (frame-wall) system
+
+**Seismic deficiency in frames:** #NAME?
+
+**Earthquake-resilient features in frame:** #NAME?
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** Behave as rigid diaphragm
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** The structural role of the infill walls was neglected in the original design performed according to the 1941 temporaryguidelines for seismic design.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Almost 30% of the total number of columns were cracked | Jacketing of columns with reinforced concrete (see Additional Comments and Figures 15-17); As a result of the jacketing, the original column size (450 x 450 mm) was increased to600mm x 600mm. The jacketed columns are shown in yellow color in Figure 7 |
+| Cracking of brick masonry infill walls (crack width over 0.3 mm) | #NAME? | 
+| Severely damaged RC bracing | The damaged bracings were removed. The original position of bracings is shown in Figure 7 (blue lines). It should be noted that the bracings were not removed in all buildings of this type. The bracings were not removed in the buildings that suffered less damage in the 1977 earthquake. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** Seismic strengthening of deficient concrete columns was accomplished using a jacketing technique. It is very important to achieve an adequate connection between the existing and new concrete. The following solutions can be applied: (a) Anchorage by means of new ties connecting new and existing reinforcement. Welding is not necesssary, however chipping off the concrete cover in the existing column is required (in order to enable passing of hooks of the new ties). (b) Connection by means of bent bars welded to the vertical reinforcement. The concrete must be chipped off locally, in order to expose the vertical reinforcement bars in the areas where bent bars are going to be provided. In this way, concrete keys capable of transmitting shear forces are formed and the force transfer between the existing and the new concrete is achieved. (c) Welding of additional ties to the existing column. The concrete cover in the tie region must be removed and each new tie must be welded to the existing one. The above described solutions are also presented in the UNIDO (1983) publication. Dritsos (2000) prvides details about steps followed in applying one-sided RC jacketing. RC jacketing solution likely to have been adopted in this case is shown in the FEMA 172 publication, as illustrated in Figures 16 and 17.
+
+**Has seismic strengthening described in the above table been performed?** Yes
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** The work was done as post-earthquake rehabilitation following the March 1977 Vrancea earthquake. Due to the severe damage the building was evacuated and supported on temporary shoring immediately after the earthquake and was retrofitted in 1978. The buildings were built in 1946/47 and became state property (nationalisation) in 1948. The owners were evacuated, the institutions were changed frequently, while the buildings were also modified. The documents in the archives were lost or are not accessible. The data and drawings required to understand the original design would have to be obtained from technicians practicing at the time. Neither the construction drawings for the original design, nor the retrofit project drawings were available.
+
+**Was the construction inspected in the same manner as new construction?** The construction was inspected according to the current codes (P100-78).
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** After the 1977 earthquake the retrofit design was developed by the "Institute for Building Design (IPC)". The design has referred to the 1941 Temporary Instructions of the MLP used in the original design and the then current standard P100-78, which contained seismic design criteria. Specialist architects and civil engineers were involved in the retrofit design.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The earthquakes in 1986 and 1990 did not cause any damage to the retrofitted buildings.
+
+**Additional comments section 6:**
+----
+
+==== 7. References ====
+
+  * UNIDO (1983). Repair and Strengthening of Reinforced Concrete, Stone and Brick Masonry Buildings. Volume 5, Building Construction Under Seismic Conditions in the Balkan Region, UNDP/UNIDO Project RER/79/015, United Nations Industrial Development Organization, Vienna, Austria.
+
+  * FEMA 172 (1992). NEHRP Handbook of Techniques for the Seismic Rehabilitation of Existing Buildings, Building Seismic Safety Council, Washington, D.C., figures 3.1.2.2b
+
+  * Dritsos, Stefanos (2000). "Ep.s.e... .a. e..s..se.. .atas.e... ap. .p..s... s....dea" (Retrofit of Reinforced Concrete Buildings) (in Greek), The University of Patras, Greece, p. 212.
+
+  * Betonul armat Prager,E.Editura Tehnica, Bucharest, 1979. p. 453-454 1979
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Maria Bostenaru Dan | Researcher | Urband and Landscape Department, Ion Mincu University of Architecture and Urbanism | str. Academiei nr. 18-20, Bucharest 010014, ROMANIA | Maria.Bostenaru-Dan@alumni.uni-karlsruhe.de | 
+| Ilie Sandu | Ing. | Bucharest Romania |  |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Vanja Alendar | Research Associate | Dept. of Civil Engineering, University of Belgrade | Belgrade 11001, SERBIA | vanja@imk.grf.bg.ac.yu | 

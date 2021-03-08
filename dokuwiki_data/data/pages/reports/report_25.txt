@@ -1,0 +1,325 @@
+====== Steel frame with semi-rigid "Khorjini" connections and jack arch roof "Taagh-e-Zarbi", Iran ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 25
+
+**Building Type:** Steel frame with semi-rigid "Khorjini" connections and jack arch roof "Taagh-e-Zarbi".
+
+**Country:** Iran
+
+**Author(s):** Arzhang Alimoradi
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Iran. In general, this housing type constitutes 30 to 40% of urban construction types in most of the Iranian cities. However, in northern provinces (Golestan, Mazandaran, Gilan) and in the areas close to the central desert of Iran, (Khorasan, Yazd, and Sistan-va-Baloochestan) this ratio is lower (around 20 to 35%). This type of housing construction is commonly found in both rural and urban areas. This system of construction is not obviously the first choice for low-income families living in the villages but it's more widely spread in the cities where material and workmanship can be found cheaper.
+
+**Summary:** This is a common type of urban/rural construction in many parts of Iran. It is widely used in the cities as a popular structural system for low-rise residential buildings because of ease of construction and erection of the frames. Buildings of this type are up to 5 stories high, with height/width aspect ratio on the order of 1.5. This system consists of a special kind of steel framing with heavy brick infills as partitions. Roof girders are connected to the supporting columns by means of semi-rigid connections. Diaphragms may range from flexible to rigid depending on the detailings and the construction quality. The structure is extremely heavy because of the brick infills between the roof beams. Roof is constructed in the form of a shallow arch called jack arch. Roofs, ceilings, and floors constructed in this way contributed to building failures and to an unusually high death toll in many recent earthquakes in Iran. As many as half the buildings completed in the early 1970s in Iran had jack arches. In a jack arch system, steel beams or a reinforced concrete joist system span the distance between the main girders across the length of the building. An arch made of small bricks connect the beams. Each arch has a rise of only about ten centimeters. The "valleys" of this wave-like surface are filled with mortar. The completed ceiling, roof, or floor is thick and heavy. Frequently the steel support beams are not tied together properly or are left untied (From: http://www.johnmartin.com/eqshow/647014_00.htm). Seismic vulnerability of this system is observed as medium to high. The dynamic behavior of the system in the two main perpendicular directions of the building plan differs significantly because of the differences in the stiffness and configuration of the connections in these two directions. Furthermore, "X" bracings are usually used in the weak direction which futher magnifies the non-uniform behaviour of the structural system.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 unitsMixed residential/commercial
+
+**Typical number of stories:** 2-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** The question of how to estimate the rigidity of this type of connections has been the subject of many analytical and experimenta
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Buildings of this type are generally of rectangular shape, however there are also cases of irregularities in plan and height. (Figure 19)
+
+**Typical plan length (meters):** 12-20
+
+**Typical plan width (meters):** 9-15
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Steel: Moment Resisting Frame: With brick masonry partitions
+
+**Additional comments on structural system:** The vertical and lateral load-resisting system is steel moment resisting frame. Consists of Steel frames (girders and columns with semi-rigid connections). 1- Light bracing, L or T sections, most of the times in one direction of the building only (perpendicular to street) where the building does not have any openings and hence connected to the adjacent building. 2- On the other sides, lateral forces are resisted by means of semi-rigid connections #Khorjini# (Figures 3, 4 and 5). 3- Also un-reinforced brick infills between frame panels (without any gap) may contribute to the lateral force resistance but usually during seismic analysis and design process their effects are ignored and the R factor (inelastic reduction factor of seismic coefficient) is rather chosen based on the bare steel frame (as a common mistake). According to the Iranian National Building Code, steel bracing should be provided in both directions of the building.
+
+**Gravity load-bearing & lateral load-resisting systems:** As mentioned before, buildings of this type have X bracing in one direction (perpendicular to the street) and semi-rigid connections in the other direction.
+
+**Typical wall densities in direction 1:** 4-5%
+
+**Typical wall densities in direction 2:** 4-5%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 5%. 4%.
+
+**Wall Openings:** In most of the cases openings are only in two parallel sides of the building plan as in the other two sides the building is standing side by side by the neighboring structure. X bracings are provided in the closed sides.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Adding stories on the top of the building, removing the partition walls.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footing
+
+**Additional comments on foundation:** Seismic problems related to the foundation system are rare. Single footings are connected to each other by strong ties.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Masonry and steel jack arch structure; Roofs/floors are very heavy and behave as flexible diaphragm unless special detailing is considered. The system consists of parallel roof steel beams at about one meter distance; beams support the shallow brick arches which are covered and leveled by gypsum finishing.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Masonry and steel jack arch structure; Roofs/floors are very heavy and behave as flexible diaphragm unless special detailing is considered. The system consists of parallel roof steel beams at about one meter distance; beams support the shallow brick arches which are covered and leveled by gypsum finishing.
+
+**Additional comments section 2:**
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Masonry (clay brick and cement/lime mortar) Steel | Clay brick masonry: fc=200 Kg/sq cm characteristic strength, 1:6 / 55 X 110 X 220 (mm) mix proportions/dimensions Steel bars: 2400 kg/sq cm characteristic strength | 
+| Foundations | Reinforced Concrete | f'c=250 kg/sq cm characteristic strength, 1:2:4 mix proportions | 
+| Floors | Steel Beams+Masonry Infill, (Brick and Gypsum) |  | 
+| Roof | Steel Beams+Masonry Infill, (Brick and Gypsum) |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** EngineerOther
+
+**Roles of those involved in the design process:** Usually the whole process of construction is being done by a team of workers (not always certified workers). A registered engineer checks the final design.
+
+**Expertise of those involved in the design process:** In spite of many lessons learnt in the previous earthquakes proving poor performance of this structural system, many engineers still design the buildings using this system. Lack of quality control by the engineers during design and construction is obvious.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** These days it is typically designed and built by the developers.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** In most of the cases, owner or a contractor on behalf is in charge of the construction. The construction process has 3 main parts, excavation and foundation construction, steel frames erection, masonry works and the installation of electrical and mechanical systems. Simple machinery is used throughout the construction like a small crane. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** The main issue which causes problems during dynamic behavior is associated with the modelling of the "Khorjini" connections (girder to columns). Also lack of precise detailing at design stage contributes to some careless construction practices of the system.
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** #Iranian Code of Practice For Seismic Resistance Design of Buildings, 2nd Edition 1999, Iranian National Building Code"; special detailing required to improved the seismic performance are addressed in the appendix. The first code/standard addressing this type of construction was issued in 1999.
+
+**Process for building code enforcement:** The new edition of the #Iranian Code of Practice for Seismic Resistant Design of Buildings-Standard No. 2800#, which is a very well prepared code, was subjected to the Iranian government approval in December 1999. However there are not much strong interest among building officials towards the enforcement of the code and and quality control of the constructed infrastructures in many parts of the country is low. "In general the building departments of municipalities have the responsibility to check and approve the design process, however the design engineer holds the responsibility for the projects. When the construction is completed then the municipal authorities check the finished project to issue the occupancy permit." (Ref: www.johnmartin.com/EERI).
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** 2,000,000.00 Rials/sq m (US$ 250.00 /sq m) (Note: Exchange rate of US$ 1.00 = 8,000 Rials is used).
+
+**Labor requirements:** Foundation: 20 Days - 1 Technical Staff - 5 Workers Steel Structure Erections and Masonry Work: 3 Months - 2 Technical Staff - 10 Workers Final Finishing: 4 Months - 2 Technical Staff - 6 Workers.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically one family occupies one housing unit. Each building typically has 2-6 units.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 10-20
+
+**Additional comments on number of inhabitants:** Roughly, an Iranian family has 4~6 members.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse Economic Level: For Poor Class the Housing Unit Price is 10,000 and the Annual Income is 3,000. For Middle Class the Housing Unit Price is 60,000 and the Annual Income is 6,000. For Rich Class the Housing Unit Price is 250,000 and the Annual Income is 50,000.
+
+**Typical Source of Financing:** Owner financedPersonal savingsInformal network: friends or relativesCommercial banks/mortgages
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Units owned individually (condominium)Long-term lease
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1990 | 36.96 N, 49.41 E, Rudbar-Manjil | 7.3 |  | 
+| 1997 | Bojnoord | 6.1 |  | 
+| 1997 | Ardebil | 5.5 |  | 
+| 1997 | 33.654 N latitude and 59.739 E longitude according to USGS, Ardekul | 7.3 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** Walls: Out of plane collapse, Classical X shear cracking. Frames: Buckling of the storey. Roof/Floor:Total/partial collapse. Connections: Excessive rotations, shear failure of the welds, unsitting.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Cracking at the corners of un-reinforced masonry walls. Out-of-plane collapse of unanchored walls.
+
+**Earthquake-resilient features in walls:** Relatively enough in-plane stiffness, which contributes to the lateral resistance.
+
+**Seismic deficiency in frames:** Buckling/collapse of the first-story columns due to soft story behavior. Buckling of the braces.
+
+**Earthquake-resilient features in frame:** Generally enough storey shear resistance. Shear failure is rare.
+
+**Seismic deficiency in roof and floors:** Insufficient roof support, vulnerability high due to the weak behavior of the heavy flexible roofs.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Out of plane wall collapse/ cracking | Addition of concentric bracing to the spans | 
+| Partial/ total collapse of the storeys, soft story | Adding concentric bracings | 
+| Roof collapse | Horizontal bracing welded on the roof/floor beams | 
+| Connection unsitting/ slippage | Strengthening the connection, connection confinement using steel plates | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** No practical example is unfortunately available to the author at this time however there are plenty research projects going on or already completed on this issues. Please refer to reference no. 5: http://www.dena.iiees.ac.ir.
+
+**Has seismic strengthening described in the above table been performed?** Yes, depending on the importance of the project different retrofitting strategies could be implemented.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Mitigation on an existing undamaged building.
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** Retrofit designed by an engineer, constructed by a contractor under supervision of the engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Relatively good when the code considerations are taken into account.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * 1. http://www.johnmartin.com/eqshow/647014_00.htm 2. http://sharif.ac.ir/~civilinfo/Thesis/Structural99.htm 3. Iranian Code of Practice for Seismic Resistant Design of Buildings-Standard No. 2800
+
+  * 4.Naeim F., 2001, #The Seismic Design Handbook", Second Edition, ICBO, SEA and Kluwer Publishers, 2001 5. www.eeri.org 6. www.johnmartin.com/EERI
+
+  * 7. http://www.dena.iiees.ac.ir 8. http://seismo.ethz.ch/gshap/iran/report.html 9. http://geohaz.org/radius/Tehran/ 10. http://www.worldclimate.com/
+
+  * 11. http://www.itto.org/weather/climate.htm 12. http://www.ldeo.columbia.edu/~mwest/museum/ 13. http://seismo.univ.trieste.it/CdRom/reports/QR230.htm
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Arzhang Alimoradi | Ph.D. Candidate of Earthquake Engineering | The University of Memphis | Department of Civil Engineering, Memphis, TN 38152 | arzhang@johnmartin.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Farzad Naeim | Vice President | John A. Martin & Associates | Los Angeles CA 90015, USA | farzad@johnmartin.com | 

@@ -1,0 +1,318 @@
+====== Timber log building, Russia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report** 56
+
+**Building Type:** Timber log building
+
+**Country:** Russia
+
+**Author(s):** Mark Klyachko, Andrey Benin, Janna Bagdanova
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in seismically prone areas of Russia (Far East, Siberia, Baikal Lake Region, North Caucasus) where this construction type covers 5 to100% of the housing stock. This type of housing construction is commonly found in rural areas.
+
+**Summary:** This is a rural housing construction practice widespread in the Russian forests. Buildings of this type are common for seismically prone areas of Russia (Far East, Siberia, Baikal Lake Region, North Caucasus). The load-bearing structure is made of wood. Walls are made of horizontal sawn timber logs of square or circular cross section with special end joints (similar to dovetail joints). Buildings have timber roof and fieldstone or concrete strip foundation. Typical seria 146-115-77 cm of #Giprolesprom# for seismic regions is an example of this building type. Seismic performance of these buildings is good, provided the quality of construction is adequate.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 2 units
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** This is a traditional construction practice in the region followed for many centuries. The main function of this building typol
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 14.4
+
+**Typical plan width (meters):** 6.6-9.9
+
+**Typical story height (meters):** 2.7
+
+**Type of Structural System:** Wooden Structure: Load-bearing Timber Frame: Wooden panel walls
+
+**Additional comments on structural system:** The load-bearing structure is made of wood. Walls are made of horizontal square sawn timber logs with special end joints (similar to dovetail joints), as illustrated in Figure 9. Vertical wall elevation is shown on Figure 8. Buildings have timber roof and fieldstone or concrete strip foundation.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 10 %. 8-12%.
+
+**Wall Openings:** Windows: 10-15%; Doors: 5-8%.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Building modifications are not common.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** Isolated footings are common in some cases.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks or beams with ballast and concrete or plaster finishing; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles; Wood planks or beams that support slate, metal asbestos-cement or plastic corrugated sheets or tiles.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks or beams supporting natural stones slates; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | wooden (larch) spars wooden (larch) logs | 800 Kg/sq cm (ultimate strength) Typical log diameter is 150-200 mm | 
+| Foundations | Concrete | 10 MPa (cube compressive strength) | 
+| Floors | wooden beams (larch) | 800 Kg/sq cm (ultimate strength |
+| Roof| wooden beams (larch) | 800 Kg/sq cm (ultimate strength |  
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process** EngineerArchitect
+
+**Roles of those involved in the design process:** Special design by Professional Engineers and architects (for typical projects and design applications);
+
+**Expertise of those involved in the design process:** Design expertise related to this construction type buildings is available, including the construction quality procedure developed by the author of this contribution.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** This construction type is typically built by contractors.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** Simple carpentry tools are used in the construction. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Wood construction. Building code., Building Catalog of Typical Project for Housing, Vol.1, Part 2, div.1, #14, Seria 115, 1957y; SNiP II-7-81. Building in Seismic Regions. Design code (1981)
+
+**Process for building code enforcement:** The process consists of issuing permits for the design & construction, including the architectural permits and urban planning/municipal permits. Designers need to have licence to practice and are responsible to follow the building codes. Building inspection is performed and the permit is issued.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** -Fire-resistance; -Walls need to be joined together by means of vertical steel bars, -Walls need to be anchored into the foundation; -Vertical clenching (vising) members need to be provided in walls for two-story buildings.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** The maintenance is performed either by the owner (city) or (periodically) by a contractor # a maintenance firm.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 140 rub/m.sq. (50-100$US/m.sq.)-official rate
+
+**Labor requirements:** 50-70 person-days per building.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+ 
+**Patterns of occupancy:** One family per unit (apartment). Each building typically has 2 housing unit(s).
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** Inhabitants during the day: <5, 5-10 Inhabitants during the night: 5-10, 10-20
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)High-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Rich people use timber log houses as cottages. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Government-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightLong-term lease
+
+**Additional comments on ownership:** Own outright (for one apartment), long-term lease (most common)
+
+**Is earthquake insurance for this construction type typically available?** Yes
+
+**What does earthquake insurance typically cover/cost:** The insurance is available as a part of the usual property insurance. About 3-5% of the total estimated property value.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1958 | Kamchatka,Kronotsky Gulf | 8 | 9 (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Some buildings of this type were damaged in the 1958 Kamchatka earthquake.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor log connections; Inadequate wall-foundation connections.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** Frames not provided around openings (doors, windows)
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Poor roof connections (ceiling, tie-beams).
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  |  | | o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Walls | - Installation of vertical clenching members in the walls for two-story buildings; - Connecting wood logs using vertical steel bars - Installation of the frames around the openings | 
+| Wall- Foundation connection | #NAME? |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** No. In general, it is considered that seismic strengthening for this construction is not feasible.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Manual on Certification of Buildings and Structures in the Seismic-Prone Areas, Second Edition, CENDR, Petropavlovsk, Kamchatka, Russia, 1990.
+
+
+  * Building Catalog of Typical Housing Projects, Vol.1, Part 2, Div.1, Seria 115, #14, 1984.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mark Klyachko | Dr./Director | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka 683006 Russia | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+| Andrey Benin | Senior researcher | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka 683006 Russia | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+| Janna Bagdanova | Senior researcher | Centre on EQE&NDR, (CENDR) | 9 Pobeda Ave., Petropavlovsk, Kamchatka 683006 Russia | cendr@svyaz.kamchatka.su or cendr@peterlink.ru | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana Uranova | Head of the Laboratory | KRSU | Bishkek 720000, KYRGYZSTAN | uransv@yahoo.com | 

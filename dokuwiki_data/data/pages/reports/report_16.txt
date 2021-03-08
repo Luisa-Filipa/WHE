@@ -1,0 +1,318 @@
+====== Loadbearing stone masonry building, Greece ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 16
+
+**Building Type:** Loadbearing stone masonry building
+
+**Country:** Greece
+
+**Author(s):** T. P. Tassios, Kostas Syrmakezis
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in historical cities of Greece. Perhaps 10% of housing stock in the region. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** These buildings are mainly found in the historical centers of Greek cities and provinces. The main loadbearing structure consists of stone masonry walls. The walls are built using local field stones and lime mortar. The floors and roof are of timber construction. The seismic performance is generally poor. Diagonal cracking at the horizontal and vertical joints are the common type of damage.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 2-3
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Currently, this type of construction is being built. Only in historic districts, however. The main function of this building ty
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 10
+
+**Typical plan width (meters):** 15
+
+**Typical story height (meters):** 41702
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is timber frame load-bearing wall system. - Load bearing walls - Timber or metal strengthening elements. The lateral load-resisting system is unreinforced masonry walls. The main lateral load-resisting system consists of unreinforced stone masonry bearing walls. Floors and roof are wood structures. The wall layout in plan is critical for the lateral performance of this construction type. Also, the wall connections and roof/floor-to-wall connections are the critical elements of the lateral load resistance. The materials and type of construction are the most important factors affecting the seismic performance of these buildings.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. Total wall area/plan area (for each floor) 30-40%.
+
+**Wall Openings:** The building has eleven openings per floor, of an average size of 3.5 sq m each. The estimated opening area to the total wall surface is 18%. This is relevant to the resistance of this type of building.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Usually demolition of interior load bearing walls, or partial demolition for the insertion of an opening.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Masonry footings (footing width by 300 mm greater as compared to the walls).
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood planks or beams with ballast and concrete or plaster finishing; The floors and roofs are considered to be rather flexible.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The floors and roofs are considered to be rather flexible.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Rubble stone Mortar | Stone: Compressive strength= 80 MPa Mortar: Tensile strength= 0.1 to 0.2 MPa lime/sand mortar | 
+| Foundations | Rubble stone Mortar | Stone: Compressive strength= 80 MPa Mortar: Tensile strength= 0.1 to 0.2 MPa lime/sand mortar | 
+| Floors | timber |  | 
+| Roof | timber |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** Engineers and architects play an important role during the repair and strengthening of this type of structures.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** MasonBuilder
+
+**Roles of those involved in the building process:** The builders (usually traditional artisans) live in this construction type.
+
+**Expertise of those involved in building process:** Experience of traditional builders.
+
+**Construction process and phasing:** Traditional builders. Stones from the area and mortar made in situ. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** Experience. European Codes.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?:** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This type of structure was constructed without any explicit design requirements. Building permits are not required to build this housing type.
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** Since this is a construction method that is no longer practiced, values for unit construction costs are not available.
+
+**Labor requirements:** Information not available.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One or two families per housing unit. Usually there are 1-2 units in each building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** It is primarily the wealthy who can afford to live in these buildings, when they are used for housing. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1996 | Aegion | 6.1 | MSK | 
+| 1999 | Athens | 5.9 | IX (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** On September 7, 1999, at 14:56 local time, a strong earthquake occurred 18 kilometres northwest of the center of Athens. The earthquake was magnitude .s =5.9 and the coordinates of the epicentre were located at 38.12.-23.64., in the area of Parnitha mountain. This earthquake came as a surprise, since no seismic activity was recorded in this region for the last 200 years. According to strong-motion recordings, the range of significant frequencies is approximately 1.5-10 Hz, while the range of the horizontal peak ground accelerations were between 0.04 to 0.36g. The most heavily damaged areas lie within a 15 km radius from the epicentre. The consequences of the earthquake were significant: 143 people died and more than 700 were injured. The structural damage was also significant, since 2,700 buildings were destroyed or were damaged beyond the repair and another 35,000 buildings experienced repairable damage. According to the EERI Reconnaissance report (see References), in the meizoseismal area, most stone masonry structures with undressed stones, constructed in the first half of the century, suffered significant damage. This included partial collapse of external walls, collapse of corners, separation of the two walls converging at a corner, and extensive cracking.
+
+**Additional comments on earthquake damage patterns:** Wall: Stone masonry walls were damaged in the 1999 Athens earthquake. The damage included partial collapse of external walls, collapse of corners, separation of the two walls converging at a corner, and extensive cracking (Source: EERI) Roof/floors: Extensive masonry cracking, due to low tensile and shear strength and unsatisfactory diaphragm action of the horizontal members.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Rubble stone and lime mortar. The system has low tensile and shear strength, especially for out-of-plane seismic effects. Presence of large openings reduces the strength of the bearing walls.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Usually they consist of wooden elements, thus diaphragm behaviour and good connections with masonry walls cannot be ensured.
+
+**Earthquake resilient features in roof and floors:** Even for steel and timber floors/roof the presence of stiffness leads to a rigid diaphragm which is highly desired.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | %%-|%% | | | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Roofs/floors | - Strengthening of wall-floor connections; - Strengthening of diaphragms; |  
+| Stone masonry walls | - Crack repair (see Figure 9); - Installation of RC belts or ties; - Deep repointing and installation of RC jackets (see Figure 11); - Strengthening of wall intersections (see Figure 10) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** The frist step in the seismic strengthening is the deep repointing of the wall. This technique improves the tensile strength of the wall (up to 10 times). Subsequently, cement-mortar injections are applied (if required) for the further improvement - homogenization of the wall. Finally, RC jacket is applied on the wall surface (Figure 10). The overall structural resistance is greatly improved since the reinforcement (provided in concrete jacket) is activated at the critical cracking point.
+
+**Has seismic strengthening described in the above table been performed?** Yes, to a great extent.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Repair following the earthquake damage.
+
+**Was the construction inspected in the same manner as new construction?** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The construction is usually performed by a contractor, not always with the involvement - supervision of an architect and/or a civil engineer.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** The performance was satisfactory.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * ITSAK. Report on the 1999 Athens Earthquake, Institute of Engineering Seismology and Earthquake Engineering, Thessaloniki, Greece (www.itsak.gr)
+
+  * EERI. Special Earthquake Report: The Athens, Greece Earthquake of September 7, 1999 (www.eeri.org/earthquakes/Reconn/Greece1099/Greece1099.html)
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| T. P. Tassios | Professor | National Technical University of Athens | 9 Iroon Polytehniou, Zographou, Athens | tassiost@central.ntua.gr | 
+| Kostas Syrmakezis | Professor | National Technical University of Athens | 9 Iroon Polytehniou, Zographou, Athens | isaarsyr@central.ntua.gr | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Craig D. Comartin | President | C.D. Comartin Associates | Stockton CA 95207-1705, USA | ccomartin@comartin.net | 

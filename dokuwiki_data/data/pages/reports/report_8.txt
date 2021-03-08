@@ -1,0 +1,351 @@
+====== Buildings with hybrid masonry walls, Chile ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 8
+
+**Building Type:** Buildings with hybrid masonry walls
+
+**Country:** Chile
+
+**Author(s):** Ofelia Moroni, Cristian Gomez, Maximiliano Astroza
+
+**Last Updated:** 
+
+**Regions Where Found:** This housing type is used throughout Chile.
+
+**Summary:** This housing type represents a common multi-family urban construction in Chile. This construction practice started in the 1980s, and it is mainly used for dwellings and up to 4-story apartment buildings. The main load-bearing system consists of masonry walls in transverse direction and reinforced concrete walls or reinforced masonry walls in the longitudinal direction. Masonry walls in the transverse direction are usually confined with concrete posts at the ends (like in confined masonry construction).Buildings of this type are usually regular in plan and in elevation. Seismic design code does not address buildings of this type, however the Chilean Ministry of Housing has issued specifications for 1 and 2-story dwellings, which have been mainly followed in the design, even in case of taller buildings of this type. Performance of buildings of this type in the 1985 Llolleo and 2010 Maule earthquakes was rather poor, with most buildings experiencing structural damage.
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 unitsResidential, 10-19 units
+
+**Typical number of stories:** 3-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Occasionally
+
+**Comments:** Buildings of this type may be single family houses too. In the last 25 years, due to economical reasons, 80% of the total socia
+
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** The typical shape of a building plan is rectangular. These buildings are characterized with the regular structural layout, symmetrical with regards to at least one axis. As a result, there is a uniform distribution of stiffness both in plan and in elevation.
+
+**Typical plan length (meters):** 12-30
+
+**Typical plan width (meters):** 5-8
+
+**Typical story height (meters):** 2.3
+
+**Type of Structural System:** Masonry: Reinforced Masonry: Clay brick masonry in cement mortarMasonry: Reinforced Masonry: Concrete block masonry in cement mortar
+
+**Additional comments on structural system:** Lateral load-resisting system: The main lateral load-resisting system in the buildings of this type consists of masonry shear walls tied together at floor levels by means of reinforced concrete beams.In the transverse direction, the masonry walls are partially reinforced or confined with reinforced concrete columns. In the longitudinal direction, there are reinforced masonry or reinforced concrete walls or partially confined walls (mainly used around the openings). The reinforced masonry walls have a 10 mm bar at each end plus 8 mm bars distributed along the wall. Although the maximum allowed spacing between bars is 84 cm they are located between 120 and 150 cm. The diameter of the extreme bars is less than required (12 mm) for dwellings higher than 2 stories. Horizontal reinforcement does not meet the minimum steel ratio requirement of 0.06.The brick thickness in the exterior (facade) walls is 140 mm and 150 mm in the interior walls. Although the cores and voids containing reinforcement should be filled with grout, this is not accomplished in all cases. Most of the time the blocks are filled with the same mortar used in the horizontal joints . In addition, the size of the hollow cores in the ceramic unit is quite small so it is difficult to fill it. Concrete blocks (mostly used in the north of Chile) have larger hollow cores but they have water leakage problems and since 1997 the use of these blocks has been banned in Central Chile.Gravity load-bearing system: Masonry shear walls in both directions.Reinforced concrete slab. Average thickness 11 cm.
+
+**Gravity load-bearing & lateral load-resisting systems:** As is stated in the summary, the main load-bearing system consists of masonry walls in transverse direction and reinforced concrete walls or reinforced masonry walls in the longitudinal direction. Masonry walls in the transverse direction are usually confined with concrete posts at the ends. Clay brick or concrete hollow blocks are used.
+
+**Typical wall densities in direction 1:** 3-4%
+
+**Typical wall densities in direction 2:** 3-4%
+
+**Additional comments on typical wall densities:** Wall densities vary between 1.5 to 7.0 % in each direction; the average is about 3.2%. On the other hand, the wall density per unit floor has been related to expected level of damage; for values lower than 1.15% some moderate damage may be expected. Generally, lower values correspond to 3 or 4 story buildings. The wall density and wall density per unit floor variation with time are shown in figures 5, 5a and 5b. Additionally, the relation between wall density per unit floor and damage after 2010 earthquake is also shown.
+
+**Wall Openings:** Each longitudinal facade may be 3 to 4 openings of 0.8 to 1.5 m in width, probably equally spaced.The ratio for the overall window and door areas over the wall surface area is about 25-30%
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings** Typical patterns of modification observed are infill balconies or extension of building through a window or door
+
+**Type of Foundation** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation** Usually the foundation does not have reinforcement, unless the soil is clay or silt. Concrete strip footing is used only under the walls with reinforced tie beams in between.
+
+**Type of Floor System** Other floor system
+
+**Additional comments on floor system** Floor system: cast in place solid slabs or precast with large hollow masonry blocks (called bovedillas in Spanish) laid horizontally between precast reinforced concrete beams. In the analysis the floor is considered to be a rigid diaphragm.
+
+**Type of Roof System** Roof system, other
+
+**Additional comments on roof system** Timber: wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles. In the analysis, a rigid diaphragm is considered.
+
+**Additional comments section 2** Typical separation distance between buildings: 5-10 meters. Buildings of this type are located close together, conforming what is called "conjuntos", "poblaciones" or "villas". They represent several buildings of the same type with some free space left for garden or communities activities that most of the time nobody cares about them, ending filled with garbage or at most, as an earth soccer field.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: 1) Clay brick2) Concrete block | Wall: 1) Characteristic Shear Strength clay brick: 6 - 12 MPaDimensions- 140mm x 290mm2) Characteristic Shear Strength concrete block: 8 -10 MPaDimensions: 390x190x90 or 390x140x90 |
+| Foundations | Concrete block | Characteristic Strength: 3-10Mix Proportion/Dimensions: / 39x19x9 / 39x14x9 5-12 |
+| Floors | | |
+| Roof | | |
+| Other | Concrete Steel A44-28H | Characteristic Strength: 18 20 Steel strentgh: 280 MPa |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** The owner of the construction site hires a professional team that includes engineers and architects.
+
+**Expertise of those involved in the design:** The structural engineer has 6 years of studies and more than 3-5 years of experience. The construction engineer has 6 years of studies and less experience than the structural engineer. For private projects there is not compulsory inspection during the construction, but since year 2001 (ley no19748) there is compulsory peer revision of the structural project for buildings taller than 3 floors. However, when inspection does exist during the construction, larger masonry compression strength is allowed. The designer may visit the construction site once or twice during the construction. Projects hired by the state are revised and inspected during construction by SERVIU, that depends from Ministry of Housing.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type:** Contractor
+
+**Roles of those involved in the building process:** As is stated above, the owner of the construction site is related with a construction company and a professional team. The buildings may be sold directly or through the Ministry of Housing.
+
+**Expertise of those involved in building process:** It applies the same stated in 3.2.3
+
+**Construction process and phasing:** One contractor builds large quantities of this type of building so project management and control techniques are used in order to increase productivity and diminish cost. However, inspection and supervision is difficult because too many activities are done simultaneously. When constructing, vertical reinforcing bars are usually first placed into position before laying the masonry units. Then, the horizontal bars can be placed in horizontal mortar joints. Finally, vertical reinforcement is grouted as the work progresses. For confined walls, the bricks are laid in first then the columns and beams are built against the walls. ICH is developing guidelines to build this type of structures properly.With respect to equipment the following is commonly used: concrete mix, trucks, travelling crane, winch.This building is not typically constructed incrementally and is designed for its final constructed size. 
+
+**Construction issues:** Partial grouting in vertical reinforcement. Bending of reinforcement bars. Bad reinforcement detailing at the corners or intersection of walls.Insufficient concrete covers for horizontal reinforcement. Inadequate joint construction, stone cage in reinforced concrete element.Lack of quality of brick materials, lack of control of humidity and so the serviceability of the buildings is in discussion.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** The seismic loads are determined based on the NCh433.of96 "Seismic Design for Buildings" (modified in 2011). In general, these buildings are quite stiff and they must resist a base shear of 10-22% depending on the seismic zone; the story drift must be equal or less than 0.002 (calculated with a reduced spectra, R = 3). A specific code addressing this type of construction does not exist. Designers follow only some requirements of NCh1928.Of93 (Reinforced Masonry Design Code) or NCh 2123.Of97 (Confined Masonry Design Code) because they consider that the codes are too strict. In general, designers follow guidelines prepared by the Ministry of housing for 1 or 2 stories houses, independently of the number of floors of the project.
+
+**Process for building code enforcement:** The building design must follow the NCh433.of96 code (modified in 2011). SERVIU, a governmental office in charge of social dwellings, has a professional staff to review the projects and to inspect during construction. Unfortunately, technical expertise is quite low in regions outside the Metropolitan where Santiago, the capital is located. In case of damage an arbitrage process may take place at the court of justice.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:**
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** Buildings using Concrete blocks have shown water ingress.
+
+**Who typically maintains buildings of this type?** No one
+
+**Additional comments on maintenance and building condition:** Low income people lives in this type of building, so they cant afford any maintenance of them. When problems appear in the media, municipalities try to solve them.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The total cost of this type of building can be divided in main structure 62%, finishing work 25%, urbanization, operating cost and profit 13%.At 2001, the cost of one unit is 200 to 400 UF (area 45 m2), $78.000 to $140.000 /m2 (US$135-US$245/m2).Better quality unit may cost up to $174.000 /m2(US$300/m2).
+
+**Labor requirements:** At present, depending on technology used, the construction of several units simultaneously built, may take 2-3 stories per month 
+
+**Additional comments section 3:**
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Typically one family occupies one housing unit. However, poor families may shelter 1 or 2 families more called "allegados".
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** At present, the average size of a family is 5.5 persons, so if one unit is occupied by up to 3 families, the number of inhabitants in a building may be quite high.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio in year 2001): 8000/2000 Very Poor 25000/6000 Poor 50000/12000 Middle Class 
+
+**Typical Source of Financing:** Personal savings
+
+**Additional comments on financing:** Dwelling for poor and very poor people is subsidized by the State.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:**
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is available as a supplement to other insurance (fire, robbery) and people living in these buildings do not have money to pay for that.This insurance covers the cost of restoring the building to its condition prior to the earthquake.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?** No
+
+**Additional comments on premium discounts:**
+
+**Additional comments section 4:** Buildings may be from 1 to 4 floors. One-floor houses may be isolated or grouping up to 4 units. Two floor houses may be isolated or grouping up to 8 units. Up to 6 units per floor may exist in higher buildings. 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1971 | La Ligua | 7.5 | IX |
+| 1985 | Llolleo | 7.8 | VIII |
+| 1997 | Punitaqui | 6.8 | VI-VII |
+| 2005 | Tarapaca | 7.9 | 9.5 (MSK) |
+| 2010 | Maule | 8.8 | VIII (MSK) |
+| 2014 | Iquique | 8.2 | VIII (MMI) |
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Due to 1971 earthquake, about 1000 one-story houses at Choapa Valley partially collapsed. The masonry walls had tie-reinforced concrete beams and some tensile bars at the extremes of the walls or at the joint corners between walls.After the 1985 earthquake the Ministry of Housing appointed an especial committee to review the seismic effects on social dwellings. About 84.000 units were reviewed, concluding that 50% of the units had some structural damage, 2.6% of these being hybrid reinforced masonry, 3 or 4 story, buildings; all of them had some type of damage. The following characteristic damage patterns were observed:- perimeter walls with shear cracks, out of plane movements and separations at the corners. - crushed at the wall bottom due to compression failure- interior walls usually confined had only small cracks.Some damage occurred in houses located in Illapel during 1997 earthquake due to differential settlement on a slopped terrain.During the 2010 earthquake, the behavior was even worse, two buildings collapsed killing 10 people and several buildings in different cities were demolished after the earthquake, most of them built with concrete hollow blocks. Detailed information can be found in Astroza et al. [2012]
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included perimeter walls with shear cracks, out of plumb and separations at the corners, crushing at the wall bottom due to compression failure and interior walls, usually confined, with only small cracks. 
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall. 
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Usually the roof is made of wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles. 
+
+**Vertical irregularities typically found in this construction type:** No irregularities
+
+**Horizontal irregularities typically found in this construction type:** No irregularities
+
+**Seismic deficiency in walls:** Unknown shear strength, so it is difficult to get flexural ductile failure. It is difficult to achieve good anchoring and bonding conditions especially if poor quality masonry units and poor mortar instead of grout are used. Hollow sizes in clay units are inappropriate. Vertical reinforcements without grouting are ineffective. Lack of reinforced concrete tie-post may cause shear failure and out-of-plane bending effects. The tensile steel bar in one end does not represent a proper tie-post. Lack of appropriate reinforcement at opening edges.
+
+**Earthquake-resilient features in walls:** The seismic behavior of this type of building is inadequate.
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+-----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o |  %%-|%%  |  |  |  |
+
+**Additional comments section 5	**  A figure is included showing the relation between density wall area per unit floor and damage
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+|  Lack of appropriate confinement |  The strengthening procedure consist in confining the masonry wall with reinforced concrete tie-column and tie-beam. This may cost up to 20% of the original cost. With this procedure ductility is also improved. After the 2010 earthquake, set of buildings were demolished although some of them could be repaired. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?:** Only after the March 3, 1985 earthquake.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** As repair following earthquake damage. 
+
+**Was the construction inspected in the same manner as new construction?:** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** A contractor hired by the Ministry of Housing
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** The performance of retrofitted buildings was appropriate during 2010 earthquake, 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Astroza M.., (2000), Apuntes de Curso: CI 52-H. Diseno de Albanileria Estructural.Division Estructuras y Construccion, Departamento de Ingenieria Civil, Facultad de Ciencias Fisicas y Matematicas, Universidad de Chile.
+
+  * Bravo L., Martinez C. (1993) "Chile, 50 anos de vivienda social", Universidad de Valparaiso
+
+  * Escobar, P. (1986) "Influencia del suelo de fundacion del gran Santiago en el comportamiento sismico", Civil Engineer Thesis, Universidad de Chile.
+
+  * Bravo L., Martinez C. (1993) "Chile, 50 anos de vivienda social", Universidad de Valparaiso
+
+  * Catastro de viviendas con danos para el terremoto de Punitaqui 1997, IV region, Base de datos de la Intendencia de la IV Region.
+
+  * Giadalah, J. (2000), "Caracteristicas fisicas de los sistemas estructurales utilizados en viviendas sociales en Chile", Civil Engineer Thesis, Universidad de Chile
+
+  * Gomez, C. (2001) "Caracterizacion de sistemas estructurales usados en las viviendas de hormigon armado y albanileria reforzada en Chile" Civil Engineer Thesis, Universidad de Chile.
+
+  * ICH (1992) "Construccion de Albanilerias Armadas", Instituto del Cemento y Hormigon
+
+  * INE, (1980-1986), (1994-1998), "Anuario de Edificacion", Instituto Nacional de Estadistica.
+
+  * INN NCh1928.of93 (1993), "Albanileria Armada, Disposiciones para el diseno y calculo"
+
+  * INN NCh2123.Of97 (1997), "Calculo y Diseno de Edificios de Albanileria Confinada"
+
+  * Palma V., (1998) "Alternativas de estructuracion y diseno de viviendas sociales", Civil Engineer Thesis, Universidad de Chile
+
+  * Astroza M., Moroni M.O., Jaramillo C., (2012) Efectos en los edificios de albanileria. Cap. 9 del libro Mw = 8.8 Terremoto en Chile, Chile, ed. M.O. Moroni
+
+  * Astroza M., Ruiz S., Astroza R., Molina J., (2012) Intensidades Sismicas. Cap. 4 del libro Mw = 8.8 Terremoto en Chile, Chile, ed. M.O. Moroni.
+
+  * Astroza M., Moroni O., Brzev S., Tanner J., (2012) Seismic performance of engineered masonry buildings in the 2010 Maule earthquake. Eartquake Spectra, Vol 28 No S1, pages S385-S406.
+
+  * Jaramillo C. (2011) "Estudio de los efectos del terremoto del 27 de febrero de 2010 en las viviendas de la sexta region" Civil Engineer Thesis, Universidad de Chile
+
+  * Castro F. (2011) "Estudio de los efectos del terremoto del 27 de febrero del 2010 en las viviendas sociales de Constitucion", Civil Engineer Thesis, Universidad de Chile 
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ofelia Moroni | Civil Engineer/Associate Professor | University of Chile | Casilla 228/3, Santiago Chile | mmoroni@cec.uchile.cl |
+| Cristian Gomez | Civil Engineer/Research Assistant | University of Chile | Casilla 228/3, Santiago Chile | crgomez@cec.uchile.cl |
+| Maximiliano Astroza | Civil Engineer/Associate Professor | University of Chile | Casilla 228/3, Santiago Chile | mastroza@cec.uchile.cl |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Engineering | Mexico DF 4510, MEXICO  | salcocerm@iingen.unam.mx |

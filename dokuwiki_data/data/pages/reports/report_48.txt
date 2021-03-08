@@ -1,0 +1,328 @@
+====== Reinforced concrete frame with infill walls designed for gravity loading, Palestinian Territories ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 48
+
+**Building Type:** Reinforced concrete frame with infill walls designed for gravity loading
+
+**Country:** Palestinian Territories
+
+**Author(s):** Jalal N. Al Dabbeek, Abdel H. W. Al-Jawhar
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the main cities of West Bank like East of Jerusalem, Nablus, Ramallah, Bethlehem and Jenin. It represents 30 to 40% of the housing stock in these cities. For Gaza Strip, it is applied on a small scale. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This building type is usually found in most cities of West Bank and less often in the Gaza Strip. The structural system consists of solid slabs (either one-way or two-way) with beams and columns. The columns are usually of rectangular cross-section. The beams may be eitherdropped (deep) or hidden. The infill walls in the external frames may consist of stone with plain concrete only, or stone with plain concrete and hollow block. Sometimes polystyrene of 2-cm thickness is added for isolation purposes. On the other hand, the internal infill walls consist only of concrete hollow blocks of 10 cm thickness but may be as thick as 15 or 20 cm. These walls are used and considered as partitions.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 10-19 units
+
+**Typical number of stories:** 4-5
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Each building typically has 5-10 housing unit(s). 10 units in each building. The number of housing units in the type considered
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidIrregular plan shape
+
+**Additional comments on plan shape:** Many of the buildings within this system are of rectangular shape. On the other hand, almost 50% of the buildings have irregular shape. This irregularity is variable and it is small in certain percentage of the buildings and high in the other. This is due to the shape and dimensions of the land parcels especially in the mountainous and hilly areas (see Figures 1 and 5).
+
+**Typical plan length (meters):** 15
+
+**Typical plan width (meters):** 12
+
+**Typical story height (meters):** 3.1
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. The gravity load bearing system consists of beams, columns and slabs. It transfers the vertical loads to the foundations which may be either spread, mat or deep depending on the nature of the soil and the height of the building. The lateral load-resisting system is reinforced concrete moment resisting frame. The lateral load resisting system consists of reinforced concrete beam-column frame resting on different types of foundations, either spread, mat or deep. In urban areas and especially in the last ten years, most of the buildings use the ground or basement floors as car park. The frames are bare in the lower floor while they are infilled with strong masonry walls in the upper floor. These masonry infills wall have very high stiffness and contribute a lot to the lateral load resisting system of the buildings. This variation in the stiffness creates a soft storey in the lower floor which is very weak and has very bad performance during earthquakes. It is also important to mention that due to the mountainous nature of the land, there is a need in many cases to have more than one basement ( up to five sometimes) to reach the street level, thus creating additional soft stories. In addition to that and due to the irregularity in both vertical and horizontal configurations, torsional effect will appear when the building is subjected to horizontal loading (see Figure 1 and 5).
+
+**Gravity load-bearing & lateral load-resisting systems:** The internal frames are infilled with concrete hollow blocks while the external frames are infilled with stone and concrete or with stone and concrete with hollow block (See Figure 7).
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** 5% - 6% total wall area/plan area (for each floor), is the range between the ratios of the area of all the walls in each principal direction divided by the total area of the plan.
+
+**Wall Openings:** The widows are usually centered within the wall, while the doors are located at the end. The height of the widows is usually 1.25 meters, and the width has a variable size depending on the architect's experience and personal judgment. Generally, the widows represent 20% of the wall area. The doors are 1.0 meter wide and 2.2 meters high as an average.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Investigations on this type of buildings showed the following: - Interior walls (partitions) are very often removed since they are changed and reallocated according to the owner's desire. - Extensions to buildings are applied in many cases using either short, medium or long time intervals. - Columns are rarely demolished. - Staircases are added whenever additional floors are needed. This happens in very few cases where staircases do not exist in single floor buildings.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Mat foundationDeep Foundation: Reinforced concrete bearing pilesDeep Foundation: Reinforced concrete skin friction piles
+
+**Additional comments on foundation:** It consists of reinforced concrete end-bearing piles and reinforced concrete skin-friction piles.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place) Other: Single- or two-way ribbed slabs with hollow blocks. Please refer to Figure 4 for ribbed slabs.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Solid slabs (cast-in-place) Other: Single- or two-way ribbed slabs with hollow blocks. Please refer to Figure 4 for ribbed slabs.
+
+**Additional comments section 2:** The distance between adjacent buildings varies from 6 to 10 meters in the areas classified for housing purposes, and zero for commercial areas. The dimensions of the building may increase depending on the size and shape of the land, the number of housing units and the variation in the slope. Usually length is 10-25 meters, width is 8-16 meters. Typical Story Height: The story height is governed by the number of stone layers. Since the normal height of each layer is 25 cm in addition to 1 cm between each layer. 12 or 13 layers are usually used and this makes the height of each story to be 3.1 and 3.35 meters respectively. Typical Span: Typical Span ranges from 3.5 to 6.0 meters. Sometimes, the span is increased especially when having car park in the basement floors.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: - Hollow blocks (internal) - Concrete/Stone(external) Frame: Concrete | Characteristic strength: wall- 3.0 15-20/1.0-2.0 frame- 2-3/25-30/2-3 Mix proportions/dimensions: wall- 1:3:6 - 1:3:5 frame- 1:2:4 The stone used for decorative purposes in the external infill walls is neglected in the strength. | 
+| Foundations | Concrete | Characteristic strength: 2-3/25-30/2-3 Mix proportions/dimensions: 1:2:4 | 
+| Floors | Concrete | Characteristic strength: 2-3/25-30/2-3 Mix proportions/dimensions: 1:2:4 | 
+| Roof | Concrete | Characteristic strength: 2-3/25-30/2-3 Mix proportions/dimensions: 1:2:4 | 
+| Other |  |  | 
+
+----
+
+=== Design Process === 
+
+**Who is involved with the design process?** Engineer
+
+**Roles of those involved in the design process:** The engineers play the major role during the whole stages of the process. They make the design, prepare tender documents and supervise the construction. This is also a requirement needed for these projects. In very few cases and for small scale buildings there might not be the supervising engineer.
+
+**Expertise of those involved in the design process:** The engineers should be authorized by the engineers Association to practice the work. A minimum three years of experience and practice is required. Also the engineering office should be officially registered and authorized. This is required from all engineers involved in the process.
+
+----
+
+=== Construction Process === 
+
+**Who typically builds this construction type?** OwnerBuilderOther
+
+**Roles of those involved in the building process:** The builder lives in this type in many cases. Also, a developer may build the house for investment purposes and others buy or rent it.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The construction process can be briefly described as follows: - The architect prepares the architectural drawings of the building. - The civil engineer makes the structural design. - Both the electrical and mechanical engineers prepare their drawings also. - All the drawings are signed by the engineers who must be authorized and submitted to the engineers Association for approval. The engineers Association gives the approval for design requirements and certifies the signature of the engineers only. The designer office is totally responsible for the design depending on its classification or pre-qualification which is usually given by the Association. Typically, the engineers and the design offices are authorized and pre-qualified by the Association. - The documents are then submitted to the Municipality for building license - A contractor then is awarded the project using different methods of procurement. - The work is usually done under the supervision of the engineer which is a requirement. - Generally, conventional building techniques are utilized and part of the work is done using conventional tools as well. Also in many cases and for big projects advanced building techniques, ready mixed concrete and precast units are used. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards === 
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** As mentioned earlier, the engineers consider different varieties of codes of adjacent countries like Jordan, Syria, Egypt or other international codes like ACI, BS and DIN as well. There is not a national code for Palestine (West Bank and Gaza Strip) yet and we are in the process of preparing our national code of practice.
+
+**Process for building code enforcement:** There is no national code applied. Also the court of law applies the Egyptian and Jordanian laws.
+
+----
+
+=== Building Permits and Development Control Rules === 
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition === 
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics === 
+
+**Unit construction cost:** 200-300 $/sq m of built-up area (This does not include the land price which is generally high and also the taxes).
+
+**Labor requirements:** For a housing unit of 60,000 $ cost, approximately 500 workdays or person-days are required to complete the construction. (Considering that 8 labors can finish the construction, both skeleton and finishing, within two months).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** One family generally occupies one housing unit. We can find in very few cases or even rarely more than one family in one housing unit. The number of housing units in the type considered in this study (as Figure 1) varies between 8-14. In few cases, especially in Nablus and Ramallah cities, the number of the units may reach up to 30.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 5-10
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** The number of occupants during the night may go up to more than one hundred.
+
+**Economic level of inhabitants:** Middle-income class
+
+**Additional comments on economic level of inhabitants:** Economic Level: For Middle Class the Housing Unit Price is 60,000 and the Annual Income is 9,000. Ratio of housing unit price to annual income: 5:1 or worse
+
+**Typical Source of Financing:** Owner financedPersonal savingsCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** The government-owned housing projects are still constructed on a limited range or scale.
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)Owned by group or pool
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1927 | Jerico |  | MMI, VIII | 
+| 1995 | Aqaba Gulf |  | MMI, VII - VIII | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** - The magnitude of the Aqaba Gulf earthquake ranged between 6.2-6.5. -The magnitude of the Jerico earthquake ranged between 6.2-6.3. # In the 1995 earthquake, the Epicenter was located about 100 kilometers south of Aqaba and Elat cities where MMI was VII.
+
+**Additional comments on earthquake damage patterns:** 1. See Figure 10 for seismic deficiencies 2. According to EMS-98 and from post earthquake investigation results, it is expected that the performance of the reinforced concrete frame buildings with serious defects (such as soft stories, weak columns, lack of stiffening elements like masonry infill and shear walls) vulnerability class B or even A may be appropriate. Please consider this comment when looking at vulnerability table.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** For the building configuration, the answer represents less than 50% of the buildings (see item 2.3 for building configuration). The building materials are used depending on a big variety of codes from either adjacent countries like Jordan, Syria and Egypt or international codes like ACI, BS and DIN. The quality of workmanship is not good enough, on the other hand and in few cases especially for public projects, workmanship is of high level of quality. The seismic joints are not applied because the maximum size of joint is 2-3 cm for all heights and types of structural systems of the buildings.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** - The connection between the infill wall and the internal frame is poor and the bond between the hollow block pieces is also poor. - The bond between the decorative stone and the concrete infill wall of the external frame is weak (no mechanical bond). Thi
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** #NAME?
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** - Inadequate transverse reinforcement of the ribbed slabs. (Open ties, excessive spacing). - Heavily loaded cantilever slabs.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** #NAME?
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% |  | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** The retrofitting of structures is not governed by certain provisions. It is performed rarely by individual engineers for certain cases without applying unique principles and tools. In general, jacketing using reinforced concrete or steel is used for strengthening purposes.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Building code requirements for structural concrete and commentary, ACI 318-95 American Concrete Institute (ACI) 1995
+
+  * Vulnerability and seismic performance of buildings in Palestine Al-Dabbeek,J. Expert Meeting on Earthquake Engineering and retrofit, UNESCO, Beirut 2000
+
+  * 1999 and 2000 Bulletins and site investigation reports Earth Sciences and Seismic Engineering Center (ESSEC), An-Najah University, Palestine 2000
+
+  * European Microseismic Scale (EMS) Luxembourg 1998
+
+  * The Aqaba earthquake of November 22,1995 Hussein Malkawi,A.I, Numayr,K.S., and King,S.A. Earthquake Spectra, 15 (3), 397-415 1999
+
+  * Seismic Risk Assessment and Design of Building Structures Koridze,A. Omega Scientific, UK 1998
+
+  * Detailing for Al-Masri building and Al-Jardaneh School Municipality of Nablus-Engineering Department, Nablus Palestine 1998-2001
+
+  * Learning from earthquake-the Aqaba earthquake of November 22, 1995 Osman,A. and Ghobarah,A. EERI Special Earthquake Report, May 1995
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Jalal N. Al Dabbeek | Civil Engineer/Associate Professor | Center of Earth Sciences & Seismic Engineering, An-Najah National University | P.O. Box 707, Nablus West Bank , PALESTINIAN TERRITORIES | seiscen@najah.edu | 
+| Abdel H. W. Al-Jawhar | Civil Engineer, Engineering Department | Municipality of Nablus | P.O. Box 218, Nablus , PALESTINIAN TERRITORIES | awjawhari@nablus.org | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Polat Gulkan | Professor | Department of Civil Engineering, Middle East Technical University | Ankara 6531, TURKEY | pgulkan@metu.edu.tr | 

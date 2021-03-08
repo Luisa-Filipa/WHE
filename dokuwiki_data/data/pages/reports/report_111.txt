@@ -1,0 +1,380 @@
+====== Unreinforced brick masonry residential building, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 112
+
+**Building Type:** Unreinforced brick masonry residential building
+
+**Country:** Pakistan
+
+**Author(s):** Qaisar Ali
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all major cities of Pakistan except Karachi. 90% of residential buildings and 80% of all building stock consist of this type. Other types of buildings in urban areas include RC frame structures with concrete blocks or brick infill walls. In Karachi, the most populous city of Pakistan, with more than 10 million people, RC frame structures with infill walls of concrete blocks are most commonly used. Unreinforced brick masonry construction in Pakistan may constitute more than 50% of all buildings. In rural areas, unreinforced buildings in clay mortar and adobe construction were very common in the past and still exist in some areas, but now are being replaced by unreinforced brick masonry with cement sand mortar. In hilly areas, unreinforced stone masonry without mortar or with cement sand mortar are widely used. Those with financial resources opt for RC frame structures with stone infill or concrete block walls. This type of housing construction is commonly found in urban areas. Most often found in urban areas but sometimes in rural areas, where adobe houses can also be found.
+
+**Summary:** In Peshawar and adjoining areas (in northern Pakistan), the most popular residential construction is a single- or double-story unreinforced masonry building with 9-inch-thick, solid burnt-brick walls and a 5- to 6-inch reinforced-concrete roof slab. Sometimes, however, 4.5- inch solid brick walls are also used as load-bearing walls. The layout of these dwellings is usually regular, mostly rectangular, having horizontal dimensions in the range of 30 ft x 60 ft or 60 ft x 90 ft, etc. Building height rarely exceeds 35 ft. Wall connections at the corners are achieved through proper toothing. Lintels, approximately 6- to 9-inches deep, with a width equal to the wall thickness, are provided above openings. In a relatively engineered construction, however, the lintel beam runs throughout the perimeter. Similar residential buildings are also found in other cities of Pakistan, for example, in Islamabad and Lahore. In Karachi, Pakistan's largest city, concrete frame structures with concrete-block infill walls are most often used.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**Report #:** 111
+
+**Building Type:** Reinforced Concrete Moment Frame Building without Seismic Details
+
+**Country:** USA
+
+**Author(s):** Heidi Faison, Craig D. Comartin, Kenneth Elw ood
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in most urban areas across the country, including California. Percentage of housing stock is unknown, but is expected to vary based on region. This type of housing construction is commonly found in both sub-urban and urban areas.
+
+**Summary:** This report examines reinforced concrete buildings that use moment-resisting frames without ductile detailing to resist seismic loads. While this building type is predominantly used for office buildings and hotels, it is also used in urban areas for multi-family dwellings(condominiums) and university dormitories. It can be found in most urban areas across the country, though it is of particular concern in areas of high seismic hazard like California, Alaska, Washington, and Oregon. Building codes did not include requirements for special seismic detailing of reinforced concrete structures until the 1970's when several earthquakes demonstrated the need for more ductile design. These buildings are vulnerable to numerous failure modes including: failure of column lap splices; strong beam/weak column failures; captive column failure; punching shear failures in flat plate slabs; and shear and axial load failure of columns with wide transverse reinforcement spacing. A discontinuity in stiffness and strength at the bottom story, due to a soft story, often results in a concentration of earthquake damage at the building base. Several examples of past earthquake behavior are given in this report as well as discussion of various retrofit options.
+
+**Length of time practiced:** 51-75 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 50+ unitsMixed residential/commercial
+
+**Typical number of stories:** 4-15
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** This construction type is still being practiced in regions of low seismic hazard, but not in high seismic hazard regions like Ca
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeU- or C-shape
+
+**Additional comments on plan shape:** Most buildings of this type are rectangular, or nearly rectangular, but different building configurations can be found including L-shaped and U-shaped.
+
+**Typical plan length (meters):** 30-45
+
+**Typical plan width (meters):** 15-30
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Structural Concrete: Moment Resisting Frame: Designed for gravity loads only, with URM infill walls
+
+**Additional comments on structural system:** The vertical load-resisting system is reinforced concrete moment resisting frame. Vertical load-carrying frames carry the gravity loads in addition to the moment frames which share some of the gravity loads. The gravity frames may or may not include beams, depending on the type of roof/floor diaphragm system. Whether there are complete frames or just columns, the columns for this type of system are usually laid out in a regular grid pattern. The gravity loads are transferred to the frames/columns by monolithically cast concrete floor and roof slab systems. Various concrete floor and roof framing systems used with this building type include flat plate, pan joist or beam, one-way slab and two-way slabs or waffle slabs. The gravity load system will experience similar displacements as the lateral load carrying elements during seismic activity so it should not be considered entirely separated from the lateral system. Sometimes, even flat slab structures are adopted. The lateral load-resisting system is reinforced concrete moment resisting frame. Concrete moment-resisting frames are monolithically cast systems of beams and columns that resist lateral loads through bending of the frame members. Most concrete frame buildings include interior beam-column frames as well as exterior pier-spandrel frames, which act together to resist seismic loads. The difference in the interior and exterior frames is mainly that the exterior frame spandrel beams have deeper dimensions than the interior beams. Many buildings will have lateral force resisting frames only along the perimeter of the structure so the interior frames are primarily used to resist gravity loads. The concrete frames were designed to provide enough strength to resist code-specified lateral forces at the time of their construction yet were not designed or detailed for ductile performance once the frame elements exhibited inelastic behavior. For this reason, these pre-1976 frames are also called non-ductile moment-resisting frames (Figures 1 - 5, 22). In reality, they have a highly variable degree of ductility. Sometimes, even flat slab structures are adopted.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** Openings make up approximately 20-35% of the total wall area. Dimensions of the openings vary between 0.5 meters and 4 meters.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** 
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footingDeep Foundation: Reinforced concrete bearing pilesDeep Foundation: Cast-in-place concrete piers
+
+**Additional comments on foundation:** It consists of reinforced concrete end-bearing piles and cast in-place reinforced concrete piers.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Waffle slabs (cast-in-place), Flat slabs (cast-in-place), Solid slabs (precast), Slabs (post-tensioned)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural concrete: Waffle slabs (cast-in-place), Flat slabs (cast-in-place), Solid slabs (precast), Slabs (post-tensioned)
+
+**Additional comments section 2:** The separation distance varies considerably depending on the location of the building When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^ 
+| Wall/Frame | Concrete and steel reinforcement are used. | The characteristic strengths of concrete and steel reinforcement are 20 MPa and 275 MPa, respectively (wall) and 17 MPa and 275 MPa (frame). See Figures 27 & 28, adapted from FEMA 356 which show the compressive strengths for concrete based on its use and time of construction. The figures also show similar data for the tensile strengths of the reinforcing based on the era of construction. | 
+| Foundations | Concrete and steel reinforcement are used. | The characteristic strengths of concrete and steel reinforcement are 17 MPa and 275 MPa, respectively. | 
+| Floors | Concrete and steel reinforcement are used. | The characteristic strengths of concrete and steel reinforcement are 17 MPa and 275 MPa, respectively. | 
+| Roof | Concrete and steel reinforcement are used. | The characteristic strengths of concrete and steel reinforcement are 17 MPa and 275 MPa, respectively. | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** All engineers and architects must be licensed by each state where they do work.
+
+**Expertise of those involved in the design process:** Licensing requirements vary from state to state especially depending on the degree of seismic activity or other natural phenomena that require special design approaches. Most states require passing an exam and logging a particular number of years working under a licensed engineer or architect depending on the amount of education of the applicant. Licensed engineers and architects generally work in a design firm where they supervise unlicensed engineers or architects who assist on projects. Only licensed engineer or architect can officially design a project so any errors are their responsibility. The owner hires an architect, who in turn hires an engineer for the structural design and a contractor for the construction. A resident engineer is on site during construction for inspections.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Contractor
+
+**Roles of those involved in the building process:** his building type is built by contractors for a developer. Builders do not typically live in this construction type.
+
+**Expertise of those involved in building process:** Construction companies run most construction projects for multi-story buildings. A construction manager who has many years of experience or has a university degree in construction management or both will head each project. This construction manager is in charge of making sure the project runs on schedule, on budget and meets the design requirements. The construction manager supervises all other managers and subcontractors who direct the laborers. Tasks are assigned to laborers according to skill level and expertise.
+
+**Construction process and phasing:** This type of non-ductile construction is no longer permitted to be built in seismic regions of the USA. The construction process for current buildings is discussed below and is comparable to pre-1976 concrete structures. Mechanical equipment is used for most of the construction process. Human-operated machines are used to excavate the site, dig the foundations, lift and place heavy building elements. Formwork is primarily made of wood except for unique areas that may need alternative solutions, which is rare (i.e. hill foundations where driven piles may be used to make the formwork for a basement retaining wall). Most reinforcement is ordered and delivered from steel companies in the sizes required from the design drawings and is ordered by the contractor based on the design drawings. Most of the reinforcement with required bends and hooks are ordered so that these modifications will be done in the steel factory to maintain uniform dimensions throughout the project. Some reinforcing may also be bent in the field. Most reinforcing cages for columns and beams are hand-tied in the field. Concrete is typically transported via concrete trucks pre-mixed and hydrated from a batch plant to maintain the consistency of the concrete throughout the building. The concrete is either pumped or poured from the trucks into the desired formwork. Trucks deliver concrete continuously so that each segment of the structure is built in monolithic segments. Samples from each concrete truck are tested to ensure adequate strength. If any concrete batch is of insufficient strength (which rarely happens) that portion of the structure must be removed or retrofitted until it conforms to the desired standards. The main building contractor may hire various other construction crews for specialty areas of the construction. This is called subcontracting and is done depending on the size and complexity of the project. Parts of the building construction that may be subcontracted include the roofing, reinforcing layout and mechanical/electrical systems. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** The Uniform Building Code (UBC) was the national code adopted by most of the states in the USA during the time of this non-ductile concrete moment frame construction type. Various cities and states have codes that further extend some sections of the UBC, in an attempt to adapt the code to regional specific issues and characteristics. Much of the text related to the design and behavior of concrete structures within the UBC and other city codes is based on the American Concrete Institute (ACI) 318 document: Building Code Requirements for Structural Concrete and Commentary. Although the ACI 318 is not a legally binding code by itself (unless it is adopted as a legal code by individual municipalities), the text is often copied directly into the UBC codes which are legally binding. The ACI and UBC codes are updated roughly every 3 years. All the ACI and UBC codes prior to 1976 had few requirements for ductile detailing, which makes all concrete moment frame buildings constructed prior to 1976 non-ductile moment resisting frames without seismic details. These nonductile requirements were the state-of-practice of the time. The year the first code/standard addressing this type of construction issued was This type of construction has not been allowed by the building code since the 1970's (depending on local adoption of the 1976 UBC). Prior to 1967, the Uniform Building Code (UBC) did not address seismic or ductile detailing. The 1964 Alaska earthquake damage demonstrated the need for designing buildings with more attention to their behavior during earthquakes. As a result the 1968 UBC was the first code to introduce some ductile detailing requirements. After the 1971 San Fernando earthquake, the engineering community realized that more seismic detailing would be necessary for concrete buildings. The 1976 UBC is considered to be the first "modern" building code for concrete moment frame construction due to its heightened seismic requirements. This building code increased the loads used for lateral design by adding a new soil factor and mandated new detailing requirements. All buildings designed before this 1976 UBC are considered to have a non-ductile design. The current UBC and the new IBC (International Building Code) use performance-based design methods for concrete structures. These methods factor the demands on the structure to increase the values, then factor the capacity of the structure to underestimate the true capacity. With this strength design approach the artificially low building capacity must be greater than the artificially high demand on the building by seismic forces. The demand values for building design are based on two theoretical earthquakes. The two earthquakes most used are the 10% in 50 year probability (for most standard structures) and the 2% in 50 years probability (for critically important structures like hospitals). These mean that the buildings are designed to resist an earthquake large enough that the likelihood of it being exceeded is only 10% in 50 years which correlates to one large event in approximately 500 years. For the 2%/50 year this correlates to approximately a 2,500 year return. This insures that all buildings are designed to withstand moderate earthquakes with minimal damage. In addition, concrete buildings are designed with great ductility so while a building may be damaged in an earthquake, it will not collapse. The members and connections in the building are designed to deform inelastically and thereby absorb the earthquake energy in a prescribed manner that will prevent structural collapse. Keeping this in mind, the design is based on the type of performance desired from the building in an earthquake. Hospitals, for example, are designed so that they can withstand even great earthquakes without considerable damage or loss of function so that they may operate after the earthquake to care for the injured. This is called the Immediate Occupancy Performance Level. Typical office buildings, however, are not considered critical after a major earthquake and are designed to a level that prevents the building collapse and will ensure the safey of the buiding occupants while allowing the building to be damaged even beyond repair. This is called the Life Safety Performance Level. Most houses and housing projects are designed to the same performance level as office buildings. While any building can be designed to a higher level of performance, the cost of such design is generally too great to be practical, so most non-essential buildings are designed to preserve the lives of any inhabitants so that they may safely exit the building after the earthquake (Figure 29).
+
+**Process for building code enforcement:** A professional engineer stamps all building drawings, certifying that they meet code requirements. In the field, the resident engineer inspects construction to ensure it conforms with the design drawings. Local building officials may also inspect during or after construction to ensure compliance with local codes.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** In the USA, many different companies / entities are involved in the design and construction of a building including architects, engineers (structural, mechanical, electrical, heating/air systems, elevator), contractors, various subcontractors and government planning/inspection agencies. Due to the high number of entities involved, delays in construction are common.
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** The maintenance of buildings varies depending on the diligence of the owner.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Total building cost is approximately $200 - $250 per square feet ($2100 - $ 2700 per square meter); Structural costs are approximately $30 - $50 per square feet ($350 - $ 550 per square meter).
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Usually, one family lives in each housing unit. Each building typically has 51-100 housing unit(s). Usually, there are 20-70 units in each building.
+
+**Number of inhabitants in a typical building of this construction type during the day:** >20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Some low income housing units are built with this type. Other buildings are in urban middle-class areas. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedCommercial banks/mortgagesGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentUnits owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is widespread for commercial buildings along the west coast of the United States. [19] The premium is large, sometimes reaching over $1 million per year for large buildings. With premiums this high, insurers can afford to inspect the building very thoroughly. There is an incentive for the building owners to spend money on mitigation (e.g., bracing walls, ceilings, storage tanks, etc., to qualify for insurance and to get a lower premium). In addition, commercial buildings are often built by the businesses that will occupy them and have a long-term view. Therefore, building owners may be willing to spend extra money at the time of construction for earthquake mitigation to protect the business and reduce future insurance costs. A business can deduct the cost of mitigation to the commercial building from taxes. There are generally more mitigation measures applicable to commercial structures and inventory than to homes. [21] -- For private homes in California, CEA (California Earthquake Authority) is the primary insurer. While this is not particularly applicable to concrete moment frame construction it gives a sense of the insurance environment in the United States. CEA is a privately funded and publicly managed state agency which provides earthquake coverage to renters and owners of residential property. CA law mandates that home owner's insurers and building insurers offer the option of earthquake coverage with their policy. This earthquake policy is generally a CEA policy offered through the insurer so it is CEA who pays the claims and collects the insurance premiums. Other CEA funding is by private investors and the insurers. [18, 20] Elsewhere in the United States, earthquake insurance is provided by private companies. The CEA has developed a loss prevention program that could ultimately make thousands of California homes more resistant to earthquake damage with a commitment by its Board to spend 5 percent of its investment income or up to $5 million when feasible to loss mitigation programs. In 1999, the CEA sponsored a retrofit program in nine Bay area counties and received 15,000 calls as a result. Safety education and loss mitigation efforts continue. [20]. Earthquake insurance is widespread for commercial buildings along the west coast of the United States [19]. The premium is large, sometimes reaching over $1 million per year for large buildings. Most policies cover physical damage and business interruption. [19] CEA deductibles are generally equal to 15% of the value of the home. Prior to the Northridge earthquake, deductibles were often 5% to 10%. [18] Premiums differ widely by location, insurer and the type of structure that is covered. Generally, older buildings cost more to insure than newer ones. Wood frame structures generally benefit from lower rates than brick buildings because they tend to withstand earthquake stresses better. Regions are graded on a scale of 1 to 5 for likelihood of earthquakes, and this may be reflected in insurance rates offered in those areas. The cost of earthquake insurance is calculated on "per $1,000 basis." For instance, a frame house in the Pacific Northwest might cost between one to three dollars per $1,000 worth of coverage, while it may cost less than fifty cents per $1,000 on the East coast. [20].
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** Yes
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1971 | San Fernando, CA | 6.6 |  | 
+| 1979 | Imperial Valley, CA | 6.4 |  | 
+| 1989 | Loma Prieta, CA | 7.1 | MMI X | 
+| 1994 | Northridge, CA | 6.7 | MMI IX | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** 1964 Prince William Sound, Alaska M9.2 moment magnitude (8.4-8.6 richter magnitude) MMI XI. This earthquake is the second largest earthquake ever recorded, second only to the 1960 Chile earthquake with Mw = 9.5. (a) The 1964 Alaska earthquake damage demonstrated the need for designing buildings with more attention to their behavior during earthquakes. As a result of this earthquake, the American engineering community realized the need to designbuildings accounting for ductile behavior. (b) Two example buildings damaged in the 1964 Alaska earthquake demonstrate the vulnerability of concrete structures without ductile detailing. Although they are not all moment frame buildings, they demonstrate the important lessons learned from the earthquake. The 14-story reinforced concrete L Street Apartment building in Anchorage, Alaska used a series of slender walls connected with short spandrel girders to resist lateral loads. Characteristic x-shaped shear cracks in the girders showed that the girders were not properly designed to resist shear demands (Figures 6 & 7). West Anchorage High School in Anchorage, Alaska was a 2-story concrete frame building with shear walls that showed extreme damage. Failures were present in its beam-column joints, columns, shear walls and roof diaphragm (Figures 8 & 9). (c) After the 1971 San Fernando earthquake, the engineering community realized that more seismic detailing would be necessary for concrete buildings. The damage and subsequent research from this earthquake inspired key changes to code design requirements for concrete moment frame buildings. (d) Several main buildings highlighted the vulnerability of reinforced concrete design following the current building code in the San Fernando earthquake. Olive View Medical Center experienced damage in many of its buildings. The Olive View Psychiatric Day Care Center was a two-story moment frame building whose bottom story columns failed and caused the collapse of the complete lower story (Figure 10). The Olive View Hospital experienced great damage as well (Figures 11-12). The main issues related to moment frame design from this building are in regard to column detailing. General views of the hospital building show distortions of the first story columns, which were of two designs (Figure 13). The twelve corner columns were L-shaped with six ties (No. 3's at 18 inches) spaced over the story height (Figure 14). These columns completely shattered. The other 152 columns in the building had spiral steel ties (5/8 in. at 2-1/4 in. spacing) and although they lost much of their concrete covering, they retained load-carrying capacity (Figures 15 - 17). The ability of the spirally-reinforced columns to maintain vertical load carrying capability with such large horizontal drift demonstrates the advantage of detailing concrete for ductile behavior. These spiral columns would have been helped even more by the placement of all longitudinal steel within the spirals. Figure 13 shows the detail of the spiral column with its longitudinal steel within the steel spiral yet the damage images shows some rebar on the exterior of the spirals (Figures 15 & 16). While much of the major building damage was restricted to the first floor columns, there were shear failures in some of the upper story columns. Also many of the connections were damaged. Another concrete frame structure with non-ductile design was the San Fernando Veterans Administration Hospital, which was built in 1925. It consisted of concrete frames, concrete floors and hollow tile walls. This building suffered complete collapse (Figure 18).
+
+**Additional comments on earthquake damage patterns:** Walls: The columns damage patterns include (a) Shear (X) cracking, especially in perimeter frames with deep spandrel beams which incurs short column effects(Figures 24,25 & 26), (b) Column spalling and buckling of the longitudinal steel from inadequate confinement, resulting in undermined compressive strength of the concrete core (Figure 23 & 14), (c) Crushing failure at top and/or bottom of column (Figure 20, 21 & 17), (d) Column failure at base due to high shear at the lap splice region, and (f) 90 degree hooks pop-out, cause spalling and undermine the strength of the concrete core. The beam damage patterns include (a) 45 degree shear cracking generating from beam ends because of insufficient stirrups (Figures 6 & 7), (b) Concrete crushing at column face, (c) End beam to pull out/separate from the last column in frame due to large drifts and inadequate bar hooks and development, and (d) 90 degree hooks pop-out, cause spalling and undermine the strength of the concrete core. The frame damage patterns include (a) Permanent column side sway /story drift (Figure 12), (b) Beam-column joint shear cracking and concrete disintegration especially in interior frames without deep beams (Figures 8 & 9), (c) Localized column failures/column collapse at weak or soft story locations (Figures 10, 11 & 20), (d) Beam pullout from joints due to moment reversals when beam bottom bars are spliced in the center of the joint for only small distances, (e) Punching shear failure of interior columns particularly in flat slab/column frames, (f) Column hinging and failure due to strong beam/weak column design, and (g) gravity systems damaged from lateral deformations due to their rigidity. Frame: COLUMN DAMAGE PATTERNS: --Shear (X) cracking, especially in perimeter frames with deep spandrel beams which incurs short column effects(Figures 24,25 & 26).--Column spalling and buckling of the longitudinal steel from inadequate confinement, resulting in undermined compressive strength of the concrete core (Figure 23 & 14). --Crushing failure at top and/or bottom of column (Figure 20, 21 & 17). --Column failure at base due to high shear at the lap splice region. --90 degree hooks pop-out, cause spalling and undermine the strength of the concrete core. BEAM DAMAGE PATTERNS: --45 degree shear cracking generating from beam ends because of insufficient stirrups (Figures 6 & 7). --Concrete crushing at column face. --End beam to pull out/separate from the last column in frame due to large drifts and inadequate bar hooks and development. --90 degree hooks pop-out, cause spalling and undermine the strength of the concrete core. FRAME DAMAGE PATTERNS: --Permanent column side sway/story drift (Figure 12). --Beam-column joint shear cracking and concrete disintegration especially in interior frames without deep beams (Figures 8 & 9). -- Localized column failures/column collapse at weak or soft story locations (Figures 10, 11 & 20). --Beam pullout from joints due to moment reversals when beam bottom bars are spliced in the center of the joint for only small distances. --Punching shear failure of interior columns particularly in flat slab/column frames. --Column hinging and failure due to strong beam/weak column design. -- gravity systems damaged from lateral deformations due to their rigidity. Roof/Floors: The earthquake damage pattern in slabs includes (a) punching shear failure at columns, and (b) 45 degree cracks propagating at openings and re-entrant corners.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | N/A | 
+| Wall Openings |  | N/A | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** The column deficiencies include (a) Tie configuration with 90 degree hooks, (b) Tie spacing too large to provide adequate confinement, (c) Lap splice location above floor slab at region of high moment, (d) Lap splice length too short to provide force transfer, and (e) Tie spacing at lap splice too large. The beam deficiencies include (a) Transverse shear ties are not closed and have 90 degree hooks, (b) Transverse shear tie spacing is too large, (c) Transverse shear ties are sized for gravity loads only and are too small, (d) Transverse shear ties missing at mid-span of beams, (e) Top longitudinal steel reinforcement is discontinuous at the beam center so it can not account for seismic bending or reversals, (e) Bottom longitudinal steel reinforcement is often discontinuous at the column faces or laps only slightly within the beam-column joint, and (f) Longitudinal steel reinforcement at end frames terminates without hooks or with hooks that bend away from the joint so it provides inadequate development length and continuity. The frame deficiencies include (a) Weak column/strong beam characteristics make floors vulnerable to collapse from failed columns, (b) Shear capacity is less than what is required to form plastic hinges for both columns and beam, (c) Beam-column joint has inadequate shear capacity, (d) Beam-column joint has inadequate confinement, (e) Beams often frame eccentrically to the columns, (f) No bottom slab reinforcement passes through column reinforcement cage in interior flat slab/column frames, and (g) gravity systems are too rigid and have inadequate deformation compatibility with the lateral system.
+
+**Earthquake-resilient features in walls:** The frames Will not resist substantial lateral loads without damage but must maintain gravity loads.
+
+**Seismic deficiency in frames:** COLUMN DEFICIENCIES: --Tie configuration w ith 90 degree hooks. --Tie spacing too large to provide adequate confinement. - -Lap splice location above floor slab at region of high moment. -- Lap splice length too short to provide force transfer. --Tie spacing at lap splice too large. BEAM DEFICIENCIES: --Transverse shear ties are not closed and have 90 degree hooks. --Transverse shear tie spacing is too large. --Transverse shear ties are sized for gravity loads only and are too small. --Transverse shear ties missing at mid-span of beams. --Top longitudinal steel reinforcement is discontinuous at the beam center so it can not account for seismic bending or reversals. --Bottom longitudinal steel reinforcement is often discontinuous at the column faces or laps only slightly within the beam-column joint. --Longitudinal steel reinforcement at end frames terminates without hooks or with hooks that bend away from the joint so it provides inadequate development length and continuity. FRAME DEFICIENCIES: --Weak column/strong beam characteristics make floors vulnerable to collapse from failed columns. --Shear capacity is less than what is required to form plastic hinges for both columns and beam. --Beam-column joint has inadequate shear capacity. --Beam-column joint has inadequate confinement. --Beams often frame eccentrically to the columns. --No bottom slab reinforcement passes through column reinforcement cage in interior flat slab/column frames. --gravity systems are too rigid and have inadequate deformation compatibility with the lateral system.
+
+**Earthquake-resilient features in frame:** FRAMES: -- Will not resist substantial lateral loads without damage but must maintain gravity loads.
+
+**Seismic deficiency in roof and floors:** The slab deficiencies include (a) drag struts not provided at re-entrant corners, (b) insufficient detailing at diaphragm openings, and (c) slabs doweled into frames without hooks so the dowels are insufficient to develop yield strength or ultimate strength of diaphragms.
+
+**Earthquake resilient features in roof and floors:** Slabs may be sufficient to handle corner stresses.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%% | o | %%-|%% | | | |
+
+**Additional comments section 5:** Infill wall behavior is a problem if the walls have not been designed either to resist lateral loads as shear walls or to allow the frames alone to resist lateral loads. If an inadequate construction gap is provided around the infill walls, the deflection in the frames may cause the walls to interact with the frames, thereby stiffening the system as the wall acts as a compression strut or brace for the frame. This may be an advantage for a non-ductile frame design that would not perform well with large inter-story drifts but, when the walls act more like shear walls, problems result at wall discontinuities. When the infill walls are not solid or do not extend to the full height of the columns, they may induce short column/captive column failures. In this case, infill walls prohibit frames from responding properly. For many pre-1976 structures, these infill walls were placed throughout the building without seismic behavior in mind. As a result these infill walls often induce torsion in the structure or cause stress concentrations on elements that were not designed for large seismic loads due to wall discontinuities. In addition, infill walls are also a nonstructural hazard because they are prone to collapse when damaged.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Torsional problems (due to irregular archiecture and/or an irregular structural system) | Insert an independent lateral load carrying system to relieve the existing frame or add additional members to make to structural system more regular and balanced. | 
+| Soft story | Insert additional members to supplement and stiffen the original frame system, i.e. construct new concrete shear walls or insert new steel braces or add new moment frame bays. | 
+| Weak columns- -inadequate confinement and poor splices | Column jacketing with new reinforcement and concrete, fiber/polymer wrapping or steel jackets. Adding a concrete jacket also increases the cross sectional area of the column which helps increase its capacity. | 
+| Weak beams-- inadequate transverse shear reinforcement | Epoxy injection of small to moderate cracks. Beam jacketing with new reinforcement and concrete or fiber/polymer wrapping | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 1. For independent systems, it is important that the new system is stiffer than the existing system so that it is engaged before the insufficient existing system. 2. Though this type of construction is no longer practiced in seismic regions, there are several issues associated with the retrofit construction for this type of building. Many aspects influence the type of retrofit chosen and the scale of the retrofit project. Any loss in revenue during retrofit construction is a critical issue for a building owner. Therefore retrofit designs must include alternatives that address the importance of many financial impacts. Some key decisions include whether it is of great importance to the owner to maintain constant access to the structure during the retrofit and the cost of removing tenants either temporarily or permanently during construction. The intrusiveness of the retrofit is also important as well as whether the scheme w ill reduce the value of the building by covering or removing windows, for example. Some retrofits may involve altering the architectural character of the building which must also included in the decision-making process. Finally the cost of various schemes should be included. It is important to keep in mind, however, that a higher material or labor cost for a scheme like polyfiber wrapping of columns may be a better choice due to minimal intrusion into the rentable space, the inconspicuousness of the retrofit and the speed of construction compared to concrete jacketing techniques. Figures 34 & 35 show a checklist and ranking system that can help a building owner to determine the best retrofit option for a particular building based on the owner's priorities.
+
+**Has seismic strengthening described in the above table been performed?:** Many of these strengthening techniques have been applied to institutional buildings (i.e. universities) throughout California. The Holiday Inn in Van Nuys, CA which was damaged in the 1994 Northridge earthquake was retrofitted after the earthquake to repair the structure and improve its future earthquake performance. The method used for this structure was to insert new lateral load resisting elements to take the full seismic loads. New moment frames were added to the exterior of the building that were integrated with the existing frames (Figures 30 - 33). Although several of the buildings explained and documented in this report are hotels and office buildings, they have many similarities with non-ductile concrete apartment housing construction. Hotels, offices and typical housing structures have similar low story heights to maximize the number of floors throughout the height of the building. All of these uses also require the placement of many windows and openings throughout the structure. Large apartment buildings, offices and hotels may have a soft story at the lower level if there is a ground floor lobby or commercial space. Because of these similarities in building form, the seismic performance of these buildings is comparable. The hospitals used in this report document the reasons why the codes were changed so drastically in the 1970's. The failures in these hospitals also demonstrate deficiencies in design that commonly are seen in all moment frame buildings built before 1976.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** Strengthening is done both to repair damaged buildings and as a mitigation effort. After large earthquakes, owners of buildings outside of the earthquake region generally think about earthquake risks due to the evidence of destruction and loss in the media. Therefore, many buildings are retrofitted to current standards within a few years after a major earthquake while the dangers of earthquakes are fresh in the minds of the public. After that, concern about earthquake loss dwindles until another major earthquake inspires people to get prepared and protect their investments once again.
+
+**Was the construction inspected in the same manner as new construction?:** Yes.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** The engineer designed the retrofit.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** Several pre-1976 concrete frame buildings had been retrofitted prior to the 1994 Northridge earthquake. Most of these buildings preformed well during the earthquake and suffered only minimal damage. Some UCLA campus residences had been retrofitted in 1981 to mitigate effects from potential column shear failure, lack of confinement in the columns, potential strong beam/weak column mechanism and potential column damage under the discontinuous shear walls by jacketing concrete moment-resisting frame columns and the lower level spandrels. New shear walls were added below the discontinuous shear walls or the columns below the discontinuities were strengthened. These buildings demonstrated minimal damage after the Northridge earthquake. Another issue that had prompted retrofit prior to the Northridge earthquake was potential strong beam/weak column behavior. One documented building had been retrofitted to ensure that the beams and not the columns were the weakest link. The building had a post-tensioned slab with a column system that was intended to act as a moment frame. The retrofit added beams to the system, which would serve as the horizontal elements of the moment frame instead of the slab. These beams were designed so that they would yield before the columns once the system exhibited inelastic behavior. This building performed well in the Northridge earthquake and experienced no structural damage. Other pre-earthquake retrofit schemes included the installation of new shear walls and boundary elements.
+
+**Additional comments section 6:** Damage from the 1979 Imperial Valley earthquake demonstrated the need for better seismic detailing of concrete. The primary example of this was the Imperial County Services building, which displayed similar damage to the Olive View Hospital that was damaged in the San Fernando earthquake. This 6-story reinforced concrete frame and shear wall structure was completed in 1971 and was designed to be earthquake resistant. The building damage shows otherwise as the concrete columns at the ground floor experienced heavy damage that caused the building to sag by 30 cm (Figures 19 & 20). Inadequate confinement steel caused the longitudinal steel to buckle under the axial loading and the unconfined column core disintegrated under the shear and bending forces (Figure 21). --The 1989 Loma Prieta earthquake had approximately 10 seconds of strong shaking. Due to this short duration, fewer building structures experienced significant damage than in other earthquakes of comparable magnitude. Although there were many collapses of concrete bridges, roads and other infrastructure, few concrete buildings suffered total collapse or damage. --The 1994 Northridge earthquake caused extensive building damage throughout southern California. Concrete moment frames without seismic detailing were among the most susceptible building types and experienced vast amounts of damage and many collapses. Many of these buildings suffered due to inadequate strength but the main problem was their inadequate ductility. Brittle shear failures and other undesirable failure modes often dominated the building behavior and performance. --An example of reinforced concrete moment frame damage from the Northridge earthquake is the Holiday Inn in Van Nuys, CA. The Holiday Inn is a 7-story concrete flat slab building with perimeter frames built in 1966 whose lateral loads wereresisted by a combination of the interior column-slab frames and the exterior column-spandrel beam frames (Figures 1 - 3). Damage primarily consisted of shear failure of the columns and subsequent buckling of column vertical reinforcing between the ties where added confinement provided by the concrete cover was no longer available due to spalling (Figures 22 & 23). Minor to moderate shear cracks were observed in many beam-column joints at the lower stories. Several spandrel beams showed minor spalling as well as flexural cracks at the bottom of the beams, suggesting possible yielding of the bottom reinforcement. The building was red-tagged after the event and temporary shoring was placed in some bays where the vertical load carrying capacity was compromised. The Champaign Tower in Santa Monica, CA was a 15-story concrete building with nonductile moment frames in one-direction and shear walls in the other. Balcony parapets shortened the column spans, which induced short column effects on many columns in the lower stories as shown by the X-shaped shear cracking (Figures 24 & 25). Extensive coupling beam shear failures were evident in the building direction that had shear walls to resist the seismic loads. The Barrington Medical building was a 6-story, L-shaped reinforced concrete building built in the late 1960's. The lateral system included perimeter frames, shear walls along the interior core and shear walls at the perimeter. Shear cracking in the perimeter frame columns comprised most of the structural earthquake damage and undermined the column strength enough at some levels that the windows buckled due to a decreased column/story height (Figure 26).
+
+----
+
+==== 7. References ====
+
+  * ATC 40: Seismic Elvaluation and Retrofit of Concrete Buildings ATC Applied Technology Council 1996 1 and 2
+
+  * Built to Resist Earthquakes: ATC/SEAOC Training ATC, SEAOC & CSSC Applied Technology Council, Structural Engineers Association
+
+  * A Compendium of Background Reports on the Northridge Earthquake (January 17, 1994) for Executive Order W-78-94 CSSC California Seismic Safety Commission 1994
+
+  * Loma Prieta Earthquake Reconnaissance Report EERI Spectra: The Professional Journal of EERI Earthquake Engineering Research Institute, USA 1990
+
+  * Northridge Earthquake Reconnaissance Report Earthquake Spectra: The Professional Journal of EERI Earthquake Engineering Research Institute (USA) 1996 2
+
+  * FEMA 310: Handbook for the Seismic Evaluation of Buildings - A Prestandard FEMA Federal Emergency Management Agency 1998
+
+  * FEMA 356: Prestandard and Commentary for the Seismic Rehabilitation of Buildings FEMA Federal Emergency Management Agency 2000
+
+  * Engineering features of the San Fernando earthquake of February 9, 1971 Jennings, P.C., California Institute of Technology 1971 EERL-71-02
+
+  * Earthquake Image Information System: Karl V. Steinbrugge Collection NISEE University of California, Berkeley
+
+  * Earthquake Image Information System: William G. Godden Collection NISEE University of California, Berkeley
+
+  * The Great Alaskan Earthquake and Tsunamis of 1964 Sokolow ski, Thomas NOAA
+
+  * Performance Assessment for a Reinforced Concrete Frame Building NEHRP National Earthquake Hazards Reduction Program. 1998 VOL III-A
+
+  * Special Moment Frames Jack P. Moehle SEAONC 2002
+
+  * Prince William Sound, Alaska USGS : Earthquakes Hazards Program United States Geological Survey
+
+  * ACI 318-02 : Building Code Requirements for Structural Concrete ACI American Concrete Institute, Farmington Hills, MI 2002
+
+  * UBC 1997 - Uniform Building Code ICBO International Conference of Building Officials 2002
+
+  * IBC 2000 : International Building Code ICC International Code Council 2000
+
+  * California Creates State Earthquake Insurance Program Natural Hazards Observer Natural Hazards Res. & Appl.Information Center 1996 XXI, No.2
+
+  * The Role of Insurance in Business Disaster Planning and Recovery Claire Lee Reiss Public Entity Risk Institute 2002
+
+  * Earthquakes: Risk and Insurance Issues, The Topic Insurance Information Institute, Inc. 2005
+
+  * Earthquake Basics Brief #3. Insurance EERI Earthquake Engineering Research Insitute (USA) 1997
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Heidi Faison | Outreach Director | Pacific EQ Engineering Research Center, Univ of California Berkeley | 325 Davis Hall--MC 1792, Berkeley, CA 94720, USA | hfaison@berkeley.edu | 
+| Craig D. Comartin | President | C.D. Comartin Associates | 7683 Andrea Avenue, Stockton CA 95207-1705, USA | ccomartin@comartin.net | 
+| Kenneth Elw ood | Assistant Professor | Dept. of Civil Engineering, University of British Columbia | 2324 Main Mall Rm. 2010, Vancouver BC V6T 1Z4, CANADA | elw ood@civil.ubc.ca | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mahmoud M. Hachem | | | USA | mhachem@wje.com  | 
+| Ayhan Irfanoglu | Assistant Professor | School of Civil Engineering, Purdue University | W. Lafayette IN 47907, USA | ayhan@purdue.edu | 

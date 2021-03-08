@@ -1,0 +1,319 @@
+====== Multistory tower masonry with stone pillars and wood or arched beams (Casa Torre), Italy ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 113
+
+**Building Type:** Multistory tower masonry with stone pillars and wood or arched beams (Casa Torre)
+
+**Country:** Italy
+
+**Author(s):** Mauro Sassu, Chiara Cei
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in Tuscany, but some of these buildings are also found in surrounding regions. This type of housing construction is commonly found in urban areas.
+
+**Summary:** This construction originated during the Middle Ages in response to the threat of military invasions. The building plan is a square lattice, 5-7 meters, formed by three or four floors, with one room on each floor, and a total height of 15-20 m. It is a common technique found in Pisa but also found frequently in many municipalities of Tuscany and adjacent districts. The structure of the building is supported by four stone columns connected by arches (circle or oval) or by beams at each floor; the floor is supported by a series of wood beams (especially pine) with wood tables and/or clay blocks. The upper floors of the earlier historic buildings often contained a wood balcony supported by cantilevered wood beams. Some balconies were fully enclosed structures with clay-tile roofing. The entrance on the first floor could be accessed by means of a detachable wood staircase.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 4-7
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** The Casa Torre technique has been used to increase the level of safety and protect inhabitants from invasion by foreign armies.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Square, solidRectangular, solid
+
+**Additional comments on plan shape:** Three or four floors; one room over each other, in an approximately square plan.
+
+**Typical plan length (meters):** 6-12
+
+**Typical plan width (meters):** 4-8
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system is limestone masonry pillars infilled with clay or sandstone walls with openings supported by wood or brick lintels. The floor is supported by small wood beams (span 1.7 m: distance 25-30 cm) which rest on two or three primary wood beams (span 5 m: distance 1.7 m). The lateral load-resisting system consists of plane frames formed by stone pillars and wood beams or wood-masonry arches. The "moment-resisting" connections between pillars and beams or arches are generally well executed. The stones at the edges have high mechanical strength. There are no momentresisting connections between the floors and the walls or arches.
+
+**Gravity load-bearing & lateral load-resisting systems:** The historic Casa Torre performs its structural functions by means of high-quality stones, moment-resisting connections of the beams, and regular plan shape.
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 5 to 10 %.
+
+**Wall Openings:** In the first version (ca 1100), the openings were situated on one, or perhaps two, opposite walls. In the second period (ca 1200), openings might be seen on all four walls. In most cases, the openings were centered, vertically aligned, and narrow (0.80-1.20 m) in relation to the total dimension of the wall (6 m). Originally, the ground floor contained no openings (the entrance was accessed on the first floor with the help of a ladder); afterwards, wider openings (1.5-2.5 m) were created, mostly at the ground-floor level.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Incorporating single masonry towers with adjacent buildings was often undertaken to create a unique "Palazzo" with wider buildings or multifamily dwellings.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone isolated footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Wood plank, plywood or manufactured wood panels on joists supported by beams or walls The existing wood floor/roof structures are not considered to be a rigid diaphragm unless they are tied with diagonal ties and connected to the walls.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The existing wood floor/roof structures are not considered to be a rigid diaphragm unless they are tied with diagonal ties and connected to the walls.
+
+**Additional comments section 2:** The typical plan dimensions of the Casa Torre were 6 meters; sometimes adjacent buildings were created with two common pillars. When separated from adjacent buildings, the typical distance from a neighboring building is 6 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | "Verrucano" or limestone masonry for blocks; lime mortar joints | 20 - 50 MPa (verrucano or limestone) compression strength; 1-4 MPa (mortar) compression strength. Big, regular-shaped blocks. The mortar layers are very thin and the gaps are not visible. | 
+| Foundations | "Verrucano" stone masonry support or clay units | 10-20 MPa (clay unit) compression strength 1-4 MPa (mortar) compression strength. | 
+| Floors | Wood beams (chestwood and oak) | 8-15 MPa (wood) collapse stress due to bending moment. | 
+| Roof | Wood beams (chestwood and oak) | 8-15 MPa (wood) collapse stress due to bending moment. | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Builder
+
+**Roles of those involved in the design process:** Technical historical knowledge and devices were remarkable; several original buildings constructed in the 12th century are well preserved with almost no specific maintenance problem.
+
+**Expertise of those involved in the design process:** These buildings didn't require knowledge of engineering or analytical design: the builder followed unwritten rules and knowledge based on experience and tradition.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** The builder didn't live in this construction type. These buildings were made for rich and important families; the ordinary house is smaller and made of wood and clay units.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** In the first two floors, the walls consist of two parallel stone wythes filled with clay units and lime mortar joints. Both wythes are made of large, sharp, squared stones with thin layer of mortar without gaps. The upper floors are made of smaller stones approximately shaped with bigger mortar gaps; large squared stones are still used in the corners and overlap masonry units in order to have adequate connection to the perimeter walls. Roof and floor beams are supported by particular shaped stones coming out of the walls. The framework is supported by wood beams embedded in specific holes in the front, which are still visible (see picture). The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. As they became richer and more powerful, many owners increased the height of their "casa torre" in a competition with the neighboring families for greater status.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** D.M. (Ministerial Decree) 20 November 1987 (Italian Code on Masonry Structures) D.M. 16 January 1996 (Italian Seismic Code). The year the first code/standard addressing this type of construction issued was 1974. Replaced O.M. (Ministerial Order) 20 March 2003 n. 3274 with further modifications. A national seismic code was issued in several Tuscany zones in July 1981.
+
+**Process for building code enforcement:** Building Code enforcement was not available. From 1088-1092, church regulations limited the height of the towers in order to prevent any one family from gaining too much power and control. Constructing wood galleries on the outside walls has been prohibited for safety reasons since 1300.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Builder
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Builder. These buildings are commonly listed by the local heritage conservation office. (Soprintendenza ai Beni Architettonici, Artistici e Storici).
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** In modern times, construction of building improvements and retrofitting is particularly concerned about preserving the original features. The average refurbishment cost is about 1.000 euros/m2.
+
+**Labor requirements:** Refurbishment of this building type is under the strict control of the Historic Superintendent; only skilled laborers --- a builder, one assistant, a minimum of two skilled laborers and two manual laborers --- are allowed to perform work on these buildings.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** Houses of this type were occupied only by the owner-family.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** Earthquake insurance is not available in Italy.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1846 |  | 6 |  | 
+| 1984 |  | 6 |  | 
+| 1987 |  | 5 |  | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** No visible effects on load-bearing structures from earthquakes.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** There is sometimes evidence of vertical foundation movement due to the soil properties or to further interventions.
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Originally, the walls were not tied by means of steel or wood ties. The connection of the multileaf walls is partially ensured by the wood floor beams. Damage Patterns: Cracking (not necessarily due to an earthquake) at the interface of the pillars and walls.
+
+**Earthquake-resilient features in walls:** Massive stone masonry cavity walls, filled with sand, clay units, and lime inserted between the stone pillars, capable of dissipating seismic energy
+
+**Seismic deficiency in frames:** The corner pillars are made of large and squared stones with thin joints filled with lime mortar, well connected to the beams: the moment-resisting connection between pillars and beams is not ductile.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Made of simply supported wood beams and planks, so they do not provide an effective connection between two opposite walls.
+
+**Earthquake resilient features in roof and floors:** Very lightweight and elastic structures.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:** In spite of its slender shape, this building achieves an enviable seismic performance for two main reasons. First, materials are made of good quality and secondly, the pillars or walls are well constructed. Moreover, in the event of masonry damage caused by shaking, the structure can dissipate energy without substantially reducing its overall vertical loading strength.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Transverse connection between opposite walls | Steel tendons: grid wood floor frameVertical settlementReinforcement of the foundations with RC tub-fix micropiles | 
+| Vertical settlement | Reinforcement of the foundations with RC tub-fix micropiles | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Steel bars are used as connections between opposite walls or to absorb horizontal forces in the arched beams of several buildings.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Sometimes the work has been done to repair structural damage or to stop potential cracking of the masonry (not necessarily after an earthquake); sometimes it's undertaken just to stabilize the building.
+
+**Was the construction inspected in the same manner as new construction?** Inspections were not routinely performed.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The building was constructed by a contractor without the involvement of an engineer or architect.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Generally remarkable, but highly dependent on the quality of the strengthening work; subsequent earthquakes have had no effect on load-bearing structures.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Pisa com'era : archeologia, urbanistica e strutture materiali Redi,R. Sec.V-XIV, GISEM-LIGUORI EDITORE, Napoli 1991
+
+  * An extrados-only restoration technique for raising and reinforcing of brick folio vaults Sassu,M. 5th International Conference on Restoration of Architectural Heritage - Firenze 2000, vol. 3, pp. 3.2-, Firenze 2000
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mauro Sassu | Associate Professor | Dept. of Structural Engineering, University of Pisa | Via Diotisalvi 2, Pisa 56126, ITALY | m.sassu@ing.unipi.it | 
+| Chiara Cei | Engineer, | D.I.S. | Viale Italia 255, Livorno , ITALY | angiochi@sysnet.it | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

@@ -1,0 +1,316 @@
+====== Stone masonry residential buildings, Pakistan ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 138
+
+**Building Type:** Stone masonry residential buildings
+
+**Country:** Pakistan
+
+**Author(s):** Qaisar Ali, Taj Muhammad
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the Northern mountainous parts of Pakistan where the percentage of this type of construction may exceed 80% of the total residential building stock. This type of housing construction is commonly found in both rural and sub-urban areas. Stone masonry is basically general practice for residential building construction in both rural and urban areas. The form and type varies with locality. In cities however the new trend is to use RCC frame structures instead of stone masonry.
+
+**Summary:** In the Northern part of Pakistan, which mostly consists of mountainous terrain and where building stones are more abundantly available than any of the alternate building material, people commonly construct single story stone masonry buildings for residential purpose. A variety of building typologies are in use. An approximate distribution of common types of such buildings is:- Stone masonry houses without mortar with earthen roof. 10% Stonemasonry houses in mud mortar with earthen roofs. 40% Stone masonry houses in cement mortar with earthen roof. 10% Stone masonry houses in cement mortar with G.I.Sheet roof. 30% Stone masonry houses with R.C roofing. 10%. Construction of houses in rubble stone masonry, in dry or in mud mortar, was most common and was generally practiced in the past in these areas. It is still in practice in most construction. Presently, among all, about 50% of the buildings are of this type. In new construction mud mortar is steadily being replaced with cement mortar. Wall thickness in all cases usually varies from 1 to 1.5 ft. Roofs are usually earthen and generally consist of thatch covered with mud/earth and supported on wooden beams (or logs) and rafters. Some time wooden columns are also provided beneath the beams along the walls or in between the walls to support the roofing. Wooden rafters, planks and G.I. sheets are also used in modern construction for roofing. Any particular or regular layout is not used for construction of these residential buildings. It varies depending on the available space. Size of the building also varies from a single room to more than one room as per requirement of the family. These structures are considered, from experience, to be strong enough to withstand the applied gravity loads, but their seismic performance has not properly been investigated and is believed to be vulnerable to earthquake of even moderate shaking, particularly when confining elements such as wooden columns are not used. In a typical type of construction, historically known to be well resis
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** It is not known exactly as to how long this construction type has been practiced. It is believed that this type has been practic
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** Variable configurations are used to suit requirements. Rectangular buildings are most common practice. L-shape is also constructed. In some cases isolated rooms on 2 or 3 sides of an open terrace are constructed for a single housing unit.
+
+**Typical plan length (meters):** 8-15
+
+**Typical plan width (meters):** 5-12
+
+**Typical story height (meters):** 3.2
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Rubble stone (field stone) in mud/lime mortar or without mortar (usually with timber roof)
+
+**Additional comments on structural system:** The vertical load-resisting system: The masonry walls and wooden columns, if provided, act as load bearing elements. The walls and wooden columns in turn transfer the load to the ground either directly or through the foundation. The lateral load resisting system consists of masonry walls and wooden columns also contribute, if they are provided.
+
+**Gravity load-bearing & lateral load-resisting systems:** The most popular practice is to use rubble stone masonry in mud mortar or with out mortar (dry masonry) with wooden roofs, with or without using wooden columns to support roofing.
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is more than 20 %. 15% - 25%.
+
+**Wall Openings:** Usually one door and one or two windows in each room are provided. In present day practice standard size doors (3 ft x 7 ft) and windows (3 x 4 to 6 x 4 ft) are provided. In past practice small doors and windows were used. Doors up-to 4 ft height and windows of 1 x 2 to 2 x 2 ft were commonly used in traditional houses in the remote northern part of this region. A small opening (usually 1 x 1 ft size) in the roof was also provided for the purpose of both lighting and fire smoke ventilation.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** Generally these houses are not modified. Additional rooms are constructed horizontally when so required.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** Walls are directly supported on soil without footings in traditional practice. Wooden columns are directly rested on a stone block of comparatively larger size which in turn rests on soil. In modern practice a regular step footing (one or two steps) is provided on plain concrete bedding.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Rammed Earth . Rammed earth floors in traditional houses and PCC floor in modern houses are normally practiced. Occasionally wooden floor are also constructed in special rooms (i.e. sitting rooms for guests or room used for storage of house commodities etc.). Wooden covered with mud and earth.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** 
+
+**Additional comments section 2:** A typical separation distance between buildings cannot be specified. Sometimes there may be no separation while in isolated dwellings, separation distance may be up-to # km or even more.) When separated from adjacent buildings, the typical distance from a neighboring building is 0-500 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Stone, mud mortar, cement sand mortar | Mix Proportion- In case of cement mortar 1:8 to 1:10 is used No experimental work has been done for determination of mechanical properties of such type of stone masonry. | 
+| Foundations | Stone, mud mortar, cement sand mortar | Mix Proportion- In case of cement mortar 1:8 to 1:10 is used No experimental work has been done for determination of mechanical properties of such type of stone masonry. | 
+| Floors |  | No experimental work has been done for determination of mechanical properties of such type of stone masonry. | 
+| Roof | Wood, earth | No experimental work has been done for determination of mechanical properties of such type of stone masonry. | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** None of the above
+
+**Roles of those involved in the design process:** Design is not practiced. Skilled labourers for each component of the work are expert in their job through experience and practice.
+
+**Expertise of those involved in the design process:** The owner hires these expert 'skilled labourers' to carry out the construction work. No role for either Engineers or Architects.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** Usually the owner himself is the builder and typically lives in the same building.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** In most cases the owners arrange material at site. Skilled labour (mason, carpenters etc) and unskilled labour are engaged to do the work on daily wages or lump-sum basis. Walls are generally constructed of stone laid dry, or in mud and rest on soil directly usually at a shallow depth (1-2 ft) without a foundation. A wooden roof rests directly on walls. To add to the stability wooden columns below beams are occasionally provided. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. Construction takes place over time according to the availability of resources.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** 
+
+**Process for building code enforcement:** No practice or attempt is made to enforce building codes
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** Building development control rules do not exist and therefore are not enforced so anyone can construct any type of residential building.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Maintenance is usually not required. In the case where any damage occurs, it is repaired. When the building reaches its serviceable life, it is dismantled and reconstructed.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** 2400 - 5400 PRs/m2 (40 - 90 $US/m2).
+
+**Labor requirements:** 2 to 5 man-days of skilled labour (mason, carpenter etc) and 8 to 12 unskilled labour will be required per m2 of this type of construction.(i.e. if 4 skilled and 10 unskilled labours are engaged to construct a house of this type with 100 m2 cover area they will complete it in 2 to 4 months.).
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** A single family or an extended family typically occupies one house or housing unit. The number of inhabitants in a family (single or extended) in most cases exceeds 10.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better Roughly about 20% of the population falls in the category of very poor, 65% poor and 15% middle class. 1% among middle class may be approximately rated as rich.
+
+**Typical Source of Financing:** Personal savingsInformal network: friends or relatives
+
+**Additional comments on financing:** Residential buildings are constructed by personal savings in most cases. Relatives and friends contribute in cash, kind, labour and materials in deserving cases.
+
+**Type of Ownership:** Own outright
+
+**Additional comments on ownership:** The houses are owned as common property of the family and are legally divided among the owners/heirs in accordance with the general rule of law practiced, whenever families are separated. The ownership of the house is thus transferred but remains within the family. Therefore the ownership can be categorized as "owned outright".
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1972 | Sept.13. Hamaran (Hindu Kush) | 6.3 | VIII* | 
+| 1974 | Dec. 28. Pateen Valley (Hindu Kush) | 5.9 | VII* | 
+| 1981 | Sept. 12. Darel Valley (Hindu Kush) | 6.1 | VII* | 
+| 2002 | Nov. 01 Raikot Valley (Himalayas) | 5.3 | VI* | 
+| 2002 | Nov. 20 Raikot valley (Himalayas) | 6.5 | VIII* | 
+| 2005 | Oct 08 Muzafarabad (Himalayas) | 7.6 | IX-X | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** An earthquake of Magnitude Mw = 7.6 occurred on October 8, 2005 at 08:50 am local time causing damage and casualties over an area of 30,000 km2 in the N-W.F.P. province of Pakistan and parts of Pakistan administered Kashmir. The main event was followed by more than 978 aftershocks of Magnitude Mw = 4.0 and above, till October 27, 2005. The epicenter of the main earthquake was located at latitude of 34# 29' 35. N and longitude of 73# 37' 44. E. The focal depth of the main earthquake was determined to be 26 km (USGS). This was the deadliest earthquake in the recent history of the sub-continent with more than eighty thousand casualties, two hundred thousand injured, and more than 4 million people were left homeless. The adverse effects of this earthquake are estimated to be more than those of the tsunami of December 2004. The major cities and towns affected were Muzafarabad, Bagh and Rawlakot in Kashmir and Balakot, Shinkiari, Batagram, Mansehra Abbotabad, Murree and Islamabad in Pakistan. A significant number of casualties and injuries in the affected regions were associated with the total collapse of single story unreinforced stone masonry buildings. The stone masonry walls consisted of irregularly placed undressed stones, mostly rounded, that were laid in cement sand, mud mortar or even dry in some cases.
+
+**Additional comments on earthquake damage patterns:** In-plane shear and out-of-plane failure of walls; roof collapse.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | N/A | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor quality of mud, excessive thick mud joints, and poor quality of construction.
+
+**Earthquake-resilient features in walls:** Wooden horizontal bands and vertical wooden posts within the walls
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Parts of the roof are not properly connected so each part acts independently without any integrity.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o |  | | | |  |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** The area is seismically very active. Earthquakes in the past have caused damage in different localities. Being scattered, far-flung, and mountainous no documentation of such type of damage in the area is recorded and available. No defined retrofit (or strengthening) practice is known except only making a stronger component than that damaged in the earthquake through reconstruction or new construction, fig 25 though 27
+
+**Has seismic strengthening described in the above table been performed?** No design method is practiced. The trend is to make stronger components than those damaged previously.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Qaisar Ali | Associate Professor | Department of Civil Engineering, NWFP University of Engineering and Technology Pesh, Peshawar | 25000, PAKISTAN | engrqaisarali@yahoo.com | 
+| Taj Muhammad | Assistant Executive Engineer | Northern Areas Public Works Dept. Water and Power Division | NAPWD Diamer Chilas N.As. , PAKISTAN | taj_chilasi@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Robin Spence | Director | Cambridge Architectural Research Ltd. | Cambridge CB1 1DP, UNITED KINGDOM | rspence@carltd.com |

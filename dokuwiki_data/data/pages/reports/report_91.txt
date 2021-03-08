@@ -1,0 +1,321 @@
+====== EMSB1- single storied brick masonry house generally with GI roof, Bangladesh ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 91
+
+**Building Type:** EMSB1- single storied brick masonry house generally with GI roof
+
+**Country:** Bangladesh
+
+**Author(s):** Mehedi Ansary
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of Bangladesh. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is a one-story brick masonry house of fired bricks with cement or lime mortar; roof is either GI sheet or other material. These houses can be seen all over Bangladesh. During the 1918 Srimangal, 1930 Dhubri and some recent earthquakes, these type of houses suffered heavy damage. Houses with a continuous lintel suffered less.
+
+**Length of time practiced:** 76-100 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shape
+
+**Additional comments on plan shape:** Mostly L-shaped, sometimes rectangular.
+
+**Typical plan length (meters):** 3-5
+
+**Typical plan width (meters):** 2-4
+
+**Typical story height (meters):** 2.8
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in lime/cement mortar
+
+**Additional comments on structural system:** The vertical load-resisting system is earthen walls. Traditionally, 10 inch wall is used as load bearing walls. But sometimes poor people use 5 inch wall. Poorer construction do not have any kind of plaster. The lateral load-resisting system is earthen walls. Sometimes there is a continuous lintel, sometimes none. In earthquake prone areas like Chittagong, Sylhet etc. approximately 50% private housing units have continuous lintel. But on the government buildings, the percentage is much lower.
+
+**Gravity load-bearing & lateral load-resisting systems:** Tie columns are not used.
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. 15 - 20%.
+
+**Wall Openings:** At least three for a single room (two windows and one door). The buildings generally comprise of two to three rooms. The inner and outer rooms have at least two doors. Opening per wall is around 20%. Doors and windows are located in the middle of the wall.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** 
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footing
+
+**Additional comments on foundation:** Stepped brick foundations with cement mortars are used. Generally foundation bottom lies 2 to 3 ft below GL.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** GI roofs with purlins.
+
+**Additional comments section 2:** In the villages this type of housing may be located several 100 meters apart. When separated from adjacent buildings, the typical distance from a neighboring building is 2 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Brick, cement mortar | 1:4 (cement: sand) | 
+| Foundations | Brick, cement mortar | 1:4 (cement: sand) | 
+| Floors |  |  | 
+| Roof |  |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Owner
+
+**Roles of those involved in the design process:** Owners are the architect and masons are the engineer for this type of housing.
+
+**Expertise of those involved in the design process:** They do not have a large role, but masons can be trained by the engineers according to the code guideline for construction.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Mason
+
+**Roles of those involved in the building process:** The house owners hire masons to build these houses. Sometimes masons live in similar houses.
+
+**Expertise of those involved in building process:** No formal training. Masons are trained by their seniors.
+
+**Construction process and phasing:** - trench line is planned - excavate 2 to 3 ft deep trench - 6 inch thick sand layer - lay brick and use cement mortar to join them The construction of this type of housing takes place in a single phase. Typically, the building is originally not desig
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. Bangladesh National Building Code. The year the first code/standard addressing this type of construction issued was 1993. BNBC 1993.
+
+**Process for building code enforcement:** There is no enforcement of building codes for this type of construction.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** There are no guidelines for this type of housing. No prior approval is required.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** Total project: US Dollar 50/sq m.
+
+**Labor requirements:** The labor requirements for a typical house of about 30 to 50 sq.m are about 100 to 120 man-days.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** As the joint family tradition is strong in the rural areas, an extended family occupy the housing unit. Typically, the families comprise of a father and two-three sons. As the family further expands, the sons families occupy independent units.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The middle class housing unit roughly costs USD 1,000, on the other hand the rich housing unit costs USD 1,500 to 2,000. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1885 | Bogra-Sirajganj | 7 | 8 | 
+| 1897 | Assam | 8 | 10 | 
+| 1918 | Srimangal | 7.6 | 8 | 
+| 1997 | Bangladesh-India Border | 5.6 | 7 | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** During the 1897 Assam earthquake, almost 90% of this type of structure suffered some kind of damage.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Weak from earthquake point of view; sometimes there are no plaster; lack of lintel bands; no measures to strengthen the corners.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** 
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  %%|-%% | o |  %%-|%% | | | |
+
+**Additional comments section 5:** General lack of awareness about the earthquake resistant construction practices.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Inadequate wall resistance due to the absence of seismic provisions | Covering the wall with 1 ft wide seismic belt (steel wire mesh with cement mortar) at lintel level on both sides of the wall. | 
+| Foundations | Strengthening of New Construction : Provision of strip foundation | 
+| Walls | Strengthening of New Construction : Provision of RC ring beams at plinth, lintel etc. levels. Provision of vertical steel reinforcement bars at the wall corners and intersections. |
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Proposed for the damaged buildings of 2003 Rangamati earthquake.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** N/A
+
+**Was the construction inspected in the same manner as new construction?** N/A
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** N/A
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** N/A
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Report on "Seismic Risk of Five Selected Cities of Bangladesh" for CARE-Bangladesh, BUET. February, 2003. Project Leader Dr. Mehedi A. Ansary
+
+  * Bangladesh National Building Code, 1993
+
+  * Guidelines for Earthquake Resistant Non-engineered Construction IAEE
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Mehedi Ansary | PhD | Department of Civil Engineering, Bangladesh University of Engineering & Technology | Dept. of Civil Engg., BUET, Dhaka-1000 | ansaryma@yahoo.com | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^

@@ -1,0 +1,324 @@
+====== Confined brick masonry house, Slovenia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 88
+
+**Building Type:** Confined brick masonry house
+
+**Country:** Slovenia
+
+**Author(s):** Marjana Lutman, Miha Tomazevic
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in most parts of Slovenia and it is estimated that it accounts for 40 % of the entire housing stock in Slovenia. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** This is a very common single-family residential construction practice found throughout Slovenia, both in urban and rural areas. It is estimated that this construction accounts for approximately 40% of the entire housing stock in the country. Confined masonry has been practiced since the wide use of perforated clay blocks has started in the 1970s. The walls areconstructed using perforated clay blocks in lime/cement or cement mortar. The main confining elements include horizontal reinforced concrete bond beams constructed atop the structural walls at each floor level, and vertical reinforced concrete tie-columns at the wall intersections. Floors are either of composite construction, consisting of concrete joists and hollow masonry tiles, or cast in-situ reinforced concrete slabs. Timber roofs are typically used in this type of construction. Since the first national seismic code was issued in 1964, the use of vertical reinforced concrete tie-columns is typically prescribed by the structural design. However, many existing houses were constructed without these critical structural elements. An additional deficiency characteristic for this construction practice is the absence of the top bond-beams along the gable walls (crown beams). This construction is expected to show good seismic performance. Buildings of this type were generally not affected by the past earthquakes in Slovenia.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingResidential, 2 units
+
+**Typical number of stories:** 1-2
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Single and Multiple Housing Units. By and large, houses of this construction type have maximum two housing units.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 10-14
+
+**Typical plan width (meters):** 8-12
+
+**Typical story height (meters):** 2.75
+
+**Type of Structural System:** Masonry: Confined Masonry: Clay brick masonry with concrete posts/tie columns and beams
+
+**Additional comments on structural system:** The vertical load-resisting system is un-reinforced masonry walls. The gravity-load bearing structure consists of roof and floor structures and structural walls. Typically, this construction is characterized with pitched roofs made out of wood. In case of the older, pre-1975 houses, the floor structures are one-way bearing r.c. floor structures, made of hollow clay tile blocks and reinforced concrete joists. In the case of newer houses, the floor structures are simple cast in-situ r.c. slabs. In both cases, the floor structures are cast in-situ, together with r.c. bond-beams atop all structural walls. The lateral load-resisting system is un-reinforced masonry walls. The lateral load-resisting system consists of exterior and interior block masonry walls, uniformly distributed both in the transverse and longitudinal direction. The wall thickness varies from 190 mm (interior walls) to 290 mm (exterior and some interior walls). The walls are constructed using perforated clay blocks in lime/cement or cement mortar. According to Tomazevic (1999), a perforated block has vertical perforations accounting for 25-50% of the total block volume. In order to improve structural integrity, masonry walls are confined with vertical and horizontal confining elements. Horizontal bond beams are the main horizontal confining elements. These beams, mainly of reinforced concrete construction, have been cast atop all structural walls at the floor level together with floor structures. The reinforcement of horizontal bond beams consists of minimum 4 steel bars of 12 mm diameter. In addition to this, the walls are confined vertically with tie columns located at all wall corners and intersections. The tie columns are constructed either as reinforced concrete columns, cast in-situ using regular shuttering after the masonry has been constructed , or by using special blocks with vertical holes, in which the vertical reinforcement is placed and filled with infill or grout. The tie columns are reinforced with minimum 4 steel bars of 14 mm diameter. These columns should be also constructed at all free ends of the walls and around larger openings, however these elements are often omitted. The walls are typically supported by reinforced concrete strip foundations.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The wall density at the first floor level ranges from 5 to 8 % in each direction.
+
+**Wall Openings:** The average area of a window opening in the front exterior wall is 1.4 m.sq. The door opening area in exterior and interior bearing walls is on the order of 1.8 m.sq. The overall opening area in the exterior walls, expressed as a fraction of the overall wall surface area, is approximately equal to 25% on the sunny side of the house and 10% on the shaded side of the house.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Since this construction type has been used for the last 30 years, no significant structural modifications have been observed. In some cases, the extensions to the original houses have been made, often without the adequate structural connections between the original and the extended part.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural concrete: Solid slabs (cast-in-place), Solid slabs (precast)
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** The choice of the roof covering material depends on the roof slope and the architectural design style typical for a particular area. Typically, the roof is covered with concrete or clay tiles, or metal, asbestos-cement or plastic corrugated sheets.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Perforated clay blocks, Mortar, Masonry Frame: Concrete, steel reinforcement | Wall: Compressive strength: 10-15 MPa (perforated clay blocks), 2.5- 5.0 MPa (mortar), 3.0-6.0 MPa (masonry); Tensile strength: 0.18-0.30 MPa (masonry) Block dimensions: b/w /h=290/190/190 mm, Mortar-Cement:lime:sand= 1:3:9 to 1:2:6 Frame: C20 (cube compressive strength 20 MPa), fy/fu = 400/500 MPa (steel) 4-5 fractions of gravel and sand and 250 kg/m3 of cement | 
+| Foundations | Concrete, steel reinforcement | C15 (cube compressive strength 15 MPa), fy/fu = 400/500 MPa (steel) 4 fractions of gravel and sand and 200 kg/m3 of cement | 
+| Floors | Concrete, steel reinforcement | C30 (cube compressive strength 30 MPa), fy/fu = 400/500 MPa (steel) 4-5 fractions of gravel and sand and 300 kg/m3 of cement | 
+| Roof | Concrete, steel reinforcement | C30 (cube compressive strength 30 MPa), fy/fu = 400/500 MPa (steel) 4-5 fractions of gravel and sand and 300 kg/m3 of cement | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerArchitect
+
+**Roles of those involved in the design process:** Architects and structural engineers design houses of this type. It is a very common type of residential construction.
+
+**Expertise of those involved in the design process:** If there are no significant irregularities in structural design, its design and construction expertise is usually good. The supervision has to be carried out by a structural engineer. Architects are in charge of the architectural design, and structural engineers are in charge of the structural design, construction process and supervision.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerOther
+
+**Roles of those involved in the building process:** Houses of this type are generally built by construction companies. Smaller houses (plan area less than 250 m.sq.) may be alternatively built by the owner himself/herself with the help of semi-skilled workers.
+
+**Expertise of those involved in building process:** 
+
+**Construction process and phasing:** The construction process begins with the excavation, forming and stabilization of the ground. Subsequently, the strip foundations are constructed, by placing the shuttering and reinforcement and pouring the concrete. The basement walls are usually built using perforated concrete blocks. However, the walls at the upper stories are built using perforated clay blocks. The construction of r.c. tie columns consists of reinforcement placed in vertical holes, enclosed either by shuttering or special clay blocks. The concrete of r.c. tie columns for each story is poured once the wall construction is complete in order to achieve good bond between the walls and the tie-columns. Subsequently, the shuttering and the reinforcement for the floor structure, bond beams and lintel beams is placed and the concrete is poured. Mortar for masonry construction is prepared at the site by using the ready dry mix; water is added at the site, and the mortar is mixed using machine mixers. Concrete for r.c. elements is plant-mixed concrete, taken to the site by the truck mixer and poured by mobile concrete pump. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** National Seismic Code for Buildings (1981). The year the first code/standard addressing this type of construction issued was 1964. The first code including design vertical load, wind and seismic load was the Preliminary National Building Code (1948). After the catastrophic 1963 earthquake in Skopje, Macedonia (in the former Yugoslavia), the first Seismic Code addressing this type of construction was issued (1964). In addition to the National Seismic Code for Buildings, Eurocode 8 is being used at the present time. The most recent code/standard addressing this construction type issued was 1981.
+
+**Process for building code enforcement:** In order to get the building permit, the design of a building has to be approved by the state authorities. Structural engineers have to and usually do consider the requirements of National Seismic Code for Buildings, but for these individual residential houses it is usually not verified. The supervision during the construction also has to be provided. However, the technical inspection after the construction is completed is usually not carried out (although this should be performed in order to get the building use and occupancy permit).
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit construction cost (per m.sq.) for this housing type is approx. 500-750 $US/m.sq., whereas the market unit cost for the completed house is approx. 750-1200 $US/m.sq. (including the price of the lot and complete infrastructure).
+
+**Labor requirements:** The design of a house takes about 3 months. These houses are usually built individually. The construction requires approx. 5 skilled workers and it takes up to 1 year.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** This type of house is typically occupied by a single family or sometimes by two families (two generations of the same family).
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** The number of inhabitants during the evening and night is less than 5. 5-10 also possible.
+
+**Economic level of inhabitants:** Middle-income classHigh-income class (rich)
+
+**Additional comments on economic level of inhabitants:** The prices are expressed in US$. It has been assumed that middle-class families live in smaller houses (plan area of approx. 100 m.sq.). Rich people live in larger houses (plan area of approx. 200 m.sq.). Economic Level: For Middle Class the Housing Price Unit is 100000 and the Annual Income is 8000. For Rich Class the Housing Price Unit is 200000 and the Annual Income is 17000. Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financed
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** Yes
+
+**What does earthquake insurance typically cover/cost:** The entire area of Slovenia has been divided into the two "seismic insurance zones". The residential buildings are divided into two categories depending on the age of construction: older buildings, built before or in 1965, and the newer buildings, built in 1966 or later. For the higher seismic zone, the annual insurance rate is 0.105 % of the building value for older buildings and 0.07 % for the newer buildings. For the lower seismic zone, the annual insurance rate is 0.07 % and 0.045 % of the building value for older and newer buildings respectively.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1976 | Friuli, Italy* | 6.5 | IX-X (EMS) | 
+| 1998 | Bovec, Slovenia** | 5.5 | VII-VIII (EMS) | 
+
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** * The epicenters of the main shock on May 6, 1976 (M= 6.5 , focal depth 20-30 km) and the strongest aftershock on September 15, 1976 (M=5.9) were in Friuli, Italy, 20.5 km from the border between Italy and Slovenia. In Italy, 965 people died and an enormous damage was caused. In Slovenia, the maximum intensity was VIII (EMS). Out of 6,175 damaged buildings, 1,709 had to be demolished and 4,467 were retrofitted. ** The strongest earthquake with the epicenter in Slovenia in the 20th century occurred on April 12, 1998. The epicenter was located approx. 6.3 km South-East from the town of Bovec, and the focal depth was between 15 and 18 km. No building collapses were reported, however out of 952 inspected buildings, 337 were found to be unsafe (out of which 123 were beyond repair). The effectiveness of strengthening methods applied after the 1976 earthquake was studied. The majority of damaged buildings were of rubble-stone masonry construction. Buildings of confined masonry construction either remained undamaged or experienced a minor damage (a few cracks developed). Most of the observed damage was due to the mistakes made by the building owners, who have built their houses by themselves. In some cases, masonry units and/or mortar of poor quality were used in the construction. Also, the spacing between the cross walls was too large in some cases; the floor slabs were found to be too slender in some cases. Often, the houses were built without vertical tie-columns at the wall corners and intersections, and without the bond beams along the gable walls (crown beams), see Fig.15.
+
+**Additional comments on earthquake damage patterns:**
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | TRUE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | TRUE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | TRUE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** Generally, it can be found that the width of door and window openings in one out of 10-15 walls exceeds # of the wall length (i.e. the distance between the two adjacent cross walls).
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** This structural type, usually used for 2-story houses, does not have major structural deficiencies, however some common construction faults that could influence the seismic performance are as follow s: i) masonry units should be soaked in water before the construction in order to prevent burning of the mortar; in some cases, this rule is not respected and consequently the units absorb the moisture from mortar; ii) head joints (vertical joints) should be completely filled with mortar in order to provide adequate seismic resistance of masonry; in construction practice, head joints are sometimes filled only partially on both wall faces. In the case of an earthquake with high intensity, shear ("X") cracks might develop in the walls.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** In case of one-way roof and floor structures (i.e. carry load in one direction only), the walls in the longitudinal and transverse direction are not equally loaded. In the case of one-way systems horizontal cracks might develop along the wall-floor joints in the walls that do not carry gravity load.
+
+**Earthquake resilient features in roof and floors:** If floor structures are r.c. floor slabs equally reinforced in two directions, a good distribution of gravity load onto the bearing walls is achieved; consequently, similar seismic resistance is developed in both orthogonal directions.
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:**
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Cracks caused by the differential foundation settlement | Repair of cracks: Cracks are injected with cement grout which contains anti-shrinkage admixtures. After cleaning the wall surface, the grout is injected into the cracks through injection tubes and nozzles, which are drilled into the wall along the crack at 300 to 600 mm spacing. The grout is injected under low pressure. Epoxy grout is recommended instead of the cement grout in the case of fine cracks. | 
+| Inadequate lateral load resistance | Additional structural walls can be constructed, replacing the nonbearing partition walls, or existing structural walls can be strengthened by means of reinforced-cement coating, placed on both wall surfaces. | 
+| The walls at the attics level are built without top bond beams (crown beams) | The roof structure is temporary lifted and r.c. bond beams are constructed atop all walls at the attics level (Fig.16) | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** 
+
+**Has seismic strengthening described in the above table been performed?** Since this construction practice has been followed only in the last 30 years and no significant earthquake damage has been reported so far, only a few repair or retrofit interventions have been carried out so far.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The work was done as a repair following the 1998 earthquake, however a very few houses of this type that have been damaged in recent earthquakes have been repaired and strengthened.
+
+**Was the construction inspected in the same manner as new construction?:** Yes. The construction inspected in same manner as the new construction.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** An architect and a structural engineer is involved in the retrofit design. The construction is carried out by a contractor. After the 1998 Bovec earthquake, all contractors who were performing repair and strengthening were additionally trained.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Information is not available, as damaging earthquakes were not reported since 1998.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Guidelines and Procedures Used to Eliminate the Impact of the Earthquake in the Soca Valley Ladava Proceedings, Social and Economic Aspects of Earthquakes, Jones, B.G., and Tomazevic, M. (Editors), Ljubljana-Ithaca, Institute for Testing and Research in Materials and Structures, Ljubljana - Cornell University, USA, pp. 413-423 1982
+
+  * Report on Mitigating and Consequences of the Earthquake of Bovec of April 12, 1998, Ljubljana ACP Administration for Civil Protection and Disaster Relief, Government of Slovenia, Ljubljana, Slovenia (in Slovene) 1998
+
+  * The Seismic Resistance of Historical Urban Buildings and the Interventions in their Floor Systems: an Experimental Study Tomazevic,M., and Lutman,M., and Weiss,P. The Masonry Society Journal, 12 (1), pp. 77-86 1993
+
+  * Earthquake-Resistant Design of Masonry Buildings Tomazevic,M. Series on Innovation in Structures and Construction, Vol.1, Imperial College Press, London, UK 1999
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marjana Lutman | Research Engineer | Slovenian National Building & Civil Engineering Institute | Dimiceva 12, Ljubljana 1000, SLOVENIA | marjana.lutman@zag.si | 
+| Miha Tomazevic | Professor | Slovenian National Building & Civil Engr. Institute | Dimiceva 12, Ljubljana 1000, SLOVENIA | miha.tomazevic@zag.si | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Svetlana N. Brzev | Instructor | Civil and Structural Engineering Technology, British Columbia Institute of Technology | Burnaby BC V5G 3H2, CANADA | sbrzev@bcit.ca | 

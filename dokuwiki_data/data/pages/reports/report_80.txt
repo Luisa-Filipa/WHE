@@ -1,0 +1,327 @@
+====== Low-strength dressed stone masonry buildings, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 80
+
+**Building Type:** Low-strength dressed stone masonry buildings
+
+**Country:** India
+
+**Author(s):** Ravi Sinha, Vijaya R. Ambati
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in urban and rural areas throughout India. A very large proportion of the building stock in the Kutch region of Gujarat affected by the 2001 Bhuj earthquake was of this construction type. This type of construction is also used in other regions of India with lower seismic hazard where soft stone is easily available. This type of housing construction is commonly found in both rural and urban areas.
+
+**Summary:** Construction of stone masonry buildings using easily available local materials is a common practice in both urban and rural parts of India. Stone masonry houses are used by the middle class and lower middle class people in urban areas, and by all classes in rural areas. In rural areas, buildings of this type are generally smaller in size and are used as single-storey single-family housing. In urban areas, these buildings are up to 4 storeys high and they are used for multi-family housing. This is a typical load bearing construction, in which both gravity and lateral loads are resisted by the walls supported by strip footing. Dressed (shaped) stones are commonly used when the locally available stone is soft and can be chiseled at low or moderate cost. Mud or lime mortar has been used in traditional constructions; however, the use of cement mortar is also becoming more prevalent in recent times. Due to easy availability of soft sandstone in Kutch region of the Gujarat state (western part of India), stone block masonry constructions are widely used for both single-storey as well as multi-storey constructions. These houses are usually constructed by local artisans without formal training and the resulting constructions are structurally weak and incapable of resisting large seismic forces. In the Kutch region of Gujarat state, which was affected by the 2001 Bhuj earthquake this construction type is commonly used with gable end timber roof truss or RCC roof slabs. Thousands of houses of this type collapsed in the 2001 Bhuj earthquake resulting in the death of a large number of people. This construction type is inherently unsuitable for areas of moderate to high seismic hazard, such as the Kutch region of Gujarat.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, 5-9 units
+
+**Typical number of stories:** 1-4
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** Since the 2001 Bhuj earthquake, this construction type has been permitted in the Kutch district only with suitable earthquake-re
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 15-20
+
+**Typical plan width (meters):** 7.5-10
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Stone Masonry Walls: Massive stone masonry (in lime/cement mortar)
+
+**Additional comments on structural system:** The gravity load-bearing system consists of the walls which carry the floor and roof loads. The walls, in turn, transmit the loads to the foundations, which consist of strip footings, which vary in depth from 0.5m to 2.0 m (depending on the number of stories and the local soil conditions). Most rural houses have gable end timber roof truss with conventional or Mangalore type clay tiles as roofing resting on Bamboo or timber purlins. The urban constructions and other multi-storeyed buildings have used reinforced concrete (RCC) floor slabs. This housing type is characterized with rather poor lateral load resistance. Lateral loads are resisted by the stone masonry walls; however, due to the low strength of walls in these constructions (due to use of low-strength mortar and absence of earthquake-resistant features), the walls are vulnerable to earthquake effects. In single-storey constructions, the roof may consist of wall-supported flexible truss, which is not effective in distributing the storey-level inertia forces to the different resisting elements. In these constructions, openings are often found near the corners which further weaken their resistance to lateral loads.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 5-10%
+
+**Typical wall densities in direction 2:** 5-10%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 5% - 10%. The wall density is the same in both directions.
+
+**Wall Openings:** The number of openings in each floor depends on the number of housing units existing on that floor. There are typically 8 doors and 10 windows in a typical 2-bedroom housing unit. The window size ranges from 1.0m X 1.2m to 2.0m X 1.2m and the door size ranges from 0.75m X 2.1m to 1.0m X 2.1m. The doors are usually located at wall junctions and the windows at both the center and corners of the wall.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Significant structural modifications to these buildings have not been observed. However, in rural and semi-urban areas, construction may be carried out incrementally
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Solid slabs (cast-in-place), Wood plank, plywood or manufactured wood panels on joists supported by beams or walls. The flooring system could be either of these two choices. Most recent constructions in urban areas use RCC floor.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Most recent constructions in urban areas use RCC roof slabs. Solid slabs (cast-in-place)
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Rectangular sandstone masonry blocks with mud or cement mortar. | Compressive strength of masonry varies between 30-50 kg/sq.cm. Cement mortar mix (1:6 cement/sand). Both the masonry blocks and mortar have low strength | 
+| Foundations | Uncoursed stone rubble masonry with mud or cement mortar | Compressive strength of masonry varies between 30-50 kg/sq.cm. Cement mortar mix (1:6 cement/sand). Mortar has low strength. | 
+| Floors | Reinforced concrete (RCC)floor slabs | Concrete compressive strength 10 -15 MPa for RCC floor slabs. Concrete mix 1:2:4 (cement/sand/aggregate). RCC construction quality is generally very poor with improper mixing and inadequate curing. | 
+| Roof | Timber with clay tiles |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+ 
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** This construction type generally does not utilise engineering skills.
+
+**Expertise of those involved in the design process:** The engineers and architects do not have any role in the entire design and construction process.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** MasonBuilderOther
+
+**Roles of those involved in the building process:** In rural areas, the owner typically lives in this construction type. In urban areas, such dwellings are also sometimes built by developers for sale.
+
+**Expertise of those involved in building process:** The local artisans carry out the construction with the assistance of unskilled labor.
+
+**Construction process and phasing:** The construction process is totally manual and very low-tech. The local stone blocks are purchased along with rubble stones for foundation. The construction is carried out by local skilled or semi-skilled artisans with the assistance of unskilled assistants. Engineers and architects are generally not involved in the process. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** These constructions are inherently very weak against earthquake loading.
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** Title of the code or standard: IS 4326-1993 (Earthquake resistant design and construction of buildings - code of practice). Year the first code/standard addressing this type of construction issued: 1976 National building code, material codes and seismic codes/standards: IS 4326-1993 When was the most recent code/standard addressing this construction type issued? 1993
+
+**Process for building code enforcement:** There is no mechanism for enforcement of the relevant building codes.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** No
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** This construction is typically NOT authorized per development control rules in urban areas unless earthquake-resistant features are incorporated.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The construction cost varies between 2500 - 3500 Rs/sq.m. (US$60-90/m.sq.) of built area. The lower cost corresponds to poor quality stone blocks and use of mud or lime mortar, while the higher cost corresponds to urban constructions with cement mortar.
+
+**Labor requirements:** Each housing unit in rural area takes around 8-12 man-months (counting skilled man-months only) for construction. Only one or two skilled artisans are used, while the remaining are unskilled workers.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In rural areas, each house may be occupied by a single family. In urban areas where multi-storeyed housing blocks are also used, up to 16-20 housing units may be constructed in each building (of 4 storeys). Each building typically has 8 housing unit(s). In rural areas, each building typically consists of a single housing unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 1:1 or better
+
+**Typical Source of Financing:** Owner financedPersonal savingsGovernment-owned housing
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outright
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** It is not common that owners purchase earthquake insurance.
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2001 | Bhuj, Gujarat | 7.6 | X (MSK) | 
+| 1819 | Kutch, Gujarat | 8.1 | XI (MSK) | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** During the 2001 Bhuj earthquake, a very large number of stone masonry houses collapsed or were severely damaged, resulting in a large number of casualties. Old stone masonry houses, which were typically constructed using mud or lime mortar performed very poorly and exhibited brittle collapse. Thick multi-wythe walls experienced separation of wythe resulting in loss of strength. Stone masonry houses constructed with cement mortar exhibited relatively higher resistance to the earthquake. However, the number of such houses was very small. It is interesting that "engineered" stone masonry houses, which were designed with technical assistance from Architect and Engineers also did not have earthquake-resistant features as specified in the Indian Code of Practice for such structures.
+
+**Additional comments on earthquake damage patterns:** Walls: -Out of plane wall failure; -Failure of wall corners and junctions; -Bulging type failure of the wall; -Vertical shearing of wall; -Shear failure of walls near openings. Roof/Floor: -Movement of roof relative to the wall causing sliding of roof structure and complete failure in some cases.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Very thick load-bearing walls constructed with poor quality materials; -Absence of headers and through stones in multi-wythe walls and use of mud mortar; -Poor wall connections; -Absence of any earthquake-resistant features such as horizontal bands and v
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** - Inadequate timber roof joists-wall connections; - Use of tiled roofs, especially with Mangalore clay tiles, makes the roof very heavy; - Poor quality of timber used in roof truss construction; - Lack of timber protection against termites and weather eff
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | %%|-%%  |  | | %%-|%%  | | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Inadequate lateral load resistance of masonry walls due to the absence of through stones in the walls | Lateral strength of masonry units can be increased by inserting new walls in one or both directions; through-stones can also be added to tie the wythes. | 
+| Inadequate timber roof joists-wall connections | Installation of proper roof-wall connections; addition of vertical reinforcement at the corners to tie the intersecting walls. | 
+| Heavy clay roofing tiles | Tiled roofs are replaced by corrugated iron or asbestos sheet roofing. | 
+| Absence of horizontal bracing between trusses along with vertical post and improper connections. | Roof trusses are braced by welding or clamping with suitable diagonal bracing members in vertical as well as horizontal planes. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** New Construction: -Use of horizontal bands at plinth, lintel and roof levels: Use of bands ties the walls together and ensures effective load transfer under earthquake loading -Vertical reinforcement adjacent to openings and at the wall corners: Vertical reinforcement confines the masonry under earthquake loading and increases its earthquake resistance. -Rigid concrete (RCC) roof slabs or light-weight truss roof: Concrete (RCC) roof slabs are very effective in transferring the inertia forces between the different walls. Use of low weight truss roof reduces the inertia force under earthquake loading
+
+**Has seismic strengthening described in the above table been performed?** After the 2001 Bhuj earthquake, the existing stone masonry structures in Kutch district are to be retrofitted as described above by the individual house owners.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** The strengthening is to be carried out to both damaged as well as undamaged structures.
+
+**Was the construction inspected in the same manner as new construction?** There is no effective inspection and monitoring mechanism.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The constructions do not use engineers, and are carried out by the contractor or the owner.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** Not Applicable
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * IS : 4326 - 1993 Code of Practice for Earthquake Resistant Design and Construction of Buildings, Bureau of Indian Standards, New Delhi.
+
+  * IS : 13935 - 1993 Repair and Seismic Strengthening of Buildings - Guidelines, Bureau of Indian Standards, New Delhi.
+
+  * IS : 13828 - 1993 Improving Earthquake Resistance of Low Strength Masonry Buildings - Guidelines, Bureau of Indian Standards, New Delhi.
+
+  * IS : 1905 - 1987 Code of Practice for Structural Use of Unreinforced Masonry, Bureau of Indian Standards, New Delhi.
+
+  * Sinha, R. et al. The Bhuj Earthquake of January 26, 2001: Consequences and Future Challenges, Indian Institute of Technology, Bombay, April 2001 (available at http://www.civil.iitb.ac.in/BhujEarthquake/Cover_Page.htm).
+
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Associate Professor | Indian Institute of Technology, Bombay | Civil Engineering DepartmentIndian Institute of Technology, Powai, Mumbai, 400 076, India, (91-22) 576-7336, rsinha@civil.iitb.ac.in | rsinha@civil.iitb.ac.in | 
+| Vijaya R. Ambati | Research Associate | Indian Institute of Technology, Bombay | Department of Civil Engineering, IIT Powai,Mumbai,400 076,India,vrambati@yahoo.co.in | vrambati@yahoo.co.in | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Marjana Lutman | Research Engineer | Slovenian National Building & Civil Engineering In | Ljubljana 1000, SLOVENIA | marjana.lutman@zag.si | 

@@ -1,0 +1,326 @@
+====== Traditional adobe house without seismic features, Argentina ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 89
+
+**Building Type:** Traditional adobe house without seismic features
+
+**Country:** Argentina
+
+**Author(s):** Virginia I Rodriguez, Maria I Yacante, Sergio Reiloba
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the province of San Juan since Colonial times, and it is still being built in the rural and suburban areas of San Juan. In Tulum Valley, where the population is about 85% of the population of the whole population of the whole province, almost 40% of the construction is of this type. This type of housing construction is commonly found in both rural and sub-urban areas.
+
+**Summary:** This construction type is used as a single-family house. It is a single-story, detached building, found in the rural and suburban areas of the province of San Juan. This traditional type of construction is built with adobe walls and no cornice. The traditional adobe house has a range of deficiencies: weak connections, heavy roofs, adobe blocks that deteriorate (especially at the base of the walls) due to prolonged exposure to humidity. This housing type is expected to perform poorly in earthquakes.
+
+**Length of time practiced:** More than 200 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** 3
+
+**Comments:** 
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** U- or C-shape
+
+**Additional comments on plan shape:** The typical shape of a building plan for this housing type is irregular ("U"- form).
+
+**Typical plan length (meters):** 11.5
+
+**Typical plan width (meters):** 7.4
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Adobe block walls
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is others (described below). Load-bearing adobe block masonry walls. Gravity load-bearing system: The vertical load-resisting system is others (described below). Load-bearing adobe block masonry walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 13% - 14% Total wall area: 0.25 direction y: 14% direction x: 13%.
+
+**Wall Openings:** This housing type has five windows and six doors. Four windows of 0.48sq m and one of 0.09sq m, all of them placed in the middle of the wall. The six doors have variable areas: one of 1.60sq m, one of 2.00sq m, one of 2.40sq m and three of 1.80 sq m. Outside the house there is a toilet with a door of 1.40 sq m. Three doors are placed to one side of the wall, the other three in the middle of the wall, and the toilet door is also placed to one side of the wall. The total opening area is about 8.42% of the whole wall area.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** Typically no modifications are made to these buildings.
+
+**Type of Foundation:** Shallow Foundation: No foundation
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** 
+
+**Additional comments on floor system:** 
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Flat cane roof with a mud coat supported by poplar logs.
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 10 or more meters.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Adobe | Wall: Characteristic Strength- Contact compression 2.20 kg/cm2. Shear strength 1.8 kg/cm2. Horizontal cut 0.1 kg/cm2. Mix Proportion/Dimensions- Traditional adobe dimensions: 20x35x50 very clayey soil Adobe blocks laid with mud from the level of the floor. | 
+| Foundations |  |  | 
+| Floors | Cane and mud on poplar logs. | Logs: 8 or 10 cm diameter every 60 cm. | 
+| Roof | Cane and mud on poplar logs. | Logs: 8 or 10 cm diameter every 60 cm. | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** OwnerOther
+
+**Roles of those involved in the design process:** Architects and engineers have no role in the design, calculation or construction of this housing type. All of the construction process is carried out by the owner (self construction).
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Owner
+
+**Roles of those involved in the building process:** The builder / owner usually lives in this housing type.
+
+**Expertise of those involved in building process:** There is a high level of expertise in this traditional construction type in the province of San Juan. This kind of construction is the result of the socio-economic conditions and it reflects not only the cultural and technological development of the region, but also the availability of natural material in the area.
+
+**Construction process and phasing:** This construction type is typically built by the owner himself. The construction process starts with the making of the mixture for the manufacturing of adobe and the drying of the blocks. Then the masonry is built binding one line of blocks with another and laying the adobe blocks with mud. Finally, when the masonry is dried, the roof is built placing the logs properly to lay the canes and a mud coat on them. The tools and equipment typically used are: shovels, hoes, baskets, level, plumb line, etc. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. The owner modifies this housing type according to his own needs.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** No
+
+**Applicable codes or standards:** This construction type without any seismic provisions does not follow any building code.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** No
+
+**Additional comments on building permits and development control rules:** This construction type is not authorized by any of the present regulations, that is the reason why no plans are presented and there are no permits or inspections.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** Typically, the building of this housing type is maintained by Owner(s). There is rare or minimal maintenance due to the economic situation of the owner.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** $100 per m# (350 $US/m#).
+
+**Labor requirements:** The main requirement in this construction type is the people's expertise to choose the proper soil, the manufacturing and drying of the adobe blocks and the making of the walls and roof. This housing type is generally built in summer and the required time to complete the construction is two or three months.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** In general, there is a single family in housing unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** 44474
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 44474
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** In the rural areas of Argentina, typically the economic status of the population falls in the following categories: rich people 1%, middle class 9%, poor people 30% and very poor people 60%. House Price/Annual Income (Ratio) is 1:1 or better.
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** Own outrightLong-term lease
+
+**Additional comments on ownership:** This construction type is built by poor people following the system of self-construction. In some cases, the house-owners own the land.
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** This construction type has no approved plans and no inspections so it has no insurance coverage either. Anyway, insurance companies do not have a coverage for earthquakes and they make it explicit that they do not cover catastrophes.
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1944 | La Laja (Albardon District) | 7.8 | IX | 
+| 1952 | La Rinconada (Pocito District) | 7 | VII | 
+| 1977 | Pie de Palo (Caucete District) | 7.4 | IX | 
+| 1984 | Del Tigre Fault (Iglesia District) | 8.2 | X | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** The first earthquake known in the area was in 1894, it was called "The Argentinean Earthquake." All the buildings at that time were of this construction type. 100% of this construction type collapsed in the most affected area, while in the areas which were far from the epicenter, cracks on walls and the total or partial collapse of cornices were observed. During the 1944 earthquake, 90% of the buildings of this construction type collapsed completely or suffered severe damage. The same happened with this adobe house without seismic provisions during the earthquakes of 1952 and 1977.
+
+**Additional comments on earthquake damage patterns:** Walls: -Collapse of interior walls. -Collapse of walls. -Falling down of pieces and parts of adobe blocks from the middle of the face of the w all. -Collapse of walls which are weakened on their base due to the erosive action of water. -General cracking of walls. -Damage on the upper corners of the openings.-Falling of lintels.-Loosening of plastering due to the lack of sticking. Roof/Floor: Total and partial collapse of the roof towards the inside of the rooms. - Displacing of logs.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | FALSE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | FALSE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | FALSE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | FALSE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | FALSE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** -Lack of connection between walls -Adobe block masonry simply laid on the ground without any foundation or overfoundation. -Openings placed next to w all intersections. -Walls with openings greater than the 30% of the total wall area.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** 
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** #NAME?
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | o | | | | | |
+
+**Additional comments section 5:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+
+----
+
+**Additional comments on seismic strengthening provisions:** There are no seismic strengthening provisions available for this construction type.
+
+**Has seismic strengthening described in the above table been performed?** No
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** 
+
+**Was the construction inspected in the same manner as new construction?** 
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** 
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** 
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * Project: Interrelations between the architectural design and the structural design Facultad de Arqutectura y Urbanismo - Universidad Nacional de San Juan 1988 - Arq. Virginia I. Rodriguez, Ing. Hugo Giuliani, Arq. Mar 1988
+
+  * La vivienda de adobe en zonas Giuliani,H., and Cano,J.H. San Juan, Argentina 1984
+
+  * El condicionamientos Fernandez,A.E.
+
+  * Fallamiento cuaternario en la region Ge Thesis, San Juan. Argentina 1984
+
+  * Microzonificaci Instituto Nacional de Prevenci 1982
+
+  * A collection of photographs about damages from Instituto Nacional de Prevenci
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Virginia I Rodriguez | Architect | Professor - Researcher | B# UDAP III Manzana"E" Monoblock 1 Piso 1# 5432 Rivadavia - San Juan - Argentina | deskjet@sinectis.com.ar | 
+| Maria I Yacante | Architect | Researcher | Av. Rawson 1068 (s) 5400 San Juan - Argentina |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx | 

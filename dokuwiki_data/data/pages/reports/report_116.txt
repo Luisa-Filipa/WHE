@@ -1,0 +1,340 @@
+====== Timber Frame Brick House with Attic, India ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 116
+
+**Building Type:** Timber Frame Brick House with Attic
+
+**Country:** India
+
+**Author(s):** Amit Kumar, Jeewan Pundit
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in all parts of India with small or large variations. The typical construction type has been taken from the Nimar region of Madhya Pradesh, which is prone to moderate earthquakes in seismic zone III (I.S. 1893:2002) but this construction type is spread uniformly over central and southern India. This type of housing construction is commonly found in both rural and urban areas. These buildings are found in both rural and urban areas. The percentage of houses in urban areas is high. Only the affluent sector in rural areas possesses this type of housing in villages due to high construction costs.
+
+**Summary:** This type of house is used for residential purposes. The building type under study has been picked the from central part of India (Madhya Pradesh), but it is found throughout India with small or large variations. Timber is primarily used for the frame structural elements but due to an acute shortage of timber, this construction type is not practiced anymore. Various components of the building change from place to place depending on climate, socio-economic conditions, availability of material, etc. Timber frames, placed in longitudinal and traverse directions, are filled with brick masonry walls. The floor structure is made of timber planks. Most of the buildings are found to be rectangular in shape with few openings. The roofing material is usually light when it is made from galvanized iron sheets. Seismic performance of a perfectly framed building is very satisfactory. Existing old structures, however, require maintenance and strengthening (Figure-1,2). It has been observed that nominal cost will be incurred for introducing earthquake resistant features.
+
+**Length of time practiced:** 101-200 years
+
+**Still Practiced:** No
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwellingResidential, 2 units
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Off
+
+**Comments:** Currently, this type of construction is not being built. Construction of this type of structure has slowed due to the absence of
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solidL-shapeT-shapeU- or C-shape
+
+**Additional comments on plan shape:** Most of the houses are rectangular in shape but sometimes depending upon functional requirements, plan irregularities are found. General shapes include rectangular with a high length-width ratio, T , L or U.
+
+**Typical plan length (meters):** 5
+
+**Typical plan width (meters):** 3.5
+
+**Typical story height (meters):** 3.5
+
+**Type of Structural System:** Masonry: Unreinforced Masonry Walls: Brick masonry in mud mortar with vertical posts
+
+**Additional comments on structural system:** Lateral load-resisting system: The lateral load-resisting system is a timber frame load-bearing wall system. If the building is made with adequate engineering skills and techniques, it has sufficient lateral load resisting strength. The frames are made of teak wood, which is considered very durable and free from insects and termite. The Figures 6, 7 & 25 show the configuration of a frame. Generally, the columns and beams are placed longitudinally and transversely. In longitudinal direction, the columns are placed at the distance of 2 to 2.5 m center to center. The transverse columns are placed at 2.0 m center to center. The size of column varies from 0.25 m x 0.25 m to 0.35 m x 0.35 m. Beams run throughout the periphery of the house. In both directions, the beams are resting on column grids. The connectivity between the column and beam is found to be very good with proper joint system (Figure-8,9). The first floor is made up of timber plank (Figure-10). The thickness of wooden plank varies from 0.1m to 0.125 m. The wooden platform is covered with bamboo mat and finally plastered with mud. The thickness of mud plaster is limited to 0.05m. The timber posts for the attic, which support the sloping roof, extend from the timber rafters. The attic is used for storing grain and other household items. Sometimes it is used as a living room. It is generally observed that the gable portion of wall is not provided with a timber band. The sloping roof of the house is resting on the gable end, which is very vulnerable to lateral dynamic forces. Perfect timber framed buildings are very good at resisting earthquake forces. The evidence of good performance of this building was shown in the Latur earthquake in 1993. The building may sway but will definitely avoid total collapse. The damage pattern of such building may be referred to in Figure-11. The damage to the building was due to heavy and thick external walls and roof. The walls are not attached to the timber frame. The only attachment is achieved by the inside and outside plastering. The roofing elements are partly resting on outer walls and partly on intermittent timber columns. These buildings do not require many resources for retrofitting and restrengthening. Gravity load-bearing system: The vertical load-resisting system is confined masonry wall system. The infill walls are made of brick masonry. These infill walls are the gravity load-bearing structures. The walls partially take the load of roofing elements.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** 15-20%
+
+**Typical wall densities in direction 2:** 15-20%
+
+**Additional comments on typical wall densities:** The typical structural wall density is 15-20% For medium size buildings, the wall density ranges from 15 to 20 %. Longitudinal Direction: 20-25 %. Transverse Direction: 15-20 %.
+
+**Wall Openings:** Generally in semi-urban and rural areas, the old pattern of construction does not have an adequate ventilation system. In common, it is found that in each wall face, openings are limited to 5 - 8 %. Even the height of doors and windows are small at 6 feet and 2 feet respectively.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** It is found that comparatively older buildings are generally made with sufficient precision and good building skills. Extensions or modifications, however, are generally done without appropriate building construction techniques. In urban areas, the outermost rooms are converted into shops or used for commercial purposes. It has been found that some modification and extension has been done with heterogeneous materials and structural systems. One example of such modification is the continuation of an existing brick wall with random rubble masonry (Figure-3,4,5). The older houses are made up with mud mortar but recently extensions are built with cement mortar. These type of modifications and alterations adversely affect the seismic performance.
+
+**Type of Foundation:** Shallow Foundation: Wall or column embedded in soil, without footingShallow Foundation: Rubble stone, fieldstone isolated footingShallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** 
+
+**Type of Floor System:** Plywood panels or other light-weight panels for floor
+
+**Additional comments on floor system:** Timber: Wood planks or beams with ballast and concrete or plaster finishing
+
+**Type of Roof System:** Inflatable or tensile membrance roof
+
+**Additional comments on roof system:** Timber: Thatched roof supported on wood purlins; Wood shingle roof; Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles; Wood plank, plywood or manufactured wood panels on joists supported by beams or walls
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters. The length and width change depending on requirements and certain governing factors. These factors include: (1) Occupancy rate (2) Economy background (3) Availability of resources like materials, manpower and money (4) Caste system (5) Rural or Urban area Typical Story Height: Story height can range from 3.5 to 4.0 meters with a 1.0 to 1.5 meter high attic. Typical Span: The span between columns ranges from 1.75 to 2.5 meters, center to center
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Brick Frame: Timber (Teak Wood). |  | 
+| Foundations | Rubble Stone with Mud mortar. |  | 
+| Floors | Timber planks (Teak) | GROUND FLOOR: Mud Plaster. FIRST FLOOR: Wooden planks. | 
+| Roof | Timber planks (Teak) |  | 
+| Other |  |  | 
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** Other
+
+**Roles of those involved in the design process:** 
+
+**Expertise of those involved in the design process:** In general, no formal engineering design is practiced for the construction of these houses.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** Other
+
+**Roles of those involved in the building process:** Builders live in this type of construction.
+
+**Expertise of those involved in building process:** The building is constructed by local skilled or semi skilled workers, which have little knowledge of engineered construction. They follow rules-of-thumb for construction. In semi-urban and rural areas, civil engineers do not play a role in the design and construction of these buildings. These days, due to a lack of wood for building material, the rate of construction of these buildings has declined.
+
+**Construction process and phasing:** The typical house of two rooms for a single family may take nearly four to six weeks of time. FOUNDATION: For brick wall construction, a spread footing foundation is generally used. The depth of foundation is about 0.60m. The foundation is made of random rubble masonry with mud mortar. The thickness of the footings varies from 0.60 to 0.75 m. In many cases, the width of the foundation continues above the plinth level and gradually tapers down to the wall thickness. The timber columns are erected and placed during the foundation construction phase. TIMBER FRAME AND WALL CONSTRUCTION: The timber frame is erected before masonry work. All necessary bracings are done. Once the frame is erected, brick work starts. Major construction work is done by the family members. Only specific technical jobs, are done by skilled or semi-skilled masons or carpenters. WALL CONSTRUCTION: The walls are constructed after erection of timber frame. Generally, mud mortars are used for the brick masonry work. The English bond system is applied for walling but many times this feature is missing in rural construction. There are no provisions for waterproofing the walls. (Figure-22). ROOFING SYSTEM: The roof has two tiers. A flat roof is constructed just above the ground floor. The flat roof is made up of timber. The details are shown in Figure-22. The roof above the attic, which is exposed to the outside, is covered with galvanized iron sheets or clay tiles. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size.
+
+**Construction issues:** 
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** --IS 13828-1993: Indian standard guidelines for improving earthquake resistance of low strength masonry buildings --IS 1893-2002: Indian standard guidelines for earthquake resistant design of structures --IS 4326-1993: Indian standard code of practice for
+
+**Process for building code enforcement:** The building code enforcement for this type of construction is very poor. The building bylaws in rural and semi-urban areas are not properly enforced.
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** No
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** Generally this type of construction is outdated and is practiced in semi-urban and rural areas where building bylaws are not strictly followed.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The unit cost of construction without considering the cost of land and interior fitting comes out to be Indian Rs. 1500 to Rs. 2000 (USD35 to USD 45) per square meter depending upon the place and material available.
+
+**Labor requirements:** If the size of a house is considered to be 12 m X 3 m, the time required to complete the house will take 35 days provided all resources are supplied to the site without interruption. The requirement of manpower will be as follows: Labor = 38 Mason = 26 Carpenter = 5.
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The building may be occupied by a single family or a joint family. The number of housing units in a building is usually limited to 2 but, the number of housing units in a building changes from house to house. Generally economic factors play a major role in the number of units per building. Richer people may occupy multiple housing units while this is less likely for the poor.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** 5-10
+
+**Additional comments on number of inhabitants:** In semi-urban to rural areas, the male members are going to agricultural fields for cultivation. The graph shows the variation in occupancy of typical building. See the graph in Figure-24.
+
+**Economic level of inhabitants:** Low-income class (poor)Middle-income class
+
+**Additional comments on economic level of inhabitants:** House Price/Annual Income (Ratio): 5:1 or worse The House Price is in Indian Rupees (US$ 1 = IN Rs. 45.00) Economic Level: For Poor Class the Housing Price Unit is 100000 and the Annual Income is 25000. For Middle Class the Housing Price Unit is 200000 and the Annual Income is 40000.
+
+**Typical Source of Financing:** Owner financedPersonal savings
+
+**Additional comments on financing:** The rural house owners use money from their own savings and, if not, they borrow money from small local money lenders. There are many times when illiterate rural people are cheated by those moneylenders. Now the government is providing many encouraging housing loan facilities to all groups of society with lower interest rates.
+
+**Type of Ownership:** Units owned individually (condominium)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** 
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 1988 | Eastern Nepal betw een Udaipur and Dharan (Bihar-Nepal Earthquake) | 6.6 | IX | 
+| 1993 | Killari (Maharashtra ) | 6.4 | IX | 
+| 1997 | Kosma Ghat (Jabalpur) | 6 | VII | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** In the Bihar Nepal Earthquake (1988), with isoseismal areas of IX, nearly 75 % of these buildings experienced moderate to severe damage ranging from wide cracks to partial collapse. More damages were reported due to liquefaction than ground shaking. In Killari earthquake (1993), typical timber framed brick buildings at Intensity VII to IX, performed satisfactorily. The damage varied from minor cracks to swaying of the timber frame without partial or complete collapse. In Jabalpur earthquake(1997), similar building types performed differently in various places. Although the statistical data for damage to this building type is not available, the range of damage varies from unaffected to complete collapse.
+
+**Additional comments on earthquake damage patterns:** Overall damage patterns observed in past earthquakes for this type of construction included: (wall) --Corner separation (Figure-13,14) --Damage to partition wall (Figure-15) --Overturning of walls --Deep cracking in walls --Gable failure (Figure-16,17). (frame) --Swaying of columns (Figure-18) --Excessive deflection in beams --Joint failure of beams and columns(Figure-18) --Collapse of frame structure. (roof and floors) --Collapse of roof (Figure-15) --Displacement of roof covering tiles --Joint failure of purlins and rafter.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | TRUE | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | FALSE | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | N/A | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | TRUE | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** --Mud mortar --No sufficient bearing for opening --The openings are at different levels (Figure-12).
+
+**Earthquake-resilient features in walls:** --Wall as partition wall (Figure-6) --Comparatively light in weight than conventional load bearing brick walls (Thickness ranges from 0.35 to 0.45 m
+
+**Seismic deficiency in frames:** --Connection with wall is not sufficient --Column and beam bracings are not adequate (Figure-5) --Lack of proper linkage between columns and beams --Loose connection.
+
+**Earthquake-resilient features in frame:** --Ductile beam and column thus better resistance to earthquake forces --Sometimes braces which link column and beams are present (Figure-7).
+
+**Seismic deficiency in roof and floors:** --Heavy roofing elements(Figure-19) --No proper joints between rafters and purlins (Figure-20) -- Poor linkage between roofing elements and wall.
+
+**Earthquake resilient features in roof and floors:** --Many houses are covered with galvanized iron sheet, which is light in weight, thus reducing seismic forces on building (Figure-21).
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | o | %%-|%% | | |
+
+**Additional comments section 5:** The structural system connectivity for a good timber frame brick building is perfect at its wooden joints but most of the time it has been found that poorly constructed buildings are missing such important parameters. In this regard, a survey was conducted and found that about 85 % of the buildings in the study area do not have adequate structural connectivity.
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Poor column and beam connection | Knee, horizontal and vertical bracing (Figure-23) | 
+| Poor roofing elements | Replacing the decayed wooden elements with good quality wooden members | 
+| Heavyweight roofing | Replacing heavy roofing material with galvanized iron sheet (Figure-23) | 
+| Plinth, lintel and roof band absence | Strengthening with wire mesh (Figure-23). | 
+| Poor brick mortar and poor waterproofing | Plastering with rich cement mortar with waterproofing compounds | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** STRENGTHENING OF EXISTING CONSTRUCTION - Seismic Deficiency: 1.Absence of lintel bands 2.Heavy roofing material like country clay tiles 3.Discontinuous columns 4.Local bricks are made up of black cotton soil which contains many mineral lumps 5.Black cotton soil mortar 6.Absence of building codes practices 7. No proper bonding techniques are applied in field Description of Seismic Strengthening provision used: 1.Provide plinth, lintel and roof bands (Figure-23) 2.Lightw eight roofing materials such as galvanized iron sheet 3.Firm column and beam connection 4.Good quality bricks to be used 5.Cement mortar in place of mud mortar 6.Good practice of building codes 7.Proper bonding of walls
+
+**Has seismic strengthening described in the above table been performed?:** This seismic strengthening procedure has been described based on post-earthquake rehabilitation of the Killari earthquake, earthquake retrofitting techniques adopted for earthquake prone areas of Nimar and Indian standard codes. No retrofitting programs have been initiated before earthquake occurrence for this type of construction.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** In India, mitigative measures have only been instituted in large scale after earthquakes. Examples can be sited after the Killari earthquake in Maharashtra, India, where this type of construction, namely Khan construction, was retrofitted and strengthened.
+
+**Was the construction inspected in the same manner as new construction?:** Yes
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?:** The house was constructed by the contractor with overall supervision of engineers deployed for redevelopment and rehabilitation.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?:** No such case is apparent.
+
+**Additional comments section 6:** METHOD FOR RETROFITTING / STRENGTHENING Process Overview: (A) Removal of Excess Heavy Roof Covering (B) Insertion of a Timber Frame (C) Strengthening the Timber Frame (D) Seismic Bandage (E) Roof Strengthening (F) Pointing of Poor Mortar Brick Walls (G) GI Sheet of Tile Roof Fixing (A) Removal of Excess Heavy Roof Covering i.e Tiles, Timber Planks, GI Sheets, Clay Tiles, Etc. Earthquake induced seismic forces are directly proportional to the mass of structural elements; the larger the mass, the larger the seismic forces to be resisted by the structure. Therefore, the weight of the roof must be reduced to the greatest possible extent. The following procedure has to be adopted: 1. Removal of clay tiles or GI roofing sheets carefully without altering the existing load path of system. 2. Careful removal of roofing and truss materials; the roofing elements should not be repositioned until all other retrofitting work at and above eave level has been completed. 3. Placement of the wooden purlins and rafters (50-75 diameter) at a spacing of 250 mm center to center. The purlins must be placed firmly within proper grooves in the rafters. The rafters are fixedly placed on a wooden "Eaves Band" with a steel strap, placed all around the top of wall. (B) Insertion of a Timber Frame. The existing frame structure has its own strength and acts perfectly well during ground shaking. The load bearing brick walls perform comparatively poorly, so effort should be spent to convert the load bearing structure from the brick walls to frame. It is observed that this rural construction type is partially framed so less effort is required to convert a house into a fully framed structure. The loads coming from the super-structure to the foundation should be studied. Columns should be inserted in the necessary locations using a proper foundation construction technique that ensures the loads can transfer from the structure to the ground. The eaves band must be positioned on the wall properly by making grooves and inserting the column. (C) Strengthening the Timber Frame. The strengthening is done by bracing the frame and wooden members. It includes installation of timber band, knee bracing as well as diagonal and horizontal bracing of timber frame. (i) Installation of Timber Band. The top most portion of the wall should be dismantled just below the eaves level and the timber band should be installed at this level; the parapet wall should be reconstructed using the same material. The timber band is to be also provided at gable tops. (ii) Knee Bracing of a Timber Frame. Knee bracing should be introduced at top of each timber post to reduce the likelihood of lateral sway and to strengthen timber frame against a possible earthquake. Two bracings are required for corner posts and four bracings are required for inside posts in a bidirectional column-beam system. There are several possible types of knee bracing, depending on the availability of construction materials (steel or timber). The length of the knee bracing should be approximately 60 cm. When steel bracing is employed, rolled steel angles with a minimum size of 35 X 3 mm should be used. For timber bracing, a timber plank of 30x80-mm cross-section may be used. (iii) Diagonal and Horizontal Bracing of the Timber Frame. As an alternative to knee bracing, bracing of a timber frame by means of either diagonal bracing elements or horizontal struts is recommended. The purpose of providing diagonal and horizontal bracing is: 1. To prevent swaying of a timber frame during an earthquake and 2. To prevent tilting of the wall to the inside of the house and/or to reduce the effective wall height. Bracing of the core house area, particularly all the bedrooms, is of the highest priority. Consequently, diagonal or horizontal bracing should be provided inside first, and then on the outside of the house. For diagonal bracing applications, a minimum of two bracings should be installed in adjacent spans with alternate directions. Alternatively, "X" bracing can be installed within one frame span. Timber planks used for diagonal or horizontal bracing should be at least 30x80 mm in cross section. (D) Seismic Bandage. To ensure integral action of the walls during an earthquake, installation of seismic bandage at the lintel level is recommended for UCR stone masonry as well as for BB and solid concrete block masonry walls. Seismic bandage is an alternative to a reinforced concrete (RC) band at the eave level, and it should be provided whenever it is not feasible to install a RC band at the eaves level by dismantling a portion of the parapet. When the masonry work is not in good condition, bandage can be provided, without dismantling a portion of wall. Seismic bandage can be installed, whenever: a) the height of the wall (from the ground level to eaves level) is over 3 m, and/or b) the distance between the top of the openings (windows) and the eaves level is at least 1m. In such a case, seismic bandage should be installed at the lintel level. Construction of seismic bandage should be carried out as per the following procedure: # Clean a 80 cm wide horizontal strip of the exterior wall face all around the building, starting at the lintel level. # Remove the plaster from the wall surface. Rake the joints between the stones to a depth of approximately 20 mm. Surface should be cleaned with a wire brush until all vegetation and dust particles are removed. # Provide an opening for a shear key (approximately size 15 x15) by removing one stone from the wall below the roof level. Shear keys should be spaced horizontally every 2 m. # Two pairs of "U" shaped stirrups (6mm diameter mild steel bars) should be inserted in each shear key. Four longitudinal bars of 8 mm diameter TOR steel should be placed in the corners of the "U" stirrups. # Fill the space in the shear keys with micro-concrete (1:2:4 mix, maximum 6 mm diameter aggregate). # Affix a 60 cm wide strip of welded wire mesh reinforcement of 2 - 3 mm diameter @ 25 - 50 mm c/c spacing (i.e. Wire mesh of size 25 x 25 x 2 mm or 50 x 50 x 3 mm or with intermediate diameter and appropriate spacing) to the walls at the roof level by means of long nails. The mesh should also be connected to the shear key reinforcement with the binding wire. # Provide a 10 mm wide gap between the mesh and the wall. # Overlap the mesh to ensure the continuity of reinforcement. The overlapping length should be approximately 60 cm. # Wet the wall surface by sprinkling water. Apply a 15mm thick layer of 1:3 cement-sand mortar to cover the mesh. # After one hour, apply another layer of 1:3 cement-sand mortar of the same thickness (15mm). # Cure the belt continuously for 14 days by sprinkling water. # For a house having more than one room, seismic bandage should be provided along with tie bars as shown in figure 17. (E) Roof Strengthening. a. Weld or clamp suitable diagonal bracing members in the vertical as well as horizontal planes to brace roof truss frames. b. Improve the roof truss anchors that connect to the supporting walls to eliminate the roof thruston the walls. c. Integrate roof and floor systems that consist of prefabricated units like RC rectangular/T/channel units or wooden poles/joists carrying brick tiles. Timber elements could be connected by nails to diagonal planks and spiked to an all around wooden frame at the ends. (F) Pointing Exterior Walls. Joints of the brickwork must be raked out to a depth of 20 mm (3/4 inches) and the surface of the wall must be washed, cleaned and kept wet for two days before pointing. The mortar materials should be either a mix of cement and sand or a mix of kankar lime, surkhi and sand. The materials of mortar shall be dry mixed first by measuring with boxes to have the required proportion as specified (1:2 or1:3 for cement sand mortar, 1:1 for Lime surkhi (Crushed burnt brick bats) mortar of kankar lime); only then can the mortar be thoroughly mixed by adding water slowly and gradually. Mortar shall then be applied in the joints slightly in excess. If there is any extra mortar, it should be removed and the surface finished. Mortar shall not spread over the face of bricks, and the edges of bricks shall be clearly defined to give a neat appearance. After pointing the surface shall be kept wet for seven days. (G) GI Sheet or Tile Roofing. It is observed that a suitable connection between the roof structure and the walls is absent in most of these houses. A GI sheet, when improperly supported directly on the roof band, requires a cut in a portion of the band. (A cut in the band is also required to embed the rafters or purlins.) However, such a cut in the band is not permitted. Instead, one or two courses of burnt brick masonry should be provided to connect the GI sheet roofing. On the front side, bolts can be embedded in the burnt brick masonry over the band and the GI sheet should preferably be held by a flat 30x3 mm which in turn should be embedded in the end of parapet walls. Alternatively, on the front side, a purlin can be used along the inside or outside of the band and J bolts can be connected through this purlin (which is flat on top) to hold the GI sheets in place.
+
+----
+
+==== 7. References ====
+
+  * A Manual of earthquake resistant non-engineered construction Indian society of earthquake technology IAEE Indian Society of Earthquake Technology, University of Roorkee, Roorkee 1989
+
+  * Earthquake Protection Coburn,A. and Spence,R. John Wiley & Sons, London, UK 1992
+
+  * Reducing Human casualties in Building Collapse: Method of Optimizing disaster plans to reduce injury levels. Coburn,A.W, Pomonis,A., Sakai,S. and Spence,R.J.S. The Martin Centre for architectural and urban studies, University of Cambridge, UK 1992
+
+  * The September 29, 1993 M6.4 Killari Maharashtra earthquake in central India Earthquake Engineering Research Institute (EERI) EERI special earthquake report, USA 1994
+
+  * Some observations on engineering aspects of the Jabalpur earthquake of 22 May 1997 Earthquake Engineering Research Institute (EERI) EERI special earthquake report, USA 1997
+
+  * Learning from earthquakes: The Chamoli, India, earthquake of March 29 1999 Earthquake Engineering Research Institute (EERI) EERI special earthquake report, USA 1999
+
+  * Development of project for retrofitting of building for Khandwa region, Madhya Pradesh Kumar,A. Disaster Management Institute, Bhopal, India 2002
+
+  * Seismic Retrofitting of Non-Engineered Buildings of Earthquake Prone Area of Madhya Pradesh. Kumar,A. and Parmar,A.K.S. International Symposium on Seismology, Earthquake Hazard Assessment and Risk Management, Kathmandu, Nepal 2002
+
+  * Financial Assessment for Retrofitting of Brick Buildings Kumar,A, and Bose,P.R. Fourth International Conference on Seismology and Earthquake Engineering (SEE-4), Tehran, Iran 2003
+
+  * Strategies for Earthquake Mitigation through Retrofitting of Non Engineered Buildings for Nimar Region of Madhya Pradesh Kumar,A., Bose,P.R. and Parmar,A.K.S. UNDP New sletter, Orissa, April 2003
+
+  * Seismic retrofitting of vernacular mud houses of earthquake prone area of Madhya Pradesh Kumar,A.Parmar,A.K.S. and Bose,P.R. National Architectural Conference, 1-2 November, 2003 2003
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Amit Kumar | Assistant Director | Disaster Management Institute | Paryavaran Parisar E-5 Arera Colony, Bhopal 462016, INDIA | amitverma7@hotmail.com | 
+| Jeewan Pundit | Postgraduate Student | School of Planning and Architecture | Indraprashtha Marg, Delhi 100001, INDIA |  | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ravi Sinha | Professor | Civil Engineering Department, Indian Institute of Technology Bombay | Mumbai 400 076, INDIA | rsinha@civil.iitb.ac.in |

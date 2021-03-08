@@ -1,0 +1,350 @@
+====== Confined masonry, Colombia ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 199
+
+**Building Type:** Confined masonry
+
+**Country:** Colombia
+
+**Author(s):** Ana Beatriz Acevedo, Juan Diego Jaramillo, Fernando Alexis Osorio
+
+**Last Updated:** 42598
+
+**Regions Where Found:** Confined masonry structures can be mainly found in the urban areas of Colombia, primarily in the big cities. An important percentage of the existing housing stock of Colombia consists of masonry buildings, which include confined masonry. Few available works on the Colombian housing stock specify the amount of confined masonry structures, as they are usually treated as masonry structures, or categorized along with reinforced masonry. The work of Salgado et al. (2013) states that 22 percent of the building stock of Medelln is of confined masonry structures. Figure 1 shows the distribution of this building typology depending on the number of stories based on the work of Salgado et al. (2013). Recent exposure models of residential buildings in the Colombian cities of Bogot, Medelln and Cali (https://sara.openquake.org/risk) indicate unreinforced masonry structures being the most common building class, followed by confined masonry structures. Confined masonry buildings represent 23%, 12% and 26% of the total number of buildings in Bogota, Medellin and Cali, respectively. None of the referenced works differentiates between engineered and non-engineered confined masonry structures.
+
+**Summary:** Confined masonry structures have been built in Colombia mainly without considering seismic design principles. Structures built before the year 1998 (when an update of the first seismic code was released) had up to five stories. After the release of the 1998 code, the maximum number of stories of this type of buildings was reduced to two, for both formal and informal (non-engineered) constructions.Before the release of the first seismic code (1984) there was no restriction on the use of confined masonry, and this typology was mainly used for mid-rise buildings without seismic design. Once the code was released, some confined masonry buildings with seismic design were built up to five stories approximately. With the release of the 1998 code confined masonry can only be used for regular structures and the building height is limited to: two stories for high seismic zones, 12 meters for medium seismic zones, and 18 meters for low seismic zones. Current seismic designed confined masonry buildings usual
+ly provide housing for the high-income class. Non-engineered confined masonry structures refer to buildings of this typology built without fully complying to the code, as those buildings shown in Figure 2. Many non-engineered confined masonry buildings are built by low-income class without any building permit. In many occasions the structure is built in different stages, even with different quality materials, as partly shown in Figure 2. After 1998, the common maximum number of stories for non-engineered confined masonry buildings is two, with one or two dwellings per building.
+
+**Length of time practiced:** 25-60 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Residential, unknown type
+
+**Typical number of stories:** 44318
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Confined masonry structures usually share common walls with adjacent buildings, mainly for buildings of one or two stories.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 15m
+
+**Typical plan width (meters):** 5m
+
+**Typical story height (meters):** 3.5m
+
+**Type of Structural System:** Masonry: Confined Masonry: Clay brick masonry with concrete posts/tie columns and beams
+
+**Additional comments on structural system:** The gravity load-resisting system consists of confined masonry walls. As beams and columns are slender, they do not constitute rigid frames and the lateral load-resisting system is basically represented by the confined masonry walls.
+
+**Gravity load-bearing & lateral load-resisting systems:** 
+
+**Typical wall densities in direction 1:** >20%
+
+**Typical wall densities in direction 2:** >20%
+
+**Additional comments on typical wall densities:** 
+
+**Wall Openings:** The typical shape of this type of building is rectangular. Openings are usually located in the facade as can be seen in Figure 2. Openings have typical dimension of 1.2 to 1.5 meters. As the building is usually non-engineered, openings may be placed irregularly. There are no local construction guidelines for this type of structures available. However, in some occasions the configuration of non-engineered confined masonry buildings is similar to the engineered ones. This is because the workers have previously acquired their experience during the construction of engineered confined masonry structures and later use these skills in constructing non-engineered buildings, often for their own family.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** Yes
+
+**Modifications of buildings:** For non-engineered confined masonry structures, a typical modification is a vertical expansion (i.e. construction of additional stories). New stories may have a different structural system as shown in Figure 3.
+
+**Type of Foundation:** Shallow Foundation: Reinforced concrete isolated footingShallow Foundation: Reinforced concrete strip footing
+
+**Additional comments on foundation:** For one to two story buildings the foundation is usually a reinforced-concrete strip footing with a sectional area of 0.2 m x 0.2 m. The foundation longitudinal reinforcement is four steel bars with a diameter of 1/2 in (two on the top and two on the bottom); stirrups with a diameter of 3/8 in are placed every 0.20 m. For three to four story buildings the foundation is usually made of reinforced-concrete isolated footings located under the columns with an area of 1.20 m x 1.20 m. Tie beams that support masonry walls are 0.20 m x 0.20 m. Tie beams are common in sloped terrains in order to connect different footing levels and vertical elements. Figure 7 shows non-engineered confined masonry buildings supported by reinforced-concrete frame structures placed in sloped terrains. As these structures are non-engineered, the soil conditions are not considered in the definition of the foundation dimensions.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** Structural Concrete: Waffle slabs (cast in place) Floor and roof are usually waffle slabs with 0.1 m thick clay bricks instead of voids as shown in Figure 6. The top slabs have a thickness of 0.05 m. The ribs usually are 0.10 m wide with a longitudinal reinforcement of one bar of 1/2 in diameter on the bottom of the central span and on top near the supports. When the span is greater than 4.0 m three ribs with cross sections of 0.2 m x 0.2 m are used, with four bars of 1/2 in diameter as longitudinal reinforcement and a transverse reinforcement of 3/8 in diameter every 0.20 m. Slabs of three to four stories buildings include a 0.20 m x 0.20 m confinement beams. The roof is usually a slab as it is common for these buildings to grow in height with time; hence, the slab of a future story will provisionally be the roof of the upper floor. Other types of roofs are lightweight roofs such as metal or asbestos-cement sheets, without confinement beams. In some buildings steel and timber structures to support the clay tiles can be found.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Structural Concrete: Waffle slabs (cast in place) See Additional comments on floor system.
+
+**Additional comments section 2:** The typical plan configuration of non-engineered confined masonry structures is rectangular, with plan dimensions of 15 m length and 5 m width. Buildings built before 1998 have up to five stories; after the year 1998 the maximum number of stories for typical non-engineered confined masonry structures was reduced to two. The typical span of buildings of one or two stories is 3.0 m; with a maximum of 3.5 m. Brick dimensions of the external walls are 0.40 m x 0.20 m x 0.15 m. Internal walls are made of bricks of dimensions 0.40 m x 0.22 m x 0.10 m. Internal and external walls use bricks with horizontal openings. The column transverse area depends on the brick dimensions; longitudinal reinforcement is two or four steel bars with 1/2 in diameter (see Figure 4) while transverse reinforcement is stirrups of 1/4 in diameter placed every 0.20 m.Columns of buildings of three and four stories are 0.20 m x 0.30 m, with reinforcement of four steel bars with 1/2 in diameter and stirrups of 3/8 in every 0.07 m near the supports (0.5 m) and 0.20 m in the middle section. As it can be seen in Figure 5a (and previous figures) beams are not common in non-engineered confined masonry as it is believed by the builders that the floor will act as a confining element. Nonetheless, when beams are present, the typical beam dimension is of 0.2 m depth with a width corresponding to the wall thickness, as show in Figure 5b. Beam reinforcement is similar to column reinforcement.
+
+**Infill wall material:**
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Wall: Unreinforced masonryFrames: Reinforced concrete | Clay units |
+| Foundations | Reinforced concrete | 1:3:2 Cement/sand/aggregates (in volume) |
+| Floors | Reinforced concrete | 1:3:2 Cement/sand/aggregates (in volume) |
+| Roof | Reinforced concrete | 1:3:2 Cement/sand/aggregates (in volume) |
+| Other |  |  |		
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?:** Owner
+
+**Roles of those involved in the design process:** Non-engineered confined masonry buildings are built for residential occupancy. In general, only one floor is constructed, which is occupied by the owner; as time passes, new floors are added and those units are either sold or rented out.When the whole structure is built at once, there is usually an owner(s) that rents out the housing units.
+
+**Expertise of those involved in the design process:** Non-engineered confined masonry structures generally have the same specifications on materials and element dimensions (foundation, tie-columns, tie-beams and slab). Typical dimensions are known to regular workers as they usually work in the construction of engineered structures of this building type. Even though this type of structure is non-engineered, the limitation on building height required by the code of 1998 to confined masonry buildings has also been applied to typical non-engineered structures.
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?:** Owner
+
+**Roles of those involved in the building process:** Same as above
+
+**Expertise of those involved in building process:** Same as above
+
+**Construction process and phasing:** The foundations are built first. The reinforcement bars of the first story tie-columns are assembled before pouring the foundation concrete. Then the walls of the ground floor are placed and once they reach their foreseen height the columns are casted. Tie-beams are constructed atop of the walls at each floor level. Special lintel beams are required in large wall openings. Floor or roof slabs are cast in-situ by concrete prepared on site and carried to the construction site in buckets.
+
+**Construction issues:**
+
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?:** Yes
+
+**Applicable codes or standards:** The first seismic code of Colombia dates from 1984. Previous to this date the majority of the structures were built without seismic design considerations; few engineers did seismic design mostly based on the SEAOC (1966), the ACI and the UBC codes.The first update of the 1984 code was done in 1998; an important change of the code of 1998 consisted in more demanding drift requirements. The second and latest update of the code was done in 2010, without significant differences on seismic design from the code of 1998.Confined masonry was used mainly for mid-rise buildings without seismic design (before the code of 1984 was released). Once the first seismic code was released, some buildings of up to five stories were built based on seismic design principles. After 1998 (when a new version of the seismic code was released) engineered confined masonry has been mainly used for low-rise structures, especially for the high-income class.Non-engineered confined masonry buildings, which are the buildings addressed in this report, represent structures built without compliance of code regulations. People that built these buildings are usually workers that have participated in the construction of engineered confined masonry structures. Hence, some of the code regulations that apply to these engineered confined masonry structures apply to non-engineered buildings as well. Examples are the typical column dimensions and a maximum of two stories per building.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?:** Yes
+
+**Is this typically informal construction?:** Yes
+
+**Is this construction typically authorized as per development control rules?:** Off
+
+**Additional comments on building permits and development control rules:** The current design code includes confined masonry and building permits are required. Nevertheless, many non-engineered confined masonry buildings are built by the low-income class without any building permits.
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?:** Owner(s)
+
+**Additional comments on maintenance and building condition:** The maintenance of this type of building is usually performed by the owner. Nevertheless, as the income of the inhabitants is low, maintenance is uncommon.
+
+----
+
+=== Construction Economics ===
+
+**Unit construction cost:** The building cost is approximately USD 1,000 per square meter (200,000/m2 Colombian pesos). This cost varies if the owner requires building finishes.
+
+**Labor requirements:** 
+
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** A housing unit of this type of building is usually occupied by a single family. Two to three low-income level families may occupy one single unit.
+
+**Number of inhabitants in a typical building of this construction type during the day:** Oct-20
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** >20
+
+**Additional comments on number of inhabitants:** Non-engineered confined masonry buildings typically have 3 to 6 housing units. The number of inhabitants in a building during the day or business hours is approximately 10. At night the number of inhabitants increases to about 30.
+
+**Economic level of inhabitants:** Very low-income class (very poor)Low-income class (poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income is 4:1, 5:1 or worse
+
+**Typical Source of Financing:** Personal savingsInformal network: friends or relativesSmall lending institutions/microfinance institutions
+
+**Additional comments on financing:** 
+
+**Type of Ownership:** RentOwn outrightOwn with debt (mortgage or other)
+
+**Additional comments on ownership:** 
+
+**Is earthquake insurance for this construction type typically available?:** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:**
+
+**Additional comments section 4:**
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 13/08/2013(1) | 5.75N, 78.25E. Pacific ocean, west coast. | ML 6.5 |  | 
+| 09/02/2013(1) | 1.11N, 77.56E. Narino, South-west region. | ML 7.0 |  | 
+| 30/09/2012(1) | 1.97N, 76.55E. Cauca, South-west region. | ML 7.1 |  | 
+| 12/09/2009(1) | 10.72N, 67.95E. Carabobo (Venezuela) | ML 6.3 |  | 
+| 24/05/2008(1) | 4.41N, 73.81E. Quetame. Andean region. | ML 5.7 |  | 
+| 10/09/2007(1) | 2.93N, 78.21E. Pacific ocean, west coast. | ML 6.8 |  | 
+| 01/23/2006(1) | 6.95N, 77.90E. Pacific ocean, west coast. | ML 5.9 |  | 
+| 01/01/2006(1) | 11.92N, 71.42E. Guajira. North-east region. | ML 5.9 |  | 
+| 15/11/2004(1) | 4.81N, 77.70E. Pizarro. Pacific region, west coast. | ML 7.2 |  | 
+| 26/02/2000(1) | 9.36N, 78.31E. Panama | ML 6.8 |  | 
+
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:**
+
+**Additional comments on earthquake damage patterns:** In walls, diagonal cracks are expected for medium seismic events. Walls falling out of the frames may take place.
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | FALSE |
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE |
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE |
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE |
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | TRUE |
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE |
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | TRUE |
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | FALSE |
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE |
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE |
+| Wall Openings |  | TRUE |
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | FALSE |
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | FALSE |
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE |
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Poor quality of materials and workmanship are common, which diminishes the lateral capacity of the structure. In some occasions walls are not properly tied to the confined elements.
+
+**Earthquake-resilient features in walls:** 
+
+**Seismic deficiency in frames:** In some occasions columns and/or beams are discontinuous.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** Weak roof-wall and floor-wall connections.
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** Sometimes foundations are not placed on good soil types.
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   |  | %%|-%% | %%-|%%| |  |  |
+
+**Additonal comments on vulnerability rating:**
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Lack of confinement | Construction of new tie-columns |
+| Discontinuity or non-existence of the tie-beam | Construction of tie-beam |
+| Low wall density | Construction of additional walls |
+| Structural irregularity | Construction of tie-beams and tie-columns |
+| Poor material or workmanship quality | Covering of the walls with reinforced concrete or composite fibers |
+
+----
+
+**Additional comments on seismic strengthening provisions:** For openings without confinement: construction of confining columns and beams
+
+**Has seismic strengthening described in the above table been performed?** Not often. Normally this type of buildings does not have seismic strengthening. Occasionally, a new owner modifies an existing structure. The main retrofit consists of construction of new tie-beams and tie-columns in order to achieve structural confinement.
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?** Both. After a seismic event it is common to repair the building as described above.
+
+**Was the construction inspected in the same manner as new construction?** If the owner of the building is from a high-income class the repair is usually done by an expert in retrofitting and sometimes the owner hires a company to inspect the repair work. When the owner is from a medium or low-income class, the repair is done by a construction worker without any inspection.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** For high-income class the seismic retrofit measures are usually performed by a contractor. An engineer or architect working for the contractor or the owner is involved. For low-income class the retrofit is done by a construction worker.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** There has not been an important seismic event that has tested the retrofitted buildings yet.
+
+**Additional comments section 6:**  
+----
+
+==== 7. References ====
+
+  * Asociacin Colombiana de Ingeniera Ssmica, AIS (1984). Cdigo Colombiano de Construccin Sismo Resistente CCCSR-84. Bogot: AIS.
+
+  * Asociacin Colombiana de Ingeniera Ssmica, AIS (1998). Reglamento Colombiano de Construccin Sismo Resistente NSR-98, Bogot: AIS.
+
+  * Asociacin Colombiana de Ingeniera Ssmica, AIS (2010). Reglamento Colombiano de Construccin Sismo Resistente NSR-10, Bogot: AIS.
+
+  * Brzev, S. (2007). Earthquake-resistant confined masonry construction. National Information Center of Earthquake Engineering, Indian Institute of Technology Kanpur, India.
+
+  * Engdahl, E., R. van der Hilst and R. Bulland (1998). Global teleseismic earthquake relocation with improved travel times and procedures for depth determination. Bulletin of the Seismological Society of America, 88, 722-743.
+
+  * Espinosa A. (2003). Historia ssmica de Colombia, 1550-1830. Academia Colombiana de Ciencias Exactas, Fsicas y Naturales, Universidad del Quindo, CD-ROM.
+
+  * Garca, L. E., and Yamn, L. E. (1994). A review of masonry construction in Colombia. Masonry in the Americas. ACI Publication SP-147, American Concrete Institute, Detroit, pp. 283-305.
+
+  * INGEOMINAS (1999). Actualizacin catlogo de sismos de Colombia para estudios de amenaza ssmica 1566-1998, datos de hipocentros e intensidades. Proyecto Estudio de Amenaza Ssmica de Colombia, C. Alvarado (Bogot).
+
+  * Martnez, J., Parra, E., Pars, G., Forero, C., Bustamante, N., Cardona, O., y Jaramillo, J. (1994). Los Sismos del Atrato Medio 17 y 18 de Octubre de 1992. Revista Ingeominas (2): 35-76.
+
+  * http://seisan.sgc.gov.co/RNAC/ \\Red Nacional Acelergrafos de Colombia, RNAC. En lnea.
+
+  * Salgado, M. A., Zuloaga, D., Bernal, G. A., Mora, M. G. and Cardona, O. D. (2013) Fully probabilistic seismic risk assessment considering local site effects for the portfolio of buildings in Medelln, Colombia. Bulletin of Earthquake Engineering. Publicacin en lnea: 19 de noviembre.
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Ana Beatriz Acevedo | Associate Professor | Department of Civil Engineering Universidad EAFIT |  | aaceved14@eafit.edu.co |
+| Juan Diego Jaramillo | Research Professor | Department of Civil Engineering Universidad EAFIT |  | jjarami@eafit.edu.co |
+| Fernando Alexis Osorio | Graduate Student | Department of Civil Engineering Universidad EAFIT |  | fosorio@eafit.edu.co |
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Hernn Santa Mara Oyanedel | Associate Professor | Pontificia Universidad Catlica de Chile Department of Structural and Geotechnical Engineering | Chile | hsm@ing.puc.cl |

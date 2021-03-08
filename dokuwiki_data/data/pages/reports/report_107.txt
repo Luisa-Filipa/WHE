@@ -1,0 +1,323 @@
+====== Reinforced Adobe, Peru ======
+=== From World Housing Encyclopedia ===
+
+----
+
+==== 1. General Information ====
+
+**Report:** 107
+
+**Building Type:** Reinforced Adobe
+
+**Country:** Peru
+
+**Author(s):** Daniel Quiun
+
+**Last Updated:** 
+
+**Regions Where Found:** Buildings of this construction type can be found in the following areas of Peru: Arequipa, Moquegua, Tacna, Ica, Trujillo, Huaraz and Cuzco. This type of housing construction is commonly found in rural, sub-urban and urban areas. Some small towns may be considered as urban areas.
+
+**Summary:** This is a reinforcement system for existing adobe houses, as well as an adaptation for new adobe houses, with the objective to prevent their collapse under severe earthquakes. An extensive experimental research project was developed between 1994 and 1999, with the financial support of GTZ of Germany, the administration of CERESIS, and the execution of the Catholic University of Peru (PUCP). Several reinforcement techniques were studied, and itwas concluded that the most appropriate was to reinforce the walls with horizontal and vertical strips of wire mesh electrically welded, covered with mortar. The technique was applied in 1998 as pilot projects in 20 houses in 6 cities in Peru. Later in 1999-2000 it was extended to Chile, Bolivia, Ecuador and Venezuela. We had to wait for an earthquake to assess the effectiveness of the reinforcement. In the earthquake of June 23, 2001 (Mw=8.4), that affected the south of Peru, six reinforced adobe houses had no damage. Neighboring dwellings of unreinforced adobe suffered heavy damage or collapsed. This success motivated several reconstruction programs of new reinforced adobe houses in the Andean zone, in which the technique was improved and applied in more than 500 houses, which are described herein. Shaking table tests on the system used in the new houses at the Structures Laboratory of PUCP demonstrated that the reinforcement provided is effective for resisting severe earthquakes without collapse. The August 15, 2007 Pisco earthquake (Mw8.0), 200 km south of Lima, also provoked the collapse of many traditional adobe houses. In Ica province, 5 houses were reinforced in 1998 using the wire mesh strips, and all withstand the earthquake undamaged.
+
+**Length of time practiced:** Less than 25 years
+
+**Still Practiced:** Yes
+
+**In practice as of:** 
+
+**Building Occupancy:** Single dwelling
+
+**Typical number of stories:** 1
+
+**Terrain-Flat:** Typically
+
+**Terrain-Sloped:** Typically
+
+**Comments:** Several reconstruction programs in southern Peru after the 2001 earthquake are using this method of reinforcing adobe.
+
+----
+
+==== 2. Features ====
+
+**Plan Shape:** Rectangular, solid
+
+**Additional comments on plan shape:** 
+
+**Typical plan length (meters):** 9-9.6
+
+**Typical plan width (meters):** 6-6.4
+
+**Typical story height (meters):** 3
+
+**Type of Structural System:** Masonry: Earthen/Mud/Adobe/Rammed Earth Walls: Mud walls
+
+**Additional comments on structural system:** The vertical load-resisting system is earthen walls. Gravity loads are resisted by reinforced adobe walls. In fact, the technique of reinforcement does not improve the gravity load-resisting system substantially. The lateral load-resisting system is earthen walls. Adobe walls are reinforced with strips of electrically welded wire mesh attached to the adobe wall by nails, and covered with cement mortar. A reinforced concrete collar beam is used on top of all walls
+
+**Gravity load-bearing & lateral load-resisting systems:** The structural system simulates a confined masonry system with vertical strips of cement plastered welded steel mesh as columns and identical horizontal strips as beams. The purpose of those strips is to resist the forces produced by the earthquake.
+
+**Typical wall densities in direction 1:** 10-15%
+
+**Typical wall densities in direction 2:** 10-15%
+
+**Additional comments on typical wall densities:** The typical structural wall density is up to 20 %. Usually it is in the range of 10% - 14%.
+
+**Wall Openings:** There is one main door with a window, and central windows in other walls.
+
+**Is it typical for buildings of this type to have common walls with adjacent buildings?:** No
+
+**Modifications of buildings:** The idea is that the 36 m2 module can be replicated in the remainder free area of the property.
+
+**Type of Foundation:** Shallow Foundation: Rubble stone, fieldstone strip footing
+
+**Additional comments on foundation:** Rubble concrete strip footings are also used. The stones are up to 8 inches size. Some 4 inch stones should be attached on the upper base of the foundation for providing connectivity with the walls.
+
+**Type of Floor System:** Other floor system
+
+**Additional comments on floor system:** A floor on the ground. These are single storey houses with no suspended floors. Photos are included. Adobe houses described here are single storey.
+
+**Type of Roof System:** Roof system, other
+
+**Additional comments on roof system:** Wood planks or beams that support slate, metal, asbestos-cement or plastic corrugated sheets or tiles
+
+**Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 0.8 meters. A typical house has two rooms, with 36 square meters of plan area. Each room has 3.2m sides, and 2.2m height at the lowest part to 3.0m at the highest part. The thickness of the wall is 0.4m and the roof has a small slope. There is one main door with a window, and central windows in other walls.
+
+----
+
+==== 3. Buildings Process ====
+
+=== Description of Building Materials===
+
+^ Structural Element ^ Building Material (s) ^ Comment (s) ^
+| Wall/Frame | Adobe | The axial compressive strength is 0.8 MPa or less. The material has a poor shear strength, which is the reason why it needs to be reinforced. Adobe is a mixing among soil, water and straw . The proportion between mud and straw is 5 :1. The purpose of straw is to prevent the adobe from cracking. Adobe units size: 400mmx400mmx100 mm In some parts of the country, additional materials are added for making adobe. | 
+| Foundations | Rubble concrete | Rubble concrete has a moderate strength for axial loads. Cement:coarse sand 1:10 plus 40% of stones (6"maximum size). The coarse sand and stones must be carefully chosen to avoid premature failures. | 
+| Floors |  |  | 
+| Roof | The house has roof beams made of wooden logs. |  | 
+| Other | | |
+
+----
+
+=== Design Process ===
+
+**Who is involved with the design process?** EngineerBuilder
+
+**Roles of those involved in the design process:** Engineers have developed the reinforcing system.
+
+**Expertise of those involved in the design process:** 
+
+----
+
+=== Construction Process ===
+
+**Who typically builds this construction type?** OwnerMason
+
+**Roles of those involved in the building process:** These houses are built by trained masons with the aid of the owners.
+
+**Expertise of those involved in building process:** A mason with experience of mixing and placing mortar is required.
+
+**Construction process and phasing:** The procedure is similar to plain masonry houses, from foundations until roof. First, a rubble strip foundation is done following the former specifications. Then, stem walls are built over the foundation. Adobe units are placed with mud mortar to build the walls, according to former described procedures. Connector wires are left inside the mortar joints (these ones with cement mortar). Then, the corners are reinforced with welded mesh strips, which are nailed to the adobe walls. Hereafter, a collar concrete reinforced beam is built around the top of all walls. Finally it is time to make the sloped roof. For this purpose, wood beams are used and finally the roof is made of metal sheets or clay looking sheets. The construction of this type of housing takes place in a single phase. Typically, the building is originally designed for its final constructed size. In the case of existing adobe construction of the reinforcement is designed. The places to put the mesh strips are carefully determined.
+
+**Construction issues:** 
+----
+
+=== Building Codes and Standards===
+
+**Is this construction type address by codes/standards?** Yes
+
+**Applicable codes or standards:** This construction type is addressed by the codes/standards of the country. The Peruvian National Building Code, has a section for Adobe, called "Norma E.080". The Code is prepared by a technical committee in SENCICO, a governmental agency. Later it is approved by the Ministry of Housing and becomes mandatory for all the country.
+
+**Process for building code enforcement:** 
+
+----
+
+=== Building Permits and Development Control Rules ===
+
+**Are building permits required?** Yes
+
+**Is this typically informal construction?** Yes
+
+**Is this construction typically authorized as per development control rules?** Yes
+
+**Additional comments on building permits and development control rules:** 
+
+----
+
+=== Building Maintenance and Condition ===
+
+**Typical problems associated with this type of construction:** 
+
+**Who typically maintains buildings of this type?** Owner(s)Renter(s)
+
+**Additional comments on maintenance and building condition:** 
+
+----
+
+=== Construction Economics ===
+**:** 
+**Construction Economics:** 
+**:** 
+**Unit construction cost:** The average cost of each of 400 houses was US $1714, of which 33% was provided by the family and 67% by the COPASA-GTZ project. The family provided low quality hand labor and local materials. The project provided the cement, wire mesh and steel bars and the technical guidance.
+**Labor requirements:** 
+**Additional comments section 3:** 
+
+----
+
+==== 4. Socio-Economic Issues ====
+
+**Patterns of occupancy:** The houses are used for housework activities.
+
+**Number of inhabitants in a typical building of this construction type during the day:** <5
+
+**Number of inhabitants in a typical building of this construction type during the evening/night:** <5
+
+**Additional comments on number of inhabitants:** 
+
+**Economic level of inhabitants:** Very low-income class (very poor)
+
+**Additional comments on economic level of inhabitants:** Ratio of housing unit price to annual income: 5:1 or worse The majority of houses have precarious electricity and water mains system.
+
+**Typical Source of Financing:** Combination
+
+**Additional comments on financing:** The reconstruction programs were mainly financed by foreign government agencies. About 400 houses were constructed in the first program and around 100 houses were done in the second program. The German government through GTZ and COPASA (Peruvian institution of the Arequipa Region local government) financed 67% of the construction materials, qualified labor and technical direction. The family contributed the remainder; 33% in non-qualified labor, local materials and transportation.
+
+**Type of Ownership:** Units owned individually (condominium)
+
+**Additional comments on ownership:** The family contributes a certain percentage of the total price of the house (33%).
+
+**Is earthquake insurance for this construction type typically available?** No
+
+**What does earthquake insurance typically cover/cost:** 
+
+**Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?:** No
+
+**Additional comments on premium discounts:** 
+
+**Additional comments section 4:** The new houses built after the 2001 earthquake received financial support from GTZ (67% on average).
+
+----
+
+==== 5. Earthquakes ====
+
+=== Past Earthquakes in the country which affected buildings of this type===
+
+^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
+| 2001 | Atico, Arequipa | 8.4 | MMI VIII | 
+| 2007 | Pisco, Ica | 8 | MMI IX | 
+ 
+----
+
+=== Past Earthquakes ===
+
+**Damage patterns observed in past earthquakes for this construction type:** Existing adobe houses were reinforced by adding wire mesh nailed to the walls and covered with mortar in 1998. The June 23, 2001 Mw=8,4 Atico earthquake produced no damage to the reinforced adobe houses, while neighboring houses had severe cracks or collapsed. The 2007 August 15 earthquake in Pisco also affected many adobe houses, but five reinforced adobe houses in Ica province remained undamaged.
+
+**Additional comments on earthquake damage patterns:** Diagonal shear cracks and shear friction cracks. (Walls)
+
+----
+
+=== Structural and Architectural Features for Seismic Resistance ===
+
+The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
+
+The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
+^Structural/Architectural Feature ^ Statement ^ Seismic Resistance^
+| Lateral load path | The structure contains a complete load path for seismic force effects from any horizontal direction that serves to transfer inertial forces from the building to the foundation. | N/A | 
+| Building Configuration-Vertical | The building is regular with regards to the elevation. (Specify in 5.4.1) | TRUE | 
+| Building Configuration-Horizontal | The building is regular with regards to the plan. (Specify in 5.4.2) | TRUE | 
+| Roof Construction | The roof diaphragm is considered to be rigid and it is expected that the roof structure will maintain its integrity, i.e. shape and form, during an earthquake of intensity expected in this area. | FALSE | 
+| Floor Construction | The floor diaphragm(s) are considered to be rigid and it is expected that the floor structure(s) will maintain its integrity during an earthquake of intensity expected in this area. | N/A | 
+| Foundation Performance | There is no evidence of excessive foundation movement (e.g. settlement) that would affect the integrity or performance of the structure in an earthquake. | TRUE | 
+| Wall and Frame Structures-Redundancy | The number of lines of walls or frames in each principal direction is greater than or equal to 2. | FALSE | 
+| Wall Proportions | Height-to-thickness ratio of the shear walls at each floor level is: Less than 25 (concrete walls); Less than 30 (reinforced masonry walls); Less than 13 (unreinforced masonry walls); | N/A | 
+| Foundation-Wall Connection | Vertical load-bearing elements (columns, walls) are attached to the foundations; concrete columns and walls are doweled into the foundation. | TRUE | 
+| Wall-Roof Connections | Exterior walls are anchored for out-of-plane seismic effects at each diaphragm level with metal anchors or straps. | FALSE | 
+| Wall Openings |  | TRUE | 
+| Quality of Building Materials | Quality of building materials is considered to be adequate per the requirements of national codes and standards (an estimate). | TRUE | 
+| Quality of Workmanship | Quality of workmanship (based on visual inspection of a few typical buildings) is considered to be good (per local construction standards). | TRUE | 
+| Maintenance | Buildings of this type are generally well maintained and there are no visible signs of deterioration of building elements (concrete, steel, timber). | FALSE | 
+
+----
+
+**Additional comments on structural and architectural features for seismic resistance:** 
+
+**Vertical irregularities typically found in this construction type:** Other
+
+**Horizontal irregularities typically found in this construction type:** Other
+
+**Seismic deficiency in walls:** Adobe has low shear strength
+
+**Earthquake-resilient features in walls:** Wire and mortar provide walls with higher lateral stiffness. The mortared mesh ties the walls of the building together to reduce the likelihood of collapse.
+
+**Seismic deficiency in frames:** No frame action.
+
+**Earthquake-resilient features in frame:** 
+
+**Seismic deficiency in roof and floors:** The roof is not a rigid diaphragm
+
+**Earthquake resilient features in roof and floors:** 
+
+**Seismic deficiency in foundation:** 
+
+**Earthquake-resilient features in foundation:** 
+
+----
+
+=== Seismic Vulnerability Rating ===
+
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
+|   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
+|   | A                   | B  | C                      | D  | E                   | F  |
+| Seismic vulnerability class   | | | %%|-%% | o | %%-|%% | |
+
+**Additional comments section 5:** 
+
+----
+
+==== 6. Retrofit Information ====
+
+=== Description of Seismic Strengthening Provisions ===
+
+^ Structural Deficiency ^ Seismic Strengthening ^
+| Fragile materia | Reinforced by wire mesh covered with cement mortar | 
+| Lack of reinforcement | Vertical strips of wire mesh attached externally to both sides of the walls at corners | 
+| Lack of collar beams | Horizontal strips of wire mesh attached externally to both sides of the walls | 
+| Bad soil conditions | Strengthening of New Construction : concrete strip foundations | 
+| Lack of rigid diaphragm | Strengthening of New Construction : A RC collar beam upon all the walls. | 
+
+----
+
+**Additional comments on seismic strengthening provisions:** National Building Code in Peru issued in 2006 includes a special chapter on adobe (called Norma E.080 in Spanish).Among the recommended reinforcement systems, the use of wire meshes are specified.
+
+**Has seismic strengthening described in the above table been performed?** Yes, in rural areas of Arequipa and Moquegua regions after the 2001 earthquake (more than 500 house units).
+
+**Was the work done as a mitigation effort on an undamaged building or as a repair following earthquake damages?:** New housing units were constructed after the destruction caused by the 2001 earthquake.
+
+**Was the construction inspected in the same manner as new construction?** Yes, 2 PUCP professors visited the rural areas in 2003 for one week.
+
+**Who performed the construction: a contractor or owner/user? Was an architect or engineer involved?** The project by GTZ-COPASA-SENCICO provided technical assistance and the owner/user provided low quality handwork.
+
+**What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** In 1998, six similar existing adobe houses were retrofitted (in Moquegua and Tacna regions), and withstood the M8.4 2001 earthquake undamaged. Later, five similar existing adobe houses were retrofitted in Ica region, and withstood the M8.0 2007 Pisco earthquake undamaged.
+
+**Additional comments section 6:** 
+
+----
+
+==== 7. References ====
+
+  * EFFECTIVE SYSTEM FOR SEISMIC REINFORCEMENT OF ADOBE Angel SAN BARTOLOME, Daniel QUIUN and Luis ZEGARRA 13th World Conference on Earthquake Engineering 2004
+
+  * PERFORMANCE OF REINFORCED ADOBE HOUSES IN PISCO, PERU Angel SAN BARTOLOME, Daniel QUIUN, Luis ZEGARRA 14th World Conference on Earthquake Engineering 2008
+
+  * Norma Tecnica de Edificacion NTE E.080 ADOBE SENCICO SENCICO 2000
+
+  * Manual de Construcciones Sismo Resistentes en Adobe GTZ-COPASA Editorial Regentus 2005
+
+=== Authors ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Daniel Quiun | | Catholic University of Peru | Av. Universitaria cdra. 1801, San Miguel Lima 32, PERU | dquiun@pucp.edu.pe | 
+
+=== Reviewers ===
+
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
+| Andrew W. Charleson | Associate Professor | School of Architecture, Victoria University of Wellington | Wellington 6001, NEW ZEALAND | andrew.charleson@vuw.ac.nz | 

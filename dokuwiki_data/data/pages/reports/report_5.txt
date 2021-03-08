@@ -117,13 +117,13 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 **Who typically builds this construction type?:** Contractor
 
-**Roles of those involved in the building process** In the past, construction companies hired by the state build it. Nowadays, private companies built and sell directly under the supervision of governmental staff.
+**Roles of those involved in the building process:** In the past, construction companies hired by the state build it. Nowadays, private companies built and sell directly under the supervision of governmental staff.
 
-**Expertise of those involved in building process** The expertise is the same stated in 3.2.3	
+**Expertise of those involved in building process:** The expertise is the same stated in 3.2.3	
 
-**Construction process and phasing** One contractor builds large quantities of this type of building, so project management and control techniques are used in order to increase productivity and to diminish cost. When constructing the vertical reinforcing bars are usually first placed into position before laying the masonry units. Then, the horizontal bars can be placed in horizontal mortar joints. Finally, vertical reinforcement is grouted as the work progresses. With respect to equipment the following is commonly used: concrete mix, trucks, travelling crane, winch, pneumatic cramp.This building is not typically constructed incrementally and is designed for its final constructed size.
+**Construction process and phasing:** One contractor builds large quantities of this type of building, so project management and control techniques are used in order to increase productivity and to diminish cost. When constructing the vertical reinforcing bars are usually first placed into position before laying the masonry units. Then, the horizontal bars can be placed in horizontal mortar joints. Finally, vertical reinforcement is grouted as the work progresses. With respect to equipment the following is commonly used: concrete mix, trucks, travelling crane, winch, pneumatic cramp.This building is not typically constructed incrementally and is designed for its final constructed size.
 
-**Construction issues** Partial grouting in vertical reinforcement. Bending of reinforcement bars Bad reinforcement detailing at the corners or intersection of walls.Insufficient concrete covers for horizontal reinforcement.
+**Construction issues:** Partial grouting in vertical reinforcement. Bending of reinforcement bars Bad reinforcement detailing at the corners or intersection of walls.Insufficient concrete covers for horizontal reinforcement.
 
 ----
 
@@ -131,9 +131,9 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 **Is this construction type address by codes/standards?** Yes
 
-**Applicable codes or standards** NCh1928.Of93 Albanileria Armada-Requisitos para el diseno y calculoThe first code/standard addressing this type of construction was issued in 1986, although provisionally dispositions to design this type of buildings existed since 1981. The most recent code/standard addressing this construction was issued in 1993, however at present time it is in a revision process. Applicable national building code, material codes and seismic code/standards: NCh433.Of96 Seismic Design of BuildingsNCh1928.Of93 Albanileria Armada-Requisitos para el diseno y calculoThe first code/standard addressing this type of construction was issued in 1986, although provisionally dispositions to design this type of buildings existed since 1981. The most recent code/standard addressing this construction was issued in 1993, and modified in 2003. Applicable national building code, material codes and seismic code/standards: NCh433.Of96 Seismic Design of Buildings, last modification in 2011
+**Applicable codes or standards:** NCh1928.Of93 Albanileria Armada-Requisitos para el diseno y calculoThe first code/standard addressing this type of construction was issued in 1986, although provisionally dispositions to design this type of buildings existed since 1981. The most recent code/standard addressing this construction was issued in 1993, however at present time it is in a revision process. Applicable national building code, material codes and seismic code/standards: NCh433.Of96 Seismic Design of BuildingsNCh1928.Of93 Albanileria Armada-Requisitos para el diseno y calculoThe first code/standard addressing this type of construction was issued in 1986, although provisionally dispositions to design this type of buildings existed since 1981. The most recent code/standard addressing this construction was issued in 1993, and modified in 2003. Applicable national building code, material codes and seismic code/standards: NCh433.Of96 Seismic Design of Buildings, last modification in 2011
 
-**Process for building code enforcement** The building design must follow the NCh433.of96 code (modified in 2011) and NCh1928.of93 (modified in 2003). SERVIU a governmental office in charge of social dwellings has a professional staff to review the projects and to inspect during construction. In case of damage an arbitrage process may take place at the court of justice.
+**Process for building code enforcement:** The building design must follow the NCh433.of96 code (modified in 2011) and NCh1928.of93 (modified in 2003). SERVIU a governmental office in charge of social dwellings has a professional staff to review the projects and to inspect during construction. In case of damage an arbitrage process may take place at the court of justice.
 ----
 
 === Building Permits and Development Control Rules ===
@@ -144,26 +144,26 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 **Is this construction typically authorized as per development control rules?** No
 
-**Additional comments on building permits and development control rules	**
+**Additional comments on building permits and development control rules:**
 ----
 
 === Building Maintenance and Condition ===
 
-**Typical problems associated with this type of construction** Concrete blocks buildings have had water ingress.
+**Typical problems associated with this type of construction:** Concrete blocks buildings have had water ingress.
 
 **Who typically maintains buildings of this type?** Owner(s)Renter(s)
 
-**Additional comments on maintenance and building condition** Maintenance is quite low, because inhabitants are low income people
+**Additional comments on maintenance and building condition:** Maintenance is quite low, because inhabitants are low income people
 
 ----
 
 === Construction Economics ===
 
-**Unit construction cost** According to Bravo and Martinez (1993) the total cost of this type of building can be blotted out in site 15%, construction cost 40%, urbanization 17%, operating cost 13% and profit 15%.In 2001, the cost of one unit was 200 to 400 UF (area 45 m2), $78.000 to $140.000 /m2 (US$135-US$245/m2).Better quality unit may cost up to $174.000 /m2 (US$300/m2).
+**Unit construction cost:** According to Bravo and Martinez (1993) the total cost of this type of building can be blotted out in site 15%, construction cost 40%, urbanization 17%, operating cost 13% and profit 15%.In 2001, the cost of one unit was 200 to 400 UF (area 45 m2), $78.000 to $140.000 /m2 (US$135-US$245/m2).Better quality unit may cost up to $174.000 /m2 (US$300/m2).
 
-**Labor requirements** At present, depending on technology used, the construction of several units built simultaneously may take 2-3 stories per month .
+**Labor requirements:** At present, depending on technology used, the construction of several units built simultaneously may take 2-3 stories per month .
 
-**Additional comments section 3**
+**Additional comments section 3:**
 
 ----
 
@@ -221,6 +221,7 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 **Damage patterns observed in past earthquakes for this construction type:** After the 1985 earthquake the Ministry of Housing appointed an especial committee to review the seismic effects on social dwellings. About 12.000 units were reinforced masonry type and 44% of them had some type of damage. A 100% of the 3 or more story buildings (2800 units) were severely damaged. The following characteristic damage patterns were observed:- shear cracks in walls, spandrels part of the walls and window piers- vertical cracks at the wall bottom due to compression failure- horizontal cracks at the joints between masonry walls and reinforced concrete floors or foundation- cracks in window piers and walls due to out-of-the-plane action.Some damage occurred in houses located in Illapel during 1997 earthquake due to differential settlement in a slopped terrain.Heavy damage occurred in reinforced masonry houses located in Pozo Almonte during 2005 earthquake, probably because the wall density in one direction was quite low and the construction quality was very poor (Astroza et al, 2005). During 2010 earthquake, a substandard quality of masonry construction was observed in some severely damaged buildings in Rancagua, although the seismic intensity in that location was moderate (Nunez, 2010).
 
 **Additional comments on earthquake damage patterns:** Up to 1986 there was not any seismic design code for this structural type, so its behavior during March 3, 1985 earthquake was quite bad, mainly due to construction problems, partial grouting in the hollow with reinforcement, bad quality of the mortar and lack of horizontal reinforcement. The same had occurred in the later earthquakes, when requirements according to NCh1928.of1993 have not been accomplished to the full.
+
 ----
 
 === Structural and Architectural Features for Seismic Resistance ===
@@ -268,11 +269,12 @@ The total width of door and window openings in a wall is: For brick masonry cons
 **Seismic deficiency in foundation:** 
 
 **Earthquake-resilient features in foundation:** 
+
 ----
 
 === Seismic Vulnerability Rating ===
 
-For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.docx | Seismic Vulnerability Guidelines}}
+For information about how seismic vulnerability ratings were selected see the {{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
 
 |   ^  High vulnerabilty      ^^  Medium vulnerability      ^^  Low vulnerability      ^^
 |   | A                   | B  | C                      | D  | E                   | F  |
@@ -343,5 +345,5 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 === Reviewers ===
 
-^ Name ^ Title ^ Affiliation ^ Location ^ 
+^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
 | Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx |
