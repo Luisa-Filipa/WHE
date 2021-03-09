@@ -1,6 +1,6 @@
 ===== World Housing Encyclopedia =====
 
-How does construction vary around the world?
+==== How does construction vary around the world ====
 
 The World Housing Encyclopedia (WHE) is a collection of resources related to housing construction practices in the seismically active areas of the world. The mission is to share experiences with different construction types and encourage the use of earthquake-resistant technologies worldwide.\\ 
 

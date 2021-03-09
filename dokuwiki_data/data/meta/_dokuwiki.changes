@@ -45,3 +45,12 @@
 1615235298	172.18.0.1	E	reports:report_9	luisa	[6. Retrofit Information] 		-5
 1615235386	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		55
 1615235416	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		-2
+1615227966	127.0.0.1	E	start		external edit		84
+1615293909	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		-84
+1615293959	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		9
+1615235935	127.0.0.1	E	reports:report_30		external edit		17127
+1615294242	172.18.0.1	E	reports:report_30	luisa	[,] 		-246
+1615294267	172.18.0.1	C	talk:reports:report_30	luisa	created		15
+1615294628	172.18.0.1	C	talk:reports:report_29	luisa	created		15
+1615295172	172.18.0.1	E	talk:reports:report_29	luisa			20
+1615295210	172.18.0.1	E	talk:reports:report_29	luisa			83

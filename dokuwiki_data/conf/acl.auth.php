@@ -14,3 +14,4 @@ unapproved_reports	@ALL	0
 unapprovedreports:*	@user	8
 unapprovedreports:*	@ALL	8
 wiki:*	@ALL	8
+talk:*	@ALL	2
