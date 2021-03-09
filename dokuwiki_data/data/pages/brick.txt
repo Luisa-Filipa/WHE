@@ -7,3 +7,14 @@ The most commonplace use of bricks worldwide throughout time is in residential d
 The worst death toll from an earthquake in the past century occurred in 1976 in China (T’ang Shan Province), where it is estimated that 240,000 people were killed. Most of the deaths were due to the collapse of brick masonry buildings.
 
 In more recent times, seismic codes place substantial constraints on unreinforced brick masonry construction in earthquake-prone areas, limiting the allowed number of stories, the minimum thickness of walls, and the number and position of openings. As a result, construction of load-bearing unreinforced brick masonry structures has dwindled in these countries, and alternative forms of construction such as confined masonry or reinforced masonry, considered less vulnerable, have been developed instead. The present section describes only unreinforced, fired-brick masonry structures, while other forms of masonry construction, from stone and sun-dried brick to reinforced and confined masonry, are treated in other sections of this volume
+
+{{:start:images:bricks:bricks_1.jpg?nolink&130|}}
+
+Further introductory reading: “{{ :start:images:bricks:Type_Brick.pdf | Unreinforced Brick Masonry Construction}}”\\
+(Dina D’Ayala, University of Bath, United Kingdom)
+
+Contents:
+
+  * Masonry Fabric
+  * Performance in Past Earthquakes
+  * Seismic Strengthening

@@ -1,24 +1,6 @@
-1614596344	172.18.0.1	E	reports:report_208	luisa	[5. Earthquakes] 		-133
-1614596378	172.18.0.1	E	reports:report_5	luisa	[5. Earthquakes] 		-345
-1614596453	172.18.0.1	E	reports:report_5	luisa	[7. References] 		7
-1614596519	172.18.0.1	E	reports:report_6	luisa	[5. Earthquakes] 		-332
-1614596554	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		-361
-1614596594	172.18.0.1	E	reports:report_7	luisa	[5. Earthquakes] 		2
-1614596745	172.18.0.1	E	reports:report_4	luisa	[7. References] 		-305
-1614597040	172.18.0.1	E	reports:report_4	luisa	[3. Buildings Process] 		15
-1614597269	172.18.0.1	E	reports:report_206	luisa	[5. Earthquakes] 		-203
-1614597375	172.18.0.1	E	reports:report_1	luisa	[3. Building Materials and Construction Process] 		-276
-1614597431	172.18.0.1	E	reports:report_208	luisa	[3. Buildings Process] 		6
-1614597467	172.18.0.1	E	reports:report_208	luisa	[5. Earthquakes] 		6
-1614597552	172.18.0.1	E	reports:report_3	luisa	[3. Buildings Process] 		-299
-1614597636	172.18.0.1	E	reports:report_5	luisa	[3. Buildings Process] 		11
-1614597724	172.18.0.1	E	reports:report_6	luisa	[3. Buildings Process] 		11
-1614597796	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		-1
-1614597813	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		-2
-1614597828	172.18.0.1	E	reports:report_6	luisa	[6. Retrofit Information] 		-2
-1614597893	172.18.0.1	E	reports:report_7	luisa	[3. Buildings Process] 		-7
-1614597919	172.18.0.1	E	reports:report_7	luisa	[4. Socio-Economic Issues] 		-2
 1615227966	127.0.0.1	E	reports:report_8		external edit		26821
+1615227966	127.0.0.1	E	reports:report_9		external edit		24360
+1615227966	127.0.0.1	E	start		external edit		84
 1615231988	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		-287
 1615232004	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		2
 1615232079	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		79
@@ -30,7 +12,6 @@
 1615233594	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		80
 1615234493	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		-1
 1615234549	172.18.0.1	C	talk:reports:report_8	luisa	created		26
-1615227966	127.0.0.1	E	reports:report_9		external edit		24360
 1615234791	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		-351
 1615234805	172.18.0.1	E	reports:report_9	luisa	[1. General Information] 		64
 1615234824	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		73
@@ -45,12 +26,49 @@
 1615235298	172.18.0.1	E	reports:report_9	luisa	[6. Retrofit Information] 		-5
 1615235386	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		55
 1615235416	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		-2
-1615227966	127.0.0.1	E	start		external edit		84
+1615235935	127.0.0.1	E	reports:report_30		external edit		17127
 1615293909	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		-84
 1615293959	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		9
-1615235935	127.0.0.1	E	reports:report_30		external edit		17127
 1615294242	172.18.0.1	E	reports:report_30	luisa	[,] 		-246
 1615294267	172.18.0.1	C	talk:reports:report_30	luisa	created		15
 1615294628	172.18.0.1	C	talk:reports:report_29	luisa	created		15
 1615295172	172.18.0.1	E	talk:reports:report_29	luisa			20
 1615295210	172.18.0.1	E	talk:reports:report_29	luisa			83
+1615301959	172.18.0.1	E	start	luisa	[Major Construction Types] 		-4
+1615301998	172.18.0.1	E	adobe	luisa			47
+1615303712	172.18.0.1	E	adobe	luisa			216
+1615304139	172.18.0.1	E	adobe	luisa			28
+1615304265	172.18.0.1	E	adobe	luisa			387
+1615304337	172.18.0.1	E	adobe	luisa			1
+1615304456	172.18.0.1	E	adobe	luisa			29
+1615304647	172.18.0.1	E	adobe	luisa			96
+1615304772	172.18.0.1	E	adobe	luisa			15
+1615306446	172.18.0.1	E	adobe	luisa			6
+1615306676	172.18.0.1	E	adobe	luisa			-4
+1615307238	172.18.0.1	E	timber	luisa			319
+1615307341	172.18.0.1	E	timber	luisa			24
+1615307390	172.18.0.1	E	timber	luisa			17
+1615308155	172.18.0.1	E	stone	luisa			477
+1615308211	172.18.0.1	E	stone	luisa			-28
+1615308459	172.18.0.1	E	stone	luisa			6
+1615308504	172.18.0.1	E	stone	luisa			-2
+1615308530	172.18.0.1	E	timber	luisa			-3
+1615309347	172.18.0.1	E	brick	luisa			289
+1615309707	172.18.0.1	E	brick	luisa			1
+1615314036	172.18.0.1	E	confined_masonry	luisa			-3
+1615317042	172.18.0.1	E	brick	luisa			21
+1615317270	172.18.0.1	E	confined_masonry	luisa			249
+1615317418	172.18.0.1	E	confined_masonry	luisa			62
+1615319568	172.18.0.1	E	confined_masonry	luisa			285
+1613449224	127.0.0.1	E	reinforced_concrete_frame		external edit		4
+1615319977	172.18.0.1	E	reinforced_concrete_frame	luisa			328
+1615319998	172.18.0.1	E	reinforced_concrete_frame	luisa			-20
+1613449224	127.0.0.1	E	reinforced_concrete_shear_wall		external edit		2
+1615320398	172.18.0.1	E	reinforced_concrete_shear_wall	luisa			358
+1613449224	127.0.0.1	E	precast_concrete		external edit		11
+1615320599	172.18.0.1	E	precast_concrete	luisa			419
+1615320617	172.18.0.1	E	precast_concrete	luisa			-35
+1613449224	127.0.0.1	E	advanced_technologies		external edit		7
+1615320810	172.18.0.1	E	advanced_technologies	luisa			393
+1613449224	127.0.0.1	E	vernacular		external edit		7
+1615321117	172.18.0.1	E	vernacular	luisa			357

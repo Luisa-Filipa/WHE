@@ -6,3 +6,14 @@ In many cases, good results have been achieved without any specific technical kn
 
 On the other hand, the building practices that performed well were replicated and further improved after each new earthquake. 
 Such a process has occurred across several earthquake prone geographical areas and cultures. Interestingly, a number of different cultures, living in similar circumstances, independently arrived at similar building techniques, without any known communication or exchange of technical know-how (not to mention conferences, workshops, technical journals, etc.!).
+
+{{:start:images:vernacular:vernacular_1.jpg?nolink&200|}}
+
+Further Introductory Reading: “{{:start:images:vernacular:Type_Vernacular.pdf | Vernacular Housing Construction}}”\\
+(Mauro Sassu, University of Pisa)
+
+Contents:
+
+  * Factors Influencing Design
+  * Types (Earthen, Stone and Brick Masonry, Timber)
+  * Strategies for Earthquake-resistant construction

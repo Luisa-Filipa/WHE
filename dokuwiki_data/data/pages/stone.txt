@@ -6,3 +6,17 @@ Buildings of this type range from cultural and historical landmarks, often built
 
 Houses of this construction type are found in urban and rural areas around the world. There are broad variations in construction materials and technology, shape, and the number of stories. Houses in rural areas are generally smaller in size and have smaller sized openings since they are typically used by a single family. Multi-family residential buildings in urban areas are often of mixed use – with a commercial ground floor and a residential area above. Houses in rural areas and suburbs of urban centers are built as detached structures, while housing units in urban centers often share a common wall.
 
+{{:start:images:stone:stone_1.jpg?nolink&150|}}
+
+{{ youtube>r8JDj-DFzJs | Stone Masonry Test in Peshawar, Pakistan }}\\
+
+{{ youtube>lpOE6fT1io4 | Stone Masonry Test in Peshawar, Pakistan }}\\
+
+Further introductory reading: “{{ :start:images:stone:Stone-Masonry_Lutman.pdf | Stone Masonry Construction}}”\\
+(Marjana Lutman)
+
+Contents:
+
+  * Background and history
+  * Performance in previous earthquakes
+  * Seismic strengthening for new and old constructions

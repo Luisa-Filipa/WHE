@@ -14,25 +14,25 @@ All of the content on this site has been contributed by volunteers. If you are i
 
 ==== Major Construction Types ====
 
-An introduction to the broad categories of housing construction types found throughout the world.\\
+An introduction to the broad categories of housing construction types found throughout the world.
 A number of construction materials and technologies have been and are being adopted worldwide to build
 houses. They include the following. A more detailed description of each, written by WHE experts from around the
-world, is available in the main menu:\\ 
+world, is available in the main menu: 
 
-[[Adobe|Adobe]]: This type of housing is typically built by owners and local builders from raw/processed earth. Such housing often performs poorly in earthquakes.\\ 
+[[Adobe|Adobe]]: This type of housing is typically built by owners and local builders from raw/processed earth. Such housing often performs poorly in earthquakes.
 
-{{ :start:images:adobe:adobe_1.jpg?nolink&150 |}}
+{{ :start:images:adobe:adobe_1.jpg?nolink&150 | }}
 
 [[Timber|Timber]]: There are many forms of wood housing: bamboo frame; plank, beam & post system; and engineered
 timber houses. Understandably, their quality varies depending on the level of technical inputs used.
 
-{{ :start:images:timber:timber_1.jpg?nolink&150 |}}
+{{ :start:images:timber:timber_1.jpg?nolink&150 | }}
 
 [[Stone|Stone]]: This is a very widely used housing form worldwide. The main materials used in the walls are blocks of natural stone material available, like granite, laterite, sandstone, and slate. There are stone masonry houses with and without mortars; when mortars are used, they are either mud-based or cement-based. A variety of roofing
 systems are adopted including tiled roof supported on wood trusses, asbestos or steel sheets on steel trusses, and
 reinforced concrete slab.
 
-{{ :start:images:stone:stone_1.jpg?nolink&150 |}}
+{{ :start:images:stone:stone_1.jpg?nolink&150 | }}
 
 [[Brick|Brick]]: This is another common construction type. Clay mud is used to form regular-sized masonry units. These units are sometimes burnt in a kiln, and simply sun-dried. This is also a very widely used housing form worldwide. Brick masonry houses are made with and without mortars; when mortars are used, they are either mud-based or cement-based. These units are the main materials used in the walls. Again, a variety of roofing systems are
 adopted including tiled roof supported on wood trusses, asbestos or steel sheets on steel trusses, and reinforced

@@ -1,3 +1,16 @@
 ====== Reinforced Concrete Shear Wall ======
 
 Buildings with cast-in-situ reinforced concrete shear walls are widespread in many earthquake-prone countries and regions, such as Canada, Chile, Romania, Turkey, Colombia, the republics of the former Soviet Union, etc. This type of construction has been practiced since the 1960s in urban regions for medium- to high-rise buildings (4 to 35 stories high). Shear wall buildings are usually regular in plan and in elevation. However, in some buildings, lower floors are used for commercial purposes and the buildings are characterized with larger plan dimensions at those floors. In other cases, there are setbacks at higher floor levels. Shear wall buildings are commonly used for residential purposes and can house from 100 to 500 inhabitants per building.
+
+{{:start:images:rcwall:rcwall_1.jpg?nolink&200|}}
+
+Further Introductory Reading: “{{:start:images:rcwall:Type_RC_Wall.pdf | Concrete Shear Wall Construction}}”\\
+(M. Ofelia Moroni, University of Chile, Santiago, Chile)
+
+Contents:
+
+  * Structural Features
+  * Construction Process
+  * Earthquake Peformance
+  * Seismic Strengthening
+  * Seismic Indicators

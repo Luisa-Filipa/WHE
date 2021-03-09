@@ -5,3 +5,30 @@ Adobe mud blocks are one of the oldest and most widely used building materials. 
 Around 30% to 50% of the world’s population (approximately 3 billion  people) lives or works in earthen buildings. Approximately  50% of population in developing countries, including a majority of the  rural population and at least 20% of the urban population, livein  earthen dwellings. For example, in Peru,  according to the 2007 Census, almost 40% of houses are made of earth.  (That’s 2 million houses inhabited by around 9 million people.) In  India, according to the 2001 Census, 30% of all buildings are made out  of earth (this includes 73 million houses inhabited by almost 305  million people).
 
 Adobe construction is mainly used in rural areas. Houses are  typically one-story high, with wall heights of around 3.0 m and  thicknesses ranging from 250 mm to 850 mm. In mountainous regions with  steep hillsides such as the Andes, houses can be up to three stories  high. In parts of the Middle East, earthen houses are often built one on  top of the other, so that the roof of one house is used as the bottom  floor of the house above. Adobe houses are found in the urban areas of  most developing countries. In some countries, like Argentina and Chile  and in some cities like San Salvador, adobe construction is banned by  building codes because of its poor seismic performance.
+
+{{:start:images:adobe:adobe_1.jpg?nolink&150| }}
+
+Further introductory reading: “{{ :start:images:adobe:Adobe_Blondet.pdf | Adobe Construction}}”
+
+(Marcial Blondet and Gladys Villa Garcia M.)
+
+
+Contents:
+
+  * Background
+  * Unordered List ItemOld and new techniques
+  * Seismic strengthening
+
+{{ youtube>X7UK39shAtw}}\\
+
+The video above was developed as a part of the project “Development of communication materials and training methodology for the construction of seismic resistant and healthy adobe houses in seismic areas”, financed by the Earthquake Engineering Research Institute (EERI) and developed by a multidisciplinary team at the Catholic University of Peru (PUCP).
+
+{{ youtube>lthMpMc1S8k}}\\
+
+{{vimeo>93405811?medium}}\\
+
+{{ youtube>rzT0RWBc5OY}}\\
+
+{{ youtube>AL7Kh31tB2M}}\\
+
+{{ youtube>_EUOPY0OjlQ}}\\

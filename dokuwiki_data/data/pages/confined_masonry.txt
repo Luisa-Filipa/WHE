@@ -1,5 +1,20 @@
 ====== Confined Masonry ======
 
+{{:start:images:masonry:link_image.jpg?nolink&200*100|}}
+
+**LINK:** [[https://confinedmasonry.org/ | Confined Masonry]] Network is dedicated to promote seismically safe and economical housing worldwide by bringing quality confined masonry into the design and construction mainstream.
+
 Confined masonry is a technology that, if built correctly, performs very well in earthquakes. It uses the same basic materials of concrete and brick that are found in unreinforced masonry construction and in reinforced concrete frame construction with masonry infills, but with a different construction sequence and system. In confined masonry construction, the masonry walls carry the seismic loads and the concrete is used to confine the walls.
 
 This is in contrast to RC frame buildings with infills where the concrete frames need to carry the load. Those buildings are much more complex to design and build, and often perform very poorly in earthquakes. The bottom line is that well-constructed confined masonry buildings have been observed to incur little or no damage in moderate to even severe earthquakes.
+
+{{ :start:images:masonry:masonry_3.jpg?nolink&200 |}}
+
+Further introductory reading : “{{ :start:images:masonry:Confined-Masonry_Rodriguez.pdf | Confined Masonry Construction}}”\\
+(Mario Rodriguez)
+
+Contents
+
+  * Structural Features
+  * Performance in past earthquakes
+  * Seismic Strengthening Technologies

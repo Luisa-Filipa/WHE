@@ -5,3 +5,15 @@ Wood construction is common for many single-family houses throughout the world. 
 Six main types of wood construction are listed in the encyclopedia. These types use all forms of timber available from logs to sawn/shaped timbers to smaller branches and leaves. These types also utilize various types of wall coverings from plant-based coverings to timber materials to earthen materials, such as mud or stone. The first type of wood construction is thatch construction, which is generally a traditional construction type. For examples of this type, see the traditional construction section of the encyclopedia. 
 
 Other types include post-and-beam frame construction, walls with bamboo/reed mesh and post (waffle and daub), wooden frames with or without infill, and stud-wall frames with plywood/gypsum board sheathing. Two final types are wood panel construction and log construction.
+
+{{:start:images:timber:timber_1.jpg?nolink&150|}}
+
+Further Introductory Reading: “{{ :start:images:timber:Type_Timber.pdf | Timber Construction}}”\\
+(Chris Arnold, Building Systems Development)
+
+Contents:
+  * Wood Frame Construction
+  * Use and Cost
+  * Structural System
+  * Seismic Performance and Deficiencies
+  * Typical Seismic-Strengthening Techniques

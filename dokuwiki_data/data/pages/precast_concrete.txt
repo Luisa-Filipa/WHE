@@ -10,3 +10,14 @@ The main features of this construction process are as follows:
 This type of construction requires a restructuring of the entire conventional construction process to enable interaction between the design phase and production planning in order to improve and speed up the construction. One of the key premises for achieving that objective is to design buildings with a regular configuration in plan and elevation. Urban residential buildings of this type are usually five to ten stories high (see Figures 1 and 2). Many countries used various precast building systems during the second half of the 20th century to provide low-income housing for the growing urban population. They were very popular after the Second World War, especially in Eastern European countries and former Soviet Union republics. In the former Soviet Union, different precast buildings systems are denoted as “Seria,” whereas in Romania they are called “Secţiunea.”
 
 In general, precast building systems are more economical when compared to conventional multifamily residential construction (apartment buildings) in many countries.
+
+{{:start:images:precast:precast_1.jpg?nolink&200|}}
+
+Further Introductory Reading: {{:start:images:precast:Type_Precast.pdf | Precast Concrete Construction}}”\\
+(Svetlana Brzev, British Columbia Institute of Technology, Teresa Guevara-Perez, Architect)
+
+Contents:
+
+  * Categories (Large-Panel, Frame, Slab-Column with Shear Walls, Mixed)
+  * Earthquake Performance
+  * Seismic-Strengthening
