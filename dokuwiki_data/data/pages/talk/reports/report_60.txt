@@ -1,0 +1,1 @@
+~~DISCUSSION|Moment resisting frame designed for gravity loads only, Syria~~
