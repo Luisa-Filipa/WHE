@@ -1,3 +1,5 @@
 [[:start|World Housing Encyclopedia]]
 
 [[:addreport|Add new Report]]
+
+[[:unapproved_reports|Unapproved reports]]

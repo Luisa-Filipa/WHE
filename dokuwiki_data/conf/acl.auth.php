@@ -9,9 +9,10 @@
 *	@ALL	1
 reportstpl	@user	2
 sidebar	@ALL	1
-unapproved_reports	@user	1
-unapproved_reports	@ALL	0
 unapprovedreports:*	@user	8
 unapprovedreports:*	@ALL	8
 wiki:*	@ALL	8
 talk:*	@ALL	2
+unapproved_reports	@user	1
+unapproved_reports	@ALL	0
+wiki:*	@user	8

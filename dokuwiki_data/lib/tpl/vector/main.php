@@ -294,6 +294,7 @@ function _vector_renderBoxes($arr)
                    ."    </div>\n"
                    ."  </div>\n";
         //store it
+      
         $boxes[] = $interim;
     }
     //show everything created
@@ -660,12 +661,15 @@ if (file_exists(DOKU_TPLINC."lang/".$conf["lang"]."/style.css")){
            ."    <ul>\n";
       //login?
       if ($loginname === ""){
+          
           echo  "      <li id=\"pt-login\"><a href=\"".wl(cleanID(getId()), array("do" => "login"))."\" rel=\"nofollow\">".hsc($lang["btn_login"])."</a></li>\n"; //language comes from DokuWiki core
       }else{
+
           //username and userpage
           echo "      <li id=\"pt-userpage\">".(tpl_getConf("vector_userpage")
                                                 ? html_wikilink(tpl_getConf("vector_userpage_ns").$loginname, hsc($loginname))
                                                 : hsc($loginname))."</li>";
+
           //personal discussion
           if (tpl_getConf("vector_discuss") &&
               tpl_getConf("vector_userpage")){
@@ -680,6 +684,7 @@ if (file_exists(DOKU_TPLINC."lang/".$conf["lang"]."/style.css")){
           if (actionOK("profile")){ //check if action is disabled
               echo  "      <li id=\"pt-preferences\"><a href=\"".wl(cleanID(getId()), array("do" => "profile"))."\" rel=\"nofollow\">".hsc($lang["btn_profile"])."</a></li>\n"; //language comes from DokuWiki core
           }
+
           //logout
           echo  "      <li id=\"pt-logout\"><a href=\"".wl(cleanID(getId()), array("do" => "logout"))."\" rel=\"nofollow\">".hsc($lang["btn_logout"])."</a></li>\n"; //language comes from DokuWiki core
       }
@@ -698,7 +703,6 @@ if (file_exists(DOKU_TPLINC."lang/".$conf["lang"]."/style.css")){
               _vector_renderTabs($_vector_tabs_left);
           }
           ?>
-
       </ul>
     </div>
   </div>

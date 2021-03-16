@@ -60,15 +60,128 @@
 1615317270	172.18.0.1	E	confined_masonry	luisa			249
 1615317418	172.18.0.1	E	confined_masonry	luisa			62
 1615319568	172.18.0.1	E	confined_masonry	luisa			285
-1613449224	127.0.0.1	E	reinforced_concrete_frame		external edit		4
 1615319977	172.18.0.1	E	reinforced_concrete_frame	luisa			328
 1615319998	172.18.0.1	E	reinforced_concrete_frame	luisa			-20
-1613449224	127.0.0.1	E	reinforced_concrete_shear_wall		external edit		2
 1615320398	172.18.0.1	E	reinforced_concrete_shear_wall	luisa			358
-1613449224	127.0.0.1	E	precast_concrete		external edit		11
 1615320599	172.18.0.1	E	precast_concrete	luisa			419
 1615320617	172.18.0.1	E	precast_concrete	luisa			-35
-1613449224	127.0.0.1	E	advanced_technologies		external edit		7
 1615320810	172.18.0.1	E	advanced_technologies	luisa			393
-1613449224	127.0.0.1	E	vernacular		external edit		7
 1615321117	172.18.0.1	E	vernacular	luisa			357
+1615321252	127.0.0.1	E	addreport		external edit		9348
+1615418933	172.18.0.1	E	addreport	luisa			-8025
+1615819815	172.18.0.1	C	wiki:site_notice	luisa	created		12
+1615321252	127.0.0.1	E	start		external edit		84
+1615833609	172.18.0.1	E	start	luisa	[Housing Reports] 		159
+1615835947	172.18.0.1	E	start	luisa	[Housing Reports] 		-129
+1615836054	172.18.0.1	E	start	luisa	[Housing Reports] 		253
+1615836285	172.18.0.1	E	start	luisa	[Housing Reports] 		232
+1615836888	172.18.0.1	E	start	luisa	[Housing Reports] 		101
+1615838333	172.18.0.1	E	start	luisa	[Housing Reports] 		79
+1615841612	172.18.0.1	E	start	luisa	[Housing Reports] 		16
+1615841953	172.18.0.1	E	start	luisa	[Housing Reports] 		2
+1615842389	172.18.0.1	E	addreport	luisa			9
+1615842682	172.18.0.1	E	addreport	luisa			-2
+1615842706	172.18.0.1	E	addreport	luisa			-2
+1615842726	172.18.0.1	E	addreport	luisa			1
+1615842758	172.18.0.1	E	addreport	luisa			0
+1615842841	172.18.0.1	E	addreport	luisa			1
+1615842870	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		879
+1615843177	172.18.0.1	C	wiki:user:luisa	luisa	created		61
+1615843193	172.18.0.1	E	wiki:user:luisa	luisa			-41
+1615843284	172.18.0.1	E	wiki:user:luisa	luisa			75
+1615848137	172.18.0.1	E	addreport	luisa			-1
+1615848163	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		512
+1615848408	172.18.0.1	E	addreport	luisa			5415
+1615848479	172.18.0.1	E	addreport	luisa			70
+1615848562	172.18.0.1	E	addreport	luisa			47
+1615848648	172.18.0.1	E	addreport	luisa			3
+1615848711	172.18.0.1	E	addreport	luisa			-1
+1615848761	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		2885
+1615849065	172.18.0.1	E	addreport	luisa			-28
+1615849313	172.18.0.1	E	addreport	luisa			5
+1615849331	172.18.0.1	E	addreport	luisa			-2
+1615849346	172.18.0.1	E	addreport	luisa			2
+1615849404	172.18.0.1	E	addreport	luisa			22
+1615849435	172.18.0.1	E	addreport	luisa			5
+1615849499	172.18.0.1	E	addreport	luisa			27
+1615849561	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	Created from the form at addreport		2202
+1615849742	172.18.0.1	E	addreport	luisa			-18
+1615849763	172.18.0.1	E	addreport	luisa			1
+1615849867	172.18.0.1	E	addreport	luisa			75
+1615849889	172.18.0.1	C	unapprovedreports:teste3_teste3	luisa	Created from the form at addreport		1623
+1615850035	172.18.0.1	E	addreport	luisa			-23
+1615850095	172.18.0.1	C	unapprovedreports:teste4_teste4	luisa	Created from the form at addreport		1573
+1615850234	172.18.0.1	E	addreport	luisa			11
+1615850398	172.18.0.1	C	unapprovedreports:teste5_teste5	luisa	Created from the form at addreport		1684
+1615850830	172.18.0.1	C	unapprovedreports:teste6_teste6	luisa	Created from the form at addreport		1681
+1615850958	172.18.0.1	C	unapprovedreports:teste7_teste7	luisa	Created from the form at addreport		1803
+1615851584	172.18.0.1	E	addreport	luisa			4021
+1615851648	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	Created from the form at addreport		3236
+1615852085	172.18.0.1	E	addreport	luisa			2311
+1615852256	172.18.0.1	E	addreport	luisa			83
+1615852312	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		4448
+1615852449	172.18.0.1	E	addreport	luisa			2010
+1615321252	127.0.0.1	E	reports:report_54		external edit		20893
+1615852650	172.18.0.1	E	reports:report_54	luisa	[5. Earthquakes] 		-326
+1615852868	172.18.0.1	C	unapprovedreports:teste3_teste3	luisa	Created from the form at addreport		9289
+1615852984	172.18.0.1	E	addreport	luisa			112
+1615853268	172.18.0.1	E	addreport	luisa			-7
+1615853398	172.18.0.1	E	addreport	luisa			17
+1615853476	172.18.0.1	C	unapprovedreports:teste4_teste4	luisa	Created from the form at addreport		9179
+1615853595	172.18.0.1	C	unapprovedreports:teste5_teste5	luisa	Created from the form at addreport		9275
+1615854383	172.18.0.1	E	addreport	luisa			359
+1615855003	172.18.0.1	E	addreport	luisa			-6
+1615855157	172.18.0.1	E	addreport	luisa			42
+1615855231	172.18.0.1	C	unapprovedreports:teste7_teste7	luisa	Created from the form at addreport		9148
+1615855314	172.18.0.1	E	addreport	luisa			-36
+1615855373	172.18.0.1	C	unapprovedreports:teste8_teste8	luisa	Created from the form at addreport		9195
+1615855415	172.18.0.1	E	addreport	luisa			-20
+1615855568	172.18.0.1	C	unapprovedreports:teste9_test9	luisa	Created from the form at addreport		9213
+1615855893	172.18.0.1	E	addreport	luisa			-9
+1615856044	172.18.0.1	E	addreport	luisa			-1
+1615856114	172.18.0.1	C	unapprovedreports:teste23_cc	luisa	Created from the form at addreport		9163
+1615856861	172.18.0.1	E	addreport	luisa			2725
+1615857162	172.18.0.1	C	unapprovedreports:teste28_lkj	luisa	Created from the form at addreport		9208
+1615857225	172.18.0.1	E	addreport	luisa			-14
+1615857289	172.18.0.1	C	unapprovedreports:zdfghj_szdxfghjk	luisa	Created from the form at addreport		9241
+1615857430	172.18.0.1	E	addreport	luisa			962
+1615857486	172.18.0.1	E	addreport	luisa			56
+1615857575	172.18.0.1	C	unapprovedreports:sdfbgh_azxaegtfhj	luisa	Created from the form at addreport		10081
+1615857593	172.18.0.1	E	unapprovedreports:sdfbgh_azxaegtfhj	luisa	[6. Retrofit Information] 		1
+1615858074	172.18.0.1	E	addreport	luisa			139
+1615858163	172.18.0.1	C	unapprovedreports:asdf_asdgtuio	luisa	Created from the form at addreport		10508
+1615858228	172.18.0.1	E	addreport	luisa			-6
+1615858290	172.18.0.1	C	unapprovedreports:zsxdfvgbhjkl_azdscfghjukloc	luisa	Created from the form at addreport		10549
+1615858342	172.18.0.1	E	addreport	luisa			4
+1615859834	172.18.0.1	E	addreport	luisa			34
+1615860979	172.18.0.1	E	addreport	luisa			3346
+1615862170	172.18.0.1	E	addreport	luisa			638
+1615862316	172.18.0.1	E	addreport	luisa			-70
+1615862369	172.18.0.1	C	unapprovedreports:efghjk_dsgtuk	luisa	Created from the form at addreport		10197
+1615862458	172.18.0.1	E	unapprovedreports:efghjk_dsgtuk	luisa	[efghjk, dsgtuk] 		47
+1615862538	172.18.0.1	E	unapprovedreports:efghjk_dsgtuk	luisa	[efghjk, dsgtuk] 		64
+1615862585	172.18.0.1	E	addreport	luisa			-23695
+1615862610	172.18.0.1	E	addreport	luisa			-8
+1615862628	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		20390
+1615862708	172.18.0.1	E	addreport	luisa			-54
+1615862787	172.18.0.1	E	addreport	luisa			0
+1615863080	172.18.0.1	E	addreport	luisa			23
+1615863185	172.18.0.1	E	addreport	luisa			2
+1615863335	172.18.0.1	E	addreport	luisa			-1
+1615863504	172.18.0.1	E	addreport	luisa			33
+1615863539	172.18.0.1	E	addreport	luisa			1
+1615863611	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		20390
+1615863750	172.18.0.1	E	addreport	luisa			24483
+1615863862	172.18.0.1	E	addreport	luisa			-1065
+1615863933	172.18.0.1	E	addreport	luisa			39
+1615863954	172.18.0.1	E	addreport	luisa			-39
+1615866785	172.18.0.1	E	addreport	luisa			-122
+1615866839	172.18.0.1	C	unapprovedreports:asd_add	luisa	Created from the form at addreport		10196
+1615867655	172.18.0.1	E	addreport	luisa			22
+1615868304	172.18.0.1	E	addreport	luisa			45
+1615868332	172.18.0.1	E	addreport	luisa			-25
+1615868351	172.18.0.1	E	addreport	luisa			-23435
+1615868536	172.18.0.1	E	addreport	luisa			23469
+1615868548	172.18.0.1	E	addreport	luisa			2
+1615868684	172.18.0.1	E	addreport	luisa			-65
+1615868695	172.18.0.1	E	addreport	luisa			-36

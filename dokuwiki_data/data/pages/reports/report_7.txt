@@ -359,4 +359,3 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
 | Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM | Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx |
-

@@ -82,3 +82,21 @@ part of this material in any publication of your own, you are required to obtain
 ==== Housing Reports ====
 
 <nspages -tree reports -exclude -subns -pagesInNs -h1 -textNs="">
+
+
+
+
+| ^ Abobe   ^ Advanced technologies ^ Brick ^ Confined Masonry ^ Precast concrete ^ Reinforced concrete frame  ^ Reinforced concrete shear wall ^ Stone ^ Timber ^ Vernacular ^
+| **Argentina** | | | | [[ reports:report_1|Rodriguez,Virginia I; Yacante, Maria I; Reiloba, Sergio ]] | | | |  |  | |
+| **Chile** |  |  |  |  | | | | | | |
+| **Colombia** |  |  |  |  | | | | | | |
+| **El Salvador** |  |  |  |  | | | | | | |
+| **India** |  |  |  |  | | | | | | |
+| **Indonesia** |  |  |  |  | | | | | | |  
+| **Iran** |  |  |  |  | | | | | | | 
+| **Italy** |  |  |  |  | | | | | | |
+| **Kyrgyzstan** |  |  |  |  | | | | | | |  
+| **Malawi** |  |  |  |  | | | | | | | 
+| **Nepal** |  |  |  |  | | | | | | |
+| **Palestinian Terrirories** |  |  |  |  | | | | | | |
+| **Russia** |  |  |  |  | | | | | | |

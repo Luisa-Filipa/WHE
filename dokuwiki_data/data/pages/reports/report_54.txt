@@ -204,7 +204,7 @@
 | 1959 | Kamchatka, Russia | 7.8 | 8 (MSK) | 
 | 1971 | Kamchatka, Russia | 7.2 | 7 (MSK) | 
 | 1995 | Neftegorsk, Sakhalin Island, Russia |  | 9 (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
