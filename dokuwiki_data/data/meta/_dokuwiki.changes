@@ -1,48 +1,3 @@
-1615227966	127.0.0.1	E	reports:report_8		external edit		26821
-1615227966	127.0.0.1	E	reports:report_9		external edit		24360
-1615227966	127.0.0.1	E	start		external edit		84
-1615231988	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		-287
-1615232004	172.18.0.1	E	reports:report_8	luisa	[Buildings with hybrid masonry walls, Chile] 		2
-1615232079	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		79
-1615232230	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		-16
-1615232486	172.18.0.1	E	reports:report_8	luisa	[2. Features] 		75
-1615232733	172.18.0.1	E	reports:report_8	luisa	[1. General Information] 		2
-1615233428	172.18.0.1	E	reports:report_8	luisa	[3. Buildings Process] 		84
-1615233477	172.18.0.1	E	reports:report_8	luisa	[3. Building Process] 		1
-1615233594	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		80
-1615234493	172.18.0.1	E	reports:report_8	luisa	[5. Earthquakes] 		-1
-1615234549	172.18.0.1	C	talk:reports:report_8	luisa	created		26
-1615234791	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		-351
-1615234805	172.18.0.1	E	reports:report_9	luisa	[1. General Information] 		64
-1615234824	172.18.0.1	E	reports:report_9	luisa	[(Building Type), (País)] 		73
-1615234835	172.18.0.1	E	reports:report_9	luisa	[Multistory base-isolated brick masonry building with reinforced concrete floors and roof, (País)] 		-2
-1615234896	172.18.0.1	E	reports:report_9	luisa	[2. Features] 		-12
-1615234927	172.18.0.1	E	reports:report_9	luisa	[2. Features] 		-2
-1615235037	172.18.0.1	E	reports:report_9	luisa	[3. Buildings Process] 		85
-1615235100	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		16
-1615235210	172.18.0.1	E	reports:report_9	luisa	[7. References] 		2
-1615235242	172.18.0.1	E	reports:report_9	luisa	[7. References] 		-1
-1615235265	172.18.0.1	E	reports:report_9	luisa	[7. References] 		-2
-1615235298	172.18.0.1	E	reports:report_9	luisa	[6. Retrofit Information] 		-5
-1615235386	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		55
-1615235416	172.18.0.1	E	reports:report_9	luisa	[5. Earthquakes] 		-2
-1615235935	127.0.0.1	E	reports:report_30		external edit		17127
-1615293909	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		-84
-1615293959	172.18.0.1	E	start	luisa	[World Housing Encyclopedia] 		9
-1615294242	172.18.0.1	E	reports:report_30	luisa	[,] 		-246
-1615294267	172.18.0.1	C	talk:reports:report_30	luisa	created		15
-1615294628	172.18.0.1	C	talk:reports:report_29	luisa	created		15
-1615295172	172.18.0.1	E	talk:reports:report_29	luisa			20
-1615295210	172.18.0.1	E	talk:reports:report_29	luisa			83
-1615301959	172.18.0.1	E	start	luisa	[Major Construction Types] 		-4
-1615301998	172.18.0.1	E	adobe	luisa			47
-1615303712	172.18.0.1	E	adobe	luisa			216
-1615304139	172.18.0.1	E	adobe	luisa			28
-1615304265	172.18.0.1	E	adobe	luisa			387
-1615304337	172.18.0.1	E	adobe	luisa			1
-1615304456	172.18.0.1	E	adobe	luisa			29
-1615304647	172.18.0.1	E	adobe	luisa			96
-1615304772	172.18.0.1	E	adobe	luisa			15
 1615306446	172.18.0.1	E	adobe	luisa			6
 1615306676	172.18.0.1	E	adobe	luisa			-4
 1615307238	172.18.0.1	E	timber	luisa			319
@@ -67,10 +22,11 @@
 1615320617	172.18.0.1	E	precast_concrete	luisa			-35
 1615320810	172.18.0.1	E	advanced_technologies	luisa			393
 1615321117	172.18.0.1	E	vernacular	luisa			357
+1615321252	127.0.0.1	E	reports:report_54		external edit		20893
 1615321252	127.0.0.1	E	addreport		external edit		9348
+1615321252	127.0.0.1	E	start		external edit		84
 1615418933	172.18.0.1	E	addreport	luisa			-8025
 1615819815	172.18.0.1	C	wiki:site_notice	luisa	created		12
-1615321252	127.0.0.1	E	start		external edit		84
 1615833609	172.18.0.1	E	start	luisa	[Housing Reports] 		159
 1615835947	172.18.0.1	E	start	luisa	[Housing Reports] 		-129
 1615836054	172.18.0.1	E	start	luisa	[Housing Reports] 		253
@@ -121,7 +77,6 @@
 1615852256	172.18.0.1	E	addreport	luisa			83
 1615852312	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		4448
 1615852449	172.18.0.1	E	addreport	luisa			2010
-1615321252	127.0.0.1	E	reports:report_54		external edit		20893
 1615852650	172.18.0.1	E	reports:report_54	luisa	[5. Earthquakes] 		-326
 1615852868	172.18.0.1	C	unapprovedreports:teste3_teste3	luisa	Created from the form at addreport		9289
 1615852984	172.18.0.1	E	addreport	luisa			112
@@ -185,3 +140,60 @@
 1615868548	172.18.0.1	E	addreport	luisa			2
 1615868684	172.18.0.1	E	addreport	luisa			-65
 1615868695	172.18.0.1	E	addreport	luisa			-36
+1615910005	172.18.0.1	E	start	luisa	[Housing Reports] 		80
+1615910068	172.18.0.1	E	start	luisa	[Housing Reports] 		-5
+1615910496	172.18.0.1	E	start	luisa	[Housing Reports] 		244
+1615913082	172.18.0.1	E	start	luisa	[Housing Reports] 		590
+1615915356	172.18.0.1	E	start	luisa	[Housing Reports] 		174
+1615915434	172.18.0.1	E	start	luisa	[Housing Reports] 		1
+1615915465	172.18.0.1	E	start	luisa	[Housing Reports] 		-463
+1615916645	172.18.0.1	E	start	luisa	[Housing Reports] 		88
+1615916978	172.18.0.1	E	start	luisa	[Housing Reports] 		168
+1615917287	172.18.0.1	E	start	luisa	[Housing Reports] 		97
+1615923140	172.18.0.1	E	start	luisa	[Housing Reports] 		35
+1615923177	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
+1615923282	172.18.0.1	E	start	luisa	[Housing Reports] 		47
+1615933649	172.18.0.1	E	start	luisa	[Housing Reports] 		44
+1615933688	172.18.0.1	E	start	luisa	[Housing Reports] 		46
+1615934715	172.18.0.1	E	start	luisa	[Housing Reports] 		287
+1615937519	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
+1615938463	172.18.0.1	E	start	luisa	[Housing Reports] 		3
+1615938528	172.18.0.1	E	start	luisa	[Housing Reports] 		9
+1615938576	172.18.0.1	E	start	luisa	[Housing Reports] 		3
+1615939354	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
+1615939546	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
+1615941137	172.18.0.1	E	start	luisa	[Housing Reports] 		1016
+1615941477	172.18.0.1	E	start	luisa	[Housing Reports] 		83
+1615941819	172.18.0.1	E	start	luisa	[Housing Reports] 		136
+1615941921	172.18.0.1	E	start	luisa	[Housing Reports] 		46
+1615942359	172.18.0.1	E	start	luisa	[Housing Reports] 		206
+1615942861	172.18.0.1	E	start	luisa	[Housing Reports] 		239
+1615943034	172.18.0.1	E	start	luisa	[Housing Reports] 		87
+1615944649	172.18.0.1	E	start	luisa	[Housing Reports] 		541
+1615944838	172.18.0.1	E	start	luisa	[Housing Reports] 		88
+1615945520	172.18.0.1	E	start	luisa	[Housing Reports] 		341
+1615945582	172.18.0.1	E	start	luisa	[Housing Reports] 		7
+1615945837	172.18.0.1	E	start	luisa	[Housing Reports] 		63
+1615946675	172.18.0.1	E	start	luisa	[Housing Reports] 		438
+1615946855	172.18.0.1	E	start	luisa	[Housing Reports] 		46
+1615946977	172.18.0.1	E	start	luisa	[Housing Reports] 		44
+1615947717	172.18.0.1	E	start	luisa	[Housing Reports] 		395
+1615948131	172.18.0.1	E	start	luisa	[Housing Reports] 		88
+1615948441	172.18.0.1	E	start	luisa	[Housing Reports] 		45
+1615948873	172.18.0.1	E	start	luisa	[Housing Reports] 		302
+1615949107	172.18.0.1	E	start	luisa	[Housing Reports] 		89
+1615949799	172.18.0.1	E	start	luisa	[Housing Reports] 		351
+1615950139	172.18.0.1	E	start	luisa	[Housing Reports] 		119
+1615950480	172.18.0.1	E	start	luisa	[Housing Reports] 		296
+1615950663	172.18.0.1	E	start	luisa	[Housing Reports] 		130
+1615951323	172.18.0.1	E	start	luisa	[Housing Reports] 		280
+1615951936	172.18.0.1	E	start	luisa	[Housing Reports] 		174
+1615952145	172.18.0.1	E	start	luisa	[Housing Reports] 		156
+1615952493	172.18.0.1	E	start	luisa	[Housing Reports] 		214
+1615952717	172.18.0.1	E	start	luisa	[Housing Reports] 		105
+1615952873	172.18.0.1	E	start	luisa	[Housing Reports] 		124
+1615953180	172.18.0.1	E	start	luisa	[Housing Reports] 		45
+1615953293	172.18.0.1	E	start	luisa	[Housing Reports] 		-9
+1615953519	172.18.0.1	E	start	luisa	[Housing Reports] 		167
+1615953755	172.18.0.1	E	start	luisa	[Housing Reports] 		116
+1615954003	172.18.0.1	E	start	luisa	[Housing Reports] 		157

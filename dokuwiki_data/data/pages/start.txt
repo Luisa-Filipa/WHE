@@ -81,22 +81,50 @@ part of this material in any publication of your own, you are required to obtain
 
 ==== Housing Reports ====
 
-<nspages -tree reports -exclude -subns -pagesInNs -h1 -textNs="">
-
-
-
-
 | ^ Abobe   ^ Advanced technologies ^ Brick ^ Confined Masonry ^ Precast concrete ^ Reinforced concrete frame  ^ Reinforced concrete shear wall ^ Stone ^ Timber ^ Vernacular ^
-| **Argentina** | | | | [[ reports:report_1|Rodriguez,Virginia I; Yacante, Maria I; Reiloba, Sergio ]] | | | |  |  | |
-| **Chile** |  |  |  |  | | | | | | |
-| **Colombia** |  |  |  |  | | | | | | |
-| **El Salvador** |  |  |  |  | | | | | | |
-| **India** |  |  |  |  | | | | | | |
-| **Indonesia** |  |  |  |  | | | | | | |  
-| **Iran** |  |  |  |  | | | | | | | 
-| **Italy** |  |  |  |  | | | | | | |
-| **Kyrgyzstan** |  |  |  |  | | | | | | |  
-| **Malawi** |  |  |  |  | | | | | | | 
-| **Nepal** |  |  |  |  | | | | | | |
-| **Palestinian Terrirories** |  |  |  |  | | | | | | |
-| **Russia** |  |  |  |  | | | | | | |
+| **Albania** |  |  |  |  |  |  |  |  |  |  |
+| **Algeria** |  |  |  |  |  | [[ reports:report_103|Farsi, Mohammed; Lazzali, Farah ]] |  | [[ reports:report_75|Farsi, Mohammed; Lazzali, Farah; Ait-Mziane, Yamina ]] |  |  | 
+| **Argentina** | [[ reports:report_2|Rodriguez,Virginia;  Yacante, Maria; Reiloba, Sergio ]] \\ \\ [[ reports:report_89|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] |  | [[ reports:report_70|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] | [[ reports:report_1|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] \\ \\ [[ reports:report_152|Maldonado, Noemi; Dr. Tornello, Miguel; Begaliev, Ulugbek ]] |  |  |  |  |  |  |
+| **Armenia** | | | | | | | | | |
+| **Bangladesh** |  |  | [[ reports:report_91|Ansary, Mehedi ]] |  |  |  |  |  |  |  | 
+| **Belize** |  |  |  |  |  | [[ reports:report_164| Redmond, Laura; DesRoches, Reginald ]] |  |  | [[ reports:report_165| Redmond, Laura; DesRoches, Reginald ]] |  | 
+| **Canada** |  |  |  |  |  |  | [[ reports:report_79| Pao, John; Brzev, Svetlana ]] |  |  |  | 
+| **Chile** | [[ reports:report_179|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Jara, David ]] |  |  | [[ reports:report_7|Moroni, Ofelia; Gomez, Cristian; Astroza, Maximiliano ]] \\ \\ [[ reports:report_181|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Jara, David ]] |  |  | [[ reports:report_180|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan ; Wyneken, Mariana ]] \\ \\ [[ reports:report_4|Moroni, Ofelia; Gomez, Cristian ]] |  | [[ reports:report_182|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Wyneken, Mariana ]] |  |
+| **China** |  |  |  |  |  |  |  |  |  |  |
+| **Colombia** |  |  | [[ reports:report_10| Mejia, Luis ]] | [[ reports:report_199| Acevedo, Ana; Jaramillo, Juan; Osorio Fernando ]] |  | [[ reports:report_11| Mejia, Luis ]] \\ \\ [[ reports:report_201| Acevedo, Ana; Jaramillo, Juan; Osorio Fernando ]] | [[ reports:report_109| Mejia, Luis; Ortiz, Juan; Osorio, Laura ]] |  |  |  |
+| **Cuba** |  |  |  | [[ reports:report_194|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_188|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_189|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_191|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_195|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_183|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_184|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_186|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_192|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_187|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] |  |  |  |
+| **Cyprus** |  |  |  |  |  | [[ reports:report_13| Levtchitch, V. ]] |  |  |  |  |
+| **El Salvador** | [[ reports:report_14|Lang, Dominik; Merlos, Roberto; Holliday, Lisa; Lopez, Manuel ]] |  |  |  |  |  |  |  |  |  |
+| **Germany** |  |  |  |  |  |  |  |  |  |  |
+| **Greece** |  |  |  |  |  | [[ reports:report_15| Tassios, T.; Syrmakezis, Kostas ]] \\ \\ [[ reports:report_17| Koumousis, Vlasis ]] |  | [[ reports:report_16| Tassios, T.; Syrmakezis, Kostas ]] |  |  |
+| **Guatemala** | [[ reports:report_136| French, Matthew ]] \\ \\ [[ reports:report_144| Lang, Dominik; Holliday, Lisa; Beleton, Omar ]] |  |  | [[ reports:report_161| Jofre, Diego; Abrahamczyk, Lars; Schwarz, Jochen ]] |  |  |  |  |  |  |
+| **Honduras** | [[ reports:report_134| French, Matthew ]] |  |  |  |  |  |  |  |  |  |
+| **India** |  |  | [[ reports:report_20| Khan, Amir; Dr. Moin, Khalid ]] \\ \\ [[ reports:report_21| Sinha, Ravi; Brzev, Svetlana ]] \\ \\ [[ reports:report_22| Kumar, Amit ]] |  |  | [[ reports:report_19| Jaiswal, Kishor; Sinha, Ravi; Goyal, Alok ]] |  | [[ reports:report_18| Brzev, Svetlana; Greene, Marjorie; Sinha, Ravi ]] \\ \\ [[ reports:report_80| Sinha, Ravi; Ambati, Vijaya ]] \\ \\ [[ reports:report_172| Sood, Ankita; Rahul, Aditya; Singh, Yogendra; Lang, Dominik ]] | [[ reports:report_116| Kumar, Amit; Pundit, Jeewan ]] |  |
+| **Indonesia** |  |  | [[ reports:report_24| WIJANTO, Sugeng ]] |  |  |  |  |  |  |  |
+| **Iran** | [[ reports:report_104| Mehrain, Mehrdad; Naeim, Farzad ]] \\ \\ [[ reports:report_177| Yekrangnia, Mohammad; Bakhshi, Ali; Ghannad, Mohammad; Khosravifar, Arash et al. ]] |  |  | [[ reports:report_27| Hashemi, Behrokh; Alemi, Faramarz; Ashtiany, Mohsen ]] |  |  |  | [[ reports:report_114| Ahari, Masoud; Azarbakht, Alireza ]] |  |  |
+| **Islamic Republic of Iran** |  |  |  |  |  |  |  |  |  |  |
+| **Italy** |  |  | [[ reports:report_29| DAyala, Dina; Speranza, Elena; D'Ercole, Francesco ]] \\ \\ [[ reports:report_31| Goretti, Agostino; Malvolti, Daniela; Papa, Simona ]] |  |  | [[ reports:report_30| Leggeri, Maurizio; Lacava, Giuseppe; Viola, Eugenio ]] |  | [[ reports:report_28| Ayala, Dina; Speranza, Elena ]] \\ \\ [[ reports:report_120| Vetturini, Riccardo; Cleri, Anacleto; Mollailoli, Fabrizio; Bazzurro, Paolo ]] |  |  |
+| **Jamaica** |  |  |  |  |  |  |  |  |  |  |
+| **Japan** |  |  |  |  |  |  |  |  |  |  |
+| **Kyrgyzstan** |  |  | [[ reports:report_36| Begaliev, Ulugbek; Uranova, Svetlana ]] \\ \\ [[ reports:report_41| Uranova, Svetlana; Begaliev, Ulugbek ]] |  | [[ reports:report_33| Begaliev, Ulugbek; Uranova, Svetlana; V., Manukovskiy ]] | [[ reports:report_39| Uranova, Svetlana; Begaliev, Ulugbek ]] | [[ reports:report_40| Uranova, Svetlana; Begaliev, Ulugbek; V., Manukovskiy ]] |  |  |  |
+| **Malawi** |  |  | [[ reports:report_46| Sassu, M.; Ngoma,I ]] |  |  |  |  |  |  |  |
+| **Mexico** |  |  |  |  |  |  |  |  |  |  |
+| **Nepal** |  |  |  |  |  | [[ reports:report_145| Marhatta, Yukta; Bothara, Jitendra; Magar, Meen; Chapagain, Gopal ]] |  | [[ reports:report_47| Parajuli, Yogeshwar; Bothara, Jitendra; Upadhyay, Bijay ]] \\ \\ [[ reports:report_74| Parajuli, Yogeshwar; Bothara, Jitendra; Upadhyay, Bijay ]] |  |  |
+| **Nicaragua** | [[ reports:report_137| French, Matthew ]] |  |  |  |  |  |  |  |  |  |
+| **Pakistan** | [[ reports:report_166| Lodi, Sarosh; Sangi, Abdul; Abdullah, Adam ]] |  | [[ reports:report_112| Ali, Qaisar ]] |  |  | [[ reports:report_159| Badrashi, Yasir; Ali, Qaisar; Ashraf, Mohammad ]] |  | [[ reports:report_138| Ali, Qaisar; Muhammad, Taj ]] \\ \\ [[ reports:report_176| Lodi, Sarosh; Sangi, Abdul; Abdullah, Adam ]] |  |  |
+| **Palestinian Territories** |  |  |  |  |  | [[ reports:report_48| Dabbeek, Jalal; Al-Jawhar, Abdel ]] |  |  |  |  |
+| **Peru** | [[ reports:report_52| Loaiza,Cesar; Blondet, Marcial; Ottazzi, Gianfranco ]] \\ \\ [[ reports:report_107| Quiun, Daniel ]] |  |  | [[ reports:report_50| Loaiza,Cesar; Blondet, Marcial ]] \\ \\ [[ reports:report_51| Loaiza,Cesar; Blondet, Marcial; Simona, Papa ]] |  |  |  |  |  |  |
+| **Portugal** |  |  |  |  |  |  |  |  | [[ reports:report_92| Cardoso, Rafaela; Lopes, Mario; Bento, Rita; D'Ayala, Dina ]] |  |
+| **Romania** |  |  | [[ reports:report_84| Dan, Maria; Sandu, Ilie ]] |  | [[ reports:report_83| Dan, Maria; Sandu, Ilie ]] | [[ reports:report_71| Dan, Maria; Sandu, Ilie ]] \\ \\ [[ reports:report_96| Dan, Maria ]] | [[ reports:report_78| Dan, Maria; Sandu, Ilie ]] |  |  |  |
+| **Russia** |  |  |  |  |  |  |  |  | [[ reports:report_56| Klyachko, Mark; Benin, Andrey; Bagdanova, Janna ]] |  |
+| **Russion Federation** |  |  |  |  |  |  |  |  |  |  |
+| **Serbia** |  |  |  | [[ reports:report_69| Muravljov, Nikola; Dimitrijevic, Radovan ]] | [[ reports:report_68| Dimitrijevic, Radovan ]] |  |  |  |  |  |
+| **Slovenia** |  |  | [[ reports:report_88| Lutman, Marjana; Tomazevic, Miha ]] |  |  |  |  | [[ reports:report_58| Lutman, Marjana; Toma#evic, Miha ]] | [[ reports:report_178| Kramar, Miha; Pazlar, Tomaz ]] |  |
+| **Switzerland** |  |  |  |  |  |  |  | [[ reports:report_119| Lang, Kerstin; Bachmann, Hugo ]] |  |  |
+| **Syrian Arab Republic** |  |  |  |  |  | [[ reports:report_59| Awad, Adel; Bassam, Hwaija; Talal, Isreb ]] |  |  |  |  |
+| **Taiwan** |  |  |  |  |  |  |  |  |  |  |
+| **Trinidad and Tobago** |  |  |  |  |  |  |  |  |  |  |
+| **Turkey** |  |  |  |  |  | [[ reports:report_64| Gulkan, Polat; Aschheim, Mark; Spence, Robin ]] | [[ reports:report_101| Yakut, Ahmet; Gulkan, Polat ]] |  |  |  |
+| **USA** |  |  |  |  |  | [[ reports:report_111| Faison, Heidi; Comartin, Craig; Elw ood, Kenneth ]] |  |  |  |  |
+| **Uzbekistan** |  |  |  |  | [[ reports:report_66| Khakimov, Shamil; Nurtaev, Bakhtiar ]] |  |  |  |  |  |
+| **Venezuela** |  |  |  |  |  |  |  |  |  |  |
