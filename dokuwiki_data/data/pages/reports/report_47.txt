@@ -1,6 +1,8 @@
 ====== Traditional oval-shaped rural stone house, Nepal ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_47:rp47_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** 
 
+{{gallery>:reports:report_47?rp47_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_47?rp47_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Other
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_47?rp47_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -273,6 +281,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_47?rp47_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

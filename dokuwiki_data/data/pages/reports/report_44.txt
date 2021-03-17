@@ -1,6 +1,8 @@
 ====== Reinforced concrete frame building with timber roof, Malaysia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_44:rp44_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** 
 
+{{gallery>:reports:report_44?rp44_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_44?rp44_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -85,13 +91,15 @@
 
 ==== 3. Building Process ====
 
+{{gallery>:reports:report_44?rp44_building_process_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Description of Building Materials===
 
 ^ Structural Element ^ Building Material (s) ^ Comment (s) ^
-| Wall/Frame | Concrete | Characteristic Strength: 24 kN/m^3 -30kN/m^3Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
-| Foundations | Concrete | Characteristic Strength: 24 kN/m^3 -30kN/m^3Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
-| Floors | Concrete | Characteristic Strength: 24 kN/m^3 -30kN/m^3Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
-| Roof | Concrete | Characteristic Strength: 24 kN/m^3 -30kN/m^3Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
+| Wall/Frame | Concrete | Characteristic Strength: 24 kN/m%%^%%3 -30kN/m%%^%%3 Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
+| Foundations | Concrete | Characteristic Strength: 24 kN/m%%^%%3 -30kN/m%%^%%3 Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
+| Floors | Concrete | Characteristic Strength: 24 kN/m%%^%%3 -30kN/m%%^%%3 Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
+| Roof | Concrete | Characteristic Strength: 24 kN/m%%^%%3 -30kN/m%%^%%3Grade 25-30Mix Proportion/Dimensions: 1:2:4 (cement: fine aggregate: course aggregate) | 
 | Other |  |  | 
 
 ----
@@ -198,6 +206,8 @@ wners decide to build additional stories some years later of the end of the orig
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_44?rp44_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

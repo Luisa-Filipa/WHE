@@ -176,7 +176,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop | }}
+{{gallery> :reports:report_2?rp2_earthquakes_*.jpg&160x160&lightbox&crop | }}
 
 **Past Earthquakes in the country which affected buildings of this type:**
 
@@ -227,6 +227,7 @@ The total width of door and window openings in a wall is: For brick masonry cons
 **Seismic deficiency in frames:** No buttresses provided at the wall intersections.
 
 **Seismic deficiency in roof and floors:** The roof is flexible.
+
 ----
 
 === Seismic Vulnerability Rating ===

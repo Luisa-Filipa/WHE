@@ -1,6 +1,8 @@
 ====== Semi-rigid steel frame with "Khorjinee" connections, Islamic Republic of Iran ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_26:rp26_general_info.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This type of construction is followed in the last 30 years.
 
+{{gallery>:reports:report_26?rp26_general_info_*.jpg&260x260&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_26?rp26_features_*.jpg&260x260&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_26?rp26_building_process_*.jpg&260x260&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,11 +206,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_26?rp26_earthquakes_*.jpg&260x260&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1990 | Manjil | 7.6 | IX |
- 
+
 ----
 
 === Past Earthquakes ===
@@ -275,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_26?rp26_retrofit_*.jpg&260x260&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

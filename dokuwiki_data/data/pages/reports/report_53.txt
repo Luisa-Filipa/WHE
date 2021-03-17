@@ -1,6 +1,8 @@
 ====== Small concrete block masonry walls with concrete floors and roofs, Russia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_53:rp53_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This is the Soviet Union construction practice followed during the last 50-60 years (after the Second World War). Building Occu
 
+{{gallery>:reports:report_53?rp53_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_53?rp53_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_53?rp53_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,13 +206,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_53?rp53_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1959 | Kamchatka, Russia | 7.8 | 8 (MSK) | 
 | 1971 | Kamchatka, Russia | 7.2 | 7 (MSK) | 
 | 1988 | Spitak, Armenia | 6.9 | 9 (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -276,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_53?rp53_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

@@ -1,6 +1,8 @@
 ====== Loadbearing stone masonry building, Greece ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_16:rp16_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_16?rp16_features_*.jpg&160x160&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_16?rp16_building_process_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,12 +204,14 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_16?rp16_earthquakes_*.jpg&160x160&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1996 | Aegion | 6.1 | MSK | 
 | 1999 | Athens | 5.9 | IX (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -275,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_16?rp16_retrofit_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

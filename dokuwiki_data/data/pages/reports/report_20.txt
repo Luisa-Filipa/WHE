@@ -1,6 +1,8 @@
 ====== Unreinforced brick masonry with flat roof, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_20:rp20_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_20?rp20_features_*.jpg&200x200&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solidL-shape
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_20?rp20_building_process_*.jpg&200x200&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,6 +204,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_20?rp20_earthquakes_*.jpg&200x200&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -205,7 +213,7 @@
 | 1993 | Killari (Maharashtra) | 6.4 | VIII (MSK) | 
 | 1997 | Jabalpur (MP) | 6.1 | VII (MSK) | 
 | 2001 | Bhuj (Gujarat) | 7.6 | X (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===

@@ -1,6 +1,8 @@
 ====== Rubble stone masonry walls with timber frame and timber roof, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_18:rp18_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_18?rp18_features_*.jpg&180x180&lightbox&crop | }}
 
 **Plan Shape:** Square, solidRectangular, solid
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_18?rp18_building_process_*.jpg&180x180&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,11 +204,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_18?rp18_earthquakes_*.jpg&180x180&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1993 | Killari, Latur District, Maharashtra State | 6.4 | VIII (MMI SCALE) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -274,6 +282,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_18?rp18_retrofit_*.jpg&180x180&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

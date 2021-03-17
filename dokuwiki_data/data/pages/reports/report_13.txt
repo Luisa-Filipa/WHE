@@ -1,11 +1,13 @@
 ====== Gravity designed reinforced concrete frame buildings with unreinforced masonry infill walls, Cyprus ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_13:rp13_general_info_1.jpg?nolink&200*250 | }}
+
 ----
 
 ==== 1. General Information ====
 
-**Report #:** 13
+**Report:** 13
 
 **Building Type:** Gravity designed reinforced concrete frame buildings with unreinforced masonry infill walls.
 
@@ -42,6 +44,8 @@
 ----
 
 ==== 2. Features ====
+
+{{ :reports:report_13:rp13_features_1.jpg?nolink&300*300 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -88,6 +92,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_13?rp13_building_process_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -202,13 +208,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_13?rp13_earthquakes_*.jpg&160x160&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1995 | Paphos | 5.7 | MMI-VII | 
 | 1996 | Paphos-Limassol | 6.5 | MMI-VII-VIII | 
 | 1999 | Limassol | 5.8 | MMI-VII | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -280,6 +288,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_13?rp13_retrofit_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

@@ -1,6 +1,8 @@
 ====== Unreinforced brick masonry walls with pitched clay tile roof, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_22:rp22_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This type of construction has been practiced for hundreds of years. All existing older brick masonry buildings are of this type.
 
+{{gallery>:reports:report_22?rp22_general_info_*.jpg&220x220&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_22?rp22_features_*.jpg&220x220&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solidL-shapeU- or C-shape
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_22?rp22_building_process_*.jpg&220x220&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -199,6 +207,8 @@ y clay tiles on the roof cladding. The cladding material and roof tiles are not 
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_22?rp22_earthquakes_*.jpg&220x220&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -206,7 +216,7 @@ y clay tiles on the roof cladding. The cladding material and roof tiles are not 
 | 1993 | Killari (Maharashtra) | 6.4 | VIII (MSK) | 
 | 1997 | Jabalpur (MP) | 6.1 | VII (MSK) | 
 | 2001 | Bhuj (Gujarat) | 7.6 | X (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -278,6 +288,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_22?rp22_retrofit_*.jpg&220x220&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

@@ -1,6 +1,8 @@
 ====== Buildings with hollow clay tile load-bearing walls and precast concrete floor slabs, Kyrgyzstan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_34:rp34_general_info.jpg?nolink&250*250 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Usually there are 32-64 units in each building.
 
+{{gallery>:reports:report_34?rp34_general_info_*.jpg&250x250&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_34?rp34_features_*.jpg&250x250&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_34?rp34_building_process_*.jpg&250x250&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,13 +206,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_34?rp34_earthquakes_*.jpg&250x250&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1992 | Suusamir (Kyrgyz Republic) | 7.4 | 7 (MSK) | 
 | 1986 | Kairakum (Kyrgyz Republic, Tadjikistan) | 6.8 | 7 (MSK) | 
 | 1988 | Spitak, Armenia | 7 | 10 (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -276,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_34?rp34_retrofit_*.jpg&250x250&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

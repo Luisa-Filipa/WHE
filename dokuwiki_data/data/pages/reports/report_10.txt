@@ -1,6 +1,8 @@
 ====== Non-engineered unreinforced brick masonry building, Colombia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_10:rp10_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,7 +37,11 @@
 
 **Comments:** Traditional construction practice for low-rise buildings (1- to 4- story high) followed in the last 50 years.
 
+----
+
 ==== 2. Features ====
+
+{{ :reports:report_10:rp10_features_1.jpg?nolink&300*300 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,6 +89,8 @@
 
 ==== 3. Building Process ====
 
+{{gallery> :reports:report_10?rp10_building_process_*.jpg&160x160&lightbox&crop | }}
+
 === Description of Building Materials===
 
 ^ Structural Element ^ Building Material (s) ^ Comment (s) ^
@@ -93,11 +101,6 @@
 | Other |  |  | 
 
 ----
-
-
-----
-
-==== 4. Socio-Economic Issues ====
 
 === Design Process === 
 
@@ -201,6 +204,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_10?rp10_earthquakes_*.jpg&160x160&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -280,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_10?rp10_retrofit_*.jpg&160x160&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

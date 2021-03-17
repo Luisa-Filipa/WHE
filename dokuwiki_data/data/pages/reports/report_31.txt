@@ -1,6 +1,8 @@
 ====== Brick masonry farmhouse with a "dead door", Italy ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_31:rp31_general_info.jpg?nolink&310*310 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,6 +36,8 @@
 **Terrain-Sloped:** Off
 
 **Comments:** Single family house, mixed residential and agricultural (cowshed and hayloft) use.
+
+{{gallery>:reports:report_31?rp31_general_info_*.jpg&310x310&lightbox&crop | }}
 
 ----
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_31?rp31_building_process_*.jpg&310x310&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -199,6 +205,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_31?rp31_earthquakes_*.jpg&310x310&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -278,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_31?rp31_retrofit_*.jpg&310x310&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

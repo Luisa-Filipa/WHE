@@ -1,6 +1,8 @@
 ====== Reinforced concrete frame building with an independent vertical extension, Greece ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_17:rp17_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_17?rp17_features_*.jpg&170x170&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_17?rp17_building_process_*.jpg&170x170&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,12 +204,14 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_17?rp17_earthquakes_*.jpg&170x170&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1999 | Athens, Greece | 5.9 | IX (MMI) | 
 | 1981 | Korinth, Greece | 6.6 | VIII (MMI) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -275,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_17?rp17_retrofit_*.jpg&170x170&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

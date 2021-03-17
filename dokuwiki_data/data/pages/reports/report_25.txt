@@ -1,6 +1,8 @@
 ====== Steel frame with semi-rigid "Khorjini" connections and jack arch roof "Taagh-e-Zarbi", Iran ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_25:rp25_general_info.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** The question of how to estimate the rigidity of this type of connections has been the subject of many analytical and experimenta
 
+{{gallery>:reports:report_25?rp25_general_info_*.jpg&250x250&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_25?rp25_features_*.jpg&250x250&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_25?rp25_building_process_*.jpg&250x250&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -197,6 +205,8 @@
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_25?rp25_earthquakes_*.jpg&250x250&lightbox&crop | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

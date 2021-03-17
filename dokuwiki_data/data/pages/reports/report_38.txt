@@ -1,6 +1,8 @@
 ====== Prefabricated concrete panel buildings with monolithic panel joints (seria 105), Kyrgyzstan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_38:rp38_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** 
 
+{{gallery>:reports:report_38?rp38_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_38?rp38_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_38?rp38_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

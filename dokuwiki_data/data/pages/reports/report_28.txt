@@ -1,6 +1,8 @@
 ====== Single-family stone masonry house, Italy ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_28:rp28_general_info.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Traditional construction practice followed in the last 200 years with updates and modification during the last 100 years.
 
+{{gallery>:reports:report_28?rp28_general_info_*.jpg&280x280&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_28?rp28_features_*.jpg&280x280&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_28?rp28_building_process_*.jpg&280x280&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,11 +206,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_28?rp28_earthquakes_*.jpg&280x280&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1997 | Serravelle | 5.6 | VI-VIII MMI  | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -274,6 +284,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_28?rp28_retrofit_*.jpg&280x280&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

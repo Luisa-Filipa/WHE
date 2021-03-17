@@ -1,6 +1,8 @@
 ====== Unreinforced concrete and masonry bearing wall construction (designed for gravity loads only), Palestinian Territories ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_49:rp49_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** The main function of this building typology is mixed use (both commercial and residential use).
 
+{{gallery>:reports:report_49?rp49_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_49?rp49_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_49?rp49_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -199,6 +207,8 @@ e of the buildings were built under the supervision of engineers. The constructi
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_49?rp49_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

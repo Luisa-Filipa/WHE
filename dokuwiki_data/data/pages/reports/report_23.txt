@@ -1,6 +1,8 @@
 ====== Rural mud house with pitched roof, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_23:rp23_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_23?rp23_features_*.jpg&230x230&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_23?rp23_building_process_*.jpg&230x230&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -199,12 +205,14 @@ spacing between purlins and rafters are generally not regular. Generally old con
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_23?rp23_earthquakes_*.jpg&230x230&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1997 | Jabalpur | 6.1 | MSK VII | 
 | 2000 | Jabalpur | 5.3 | MSK VI | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -276,6 +284,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_23?rp23_retrofit_*.jpg&230x230&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

@@ -1,6 +1,8 @@
 ====== Reinforced concrete frame building with masonry infill walls designed for gravity loads, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_19:rp19_general_info_1.jpg?nolink&300*300 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_19?rp19_features_*.jpg&190x190&lightbox&crop | }}
 
 **Plan Shape:** Irregular plan shape
 
@@ -84,6 +88,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_19?rp19_building_process_*.jpg&190x190&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,6 +204,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_19?rp19_earthquakes_*.jpg&190x190&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -205,7 +213,7 @@
 | 1993 | Killari | 6.4 | VIII (MMI) | 
 | 1997 | Jabalpur | 6.1 | VII (MMI) | 
 | 2001 | Bhuj | 7.6 | X (MMI) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -277,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_19?rp19_retrofit_*.jpg&190x190&lightbox&crop | }}
 
 === Description of Seismic Strengthening Provisions ===
 

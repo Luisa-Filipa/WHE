@@ -1,6 +1,8 @@
 ====== Large panel buildings with two interior longitudinal walls, Kazakhstan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_32:rp32_general_info.jpg?nolink&320*320 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Total number of housing units depends on the number of building sections. Typically, for the three-section building, the number
 
+{{gallery>:reports:report_32?rp32_general_info_*.jpg&320x320&lightbox&crop | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_32?rp32_features_*.jpg&320x320&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Building Process ====
+
+{{gallery>:reports:report_32?rp32_building_process_*.jpg&320x320&lightbox&crop | }}
 
 === Description of Building Materials===
 
@@ -198,11 +206,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_32?rp32_earthquakes_*.jpg&320x320&lightbox&crop | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1911 | Null | 8.2 | | 
- 
+
 ----
 
 === Past Earthquakes ===
