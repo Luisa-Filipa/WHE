@@ -1,6 +1,8 @@
 ====== Precast concrete panel apartment buildings, Romania ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_83:rp83_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This construction was practiced between 1960 and 1990. In the Bucharest area,buildings of this type were initially built in 1959
 
+{{gallery>:reports:report_83?rp83_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_83?rp83_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_83?rp83_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -203,7 +211,7 @@
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1986 | Vrancea | 7 | 8 (MMI) | 
 | 1990 | Vrancea | 6.7 | 7 (MMI) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -275,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_83?rp83_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

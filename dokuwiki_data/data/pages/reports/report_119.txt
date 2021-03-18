@@ -1,6 +1,8 @@
 ====== Stone Masonry House : Rubble stone without/with mud/lime/cement mortar, Switzerland ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_119:rp119_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Currently, this type of construction is not being built. Masonry buildings in Switzerland today are normally built with reinforc
 
+{{gallery>:reports:report_119?rp119_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_119?rp119_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,12 +89,11 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
 ^ Structural Element ^ Building Material (s) ^ Comment (s) ^
-
 | Wall/Frame | Wall: Unreinforced masonry with lime mortar | Wall: Characteristic Strength- Brick: comp. 1.2 - 1.6 MPa; Simple stone: comp. 0.8 - 1.6 MPa Mix Proportion/Dimensions- Lime mortar 1:3 | 
 | Foundations | Unreinforced masonry with lime mortar Unreinforced Concrete | Characteristic Strength: Brick: comp. 1.2 - 1.6 MPa; Simple stone: comp. 0.8 - 1.6 MPa Comp. 5 - 20 MPa Mix Proportion/Dimensions: Lime mortar 1:3 (matrix: sand) 1:3 - 1:10; since 1903 (first provisional code in Switzerland): 1:2:4 | 
 | Floors | Timber | Characteristic Strength: Flexural tensile strength in the direction of the fibre: 40 - 50 MPa Depends on type of timber | 
@@ -274,6 +279,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_119?rp119_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

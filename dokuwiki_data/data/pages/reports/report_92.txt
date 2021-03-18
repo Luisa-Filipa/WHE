@@ -1,6 +1,8 @@
 ====== Historic, braced frame timber buildings with masonry infill ('Pombalino' buildings), Portugal ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_92:rp92_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -31,9 +33,13 @@
 
 **Comments:** As time has passed, construction practices have changed and timber elements have progressively fallen into disuse in the three-d
 
+{{gallery>:reports:report_92?rp92_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_92?rp92_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -79,7 +85,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_92?rp92_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -192,13 +200,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_92?rp92_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1856 | 37.10 -10.50 (Atlantic Ocean, Southw est of Portugal) | 6 |  | 
 | 1909 | 38.95 -8.82 (Benavente (Centre of Portugal) | 7 | MMI IX (at epicenter) | 
 | 1969 | 35.99 -10.81 (Atlantic Ocean, Southw est of Portugal) | 7.5 |  | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -270,6 +280,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_92?rp92_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

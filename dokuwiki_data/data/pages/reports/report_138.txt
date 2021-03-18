@@ -1,6 +1,8 @@
 ====== Stone masonry residential buildings, Pakistan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_138:rp138_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** It is not known exactly as to how long this construction type has been practiced. It is believed that this type has been practic
 
+{{gallery>:reports:report_138?rp138_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_138?rp138_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_138?rp138_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +206,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_138?rp138_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -279,6 +289,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_138?rp138_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

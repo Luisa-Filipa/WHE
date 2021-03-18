@@ -1,6 +1,8 @@
 ====== Timber-reinforced Stone Masonry (Koti Banal Architecture) of Uttarakhand and Himachal Pradesh, Northern India, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_150:rp150_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Investigations suggest that the region had evolved this distinct construction style as early as 1,000 years before present. Simi
 
+{{gallery>:reports:report_150?rp150_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_150?rp150_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_150?rp150_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -164,6 +172,8 @@
 
 ==== 4. Socio-Economic Issues ====
 
+{{gallery>:reports:report_150?rp150_socio_economic_*.jpg&200x200&lightbox&crop&4 | }}
+
 **Patterns of occupancy:** Generally the buildings have a single room on every floor with a vertically distributed usage. While the ground floor is used for cattle or grain storage, the upper floors are used as living and bed rooms. The kitchen is generally on the top floor. In some buildings, dry toilets are located at the cantilevering parts of the balcony at forth story (Figure 20). While the original occupancy was pure residential, nowadays these buildings are mainly used for storage purposes. Reasons for this lie mainly in the buildings' inconvenience caused by low ceiling heights, small openings and the kitchen at the top.
 
 **Number of inhabitants in a typical building of this construction type during the day:** <5
@@ -198,6 +208,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_150?rp150_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -214,11 +226,10 @@
 
 === Past Earthquakes ===
 
-
 **Damage patterns observed in past earthquakes for this construction type:** The entire Himalayan terrain is recognized as being highly vulnerable to earthquakes (Bilham et al., 2001; Feldl and Bilham, 2006) and in the past the region has been jolted by four great earthquakes (with local magnitudes > 7.5): 1897 Shillong Plateau earthquake, 1905 Kangara earthquake, 1934 Bihar/Nepal earthquake and 1950 Assam earthquake apart from Kumaun earthquake of 1720 and Garhwal earthquake of 1803 (Thakur, 2006). Regions between the rupture zones of the great earthquakes are recognized as seismic gaps that are interpreted to have accumulated potential slip for generating future great earthquakes. The entire state of Uttarakhand falls in the seismic gap of the 1934 Bihar/Nepal earthquake and the 1905 Kangara earthquake and is categorized into Zone IV and V of the earthquake zoning map of India (IS 1893 - Part 1: 2002). The region has also witnessed seismic events of lesser magnitude (e.g., 1991 Garhwal earthquake, 1999 Chamoli earthquake). Figure 21 illustrates the recent seismicity of the respective Himalayan region with the investigation area shown in Figure 2. Notes on vulnerability rating: The Koti Banal architecture is a mixed construction of timber and dressed stones which are according to EMS-98 denoted as simple stones. Since the primary load-bearing capacity is provided by the system of timber logs, the vulnerability class of the entire structure will be mainly determined by this material. Pure timber structures in general are classified into vulnerability class D with a probable range between C and E (and a less probable range B). Accounting for the wall fillings out of dressed stones and the additional masses a reduction of the vulnerability class into C (D) may be suitable.
 
 **Additional comments on earthquake damage patterns:** no damage patterns caused by earthquakes have ever been reported
- 
+
 ----
 
 === Structural and Architectural Features for Seismic Resistance ===

@@ -39,6 +39,8 @@
 
 ==== 2. Features ====
 
+{{gallery>:reports:report_159?rp159_features_*.jpg&200x200&lightbox&crop&4 | }}
+
 **Plan Shape:** Rectangular, solid
 
 **Additional comments on plan shape:** Reinforced-concrete structures are usually rectangular in plan. However, in certain cases other planar profiles such as L, T, U or even curved profiles can also be found in larger buildings like plazas and hotels, aesthetics being the main motivation in adopting irregular shapes. In elevation, these buildings usually have a regular configuration; however, in some cases the difference in stiffness in different stories may cause soft story effect. In privately owned buildings, the trend has been to allocate the ground and first floors to commercial facilities like shops while the upper stories are used as residential dwellings in form of apartments. In order to increase the floor area, these apartments are projected outwards thus causing disproportion between the inter story stiffness. A typical building plan, elevation and picture of construction are given in Figure 1, 2 and 3, respectively.
@@ -83,7 +85,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_159?rp159_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +202,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_159?rp159_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -276,6 +282,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_159?rp159_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

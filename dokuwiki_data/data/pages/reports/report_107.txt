@@ -1,6 +1,8 @@
 ====== Reinforced Adobe, Peru ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_107:rp107_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Several reconstruction programs in southern Peru after the 2001 earthquake are using this method of reinforcing adobe.
 
+{{gallery>:reports:report_107?rp107_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_107?rp107_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_107?rp107_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -152,11 +160,13 @@
 ----
 
 === Construction Economics ===
-**:** 
+
 **Construction Economics:** 
-**:** 
+
 **Unit construction cost:** The average cost of each of 400 houses was US $1714, of which 33% was provided by the family and 67% by the COPASA-GTZ project. The family provided low quality hand labor and local materials. The project provided the cement, wire mesh and steel bars and the technical guidance.
+
 **Labor requirements:** 
+
 **Additional comments section 3:** 
 
 ----
@@ -197,12 +207,14 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_107?rp107_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 2001 | Atico, Arequipa | 8.4 | MMI VIII | 
 | 2007 | Pisco, Ica | 8 | MMI IX | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -274,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_107?rp107_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

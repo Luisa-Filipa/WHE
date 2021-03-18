@@ -1,11 +1,13 @@
 ====== A single-family, two-storey house with brick walls and timber floors, Romania ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_84:rp84_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
 
-**Report #:** 84
+**Report:** 84
 
 **Building Type:** A single-family, two-storey house with brick walls and timber floors
 
@@ -35,9 +37,13 @@
 
 **Comments:** Buildings of this construction type can be found in major urban areas of the country: in the cities of Zimnicea, Craiova,Ploiest
 
+{{gallery>:reports:report_84?rp84_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_84?rp84_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_84?rp84_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -205,7 +213,7 @@
 | 1977 | Vrancea | 7.2 | 8 (MMI) | 
 | 1986 | Vrancea | 7 | 8 (MMI) | 
 | 1990 | Vrancea | 6.7 | 7 (MMI) |
- 
+
 ----
 
 === Past Earthquakes ===
@@ -277,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_84?rp84_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

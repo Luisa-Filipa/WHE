@@ -1,6 +1,8 @@
 ====== EMSB1- single storied brick masonry house generally with GI roof, Bangladesh ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_91:rp91_general_info_1.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -83,7 +85,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_91?rp91_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +202,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_91?rp91_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -205,7 +211,7 @@
 | 1897 | Assam | 8 | 10 | 
 | 1918 | Srimangal | 7.6 | 8 | 
 | 1997 | Bangladesh-India Border | 5.6 | 7 | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -277,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_91?rp91_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

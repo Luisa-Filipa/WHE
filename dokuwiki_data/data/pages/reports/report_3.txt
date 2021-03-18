@@ -1,7 +1,7 @@
 ====== Steel frame buildings with shear walls, Chile ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_3:rp3_general_info_1.jpg?nolink&300*300 | }}
+{{ :reports:report_3:rp3_general_info_1.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,7 +37,7 @@
 
 **Comments:** This construction type has been used since 1965-70. Some buildings include commercial ground floor too.
 
-{{ :reports:report_3:rp3_general_info_2.jpg?nolink&400 |}}
+{{gallery>:reports:report_3?rp3_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
@@ -89,7 +89,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery> :reports:report_3?rp3_building_process_*.jpg&160x160&lightbox&crop | }}
+{{gallery>:reports:report_3?rp3_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

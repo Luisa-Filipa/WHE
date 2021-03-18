@@ -1,6 +1,8 @@
 ====== Base isolation of confined masonry, Argentina ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_152:rp152_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_152?rp152_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +87,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_152?rp152_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -197,6 +203,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_152?rp152_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -206,7 +214,7 @@
 | 2006 | San Juan | 5 | III | 
 | 2005 | San Juan | 5.2 | IV | 
 | 1985 | Mendoza | 5.9 | VII | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -278,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_152?rp152_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

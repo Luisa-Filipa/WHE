@@ -1,6 +1,8 @@
 ====== Concrete-block masonry construction in Pakistan, Pakistan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_174:rp174_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -49,9 +51,13 @@
 
 **Comments:** Currently, this type of construction is still being constructed and around 5.2% of the existing building stock of Pakistan compr
 
+{{gallery>:reports:report_174?rp174_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_174?rp174_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Square, solidRectangular, solid
 
@@ -97,7 +103,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_174?rp174_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -212,7 +220,7 @@
 
 ==== 5. Earthquakes ====
 
-{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+{{gallery>:reports:report_174?rp174_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

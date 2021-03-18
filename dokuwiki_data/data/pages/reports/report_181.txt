@@ -1,6 +1,8 @@
 ====== Confined Masonry, Chile ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_181:rp181_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_181?rp181_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidRectangular, with an opening in planL-shape
 
@@ -83,7 +87,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_181?rp181_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,7 +204,7 @@
 
 ==== 5. Earthquakes ====
 
-{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+{{gallery>:reports:report_181?rp181_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -208,7 +214,6 @@
 | 1985 | San Antonio, V Region | 7.7 (Mw) | XI (MMI) | 			
 | 2010 | Maule, VII Region | 8.8 (Mw) | IX (MMI) | 			
 | 2014 | Iquique, I Region | 8.2 (Mw) | VII (MMI) | 			
-
 
 ----
 

@@ -1,6 +1,8 @@
 ====== Reinforced concrete buildings with masonry infills, Pakistan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_167:rp167_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** RC buildings consist of a basic load-bearing, moment-resisting frame of horizontal and vertical members, i.e. beams and columns
 
+{{gallery>:reports:report_167?rp167_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_167?rp167_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Other
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_167?rp167_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +206,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_167?rp167_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -215,7 +225,6 @@
 ----
 
 === Past Earthquakes ===
-
 
 **Damage patterns observed in past earthquakes for this construction type:** Indian plate upon which Pakistan, India and Nepal lie, is continuously moving northward and sub-ducting under the Eurasian plate, thus triggering earthquakes in the process and forming Himalayan mountains. Within the Suleiman, Hindu Kush and Karakoram mountain ranges, the Northern Areas and Chitral district in NWFP, Kashmir including Muzaffarabad, and Quetta, Chaman, Sibi, Zhob, Khuzdar, Dalbandin, the Makran coast including Gwadar and Pasni in Balochistan are located in high or very high risk areas. Cities of Islamabad, Karachi and Peshawar are located on the edges of high risk areas. Figure 17 shows the seismic zoning map of Pakistan, which was developed after 2005 Kashmir earthquake [3]. A large number of major earthquakes have hit Pakistan in 20th Century including: 1935 Quetta earthquake, 1945 Makran coast earthquake, 2001 Bhuj earthquake and 2005 Kashmir earthquake [4]. Figure 18 shows the damage to RC buildings in lower Sindh in 2001 Bhuj Earthquake. cc. Vulnerability: In most of the country, non-engineered structures have been constructed and the construction of such structures is still being experienced. The Seismic Provisions of Pakistan were developed in 2007 but have not been implemented or made building regulations so far in any part of the Country. In big cities like Karachi, Lahore and Islamabad, structural design code is part of building regulations and is followed to a much larger extent especially after the October 2005 Kashmir Earthquake. Based on this reality, the buildings constructed before October 2005 will be considered to have very little seismic resistance because no engineers were involved in most of the cases. The attitude of the people towards construction after October 2005 has been changed hence the year 2005 can be used as a year to segregate buildings constructed under low code and moderate/high code provisions. At the same time, the construction techniques in certain parts of the country have not been changed. One reason might be that certain areas do not come in the high seismic zone and others have not experienced a high intensity earthquake in the recent past. The overall seismic vulnerability rating for the RC housing types ranges from B: Medium-high to D: Medium-low vulnerability.
 
@@ -284,6 +293,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_167?rp167_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

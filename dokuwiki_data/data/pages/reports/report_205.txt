@@ -1,6 +1,8 @@
 ====== Unreinforced masonry houses made of fired clay bricks, Malawi ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_205:rp205_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Houses of this type have a wide variety in geometry, structural features, mechanical properties, and deficiencies. Although they
 
+{{gallery>:reports:report_205?rp205_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_205?rp205_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -85,7 +91,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_205?rp205_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -199,6 +207,8 @@
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_205?rp205_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

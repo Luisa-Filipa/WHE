@@ -1,6 +1,8 @@
 ====== Traditional Naga Type House, India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_147:rp147_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -45,9 +47,13 @@
 
 **Comments:**
 
+{{gallery>:reports:report_147?rp147_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_147?rp147_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidCurved, solid (e.g. circular, elliptical, ovoid)
 
@@ -93,7 +99,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_147?rp147_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

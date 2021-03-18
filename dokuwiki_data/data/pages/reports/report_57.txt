@@ -1,6 +1,8 @@
 ====== Wood panel wall buildings (typical seria 181-115-77cm of #Giprolesprom#), Russia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_57:rp57_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,9 +36,14 @@
 **Terrain-Sloped:** 3
 
 **Comments:** 
+
+{{gallery>:reports:report_57?rp57_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_57?rp57_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -82,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_57?rp57_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

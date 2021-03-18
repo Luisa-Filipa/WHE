@@ -1,6 +1,8 @@
 ====== Wood frame single family house, USA ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_65:rp65_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** The standardized wood frame construction described here applies to houses built approximately from the 1940#s to today. Many de
 
+{{gallery>:reports:report_65?rp65_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_65?rp65_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidL-shapeU- or C-shape
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_65?rp65_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,13 +206,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_65?rp65_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1971 | San Fernando Valley | 6.5 |  | 
 | 1983 | Coalinga | 6.7 |  | 
 | 1989 | Loma Prieta California | 7.1 |  | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -276,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_65?rp65_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

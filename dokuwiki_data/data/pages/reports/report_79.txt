@@ -1,6 +1,8 @@
 ====== Concrete shear wall highrise buildings, Canada ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_79:rp79_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This is a rather recent construction practice, resulting from the population growth in Canadian urban areas in the last few deca
 
+{{gallery>:reports:report_79?rp79_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_79?rp79_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Other
 
@@ -84,6 +90,8 @@
 ----
 
 ==== 3. Buildings Process ====
+
+{{gallery>:reports:report_79?rp79_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

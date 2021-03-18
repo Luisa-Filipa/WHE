@@ -1,7 +1,7 @@
 ====== Single-family reinforced concrete frame with masonry infill walls house, Italy ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_30:rp30_general_info.jpg?nolink&300*300 | }}
+{{ :reports:report_30:rp30_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,13 +37,13 @@
 
 **Comments:** Currently, this type of construction is not being built. This building type was common in the cities when the area wasnot offic
 
-{{gallery>:reports:report_30?rp30_general_info_*.jpg&300x300&lightbox&crop | }}
+{{gallery>:reports:report_30?rp30_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
 ==== 2. Features ====
 
-{{gallery>:reports:report_30?rp30_features_*.jpg&300x300&lightbox&crop | }}
+{{gallery>:reports:report_30?rp30_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -91,7 +91,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_30?rp30_building_process_*.jpg&300x300&lightbox&crop | }}
+{{gallery>:reports:report_30?rp30_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +206,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery>:reports:report_30?rp30_earthquakes_*.jpg&300x300&lightbox&crop | }}
+{{gallery>:reports:report_30?rp30_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -288,7 +288,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery>:reports:report_30?rp30_retrofit_*.jpg&300x300&lightbox&crop | }}
+{{gallery>:reports:report_30?rp30_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

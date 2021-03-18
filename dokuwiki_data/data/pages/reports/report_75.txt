@@ -1,6 +1,8 @@
 ====== Stone masonry apartment building, Algeria ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_75:rp75_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This construction was practiced prior to 1950 by French contractors.It is the same construction type found in countries around
 
+{{gallery>:reports:report_75?rp75_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_75?rp75_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Square, solidSquare, with an opening in planRectangular, solidRectangular, with an opening in planL-shapeTriangular, with an opening in planE-shapeU- or C-shapeIrregular plan shape
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_75?rp75_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +206,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_75?rp75_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -278,6 +288,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_75?rp75_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

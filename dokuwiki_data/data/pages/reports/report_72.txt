@@ -1,6 +1,8 @@
 ====== Traditional rural house in Kutch region of India (bhonga), India ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_72:rp72_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Bhongas older than 50 years have been found in Kutch district of Gujarat state in India.
 
+{{gallery>:reports:report_72?rp72_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_72?rp72_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Curved, solid (e.g. circular, elliptical, ovoid)
 
@@ -83,7 +89,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
@@ -198,12 +204,14 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_72?rp72_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 2001 | Bhuj (Gujarat) | 7.6 | X (MSK) | 
 | 1819 | Bulandshahar (Uttar Pradesh) | 6.7 | VIII (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -274,6 +282,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_72?rp72_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

@@ -1,6 +1,8 @@
 ====== Unreinforced stone wall rural housing, Italy ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_120:rp120_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** The construction technique shown in this example is no longer practiced as commonly replaced or alterated in many important stru
 
+{{gallery>:reports:report_120?rp120_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_120?rp120_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, with an opening in plan
 
@@ -83,7 +89,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
@@ -198,6 +204,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_120?rp120_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -205,7 +213,7 @@
 | 1703 | Appennino Umbro Reatino | 6.8 | X-XI | 
 | 1832 | Valle Umbra, Cannara, Foligno | 6.1 | IX-X | 
 | 1832 | Foligno, Bevagna | 5.2 | VII-VIII | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -277,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_120?rp120_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

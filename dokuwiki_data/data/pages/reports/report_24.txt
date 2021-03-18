@@ -1,7 +1,7 @@
 ====== Unreinforced clay brick masonry house, Indonesia ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_24:rp24_general_info.jpg?nolink&300*300 | }}
+{{ :reports:report_24:rp24_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,13 +37,13 @@
 
 **Comments:** 
 
-{{gallery>:reports:report_24?rp24_general_info_*.jpg&240x240&lightbox&crop | }}
+{{gallery>:reports:report_24?rp24_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
 ==== 2. Features ====
 
-{{gallery>:reports:report_24?rp24_features_*.jpg&240x240&lightbox&crop | }}
+{{gallery>:reports:report_24?rp24_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -91,7 +91,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_24?rp24_building_process_*.jpg&240x240&lightbox&crop | }}
+{{gallery>:reports:report_24?rp24_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +206,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery>:reports:report_24?rp24_earthquakes_*.jpg&240x240&lightbox&crop | }}
+{{gallery>:reports:report_24?rp24_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

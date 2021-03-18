@@ -1,6 +1,8 @@
 ====== Confined masonry, Colombia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_199:rp199_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -36,9 +38,13 @@ ly provide housing for the high-income class. Non-engineered confined masonry st
 
 **Comments:** Confined masonry structures usually share common walls with adjacent buildings, mainly for buildings of one or two stories.
 
+{{gallery>:reports:report_199?rp199_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_199?rp199_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -86,7 +92,9 @@ ly provide housing for the high-income class. Non-engineered confined masonry st
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_199?rp199_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

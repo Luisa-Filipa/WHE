@@ -1,6 +1,8 @@
 ====== RC Moment Frame Building, Algeria ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_103:rp103_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** The construction of individual reinforced concrete frame houses has been practiced since 1980s. To solve the housing crisis in t
 
+{{gallery>:reports:report_103?rp103_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_103?rp103_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Square, solidRectangular, solidL-shape
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_103?rp103_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,13 +206,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_103?rp103_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1989 | Tipaza | 7.3 | X | 
 | 1999 | Ain Temouchent | 6.1 | VIII-IX | 
 | 2003 | Zemmouri (Boumerdes) | 8.1 | VIII |
- 
+
 ----
 
 === Past Earthquakes ===

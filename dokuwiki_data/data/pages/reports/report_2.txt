@@ -1,8 +1,7 @@
 ====== Traditional adobe house, Argentina ======
 === From World Housing Encyclopedia ===
 
-
-{{ :reports:report_2:rp2_general_info_1.jpg?nolink&300*300 | }}
+{{ :reports:report_2:rp2_general_info_1.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,6 +36,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_2?rp2_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -76,8 +77,6 @@
 
 **Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
 
-{{gallery> :reports:report_2?rp2_features_*.jpg&160x160&lightbox&crop | }}
-
 ----
 
 ==== 3. Building Materials and Construction Process ====
@@ -98,6 +97,7 @@
 **Who is involved with the design process?** Other
 
 **Roles of those involved in the design process:** In the beginning, this type of construction was designed and built by engineers and general builders, but later the same construction began to be made by the owners.
+
 ----
 
 === Construction Process ===
@@ -176,7 +176,9 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery> :reports:report_2?rp2_earthquakes_*.jpg&160x160&lightbox&crop | }}
+{{gallery>:reports:report_2?rp2_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
+----
 
 **Past Earthquakes in the country which affected buildings of this type:**
 

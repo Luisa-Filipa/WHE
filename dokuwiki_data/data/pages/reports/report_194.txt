@@ -1,5 +1,7 @@
-====== ,  ======
+====== Confined masonry, Cuba ======
 === From World Housing Encyclopedia ===
+
+{{ :reports:report_194:rp194_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -38,6 +40,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_194?rp194_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidL-shapeH-shapeU- or C-shape
 
@@ -83,7 +87,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 

@@ -1,6 +1,8 @@
 ====== Unreinforced Masonry Building : Brick masonry in mud/lime mortar, with vertical posts, Iran ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_117:rp117_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,6 +36,8 @@
 **Terrain-Sloped:** Occasionally
 
 **Comments:** This construction system was common in the past formonumental building structures.
+
+{{gallery>:reports:report_117?rp117_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
@@ -83,7 +87,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_117?rp117_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,11 +204,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_117?rp117_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 2003 | Bam | 6.5 | VIII |
- 
+
 ----
 
 === Past Earthquakes ===
@@ -274,6 +282,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_117?rp117_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

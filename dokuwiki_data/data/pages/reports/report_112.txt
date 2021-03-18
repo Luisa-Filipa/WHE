@@ -1,6 +1,8 @@
 ====== Unreinforced brick masonry residential building, Pakistan ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_112:rp112_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Normally used as a single-family house but sometimes also used as multiple-housing units and mixed-use.
 
+{{gallery>:reports:report_112?rp112_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_112?rp112_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -198,13 +204,15 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_112?rp112_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1994 | Hindu Kush | 6.5 | V | 
 | 2002 | Hindu Kush | 6.3 | V | 
 | 2005 | Kashmir | 7.6 | VI-VIII | 
- 
+
 ----
 
 === Past Earthquakes ===

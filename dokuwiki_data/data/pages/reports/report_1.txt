@@ -1,8 +1,7 @@
 ====== Confined block masonry house, Argentina ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_1:rp1_general_info_1.jpg?nolink&400*400 |}}
-
+{{ :reports:report_1:rp1_general_info_1.jpg?nolink&200*200 | }}
 ----
 
 ==== 1. General Information ====
@@ -36,6 +35,8 @@
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_1?rp1_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -79,8 +80,6 @@ the family room, in every bedroom and the bathroom. The opening area is about 13
 
 **Additional comments section 2:** When separated from adjacent buildings, the typical distance from a neighboring building is 5 meters.
 
-{{gallery> :reports:report_1?rp1_features_*.jpg&160x160&lightbox&crop | }}
-
 ----
 
 ==== 3. Building Materials and Construction Process ====
@@ -103,6 +102,7 @@ the family room, in every bedroom and the bathroom. The opening area is about 13
 **Roles of those involved in the design process:** Architects are in charge of the architectural design of the building and sometimes, the construction process. Engineers are in charge of the structural design and of the construction process in general.
 
 **Expertise of those involved in the design process:** The professionals involved in the design and construction process -architects and engineers- have a good level of expertise and great experience in this type of construction, typical in San Juan.
+
 ----
 
 === Construction Process ===
@@ -179,7 +179,7 @@ Norms.
 
 ==== 5. Earthquakes ====
 
-{{ :reports:report_1:rp1_earthquakes_1.jpg?nolink&474*710 |}}
+{{gallery>:reports:report_1?rp1_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Past Earthquakes in the country which affected buildings of this type:**
 
@@ -194,6 +194,7 @@ Norms.
 the epicenter, the intensity was between VII and VIII. The buildings of this construction type sustained the earthquake without serious damage.
 
 **Additional comments on earthquake damage patterns:** During the earthquake of 1977 in Caucete, in the capital city of San Juan, located about 100 km from the epicenter, the intensity was between VII and VIII. The buildings of this construction type sustained no serious damage.
+
 ----
 
 === Structural and Architectural Features for Seismic Resistance ===
@@ -201,6 +202,7 @@ the epicenter, the intensity was between VII and VIII. The buildings of this con
 The main reference publication used in developing the statements used in this table is FEMA 310 “Handbook for the Seismic Evaluation of Buildings-A Pre-standard”, Federal Emergency Management Agency, Washington, D.C., 1998.
 
 The total width of door and window openings in a wall is: For brick masonry construction in cement mortar : less than ½ of the distance between the adjacent cross walls; For adobe masonry, stone masonry and brick masonry in mud mortar: less than 1/3 of the distance between the e adjacent cross walls; For precast concrete wall structures: less than 3/4 of the length of a perimeter wall.
+
 ----
 
 === Structural/Architectural ===
@@ -234,6 +236,7 @@ The total width of door and window openings in a wall is: For brick masonry cons
 **Seismic deficiency in frames:** Generally without seismic deficiencies.
 
 **Seismic deficiency in roof and floors:** No seismic deficiencies.
+
 ----
 
 === Seismic Vulnerability Rating ===
@@ -248,14 +251,15 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
+
+{{gallery>:reports:report_1?rp1_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Description of Seismic Strengthening Provisions ===
 
 ^ Structural Deficiency ^ Seismic Strengthening ^
 | Wall | Increase the width of some walls. This has a low increase in the construction cost and a high likelihood of enhancing seismic stability. It is relatively simple to perform. |
 
 ----
-
-{{ :reports:report_1:rp1_retrofit_info_1.jpg?nolink&400 |}}
 
 ==== 7. References ====
 

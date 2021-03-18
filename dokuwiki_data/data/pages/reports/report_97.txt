@@ -1,6 +1,8 @@
 ====== Medium/high rise moment resisting reinforced concrete frame building, Romania ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_97:rp97_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** After 1990 new buildings were no longer constructed in thearchitectural socialist post-modern style. Two buildings of this latte
 
+{{gallery>:reports:report_97?rp97_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_97?rp97_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Square, solidRectangular, solidL-shapeU- or C-shape
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_97?rp97_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +206,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_97?rp97_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -205,7 +215,7 @@
 | 1986 | Vrancea | 7 | 8 | 
 | 1990 | Vrancea | 6.7 | 7 | 
 | 2004 | Vrancea | 5.9 | 6 | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -276,6 +286,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_97?rp97_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

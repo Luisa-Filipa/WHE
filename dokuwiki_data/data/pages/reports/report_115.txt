@@ -1,6 +1,8 @@
 ====== Reinforced concrete multistory buildings, Mexico ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_115:rp115_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,6 +36,8 @@
 **Terrain-Sloped:** Typically
 
 **Comments:** 
+
+{{gallery>:reports:report_115?rp115_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 

@@ -1,6 +1,8 @@
 ====== Adobe / Earthen House : Adobe block walls, Guatemala ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_144:rp144_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Currently, this type of construction is being built. New buildings made out of adobe walls are mainly found in rural areas. No r
 
+{{gallery>:reports:report_144?rp144_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_144?rp144_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidL-shapeU- or C-shapeOther
 
@@ -83,7 +89,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
@@ -198,6 +204,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_144?rp144_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -206,7 +214,7 @@
 | 1976 | 160 km NE of Guatemala City | 7.5 | I = IX (MMI) | 
 | 1988 | Uspantan Alta Verapaz | 6 | I = VI | 
 | 1991 | Pochuta, Chimaltenango | 6.2 | I = VI | 
- 
+
 ----
 
 === Past Earthquakes ===

@@ -1,6 +1,8 @@
 ====== Adobe / Earthen House : Mud walls, Honduras ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_134:rp134_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** There are existing adobe buildings in urban areas, but few new constructions. Currently, this type of construction is being bu
 
+{{gallery>:reports:report_134?rp134_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_134?rp134_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Square, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_134?rp134_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -103,7 +111,7 @@
 **Roles of those involved in the design process:** No formally trained people worked on site. Seldom is an engineer or architect involved in adobe construction.
 
 **Expertise of those involved in the design process:** 
- 
+
 ----
 
 === Construction Process ===
@@ -117,7 +125,6 @@
 **Construction process and phasing:** The site is cleared. The mud brick ingredients (sand, clay and straw) are mixed and placed in a wet timber mould. This mix is compacted and turned out to dry. After four weeks, and several rotations of the drying block, the block is ready for final placement within the wall. While the blocks are drying, the site is further prepared. The wall is constructed by simply laying one block on another with mud mortar between each course until the desired height is reached. The timber roof framing is laid and the clay tiles applied. In this case study, as mentioned, the cooking and store area at the back were added after initial construction of the adobe house. The wall was constructed from locally available stones and cement mortar. The roof was added to connect up to the existing gutter. The wash area was added later. Here, it was necessary to use concrete block as adobe performs poorly under exposure to water and moisture. The construction of this type of housing takes place incrementally over time. Typically, the building is originally not designed for its final constructed size. Typically an initial 'base house' is built and as the family grows or finances permit, additions take place.
 
 **Construction issues:** Here, it was necessary to use concrete block as adobe performs poorly under exposure to water and moisture.
-
 
 ----
 
@@ -199,6 +206,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_134?rp134_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -276,6 +285,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_134?rp134_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

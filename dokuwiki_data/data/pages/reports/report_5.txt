@@ -1,7 +1,7 @@
 ====== 	Reinforced clay/concrete block masonry building, Chile ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_5:rp5_general_info_1.jpg?nolink&300*300 | }}
+{{ :reports:report_5:rp5_general_info_1.jpg?nolink&200*200 | }}
 
 ----
 
@@ -90,7 +90,7 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 ==== 3. Building Process ====
 
-{{gallery> :reports:report_5?rp5_building_process_*.jpg&180x180&lightbox&crop&3 | }}
+{{gallery> :reports:report_5?rp5_building_process_*.jpg&180x180&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -203,7 +203,7 @@ This housing type is used throughout Chile. Between 1992 and 2002 this type of b
 
 ==== 5. Earthquakes ====
 
-{{gallery> :reports:report_5?rp5_earthquakes_*.jpg&180x180&lightbox&crop&3 | }}
+{{gallery>:reports:report_5?rp5_earthquakes_*.jpg&180x180&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -286,7 +286,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery> :reports:report_5?rp5_retrofit_*.jpg&180x180&lightbox&crop&3 | }}
+{{gallery> :reports:report_5?rp5_retrofit_*.jpg&160x160&lightbox&crop&3 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

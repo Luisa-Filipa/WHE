@@ -1,6 +1,8 @@
 ====== Adobe Arched-Roof, Iran ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_177:rp177_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Even with the recent great changes to the big cities in Iran with respect to construction types and development, some arched-roo
 
+{{gallery>:reports:report_177?rp177_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_177?rp177_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid; Rectangular, with an opening in plan
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_177?rp177_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -164,6 +172,8 @@
 
 ==== 4. Socio-Economic Issues ====
 
+{{gallery>:reports:report_177?rp177_socio_economic_*.jpg&200x200&lightbox&crop&4 | }}
+
 **Patterns of occupancy:** Since these buildings are found in arid and semi-arid areas (deserts), they are often found in the form of cluster houses concentrated around a main yard. A housing unit is typically occupied by a single family, or sometimes by an extended family (two generations of the same family). In general, there may be up to 20 housing units in each building (Figure 10).
 
 **Number of inhabitants in a typical building of this construction type during the day:** <5
@@ -197,6 +207,8 @@
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_177?rp177_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -275,6 +287,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_177?rp177_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

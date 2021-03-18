@@ -1,7 +1,7 @@
 ====== Confined Masonry Building with Concrete blocks, tie-columns and beams, Iran ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_27:rp27_general_info.jpg?nolink&300*300 | }}
+{{ :reports:report_27:rp27_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,7 +37,7 @@
 
 **Comments:** These buildings are typically found in flat, sloped and hilly terrain. They do not share common walls with adjacent buildings. T
 
-{{gallery>:reports:report_27?rp27_general_info_*.jpg&270x270&lightbox&crop | }}
+{{gallery>:reports:report_27?rp27_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
@@ -89,7 +89,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_27?rp27_building_process_*.jpg&270x270&lightbox&crop | }}
+{{gallery>:reports:report_27?rp27_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -204,7 +204,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery>:reports:report_27?rp27_earthquakes_*.jpg&270x270&lightbox&crop | }}
+{{gallery>:reports:report_27?rp27_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -284,7 +284,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery>:reports:report_27?rp27_retrofit_*.jpg&270x270&lightbox&crop | }}
+{{gallery>:reports:report_27?rp27_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

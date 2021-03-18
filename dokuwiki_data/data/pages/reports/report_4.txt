@@ -1,7 +1,7 @@
 ====== Concrete shear walls buildings, Chile ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_4:rp4_general_info_1.jpg?nolink&150x200 |}}
+{{ :reports:report_4:rp4_general_info_1.jpg?nolink&200*200 | }}
 
 ----
 
@@ -41,8 +41,7 @@
 
 ==== 2. Features ====
 
-{{gallery> :reports:report_4?rp4_features_*.jpg&250x250&lightbox&crop | }}
- 
+{{gallery>:reports:report_4?rp4_features_*.jpg&200x200&lightbox&crop&4 | }} 
 
 **Plan Shape:** Rectangular, solid
 
@@ -90,8 +89,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery> :reports:report_4?rp4_building_process_*.jpg&200x200&lightbox&crop | }}
-
+{{gallery>:reports:report_4?rp4_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +204,7 @@
 
 ==== 5. Earthquakes ====
 
-{{ :reports:report_4:rp4_earthquakes_1.jpg?nolink&474*710 |}}
+{{gallery>:reports:report_4?rp4_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -285,7 +283,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery> :reports:report_4?rp4_retrofit_*.jpg&250x250&lightbox&crop | }}
+{{gallery>:reports:report_4?rp4_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 
@@ -333,5 +331,3 @@ For information about how seismic vulnerability ratings were selected see the {{
 === Reviewers ===
 ^ Name ^ Title ^ Affiliation ^ Location ^ Email ^
 | Sergio Alcocer | Director of Research | Circuito Escolar Cuidad Universitaria, Institute of Engineering, UNAM	| Mexico DF 4510, MEXICO | salcocerm@iingen.unam.mx |
-
-----

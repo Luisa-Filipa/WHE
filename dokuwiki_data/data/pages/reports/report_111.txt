@@ -23,39 +23,23 @@
 
 **Still Practiced:** Yes
 
-**Report #:** 111
-
-**Building Type:** Reinforced Concrete Moment Frame Building without Seismic Details
-
-**Country:** USA
-
-**Author(s):** Heidi Faison, Craig D. Comartin, Kenneth Elw ood
-
-**Last Updated:** 
-
-**Regions Where Found:** Buildings of this construction type can be found in most urban areas across the country, including California. Percentage of housing stock is unknown, but is expected to vary based on region. This type of housing construction is commonly found in both sub-urban and urban areas.
-
-**Summary:** This report examines reinforced concrete buildings that use moment-resisting frames without ductile detailing to resist seismic loads. While this building type is predominantly used for office buildings and hotels, it is also used in urban areas for multi-family dwellings(condominiums) and university dormitories. It can be found in most urban areas across the country, though it is of particular concern in areas of high seismic hazard like California, Alaska, Washington, and Oregon. Building codes did not include requirements for special seismic detailing of reinforced concrete structures until the 1970's when several earthquakes demonstrated the need for more ductile design. These buildings are vulnerable to numerous failure modes including: failure of column lap splices; strong beam/weak column failures; captive column failure; punching shear failures in flat plate slabs; and shear and axial load failure of columns with wide transverse reinforcement spacing. A discontinuity in stiffness and strength at the bottom story, due to a soft story, often results in a concentration of earthquake damage at the building base. Several examples of past earthquake behavior are given in this report as well as discussion of various retrofit options.
-
-**Length of time practiced:** 51-75 years
-
-**Still Practiced:** Yes
-
 **In practice as of:** 
 
 **Building Occupancy:** Residential, 50+ unitsMixed residential/commercial
 
-**Typical number of stories:** 4-15
+**Typical number of stories:**	4-15
 
-**Terrain-Flat:** Typically
+**Terrain-Flat:**	Typically
 
-**Terrain-Sloped:** Off
+**Terrain-Sloped:**	Off
 
-**Comments:** This construction type is still being practiced in regions of low seismic hazard, but not in high seismic hazard regions like Ca
+**Comments:**	This construction type is still being practiced in regions of low seismic hazard, but not in high seismic hazard regions like Ca
 
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_111?rp111_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidL-shapeU- or C-shape
 
@@ -101,7 +85,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_111?rp111_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -216,6 +202,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_111?rp111_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -223,7 +211,7 @@
 | 1979 | Imperial Valley, CA | 6.4 |  | 
 | 1989 | Loma Prieta, CA | 7.1 | MMI X | 
 | 1994 | Northridge, CA | 6.7 | MMI IX | 
- 
+
 ----
 
 === Past Earthquakes ===
@@ -295,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_111?rp111_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

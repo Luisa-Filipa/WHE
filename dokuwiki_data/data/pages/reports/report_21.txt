@@ -1,7 +1,7 @@
 ====== Unreinforced brick masonry building with reinforced concrete roof slab, India ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_21:rp21_general_info.jpg?nolink&300*300 | }}
+{{ :reports:report_21:rp21_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,13 +37,13 @@
 
 **Comments:** Cement mortar and reinforced concrete are relatively recent introductions to the local construction practice. These houses may b
 
-{{gallery>:reports:report_21?rp21_general_info_*.jpg&210x210&lightbox&crop | }}
+{{gallery>:reports:report_21?rp21_general_info_*.jpg&200x200&lightbox&crop | }}
 
 ----
 
 ==== 2. Features ====
 
-{{gallery>:reports:report_21?rp21_features_*.jpg&210x210&lightbox&crop | }}
+{{gallery>:reports:report_21?rp21_features_*.jpg&200x200&lightbox&crop | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -91,7 +91,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_21?rp21_building_process_*.jpg&210x210&lightbox&crop | }}
+{{gallery>:reports:report_21?rp21_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +206,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery>:reports:report_21?rp21_earthquakes_*.jpg&210x210&lightbox&crop | }}
+{{gallery>:reports:report_21?rp21_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -288,7 +288,7 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 6. Retrofit Information ====
 
-{{gallery>:reports:report_21?rp21_retrofit_*.jpg&210x210&lightbox&crop | }}
+{{gallery>:reports:report_21?rp21_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

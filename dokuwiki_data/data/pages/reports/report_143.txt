@@ -1,6 +1,8 @@
 ====== Mud House of Bangladesh, Bandladesh ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_143:rp143_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,6 +36,8 @@
 **Terrain-Sloped:** Typically
 
 **Comments:** In villages this type of construction can be usedas go down or storage house. Though most of the mud houses are used as single-f
+
+{{gallery>:reports:report_143?rp143_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
@@ -81,9 +85,13 @@
 
 **Additional comments section 2:** When separated fromadjacent buildings, the typical distance from a neighboring building is 2-4 meters. It is noteasy to specify the actual length and width of the house. Generally, this depends on the requirements as well as on theeconomic situation of the inhabitants. Roughly, the ratio of the length and width of the house can be expressed as 3:2or 2:1. The span width also depends on the number of members that would occupy a single room.
 
+{{gallery>:reports:report_143?rp143_features_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_143?rp143_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -199,6 +207,8 @@ ess for building code enforcement:** This type of construction is very common in
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_143?rp143_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -279,6 +289,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_143?rp143_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

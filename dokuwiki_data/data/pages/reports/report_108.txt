@@ -1,6 +1,8 @@
 ====== Half-timbered house in the " border triangle" (Fachwerkhaus im Dreilndereck), Switzerland ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_108:rp108_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** Different patterns dividing the storage, work,and living space areas occur in various regions of Germany, Switzerland, and Tirol
 
+{{gallery>:reports:report_108?rp108_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_108?rp108_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_108?rp108_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +206,8 @@
 ----
 
 ==== 5. Earthquakes ====
+
+{{gallery>:reports:report_108?rp108_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 

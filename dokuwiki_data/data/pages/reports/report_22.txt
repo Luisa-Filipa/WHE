@@ -1,7 +1,7 @@
 ====== Unreinforced brick masonry walls with pitched clay tile roof, India ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_22:rp22_general_info_1.jpg?nolink&300*300 | }}
+{{ :reports:report_22:rp22_general_info_1.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,13 +37,13 @@
 
 **Comments:** This type of construction has been practiced for hundreds of years. All existing older brick masonry buildings are of this type.
 
-{{gallery>:reports:report_22?rp22_general_info_*.jpg&220x220&lightbox&crop | }}
+{{gallery>:reports:report_22?rp22_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
 ==== 2. Features ====
 
-{{gallery>:reports:report_22?rp22_features_*.jpg&220x220&lightbox&crop | }}
+{{gallery>:reports:report_22?rp22_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solidL-shapeU- or C-shape
 
@@ -91,7 +91,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_22?rp22_building_process_*.jpg&220x220&lightbox&crop | }}
+{{gallery>:reports:report_22?rp22_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 

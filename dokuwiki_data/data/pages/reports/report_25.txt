@@ -1,7 +1,7 @@
 ====== Steel frame with semi-rigid "Khorjini" connections and jack arch roof "Taagh-e-Zarbi", Iran ======
 === From World Housing Encyclopedia ===
 
-{{ :reports:report_25:rp25_general_info.jpg?nolink&300*300 | }}
+{{ :reports:report_25:rp25_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -37,13 +37,13 @@
 
 **Comments:** The question of how to estimate the rigidity of this type of connections has been the subject of many analytical and experimenta
 
-{{gallery>:reports:report_25?rp25_general_info_*.jpg&250x250&lightbox&crop | }}
+{{gallery>:reports:report_25?rp25_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
 ==== 2. Features ====
 
-{{gallery>:reports:report_25?rp25_features_*.jpg&250x250&lightbox&crop | }}
+{{gallery>:reports:report_25?rp25_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -91,7 +91,7 @@
 
 ==== 3. Building Process ====
 
-{{gallery>:reports:report_25?rp25_building_process_*.jpg&250x250&lightbox&crop | }}
+{{gallery>:reports:report_25?rp25_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +206,7 @@
 
 ==== 5. Earthquakes ====
 
-{{gallery>:reports:report_25?rp25_earthquakes_*.jpg&250x250&lightbox&crop | }}
+{{gallery>:reports:report_25?rp25_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Past Earthquakes in the country which affected buildings of this type===
 
@@ -316,13 +316,31 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 ==== 7. References ====
 
-  * 1. http://www.johnmartin.com/eqshow/647014_00.htm 2. http://sharif.ac.ir/~civilinfo/Thesis/Structural99.htm 3. Iranian Code of Practice for Seismic Resistant Design of Buildings-Standard No. 2800
+  * 1. http://www.johnmartin.com/eqshow/647014_00.htm
 
-  * 4.Naeim F., 2001, #The Seismic Design Handbook", Second Edition, ICBO, SEA and Kluwer Publishers, 2001 5. www.eeri.org 6. www.johnmartin.com/EERI
+  * 2. http://sharif.ac.ir/~civilinfo/Thesis/Structural99.htm 
 
-  * 7. http://www.dena.iiees.ac.ir 8. http://seismo.ethz.ch/gshap/iran/report.html 9. http://geohaz.org/radius/Tehran/ 10. http://www.worldclimate.com/
+  * 3. Iranian Code of Practice for Seismic Resistant Design of Buildings-Standard No. 2800
 
-  * 11. http://www.itto.org/weather/climate.htm 12. http://www.ldeo.columbia.edu/~mwest/museum/ 13. http://seismo.univ.trieste.it/CdRom/reports/QR230.htm
+  * 4.Naeim F., 2001, #The Seismic Design Handbook", Second Edition, ICBO, SEA and Kluwer Publishers, 2001
+  
+  * 5. www.eeri.org
+  
+  * 6. www.johnmartin.com/EERI
+
+  * 7. http://www.dena.iiees.ac.ir
+  
+  * 8. http://seismo.ethz.ch/gshap/iran/report.html
+  
+  * 9. http://geohaz.org/radius/Tehran/
+  
+  * 10. http://www.worldclimate.com/
+
+  * 11. http://www.itto.org/weather/climate.htm 
+  
+  * 12. http://www.ldeo.columbia.edu/~mwest/museum/ 
+  
+  * 13. http://seismo.univ.trieste.it/CdRom/reports/QR230.htm
 
 === Authors ===
 

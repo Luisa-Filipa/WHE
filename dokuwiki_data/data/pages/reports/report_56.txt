@@ -1,6 +1,8 @@
 ====== Timber log building, Russia ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_56:rp56_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -35,9 +37,13 @@
 
 **Comments:** This is a traditional construction practice in the region followed for many centuries. The main function of this building typol
 
+{{gallery>:reports:report_56?rp56_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_56?rp56_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_56?rp56_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,11 +206,13 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_56?rp56_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
 | 1958 | Kamchatka,Kronotsky Gulf | 8 | 9 (MSK) | 
- 
+
 ----
 
 === Past Earthquakes ===

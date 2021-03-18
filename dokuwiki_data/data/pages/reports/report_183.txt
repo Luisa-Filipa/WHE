@@ -1,6 +1,8 @@
 ====== Low-ductile RC frame buildings (C1L, C1M), Cuba ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_183:rp183_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -38,6 +40,9 @@
 ----
 
 ==== 2. Features ====
+
+
+{{gallery>:reports:report_183?rp183_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -83,7 +88,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 

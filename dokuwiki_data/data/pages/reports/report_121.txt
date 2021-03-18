@@ -1,6 +1,8 @@
 ====== Lower and middle class residential building in rural areas of central Italy, Italy ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_121:rp121_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,6 +36,8 @@
 **Terrain-Sloped:** Typically
 
 **Comments:** This construction type is still being practiced today, although someof the details and materials used in new buildings may not b
+
+{{gallery>:reports:report_121?rp121_general_info_*.jpg&200x200&lightbox&crop&4 | }}
 
 ----
 
@@ -83,7 +87,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
@@ -198,6 +202,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_121?rp121_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -277,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_121?rp121_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

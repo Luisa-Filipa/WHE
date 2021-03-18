@@ -39,6 +39,8 @@
 
 ==== 2. Features ====
 
+{{gallery>:reports:report_137?rp137_features_*.jpg&200x200&lightbox&crop&4 | }}
+
 **Plan Shape:** Rectangular, solid
 
 **Additional comments on plan shape:** The building is a rectangle, composed of three rooms; two are 'weather-proof' spaces, and the third a semi indoor-outdoor kitchen.
@@ -83,7 +85,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_137?rp137_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -198,6 +202,8 @@
 
 ==== 5. Earthquakes ====
 
+{{gallery>:reports:report_137?rp137_earthquakes_*.jpg&200x200&lightbox&crop&4 | }}
+
 === Past Earthquakes in the country which affected buildings of this type===
 
 ^ Year ^ Earthquake Epicenter ^ Richter Magnitude  ^ Maximum Intensity ^ 
@@ -277,6 +283,8 @@ For information about how seismic vulnerability ratings were selected see the {{
 ----
 
 ==== 6. Retrofit Information ====
+
+{{gallery>:reports:report_137?rp137_retrofit_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Seismic Strengthening Provisions ===
 

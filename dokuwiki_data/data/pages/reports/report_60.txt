@@ -1,6 +1,8 @@
 ====== Moment resisting frame designed for gravity loads only, Syria ======
 === From World Housing Encyclopedia ===
 
+{{ :reports:report_60:rp60_general_info.jpg?nolink&200*200 | }}
+
 ----
 
 ==== 1. General Information ====
@@ -34,9 +36,14 @@
 **Terrain-Sloped:** Occasionally
 
 **Comments:** Modern construction followed in the last 50 years. There are from 6 to 12 units in each building.
+
+{{gallery>:reports:report_60?rp60_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_60?rp60_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Rectangular, solid
 
@@ -82,7 +89,9 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
+
+{{gallery>:reports:report_60?rp60_building_process_*.jpg&200x200&lightbox&crop&4 | }}
 
 === Description of Building Materials===
 
@@ -206,7 +215,7 @@
 | 1796 | Lattakia | 6 | (MMI) VIII | 
 | 1822 | Aleppo/Al-jaziereh | 7 | (MMI) IX-X | 
 | 1822 | Harem/ Aleppo | 6 | (MMI) VIII | 
- 
+
 ----
 
 === Past Earthquakes ===

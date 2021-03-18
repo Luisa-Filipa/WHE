@@ -1,5 +1,7 @@
-====== ,  ======
+====== Reinforced Concrete Shear Wall Houses, Chile ======
 === From World Housing Encyclopedia ===
+
+{{ :reports:report_180:rp180_general_info.jpg?nolink&200*200 | }}
 
 ----
 
@@ -35,9 +37,13 @@
 
 **Comments:** Terrain: Reinforced concrete shear wall houses are commonly built over flat terrain. However, due to Chilean topography, some of
 
+{{gallery>:reports:report_180?rp180_general_info_*.jpg&200x200&lightbox&crop&4 | }}
+
 ----
 
 ==== 2. Features ====
+
+{{gallery>:reports:report_180?rp180_features_*.jpg&200x200&lightbox&crop&4 | }}
 
 **Plan Shape:** Unknown plan shapeRectangular, solid
 
@@ -83,7 +89,7 @@
 
 ----
 
-==== 3. Buildings Process ====
+==== 3. Building Process ====
 
 === Description of Building Materials===
 
