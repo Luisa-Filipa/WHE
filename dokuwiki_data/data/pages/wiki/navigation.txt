@@ -3,3 +3,5 @@
 [[:addreport|Add new Report]]
 
 [[:unapproved_reports|Unapproved reports]]
+
+[[Contact_us|Contact Us]]

@@ -170,3 +170,43 @@
 1615953519	172.18.0.1	E	start	luisa	[Housing Reports] 		167
 1615953755	172.18.0.1	E	start	luisa	[Housing Reports] 		116
 1615954003	172.18.0.1	E	start	luisa	[Housing Reports] 		157
+1616411298	127.0.0.1	E	addreport		external edit		391
+1616411563	172.18.0.1	E	addreport	luisa			-390
+1616411652	172.18.0.1	C	unapprovedreports:assd_asdd	luisa	Created from the form at addreport		10282
+1616412437	172.18.0.1	E	addreport	luisa			68
+1616412589	172.18.0.1	E	addreport	luisa			-106
+1616412651	172.18.0.1	E	addreport	luisa			0
+1616412670	172.18.0.1	E	addreport	luisa			0
+1616412779	172.18.0.1	E	addreport	luisa			1
+1616412793	172.18.0.1	E	addreport	luisa			34
+1616412818	172.18.0.1	E	addreport	luisa			-35
+1616412834	172.18.0.1	E	addreport	luisa			2
+1616412846	172.18.0.1	E	addreport	luisa			-2
+1616412920	172.18.0.1	C	unapprovedreports:as_as	luisa	Created from the form at addreport		10246
+1616414949	172.18.0.1	E	unapprovedreports:as_as	luisa	[as, as] 		43
+1616415271	172.18.0.1	E	addreport	luisa			9
+1616415371	172.18.0.1	C	unapprovedreports:teste_teste	luisa	Created from the form at addreport		10483
+1616415486	172.18.0.1	C	reports:teste_teste	luisa	↷ Page moved from unapprovedreports:teste_teste to reports:teste_teste		10483
+1616415486	172.18.0.1	D	unapprovedreports:teste_teste	luisa	↷ Page moved from unapprovedreports:teste_teste to reports:teste_teste		-10483
+1616415923	172.18.0.1	e	reports:teste_teste	luisa	↷ Links adapted because of a move operation		-10
+1616416609	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	↷ Page name changed from unapprovedreports:as_as to unapprovedreports:teste2_teste2		10289
+1616416609	172.18.0.1	D	unapprovedreports:as_as	luisa	↷ Page name changed from unapprovedreports:as_as to unapprovedreports:teste2_teste2		-10289
+1616416783	172.18.0.1	C	unapprovedreports:ultimo_ultimo	luisa	Created from the form at addreport		10912
+1616417201	172.18.0.1	C	unapprovedreports:vv_vv	luisa	Created from the form at addreport		10799
+1616417379	172.18.0.1	C	unapprovedreports:aa_aa	luisa	Created from the form at addreport		10800
+1616417737	172.18.0.1	C	unapprovedreports:gg_gg	luisa	Created from the form at addreport		11005
+1616417932	172.18.0.1	C	unapprovedreports:ddd_ddd	luisa	Created from the form at addreport		10328
+1616418046	172.18.0.1	C	unapprovedreports:hh_hh	luisa	Created from the form at addreport		10101
+1616417990	127.0.0.1	E	addreport		external edit		6
+1616418109	172.18.0.1	E	addreport	luisa			-8
+1616419286	172.18.0.1	C	unapprovedreports:sdf_zd	luisa	Created from the form at addreport		10256
+1616420025	172.18.0.1	C	unapprovedreports:ddd_asda	luisa	Created from the form at addreport		10028
+1616419888	127.0.0.1	E	addreport		external edit		448
+1616420140	172.18.0.1	E	addreport	luisa			-451
+1616420207	172.18.0.1	C	unapprovedreports:asdfg_asdfgh	luisa	Created from the form at addreport		10000
+1616420564	172.18.0.1	C	unapprovedreports:asrt_dsfsdg		Created from the form at addreport		9997
+1616037809	127.0.0.1	E	wiki:navigation		external edit		48
+1616423760	172.18.0.1	E	wiki:navigation	luisa			23
+1616423940	172.18.0.1	C	wiki:contact_us	luisa	created		229
+1616424231	172.18.0.1	E	wiki:contact_us	luisa			1038
+1616424301	172.18.0.1	E	wiki:contact_us	luisa			184

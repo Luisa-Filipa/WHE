@@ -1,13 +1,13 @@
 ====== Add new Report ======
 
+{{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}
+
 <form>
 Action template reportstpl :unapprovedreports::
 
 Thanks "Thanks for submitting your report."
 
-file "file" ":unapprovedreports::" !
-
-file "file" ":unapprovedreports:@@Contry@@:@@Building Type (Indigenous name for the housing type):@@" !
+file "Upload images" ".unapprovedreports.@@Contry:@@.@@Building Type (Indigenous name for the housing type):@@"
 
 Fieldset "1. General Information"
 
@@ -246,7 +246,7 @@ yesno "Is earthquake insurance for this construction type typically available?" 
 
 textarea "If earthquake insurance is available, what does this insurance typically cover/cost?" "= " !
 
-yesno "Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?" "=yes" "=no"
+yesno "Are premium discounts or higher coverages available for seismically strengthened buildings or new buildings built to incorporate seismically resistant features?" "=yes" "!no"
  
 textarea "Additional comments on premium discounts:" "= " !
 
@@ -331,7 +331,6 @@ textarea "Seismic Deficiency in Other" "= " !
 textarea "Earthquake–Resilient Features in Other (Describe positive structural features that contribute to the good seismic performance)" "= " !
 
 static "Seismic Vulnerability Rating"
-static "{{ :wiki:seismic_vulnerability_rating.pdf | Seismic Vulnerability Guidelines}}"
 
 static "High vulnerabilty"
 
@@ -374,7 +373,7 @@ textarea "Who performed the construction: a contractor, or owner/user? Was an ar
 
 textarea "What has been the performance of retrofitted buildings of this type in subsequent earthquakes?" "= " !
 
-textarea "Additional Comments on Section 6" !
+textarea "Additional Comments on Section 6:" "= " !
 
 Fieldset "7. References"
 
@@ -386,7 +385,7 @@ textarea "Reviewers" "=| | | | | |" !
 
 Fieldset "7. Confirm"
 
-textbox "Email" 
+email "Email"
 
 submit "Submit Query"
 </form>

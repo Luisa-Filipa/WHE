@@ -1,6 +1,8 @@
 ====== @@Building Type (Indigenous name for the housing type):@@, @@Country:@@ ======
 === From World Housing Encyclopedia ===
 
+**attachment:** {{@@Upload images@@?linkonly}}
+
 ----
 
 ==== 1. General Information ====
@@ -81,9 +83,11 @@
 
 **Additional comments section 2:** @@Additional comments on roof system: (e.g. is roof diaphragm rigid or flexible?)@@
 
+
 ----
 
 ==== 3. Buildings Process ====
+
 
 === Description of Building Materials===
 
@@ -260,11 +264,11 @@ The total width of door and window openings in a wall is: For brick masonry cons
 
 **Seismic deficiency in foundation:** @@Seismic Deficiency in Foundation@@
 
-**Earthquake-resilient features in foundation:** @@Earthquake –Resilient Features in Foundation (Describe positive structural features that contribute to the good seismic performance)@@
+**Earthquake-resilient features in foundation:** @@Earthquake–Resilient Features in Foundation (Describe positive structural features that contribute to the good seismic performance)@@
 
 **Seismic deficiency in other:** @@Seismic Deficiency in Other@@
 
-**Earthquake-resilient features in foundation:** @@Earthquake–Resilient Features in Other (Describe positive structural features that contribute to the good seismic performance)@@
+**Earthquake-resilient features in other:** @@Earthquake–Resilient Features in Other (Describe positive structural features that contribute to the good seismic performance)@@
 
 ----
 
@@ -303,7 +307,9 @@ For information about how seismic vulnerability ratings were selected see the {{
 
 **What has been the performance of retrofitted buildings of this type in subsequent earthquakes?** @@What has been the performance of retrofitted buildings of this type in subsequent earthquakes?@@
 
-**Additional comments section 6:** @@Additional Comments on Section 6@@
+**Additional comments section 6:** @@Additional Comments on Section 6:@@
+
+----
 
 ==== 7. References ====
 
