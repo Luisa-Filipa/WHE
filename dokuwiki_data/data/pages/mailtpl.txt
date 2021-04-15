@@ -3,13 +3,13 @@
 <code html>
 Hi,
 
-There's a new report avaiable !
+There's a new report available !
 Please, go check.
 </code>
 
 <code text>
 Hi,
 
-There's a new report avaiable !
+There's a new report available !
 Please, go check.
 </code>
