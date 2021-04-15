@@ -79,52 +79,51 @@ part of this material in any publication of your own, you are required to obtain
 
 ----
 
-==== Housing Reports ====
+==== Housing Reports ===
 
-| ^ Abobe   ^ Advanced technologies ^ Brick ^ Confined Masonry ^ Precast concrete ^ Reinforced concrete frame  ^ Reinforced concrete shear wall ^ Stone ^ Timber ^ Vernacular ^
-| **Albania** |  |  |  |  |  |  |  |  |  |  |
-| **Algeria** |  |  |  |  |  | [[ reports:report_103|Farsi, Mohammed; Lazzali, Farah ]] |  | [[ reports:report_75|Farsi, Mohammed; Lazzali, Farah; Ait-Mziane, Yamina ]] |  |  | 
-| **Argentina** | [[ reports:report_2|Rodriguez,Virginia;  Yacante, Maria; Reiloba, Sergio ]] \\ \\ [[ reports:report_89|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] |  | [[ reports:report_70|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] | [[ reports:report_1|Rodriguez,Virginia; Yacante, Maria; Reiloba, Sergio ]] \\ \\ [[ reports:report_152|Maldonado, Noemi; Dr. Tornello, Miguel; Begaliev, Ulugbek ]] |  |  |  |  |  |  |
-| **Armenia** | | | | | | | | | |
-| **Bangladesh** |  |  | [[ reports:report_91|Ansary, Mehedi ]] |  |  |  |  |  |  |  | 
-| **Belize** |  |  |  |  |  | [[ reports:report_164| Redmond, Laura; DesRoches, Reginald ]] |  |  | [[ reports:report_165| Redmond, Laura; DesRoches, Reginald ]] |  | 
-| **Canada** |  |  |  |  |  |  | [[ reports:report_79| Pao, John; Brzev, Svetlana ]] |  |  |  | 
-| **Chile** | [[ reports:report_179|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Jara, David ]] |  |  | [[ reports:report_7|Moroni, Ofelia; Gomez, Cristian; Astroza, Maximiliano ]] \\ \\ [[ reports:report_181|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Jara, David ]] |  |  | [[ reports:report_180|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan ; Wyneken, Mariana ]] \\ \\ [[ reports:report_4|Moroni, Ofelia; Gomez, Cristian ]] |  | [[ reports:report_182|Velasquez, Claudia; Ginestar, Matias; Jofre, Felipe; Oyandenel, Hernan; Wyneken, Mariana ]] |  |
-| **China** |  |  |  |  |  |  |  |  |  |  |
-| **Colombia** |  |  | [[ reports:report_10| Mejia, Luis ]] | [[ reports:report_199| Acevedo, Ana; Jaramillo, Juan; Osorio Fernando ]] |  | [[ reports:report_11| Mejia, Luis ]] \\ \\ [[ reports:report_201| Acevedo, Ana; Jaramillo, Juan; Osorio Fernando ]] | [[ reports:report_109| Mejia, Luis; Ortiz, Juan; Osorio, Laura ]] |  |  |  |
-| **Cuba** |  |  |  | [[ reports:report_194|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_188|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_189|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_191|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_195|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_183|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_184|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_186|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] \\ \\ [[ reports:report_192|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] | [[ reports:report_187|Blanco, Grisel; Chang, Kenia; Sanchez, Dario; Alvarez, Zulima et al. ]] |  |  |  |
-| **Cyprus** |  |  |  |  |  | [[ reports:report_13| Levtchitch, V. ]] |  |  |  |  |
-| **El Salvador** | [[ reports:report_14|Lang, Dominik; Merlos, Roberto; Holliday, Lisa; Lopez, Manuel ]] |  |  |  |  |  |  |  |  |  |
-| **Germany** |  |  |  |  |  |  |  |  |  |  |
-| **Greece** |  |  |  |  |  | [[ reports:report_15| Tassios, T.; Syrmakezis, Kostas ]] \\ \\ [[ reports:report_17| Koumousis, Vlasis ]] |  | [[ reports:report_16| Tassios, T.; Syrmakezis, Kostas ]] |  |  |
-| **Guatemala** | [[ reports:report_136| French, Matthew ]] \\ \\ [[ reports:report_144| Lang, Dominik; Holliday, Lisa; Beleton, Omar ]] |  |  | [[ reports:report_161| Jofre, Diego; Abrahamczyk, Lars; Schwarz, Jochen ]] |  |  |  |  |  |  |
-| **Honduras** | [[ reports:report_134| French, Matthew ]] |  |  |  |  |  |  |  |  |  |
-| **India** |  |  | [[ reports:report_20| Khan, Amir; Dr. Moin, Khalid ]] \\ \\ [[ reports:report_21| Sinha, Ravi; Brzev, Svetlana ]] \\ \\ [[ reports:report_22| Kumar, Amit ]] |  |  | [[ reports:report_19| Jaiswal, Kishor; Sinha, Ravi; Goyal, Alok ]] |  | [[ reports:report_18| Brzev, Svetlana; Greene, Marjorie; Sinha, Ravi ]] \\ \\ [[ reports:report_80| Sinha, Ravi; Ambati, Vijaya ]] \\ \\ [[ reports:report_172| Sood, Ankita; Rahul, Aditya; Singh, Yogendra; Lang, Dominik ]] | [[ reports:report_116| Kumar, Amit; Pundit, Jeewan ]] |  |
-| **Indonesia** |  |  | [[ reports:report_24| WIJANTO, Sugeng ]] |  |  |  |  |  |  |  |
-| **Iran** | [[ reports:report_104| Mehrain, Mehrdad; Naeim, Farzad ]] \\ \\ [[ reports:report_177| Yekrangnia, Mohammad; Bakhshi, Ali; Ghannad, Mohammad; Khosravifar, Arash et al. ]] |  |  | [[ reports:report_27| Hashemi, Behrokh; Alemi, Faramarz; Ashtiany, Mohsen ]] |  |  |  | [[ reports:report_114| Ahari, Masoud; Azarbakht, Alireza ]] |  |  |
-| **Islamic Republic of Iran** |  |  |  |  |  |  |  |  |  |  |
-| **Italy** |  |  | [[ reports:report_29| DAyala, Dina; Speranza, Elena; D'Ercole, Francesco ]] \\ \\ [[ reports:report_31| Goretti, Agostino; Malvolti, Daniela; Papa, Simona ]] |  |  | [[ reports:report_30| Leggeri, Maurizio; Lacava, Giuseppe; Viola, Eugenio ]] |  | [[ reports:report_28| Ayala, Dina; Speranza, Elena ]] \\ \\ [[ reports:report_120| Vetturini, Riccardo; Cleri, Anacleto; Mollailoli, Fabrizio; Bazzurro, Paolo ]] |  |  |
-| **Jamaica** |  |  |  |  |  |  |  |  |  |  |
-| **Japan** |  |  |  |  |  |  |  |  |  |  |
-| **Kyrgyzstan** |  |  | [[ reports:report_36| Begaliev, Ulugbek; Uranova, Svetlana ]] \\ \\ [[ reports:report_41| Uranova, Svetlana; Begaliev, Ulugbek ]] |  | [[ reports:report_33| Begaliev, Ulugbek; Uranova, Svetlana; V., Manukovskiy ]] | [[ reports:report_39| Uranova, Svetlana; Begaliev, Ulugbek ]] | [[ reports:report_40| Uranova, Svetlana; Begaliev, Ulugbek; V., Manukovskiy ]] |  |  |  |
-| **Malawi** |  |  | [[ reports:report_46| Sassu, M.; Ngoma,I ]] |  |  |  |  |  |  |  |
-| **Mexico** |  |  |  |  |  |  |  |  |  |  |
-| **Nepal** |  |  |  |  |  | [[ reports:report_145| Marhatta, Yukta; Bothara, Jitendra; Magar, Meen; Chapagain, Gopal ]] |  | [[ reports:report_47| Parajuli, Yogeshwar; Bothara, Jitendra; Upadhyay, Bijay ]] \\ \\ [[ reports:report_74| Parajuli, Yogeshwar; Bothara, Jitendra; Upadhyay, Bijay ]] |  |  |
-| **Nicaragua** | [[ reports:report_137| French, Matthew ]] |  |  |  |  |  |  |  |  |  |
-| **Pakistan** | [[ reports:report_166| Lodi, Sarosh; Sangi, Abdul; Abdullah, Adam ]] |  | [[ reports:report_112| Ali, Qaisar ]] |  |  | [[ reports:report_159| Badrashi, Yasir; Ali, Qaisar; Ashraf, Mohammad ]] |  | [[ reports:report_138| Ali, Qaisar; Muhammad, Taj ]] \\ \\ [[ reports:report_176| Lodi, Sarosh; Sangi, Abdul; Abdullah, Adam ]] |  |  |
-| **Palestinian Territories** |  |  |  |  |  | [[ reports:report_48| Dabbeek, Jalal; Al-Jawhar, Abdel ]] |  |  |  |  |
-| **Peru** | [[ reports:report_52| Loaiza,Cesar; Blondet, Marcial; Ottazzi, Gianfranco ]] \\ \\ [[ reports:report_107| Quiun, Daniel ]] |  |  | [[ reports:report_50| Loaiza,Cesar; Blondet, Marcial ]] \\ \\ [[ reports:report_51| Loaiza,Cesar; Blondet, Marcial; Simona, Papa ]] |  |  |  |  |  |  |
-| **Portugal** |  |  |  |  |  |  |  |  | [[ reports:report_92| Cardoso, Rafaela; Lopes, Mario; Bento, Rita; D'Ayala, Dina ]] |  |
-| **Romania** |  |  | [[ reports:report_84| Dan, Maria; Sandu, Ilie ]] |  | [[ reports:report_83| Dan, Maria; Sandu, Ilie ]] | [[ reports:report_71| Dan, Maria; Sandu, Ilie ]] \\ \\ [[ reports:report_96| Dan, Maria ]] | [[ reports:report_78| Dan, Maria; Sandu, Ilie ]] |  |  |  |
-| **Russia** |  |  |  |  |  |  |  |  | [[ reports:report_56| Klyachko, Mark; Benin, Andrey; Bagdanova, Janna ]] |  |
-| **Russion Federation** |  |  |  |  |  |  |  |  |  |  |
-| **Serbia** |  |  |  | [[ reports:report_69| Muravljov, Nikola; Dimitrijevic, Radovan ]] | [[ reports:report_68| Dimitrijevic, Radovan ]] |  |  |  |  |  |
-| **Slovenia** |  |  | [[ reports:report_88| Lutman, Marjana; Tomazevic, Miha ]] |  |  |  |  | [[ reports:report_58| Lutman, Marjana; Toma#evic, Miha ]] | [[ reports:report_178| Kramar, Miha; Pazlar, Tomaz ]] |  |
-| **Switzerland** |  |  |  |  |  |  |  | [[ reports:report_119| Lang, Kerstin; Bachmann, Hugo ]] |  |  |
-| **Syrian Arab Republic** |  |  |  |  |  | [[ reports:report_59| Awad, Adel; Bassam, Hwaija; Talal, Isreb ]] |  |  |  |  |
-| **Taiwan** |  |  |  |  |  |  |  |  |  |  |
-| **Trinidad and Tobago** |  |  |  |  |  |  |  |  |  |  |
-| **Turkey** |  |  |  |  |  | [[ reports:report_64| Gulkan, Polat; Aschheim, Mark; Spence, Robin ]] | [[ reports:report_101| Yakut, Ahmet; Gulkan, Polat ]] |  |  |  |
-| **USA** |  |  |  |  |  | [[ reports:report_111| Faison, Heidi; Comartin, Craig; Elw ood, Kenneth ]] |  |  |  |  |
-| **Uzbekistan** |  |  |  |  | [[ reports:report_66| Khakimov, Shamil; Nurtaev, Bakhtiar ]] |  |  |  |  |  |
-| **Venezuela** |  |  |  |  |  |  |  |  |  |  |
+| ^ Abobe   ^ Seismic Protection Systems ^ Hybrid ^ Masonry ^ News ^ Others ^ Reinforced Concrete ^ Steel ^ Timber ^ Uncategorized ^ Vernacular ^
+| **Algeria** |  |  |  | (SM) [[ reports:report_75|Farsi et al., 2011 ]] |  |  | (RCF) [[ reports:report_103|Farsi e Lazzali, 2011 ]] |  |  |  |  | 
+| **Argentina** | [[ reports:report_89|Rodriguez et al., 2011 ]] \\ [[ reports:report_2|Rodriguez, 2011 ]] | [[ reports:report_152|Maldonado e Tornello, 2011 ]] |  | (CM) [[ reports:report_70|Rodriguez et al., 2011 ]] \\ (CM) [[ reports:report_1|Rodriguez et al., 2011 ]] |  |  |  |  |  |  |  | 
+| **Bangladesh** | [[ reports:report_143|Das et al., 2011 ]] |  |  | (UM) [[ reports:report_91|Ansary, 2011 ]] |  |  |  |  |  |  |  | 
+| **Belize** |  |  |  | (RM) [[ reports:report_164|Redmond & DesRoches, 2012 ]] |  |  | [[ reports:report_164|Redmond e DesRoches, 2012 ]] |  | [[ reports:report_165|Redmond e DesRoches, 2012 ]] |  |  | 
+| **Canada** |  |  |  |  |  |  | (RCW) [[ reports:report_79|Pao e Brzev, 2011 ]] |  | [[ reports:report_82|Ventura e Kharrazi, 2011 ]] |  |  | 
+| **Chile** |  |  |  | (CM) [[ reports:report_8|Moroni et al., 2011 ]] \\ (CM) [[ reports:report_7|Moroni et al., 2011 ]] \\ (RM) [[ reports:report_5|Moroni et al., 2011 ]] |  |  | (RCF) [[ reports:report_6|Moroni et al., 2011 ]] \\ (RCW) [[ reports:report_4|Moroni e Gomez, 2011 ]] | (SSW) [[ reports:report_3|Arze-L., 2011 ]] |  |  |  | 
+| **China** |  | [[ reports:report_9|Zhou, 2011 ]] |  |  |  |  |  |  |  |  |  | 
+| **Colombia** |  |  |  | (CM) [[ reports:report_11|Mejia, 2011 ]] \\ (RM) [[ reports:report_175|Hackmayer et al., 2013 ]] \\ (UM) [[ reports:report_10|Mejia, 2011 ]] \\ (UM) [[ reports:report_12|Mejia, 2011 ]] | [[ reports:report_175|Hackmayer et al., 2013 ]] |  | (RCW) [[ reports:report_109|Meija et al., 2011 ]] |  |  |  |  |
+| **Cyprus** |  |  |  |  |  |  | (RCF) [[ reports:report_13|Levtchitch, 2011 ]] |  |  |  |  | 
+| **El Salvador** | [[ reports:report_14|Lopez, 2011 ]] |  |  |  |  |  |  |  | [[ reports:report_141|Lang et al., 2011 ]] |  | [[ reports:report_14|Lopez M. et al., 2011 ]] | 
+| **Germany** |  |  |  |  |  |  |  | (SMF) [[ reports:report_95|Bostenaru, 2011 ]] |  |  |  | 
+| **Greece** |  |  |  | (SM) [[ reports:report_16|Tassios & Syrmakezis, 2011 ]] |  |  | (RCF) [[ reports:report_17|Koumousis, 2011 ]] \\ (RCF) [[ reports:report_15|Tassios e Syrmakezis, 2011 ]] |  |  |  |  | 
+| **Guatemala** | [[ reports:report_144|Lang et al., 2011 ]] \\  [[ reports:report_136|French, 2011 ]] |  |  | (RM) [[ reports:report_161|Jofre et al., 2012 ]] |  |  |  |  |  |  |  | 
+| **Honduras** | [[ reports:report_134|French, 2011 ]] |  |  |  |  |  |  |  |  |  |  | 
+| **India** | [[ reports:report_171|Sood et al., 2013 ]] \\ [[ reports:report_23|Kumar, 2011 ]] \\ [[ reports:report_72|Choudhary et al., 2011 ]] |  | [[ reports:report_170|Rahul et al., 2013 ]] \\ [[ reports:report_150|Rautela et al., 2011 ]] | (SM) [[ reports:report_172|Sood et al., 2013 ]] \\ (SM) [[ reports:report_150|Rautela et al., 2011 ]] \\ (SM) [[ reports:report_80|Sinha & Ambati, 2011 ]] \\ (SM) [[ reports:report_18|Brzev et al., 2011 ]] \\ (UM) [[ reports:report_116|Kumar & Pundit, 2011 ]] \\ (UM) [[ reports:report_22|Kumar, 2011 ]] \\ (UM) [[ reports:report_21|Sinha & Brzev, 2011 ]] \\ (UM) [[ reports:report_20|Khan & Moin, 2011 ]] | [[ reports:report_171|Sood et al., 2013 ]] | [[ reports:report_170|Rahul et al., 2013 ]] | (RCF) [[ reports:report_19|Jaiswal et al., 2011 ]] |  | [[ reports:report_154|Kaushik e Babu, 2012 ]] \\ [[ reports:report_150|Rautela et al., 2011 ]] \\ [[ reports:report_147|Khan, 2011 ]] |  | [[ reports:report_80|Sinha e Ambati, 2011 ]] \\ [[ reports:report_72|Choudhary et al., 2011 ]] \\ [[ reports:report_23|Kumar, 2011 ]] \\ [[ reports:report_18|Brzev et al., 2011 ]] | 
+| **Indonesia** |  |  |  | (UM) [[ reports:report_24|Wijanto, 2011 ]] |  |  |  |  |  |  |  | 
+| **Iran** | [[ reports:report_104|Mehrain & Naeim, 2011 ]] |  |  | (CM) [[ reports:report_27|Hashemi et al., 2011 ]] \\ (SM) [[ reports:report_114|Ahari & Azarbakht, 2015 ]] \\ (UM) [[ reports:report_118|Bekloo, 2011 ]] \\ (UM) [[ reports:report_117|Bekloo, 2011 ]] |  | |  | (SMF) [[ reports:report_25|Alimoradi, 2011 ]] \\ (SBF) [[ reports:report_26|Hashemi e Ashtiany, 2011 ]] |  |  |  |
+| **Italy** |  |  |  | (SM) [[ reports:report_121|Vetturini et al., 2011 ]] \\ (SM) [[ reports:report_120|Vetturini et al., 2011 ]] \\ (SM) [[ reports:report_113|Sassu & Cei, 2011 ]] \\ (SM) [[ reports:report_28|D’Ayala & Speranza, 2011 ]] \\ (UM) [[ reports:report_31|Goretti et al., 2011 ]] \\ (UM) [[ reports:report_29|D’Ayala et al., 2011 ]] |  |  | (RCF) [[ reports:report_30|Leggeri et al., 2011 ]] |  |  |  | [[ reports:report_28|D'Ayala e Speranza, 2011 ]] | 
+| **Japan** |  |  |  |  |  |  |  |  | [[ reports:report_86|Maki e Tanaka, 2011 ]] |  |  | 
+| **Kazakhstan** | [[ reports:report_42|Uranova & Begaliev, 2011 ]] |  |  |  |  |  |  |  |  |  |  | 
+| **Kyrgyzstan** |  | [[ reports:report_76|Eisenberg et al., 2011 ]] |  | (CM) [[ reports:report_36|Begaliev & Uranova, 2011 ]] \\ (UM) [[ reports:report_41|Uranova & Begaliev, 2011 ]] \\ (UM) [[ reports:report_34|Uranova & Begaliev, 2011 ]] |  |  | (PC) [[ reports:report_39|Uranova e Begaliev, 2011 ]] \\ (PC) [[ reports:report_33|Begaliev et al., 2011 ]] \\ (RCW) [[ reports:report_40|Uranova et al., 2011 ]] \\ (RCW) [[ reports:report_38|Uranova e Begaliev, 2011 ]] \\ (RCW) [[ reports:report_32|Itskov et al., 2011 ]] |  | [[ reports:report_35|Begaliev e Uranova, 2011 ]] |  | [[ reports:report_35|Begaliev e Uranova, 2011 ]] | 
+| **Malawi** | [[ reports:report_46|Sassu & Ngoma, 2011 ]] \\ [[ reports:report_45|Sassu & Ngoma, 2011 ]] \\ [[ reports:report_43|Sassu & Ngoma, 2011 ]] |  |  |  |  |  |  |  |  |  | [[ reports:report_45|Sassu e Ngoma, 2011 ]] \\ [[ reports:report_43|Sassu e Ngoma, 2011 ]] | 
+| **Malaysia** |  |  |  |  |  |  | (RCF) [[ reports:report_44|Adnan et al., 2011 ]] |  |  |  |  | 
+| **Mexico** |  |  |  | (CM) [[ reports:report_160|Tena-Colunga et al., 2011 ]] |  |  | (RCF) [[ reports:report_115|Rodriguez e Jarque, 2011 ]] |  |  |  |  | 
+| **Nepal** |  |  |  | (SM) [[ reports:report_74|Parajuli et al., 2011 ]] \\ (SM) [[ reports:report_47|Parajuli et al., 2011 ]] \\ (UM) [[ reports:report_99|D’Ayala & Bajracharya, 2011 ]] |  |  | (RCF) [[ reports:report_145|Marhatta et al., 2011 ]] |  |  |  | [[ reports:report_74|Parajuli et al., 2011 ]] \\ [[ reports:report_47|Parajuli et al., 2011 ]] | 
+| **Nicaragua** | [[ reports:report_137|French, 2011 ]] |  |  |  |  |  |  |  | [[ reports:report_148|Lang et al., 2011 ]] |  |  | 
+| **Pakistan** | [[ reports:report_166|Lodi et al., 2013 ]] |  |  | (SM) [[ reports:report_138|Ali & Muhammad, 2011 ]] \\ (UM) [[ reports:report_173|Lodi et al., 2013 ]] \\ (UM) [[ reports:report_174|Lodi et al., 2013 ]] \\ (UM) [[ reports:report_112|Ali, 2011 ]] |  |  | [[ reports:report_167|Lodi et al., 2013 ]] \\ (RCF) [[ reports:report_159|Badrashi et al., 2011 ]] |  |  |  |  | 
+| **Palestinian Territories** |  |  |  | (SM) [[ reports:report_49|Dabbeek & Al-Jawhari, 2011 ]] |  |  | (RCF) [[ reports:report_48|Dabbeek e Al-Jawhari, 2011 ]] |  |  |  |  | 
+| **Peru** | [[ reports:report_107|Quiun, 2011 ]] \\ [[ reports:report_52|Loaiza et al., 2011 ]] |  |  | (CM) [[ reports:report_51|Loaiza & Blondet, 2011 ]] \\ (CM) [[ reports:report_50|Loaiza & Blondet, 2011 ]] |  |  |  |  |  |  |  | 
+| **Portugal** |  |  | [[ reports:report_92|Cardoso et al., 2011 ]] | (SM) [[ reports:report_92|Cardoso et al., 2011 ]] |  |  |  |  | [[ reports:report_92|Cardoso, 2011 ]] |  | [[ reports:report_92|Cardoso et al., 2011 ]] | 
+| **Romania** |  |  |  | (UM) [[ reports:report_85|Bostenaru & Sandu, 2011 ]] \\ (UM) [[ reports:report_84|Bostenaru & Sandu, 2011 ]] |  |  | (PC) [[ reports:report_83|Bostenaru e Sandu, 2011 ]] \\ (RCF) [[ reports:report_97|Bostenaru, 2011 ]] \\ (RCF) [[ reports:report_96|Bostenaru, 2011 ]] \\ (RCF) [[ reports:report_71|Bostenaru e Sandu, 2011 ]] \\ (RCW) [[ reports:report_87|Bostenaru, 2011 ]] \\ (RCW) [[ reports:report_78|Bostenaru e Sandu, 2011 ]] |  |  |  |  | 
+| **Russia** |  | [[ reports:report_77|Eisenberg et al., 2011 ]] |  | (UM) [[ reports:report_53|Klyachko et al., 2011 ]] |  |  | (PC) [[ reports:report_55|Klyachko et al., 2011 ]] \\ (PC) [[ reports:report_54|Klyachko et al., 2011 ]] |  | [[ reports:report_57|Klyachko et al., 2011 ]] \\ [[ reports:report_56|Klyachko et al., 2011 ]] | [[ reports:report_54|Klyachko et al., 2011 ]] | [[ reports:report_56|Klyachko et al., 2011 ]] | 
+| **Serbia** |  |  |  | (CM) [[ reports:report_69|Muravljov & Dimitrijevic, 2011 ]] |  |  | (PC) [[ reports:report_68|Dimitrijevic, 2011 ]] |  |  |  |  | 
+| **Slovenia** |  |  |  | (SM) [[ reports:report_58|Lutman & Tomazevic, 2011 ]] \\ (UM) [[ reports:report_73|Lutman & Tomazevic, 2011 ]] |  |  |  |  |  |  | [[ reports:report_88|Lutman e Tomazevic, 2011 ]] \\ [[ reports:report_58|Lutman e Tomazevic, 2011 ]] | 
+| **Switzerland** |  |  |  | (SM) [[ reports:report_119|Lang & Bachmann, 2011 ]] |  |  |  |  | [[ reports:report_108|Bostenaru, 2011 ]] \\ [[ reports:report_108|Bostenaru, 2011 ]] |  |  | 
+| **Syria** |  |  |  |  |  |  | (RCF) [[ reports:report_60|Awad et al., 2011 ]] \\ (RCF) [[ reports:report_59|Awad et al., 2011 ]] |  |  |  |  | 
+| **Taiwan** |  |  |  |  |  |  | (RCF) [[ reports:report_63|Tung e Yao, 2011 ]] \\ (RCF) [[ reports:report_62|Yao e Sheu, 2011 ]] \\ (RCF) [[ reports:report_61|Yao e Sheu, 2011 ]] |  |  |  |  | 
+| **Trinidad and Tobago** |  |  |  | (UM) [[ reports:report_156|Clarke & Ramnath, 2011 ]] |  |  |  |  |  |  |  | 
+| **Turkey** |  |  |  |  |  |  | (RCF) [[ reports:report_64|Gulkan et al., 2011 ]] \\ (RCW) [[ reports:report_101|Yakut e Gulkan., 2011 ]] |  |  |  |  | 
+| **USA** |  |  |  |  |  |  | (RCF) [[ reports:report_111|Faison et al., 2011 ]] |  | [[ reports:report_65|Arnold, 2011 ]] |  |  | 
+| **Uzbekistan** |  |  |  |  |  |  | (PC) [[ reports:report_66|Khakimov e Nurtaev, 2011 ]] |  |  |  |  | 
+| **Venezuela** |  |  |  |  |  |  | (RCF) [[ reports:report_67|Gandica e Almansa, 2011 ]] |  |  |  |  | 
+
+
+PC -Precast Concrete; RCF - RC Moment Frame; RCW - RC Structural Wall; CM - Confined Masonry; RM - Reinforced Masonry; SM - Stone Masonry; SW - Steel Structural Wall; SMF - Steel Moment Frame; SBF - Steel Braced Frame

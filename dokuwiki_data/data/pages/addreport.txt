@@ -5,7 +5,9 @@
 <form>
 Action template reportstpl :unapprovedreports::
 
-Thanks "Thanks for submitting your report."
+action mail forename@surname.name, a@a.com
+usemailtemplate mailtpl
+subject "New report"
 
 file "Upload images" ".unapprovedreports.@@Contry:@@.@@Building Type (Indigenous name for the housing type):@@"
 

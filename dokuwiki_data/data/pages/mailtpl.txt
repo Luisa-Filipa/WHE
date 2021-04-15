@@ -1,0 +1,15 @@
+======Mail template page======
+
+<code html>
+Hi,
+
+There's a new report avaiable !
+Please, go check.
+</code>
+
+<code text>
+Hi,
+
+There's a new report avaiable !
+Please, go check.
+</code>

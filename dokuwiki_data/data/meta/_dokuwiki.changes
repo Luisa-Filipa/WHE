@@ -1,212 +1,30 @@
-1615418933	172.18.0.1	E	addreport	luisa			-8025
-1615819815	172.18.0.1	C	wiki:site_notice	luisa	created		12
-1615833609	172.18.0.1	E	start	luisa	[Housing Reports] 		159
-1615835947	172.18.0.1	E	start	luisa	[Housing Reports] 		-129
-1615836054	172.18.0.1	E	start	luisa	[Housing Reports] 		253
-1615836285	172.18.0.1	E	start	luisa	[Housing Reports] 		232
-1615836888	172.18.0.1	E	start	luisa	[Housing Reports] 		101
-1615838333	172.18.0.1	E	start	luisa	[Housing Reports] 		79
-1615841612	172.18.0.1	E	start	luisa	[Housing Reports] 		16
-1615841953	172.18.0.1	E	start	luisa	[Housing Reports] 		2
-1615842389	172.18.0.1	E	addreport	luisa			9
-1615842682	172.18.0.1	E	addreport	luisa			-2
-1615842706	172.18.0.1	E	addreport	luisa			-2
-1615842726	172.18.0.1	E	addreport	luisa			1
-1615842758	172.18.0.1	E	addreport	luisa			0
-1615842841	172.18.0.1	E	addreport	luisa			1
-1615842870	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		879
-1615843177	172.18.0.1	C	wiki:user:luisa	luisa	created		61
-1615843193	172.18.0.1	E	wiki:user:luisa	luisa			-41
-1615843284	172.18.0.1	E	wiki:user:luisa	luisa			75
-1615848137	172.18.0.1	E	addreport	luisa			-1
-1615848163	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		512
-1615848408	172.18.0.1	E	addreport	luisa			5415
-1615848479	172.18.0.1	E	addreport	luisa			70
-1615848562	172.18.0.1	E	addreport	luisa			47
-1615848648	172.18.0.1	E	addreport	luisa			3
-1615848711	172.18.0.1	E	addreport	luisa			-1
-1615848761	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		2885
-1615849065	172.18.0.1	E	addreport	luisa			-28
-1615849313	172.18.0.1	E	addreport	luisa			5
-1615849331	172.18.0.1	E	addreport	luisa			-2
-1615849346	172.18.0.1	E	addreport	luisa			2
-1615849404	172.18.0.1	E	addreport	luisa			22
-1615849435	172.18.0.1	E	addreport	luisa			5
-1615849499	172.18.0.1	E	addreport	luisa			27
-1615849561	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	Created from the form at addreport		2202
-1615849742	172.18.0.1	E	addreport	luisa			-18
-1615849763	172.18.0.1	E	addreport	luisa			1
-1615849867	172.18.0.1	E	addreport	luisa			75
-1615849889	172.18.0.1	C	unapprovedreports:teste3_teste3	luisa	Created from the form at addreport		1623
-1615850035	172.18.0.1	E	addreport	luisa			-23
-1615850095	172.18.0.1	C	unapprovedreports:teste4_teste4	luisa	Created from the form at addreport		1573
-1615850234	172.18.0.1	E	addreport	luisa			11
-1615850398	172.18.0.1	C	unapprovedreports:teste5_teste5	luisa	Created from the form at addreport		1684
-1615850830	172.18.0.1	C	unapprovedreports:teste6_teste6	luisa	Created from the form at addreport		1681
-1615850958	172.18.0.1	C	unapprovedreports:teste7_teste7	luisa	Created from the form at addreport		1803
-1615851584	172.18.0.1	E	addreport	luisa			4021
-1615851648	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	Created from the form at addreport		3236
-1615852085	172.18.0.1	E	addreport	luisa			2311
-1615852256	172.18.0.1	E	addreport	luisa			83
-1615852312	172.18.0.1	C	unapprovedreports:teste1_teste1	luisa	Created from the form at addreport		4448
-1615852449	172.18.0.1	E	addreport	luisa			2010
-1615852650	172.18.0.1	E	reports:report_54	luisa	[5. Earthquakes] 		-326
-1615852868	172.18.0.1	C	unapprovedreports:teste3_teste3	luisa	Created from the form at addreport		9289
-1615852984	172.18.0.1	E	addreport	luisa			112
-1615853268	172.18.0.1	E	addreport	luisa			-7
-1615853398	172.18.0.1	E	addreport	luisa			17
-1615853476	172.18.0.1	C	unapprovedreports:teste4_teste4	luisa	Created from the form at addreport		9179
-1615853595	172.18.0.1	C	unapprovedreports:teste5_teste5	luisa	Created from the form at addreport		9275
-1615854383	172.18.0.1	E	addreport	luisa			359
-1615855003	172.18.0.1	E	addreport	luisa			-6
-1615855157	172.18.0.1	E	addreport	luisa			42
-1615855231	172.18.0.1	C	unapprovedreports:teste7_teste7	luisa	Created from the form at addreport		9148
-1615855314	172.18.0.1	E	addreport	luisa			-36
-1615855373	172.18.0.1	C	unapprovedreports:teste8_teste8	luisa	Created from the form at addreport		9195
-1615855415	172.18.0.1	E	addreport	luisa			-20
-1615855568	172.18.0.1	C	unapprovedreports:teste9_test9	luisa	Created from the form at addreport		9213
-1615855893	172.18.0.1	E	addreport	luisa			-9
-1615856044	172.18.0.1	E	addreport	luisa			-1
-1615856114	172.18.0.1	C	unapprovedreports:teste23_cc	luisa	Created from the form at addreport		9163
-1615856861	172.18.0.1	E	addreport	luisa			2725
-1615857162	172.18.0.1	C	unapprovedreports:teste28_lkj	luisa	Created from the form at addreport		9208
-1615857225	172.18.0.1	E	addreport	luisa			-14
-1615857289	172.18.0.1	C	unapprovedreports:zdfghj_szdxfghjk	luisa	Created from the form at addreport		9241
-1615857430	172.18.0.1	E	addreport	luisa			962
-1615857486	172.18.0.1	E	addreport	luisa			56
-1615857575	172.18.0.1	C	unapprovedreports:sdfbgh_azxaegtfhj	luisa	Created from the form at addreport		10081
-1615857593	172.18.0.1	E	unapprovedreports:sdfbgh_azxaegtfhj	luisa	[6. Retrofit Information] 		1
-1615858074	172.18.0.1	E	addreport	luisa			139
-1615858163	172.18.0.1	C	unapprovedreports:asdf_asdgtuio	luisa	Created from the form at addreport		10508
-1615858228	172.18.0.1	E	addreport	luisa			-6
-1615858290	172.18.0.1	C	unapprovedreports:zsxdfvgbhjkl_azdscfghjukloc	luisa	Created from the form at addreport		10549
-1615858342	172.18.0.1	E	addreport	luisa			4
-1615859834	172.18.0.1	E	addreport	luisa			34
-1615860979	172.18.0.1	E	addreport	luisa			3346
-1615862170	172.18.0.1	E	addreport	luisa			638
-1615862316	172.18.0.1	E	addreport	luisa			-70
-1615862369	172.18.0.1	C	unapprovedreports:efghjk_dsgtuk	luisa	Created from the form at addreport		10197
-1615862458	172.18.0.1	E	unapprovedreports:efghjk_dsgtuk	luisa	[efghjk, dsgtuk] 		47
-1615862538	172.18.0.1	E	unapprovedreports:efghjk_dsgtuk	luisa	[efghjk, dsgtuk] 		64
-1615862585	172.18.0.1	E	addreport	luisa			-23695
-1615862610	172.18.0.1	E	addreport	luisa			-8
-1615862628	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		20390
-1615862708	172.18.0.1	E	addreport	luisa			-54
-1615862787	172.18.0.1	E	addreport	luisa			0
-1615863080	172.18.0.1	E	addreport	luisa			23
-1615863185	172.18.0.1	E	addreport	luisa			2
-1615863335	172.18.0.1	E	addreport	luisa			-1
-1615863504	172.18.0.1	E	addreport	luisa			33
-1615863539	172.18.0.1	E	addreport	luisa			1
-1615863611	172.18.0.1	C	unapprovedreports:start	luisa	Created from the form at addreport		20390
-1615863750	172.18.0.1	E	addreport	luisa			24483
-1615863862	172.18.0.1	E	addreport	luisa			-1065
-1615863933	172.18.0.1	E	addreport	luisa			39
-1615863954	172.18.0.1	E	addreport	luisa			-39
-1615866785	172.18.0.1	E	addreport	luisa			-122
-1615866839	172.18.0.1	C	unapprovedreports:asd_add	luisa	Created from the form at addreport		10196
-1615867655	172.18.0.1	E	addreport	luisa			22
-1615868304	172.18.0.1	E	addreport	luisa			45
-1615868332	172.18.0.1	E	addreport	luisa			-25
-1615868351	172.18.0.1	E	addreport	luisa			-23435
-1615868536	172.18.0.1	E	addreport	luisa			23469
-1615868548	172.18.0.1	E	addreport	luisa			2
-1615868684	172.18.0.1	E	addreport	luisa			-65
-1615868695	172.18.0.1	E	addreport	luisa			-36
-1615910005	172.18.0.1	E	start	luisa	[Housing Reports] 		80
-1615910068	172.18.0.1	E	start	luisa	[Housing Reports] 		-5
-1615910496	172.18.0.1	E	start	luisa	[Housing Reports] 		244
-1615913082	172.18.0.1	E	start	luisa	[Housing Reports] 		590
-1615915356	172.18.0.1	E	start	luisa	[Housing Reports] 		174
-1615915434	172.18.0.1	E	start	luisa	[Housing Reports] 		1
-1615915465	172.18.0.1	E	start	luisa	[Housing Reports] 		-463
-1615916645	172.18.0.1	E	start	luisa	[Housing Reports] 		88
-1615916978	172.18.0.1	E	start	luisa	[Housing Reports] 		168
-1615917287	172.18.0.1	E	start	luisa	[Housing Reports] 		97
-1615923140	172.18.0.1	E	start	luisa	[Housing Reports] 		35
-1615923177	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
-1615923282	172.18.0.1	E	start	luisa	[Housing Reports] 		47
-1615933649	172.18.0.1	E	start	luisa	[Housing Reports] 		44
-1615933688	172.18.0.1	E	start	luisa	[Housing Reports] 		46
-1615934715	172.18.0.1	E	start	luisa	[Housing Reports] 		287
-1615937519	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
-1615938463	172.18.0.1	E	start	luisa	[Housing Reports] 		3
-1615938528	172.18.0.1	E	start	luisa	[Housing Reports] 		9
-1615938576	172.18.0.1	E	start	luisa	[Housing Reports] 		3
-1615939354	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
-1615939546	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
-1615941137	172.18.0.1	E	start	luisa	[Housing Reports] 		1016
-1615941477	172.18.0.1	E	start	luisa	[Housing Reports] 		83
-1615941819	172.18.0.1	E	start	luisa	[Housing Reports] 		136
-1615941921	172.18.0.1	E	start	luisa	[Housing Reports] 		46
-1615942359	172.18.0.1	E	start	luisa	[Housing Reports] 		206
-1615942861	172.18.0.1	E	start	luisa	[Housing Reports] 		239
-1615943034	172.18.0.1	E	start	luisa	[Housing Reports] 		87
-1615944649	172.18.0.1	E	start	luisa	[Housing Reports] 		541
-1615944838	172.18.0.1	E	start	luisa	[Housing Reports] 		88
-1615945520	172.18.0.1	E	start	luisa	[Housing Reports] 		341
-1615945582	172.18.0.1	E	start	luisa	[Housing Reports] 		7
-1615945837	172.18.0.1	E	start	luisa	[Housing Reports] 		63
-1615946675	172.18.0.1	E	start	luisa	[Housing Reports] 		438
-1615946855	172.18.0.1	E	start	luisa	[Housing Reports] 		46
-1615946977	172.18.0.1	E	start	luisa	[Housing Reports] 		44
-1615947717	172.18.0.1	E	start	luisa	[Housing Reports] 		395
-1615948131	172.18.0.1	E	start	luisa	[Housing Reports] 		88
-1615948441	172.18.0.1	E	start	luisa	[Housing Reports] 		45
-1615948873	172.18.0.1	E	start	luisa	[Housing Reports] 		302
-1615949107	172.18.0.1	E	start	luisa	[Housing Reports] 		89
-1615949799	172.18.0.1	E	start	luisa	[Housing Reports] 		351
-1615950139	172.18.0.1	E	start	luisa	[Housing Reports] 		119
-1615950480	172.18.0.1	E	start	luisa	[Housing Reports] 		296
-1615950663	172.18.0.1	E	start	luisa	[Housing Reports] 		130
-1615951323	172.18.0.1	E	start	luisa	[Housing Reports] 		280
-1615951936	172.18.0.1	E	start	luisa	[Housing Reports] 		174
-1615952145	172.18.0.1	E	start	luisa	[Housing Reports] 		156
-1615952493	172.18.0.1	E	start	luisa	[Housing Reports] 		214
-1615952717	172.18.0.1	E	start	luisa	[Housing Reports] 		105
-1615952873	172.18.0.1	E	start	luisa	[Housing Reports] 		124
-1615953180	172.18.0.1	E	start	luisa	[Housing Reports] 		45
-1615953293	172.18.0.1	E	start	luisa	[Housing Reports] 		-9
-1615953519	172.18.0.1	E	start	luisa	[Housing Reports] 		167
-1615953755	172.18.0.1	E	start	luisa	[Housing Reports] 		116
-1615954003	172.18.0.1	E	start	luisa	[Housing Reports] 		157
-1616411298	127.0.0.1	E	addreport		external edit		391
-1616411563	172.18.0.1	E	addreport	luisa			-390
-1616411652	172.18.0.1	C	unapprovedreports:assd_asdd	luisa	Created from the form at addreport		10282
-1616412437	172.18.0.1	E	addreport	luisa			68
-1616412589	172.18.0.1	E	addreport	luisa			-106
-1616412651	172.18.0.1	E	addreport	luisa			0
-1616412670	172.18.0.1	E	addreport	luisa			0
-1616412779	172.18.0.1	E	addreport	luisa			1
-1616412793	172.18.0.1	E	addreport	luisa			34
-1616412818	172.18.0.1	E	addreport	luisa			-35
-1616412834	172.18.0.1	E	addreport	luisa			2
-1616412846	172.18.0.1	E	addreport	luisa			-2
-1616412920	172.18.0.1	C	unapprovedreports:as_as	luisa	Created from the form at addreport		10246
-1616414949	172.18.0.1	E	unapprovedreports:as_as	luisa	[as, as] 		43
-1616415271	172.18.0.1	E	addreport	luisa			9
-1616415371	172.18.0.1	C	unapprovedreports:teste_teste	luisa	Created from the form at addreport		10483
-1616415486	172.18.0.1	C	reports:teste_teste	luisa	↷ Page moved from unapprovedreports:teste_teste to reports:teste_teste		10483
-1616415486	172.18.0.1	D	unapprovedreports:teste_teste	luisa	↷ Page moved from unapprovedreports:teste_teste to reports:teste_teste		-10483
-1616415923	172.18.0.1	e	reports:teste_teste	luisa	↷ Links adapted because of a move operation		-10
-1616416609	172.18.0.1	C	unapprovedreports:teste2_teste2	luisa	↷ Page name changed from unapprovedreports:as_as to unapprovedreports:teste2_teste2		10289
-1616416609	172.18.0.1	D	unapprovedreports:as_as	luisa	↷ Page name changed from unapprovedreports:as_as to unapprovedreports:teste2_teste2		-10289
-1616416783	172.18.0.1	C	unapprovedreports:ultimo_ultimo	luisa	Created from the form at addreport		10912
-1616417201	172.18.0.1	C	unapprovedreports:vv_vv	luisa	Created from the form at addreport		10799
-1616417379	172.18.0.1	C	unapprovedreports:aa_aa	luisa	Created from the form at addreport		10800
-1616417737	172.18.0.1	C	unapprovedreports:gg_gg	luisa	Created from the form at addreport		11005
-1616417932	172.18.0.1	C	unapprovedreports:ddd_ddd	luisa	Created from the form at addreport		10328
-1616418046	172.18.0.1	C	unapprovedreports:hh_hh	luisa	Created from the form at addreport		10101
-1616417990	127.0.0.1	E	addreport		external edit		6
-1616418109	172.18.0.1	E	addreport	luisa			-8
-1616419286	172.18.0.1	C	unapprovedreports:sdf_zd	luisa	Created from the form at addreport		10256
-1616420025	172.18.0.1	C	unapprovedreports:ddd_asda	luisa	Created from the form at addreport		10028
-1616419888	127.0.0.1	E	addreport		external edit		448
-1616420140	172.18.0.1	E	addreport	luisa			-451
-1616420207	172.18.0.1	C	unapprovedreports:asdfg_asdfgh	luisa	Created from the form at addreport		10000
-1616420564	172.18.0.1	C	unapprovedreports:asrt_dsfsdg		Created from the form at addreport		9997
-1616037809	127.0.0.1	E	wiki:navigation		external edit		48
-1616423760	172.18.0.1	E	wiki:navigation	luisa			23
-1616423940	172.18.0.1	C	wiki:contact_us	luisa	created		229
-1616424231	172.18.0.1	E	wiki:contact_us	luisa			1038
-1616424301	172.18.0.1	E	wiki:contact_us	luisa			184
+1618310000	172.18.0.1	E	start	luisa	[Housing Reports] 		933
+1618310238	172.18.0.1	E	start	luisa	[Housing Reports] 		-187
+1618310280	172.18.0.1	E	start	luisa	[Housing Reports] 		151
+1618310304	172.18.0.1	E	start	luisa	[Housing Reports] 		-1
+1618310389	172.18.0.1	E	start	luisa	[Housing Reports] 		1
+1618310415	172.18.0.1	E	start	luisa	[Housing Reports] 		8
+1618310799	172.18.0.1	E	start	luisa	[Housing Reports] 		134
+1618310827	172.18.0.1	E	start	luisa	[Housing Reports] 		5
+1618311171	172.18.0.1	E	start	luisa	[Housing Reports] 		111
+1618311245	172.18.0.1	E	start	luisa	[Housing Reports] 		-89
+1618311317	172.18.0.1	E	start	luisa	[Housing Reports] 		-8
+1618311392	172.18.0.1	E	start	luisa	[Housing Reports] 		4
+1618311511	172.18.0.1	E	start	luisa	[Housing Reports] 		58
+1618311552	172.18.0.1	E	start	luisa	[Housing Reports] 		0
+1618311575	172.18.0.1	E	start	luisa	[Housing Reports] 		26
+1616424725	127.0.0.1	E	addreport		external edit		388
+1618478179	172.18.0.1	E	addreport	luisa			-356
+1618478255	172.18.0.1	C	unapprovedreports:asd_assss	luisa	Created from the form at addreport		9930
+1618478453	172.18.0.1	C	unapprovedreports:tete_tete	luisa	Created from the form at addreport		10012
+1618478873	172.18.0.1	E	addreport	luisa			54
+1618478942	172.18.0.1	C	unapprovedreports:teste2_twsrw2	luisa	Created from the form at addreport		11130
+1618479518	172.18.0.1	E	addreport	luisa			-52
+1618479623	172.18.0.1	C	unapprovedreports:teste3_afsgg	luisa	Created from the form at addreport		10017
+1618479681	172.18.0.1	E	addreport	luisa			8
+1618479815	172.18.0.1	C	unapprovedreports:teste23_afsgg	luisa	Created from the form at addreport		10163
+1618479895	172.18.0.1	E	addreport	luisa			0
+1618479938	172.18.0.1	C	unapprovedreports:asdfgh_swdrfgthj	luisa	Created from the form at addreport		10151
+1618480446	172.18.0.1	C	unapprovedreports:asdfghasd_asddfff	luisa	Created from the form at addreport		10356
+1618481055	172.18.0.1	C	unapprovedreports:asdfgyhui_zasdfgthuji	luisa	Created from the form at addreport		10481
+1618482458	172.18.0.1	E	addreport	luisa			0
